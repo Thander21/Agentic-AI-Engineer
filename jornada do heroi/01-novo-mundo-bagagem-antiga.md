@@ -4,7 +4,7 @@
 
 [Índice da jornada](README.md) · [Próxima etapa](02-a-missao-evoluir-para-construir.md)
 
-**Na prática:** Ponto de partida e bagagem profissional.
+**Na prática:** Meu ponto de partida pessoal, minha bagagem em TI e o que quero aprender.
 
 O protagonista desperta no Reino dos Agentes carregando lembranças de sistemas, servidores, bancos de dados e problemas que já resolveu. A experiência sobreviveu à travessia. O detalhe inconveniente: ninguém explicou quais regras continuam valendo neste mundo.
 
@@ -15,6 +15,8 @@ O protagonista desperta no Reino dos Agentes carregando lembranças de sistemas,
 ## Contexto preservado da análise anterior
 
 **Contexto 01 — Sua transição profissional.** Sua bagagem atual, as lacunas que deseja preencher e as capacidades que pretende desenvolver. Aqui entra o significado concreto de conseguir especificar, orientar agentes, tomar decisões, verificar entregas e sustentar um sistema.
+
+**Direção atual:** contar em primeira pessoa, a partir do que o autor relatar sobre sua vida e seus estudos. A transição profissional acima é um recorte histórico da conversa, não a definição de toda a jornada. Família, furão e interesses podem aparecer quando houver um relato pertinente, sem preencher cenas por suposição.
 
 ## O que desenvolver aqui
 

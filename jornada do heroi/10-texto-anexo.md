@@ -31,7 +31,7 @@ As sínteses são uma leitura editorial do material. Os blocos identificados com
 
 #### F041 — Relato pessoal e dúvida sobre aprender a ler código
 
-Origem histórica: `pensamentos.md`, linhas 662–664. Cópia relacionada para este assunto. Destino principal: [anexo 01](01-texto-anexo.md#fonte-f041).
+Origem histórica: conversa original, linhas 662–664. Cópia relacionada para este assunto. Destino principal: [anexo 01](01-texto-anexo.md#fonte-f041).
 
 <!-- FONTE: F041 INICIO -->
 > Sim
@@ -44,7 +44,7 @@ Origem histórica: `pensamentos.md`, linhas 662–664. Cópia relacionada para e
 
 #### F034 — Lacuna de leitura e auditoria
 
-Origem histórica: `pensamentos.md`, linhas 562–579. Trecho principal desta etapa.
+Origem histórica: conversa original, linhas 562–579. Trecho principal desta etapa.
 
 <!-- FONTE: F034 INICIO -->
 > 1. Literacia de Leitura (Saber Ler Código 
@@ -72,7 +72,7 @@ Origem histórica: `pensamentos.md`, linhas 562–579. Trecho principal desta et
 
 #### F039 — Riscos e proposta de leitura diagnóstica
 
-Origem histórica: `pensamentos.md`, linhas 627–649. Trecho principal desta etapa.
+Origem histórica: conversa original, linhas 627–649. Trecho principal desta etapa.
 
 <!-- FONTE: F039 INICIO -->
 > 
@@ -105,7 +105,7 @@ Origem histórica: `pensamentos.md`, linhas 627–649. Trecho principal desta et
 
 #### F042 — Analogias sobre reconhecimento e criação de código
 
-Origem histórica: `pensamentos.md`, linhas 665–674. Trecho principal desta etapa.
+Origem histórica: conversa original, linhas 665–674. Trecho principal desta etapa.
 
 <!-- FONTE: F042 INICIO -->
 > A analogia de dirigir é excelente para expor a tensão, mas o código possui uma dinâmica diferente: programar é uma habilidade de síntese (escrever do zero), enquanto auditar é uma habilidade de reconhecimento (leitura crítica).
@@ -133,7 +133,7 @@ Origem histórica: `pensamentos.md`, linhas 665–674. Trecho principal desta et
 
 #### F043 — Formulação inicial dos cinco filtros
 
-Origem histórica: `pensamentos.md`, linhas 675–732. Trecho principal desta etapa.
+Origem histórica: conversa original, linhas 675–732. Trecho principal desta etapa.
 
 <!-- FONTE: F043 INICIO -->
 > Como Ler e Auditar Código Sem Passar Anos Programando
@@ -201,7 +201,7 @@ Origem histórica: `pensamentos.md`, linhas 675–732. Trecho principal desta et
 
 #### F057 — Cinco filtros consolidados no blueprint
 
-Origem histórica: `pensamentos.md`, linhas 939–975. Trecho principal desta etapa.
+Origem histórica: conversa original, linhas 939–975. Trecho principal desta etapa.
 
 <!-- FONTE: F057 INICIO -->
 > ## 2. O Método dos 5 Filtros de Auditoria Rápida
@@ -248,7 +248,7 @@ Origem histórica: `pensamentos.md`, linhas 939–975. Trecho principal desta et
 
 #### F068 — Primeira sequência: leitura e filtros de auditoria
 
-Origem histórica: `pensamentos.md`, linhas 1114–1128. Trecho principal desta etapa.
+Origem histórica: conversa original, linhas 1114–1128. Trecho principal desta etapa.
 
 <!-- FONTE: F068 INICIO -->
 > Fase 2: Literacia Diagnóstica e os 5 Filtros de Auditoria
@@ -281,7 +281,7 @@ Origem histórica: `pensamentos.md`, linhas 1114–1128. Trecho principal desta 
 
 #### F045 — Exemplo didático: especificação e cenário de fatura
 
-Origem histórica: `pensamentos.md`, linhas 748–760. Trecho principal desta etapa.
+Origem histórica: conversa original, linhas 748–760. Trecho principal desta etapa.
 
 <!-- FONTE: F045 INICIO -->
 > Sim
@@ -304,7 +304,7 @@ Origem histórica: `pensamentos.md`, linhas 748–760. Trecho principal desta et
 
 #### F046 — Exemplo didático: código da emissão de fatura
 
-Origem histórica: `pensamentos.md`, linhas 761–806. Trecho principal desta etapa.
+Origem histórica: conversa original, linhas 761–806. Trecho principal desta etapa.
 
 <!-- FONTE: F046 INICIO -->
 ~~~~csharp
@@ -362,7 +362,7 @@ public class FaturaService
 
 #### F047 — Exemplo didático: contratos, I/O e invariante
 
-Origem histórica: `pensamentos.md`, linhas 807–849. Trecho principal desta etapa.
+Origem histórica: conversa original, linhas 807–849. Trecho principal desta etapa.
 
 <!-- FONTE: F047 INICIO -->
 > Para um programador tradicional, a revisão exigiria ler linha por linha.
@@ -415,7 +415,7 @@ Origem histórica: `pensamentos.md`, linhas 807–849. Trecho principal desta et
 
 #### F048 — Exemplo didático: condição de desconto
 
-Origem histórica: `pensamentos.md`, linhas 850–850. Trecho principal desta etapa.
+Origem histórica: conversa original, linhas 850–850. Trecho principal desta etapa.
 
 <!-- FONTE: F048 INICIO -->
 ~~~~csharp
@@ -428,7 +428,7 @@ if (pedido.DescontoTotal > 0.15m)
 
 #### F049 — Exemplo didático: interpretação e introdução do teste
 
-Origem histórica: `pensamentos.md`, linhas 851–862. Trecho principal desta etapa.
+Origem histórica: conversa original, linhas 851–862. Trecho principal desta etapa.
 
 <!-- FONTE: F049 INICIO -->
 > A falha: pedido.DescontoTotal está em valor absoluto (ex: 20€) ou em porcentagem (0.20)? Se o pedido for de 1.000€ e o desconto for de 50€, 50 > 0.15 é verdadeiro, e o sistema vai travar o pedido exigindo gerente para um desconto de 5%! A IA confundiu porcentagem com valor monetário.
@@ -450,7 +450,7 @@ Origem histórica: `pensamentos.md`, linhas 851–862. Trecho principal desta et
 
 #### F050 — Exemplo didático: teste da emissão
 
-Origem histórica: `pensamentos.md`, linhas 863–869. Trecho principal desta etapa.
+Origem histórica: conversa original, linhas 863–869. Trecho principal desta etapa.
 
 <!-- FONTE: F050 INICIO -->
 ~~~~csharp
@@ -469,7 +469,7 @@ public async Task Deve_Emitir_Fatura_Com_Sucesso()
 
 #### F051 — Exemplo didático: leitura do teste e introdução dos logs
 
-Origem histórica: `pensamentos.md`, linhas 870–883. Trecho principal desta etapa.
+Origem histórica: conversa original, linhas 870–883. Trecho principal desta etapa.
 
 <!-- FONTE: F051 INICIO -->
 > A pergunta: O teste valida a regra ou apenas se o código roda sem explodir?
@@ -493,7 +493,7 @@ Origem histórica: `pensamentos.md`, linhas 870–883. Trecho principal desta et
 
 #### F052 — Exemplo didático: sequência de logs
 
-Origem histórica: `pensamentos.md`, linhas 884–888. Trecho principal desta etapa.
+Origem histórica: conversa original, linhas 884–888. Trecho principal desta etapa.
 
 <!-- FONTE: F052 INICIO -->
 ~~~~text
@@ -510,7 +510,7 @@ Origem histórica: `pensamentos.md`, linhas 884–888. Trecho principal desta et
 
 #### F053 — Exemplo didático: interpretação dos logs
 
-Origem histórica: `pensamentos.md`, linhas 889–890. Trecho principal desta etapa.
+Origem histórica: conversa original, linhas 889–890. Trecho principal desta etapa.
 
 <!-- FONTE: F053 INICIO -->
 > O diagnóstico visual: Você bate o olho e vê o tempo de 3.200ms entre o BEGIN e o COMMIT. Mesmo sem entender nada da sintaxe interna do C#, qualquer um entende que segurar uma transação aberta por 3 segundos é uma bomba-relógio para o banco de dados.
@@ -530,7 +530,7 @@ Origem histórica: `pensamentos.md`, linhas 889–890. Trecho principal desta et
 
 #### F029 — Qualidade, testes e revisão de código gerado
 
-Origem histórica: `pensamentos.md`, linhas 500–510. Trecho principal desta etapa.
+Origem histórica: conversa original, linhas 500–510. Trecho principal desta etapa.
 
 <!-- FONTE: F029 INICIO -->
 > Módulo 4: Redes de Contenção, Invariantes e Quality Gates
@@ -551,7 +551,7 @@ Origem histórica: `pensamentos.md`, linhas 500–510. Trecho principal desta et
 
 #### F070 — Primeira sequência: testes e validação
 
-Origem histórica: `pensamentos.md`, linhas 1144–1158. Trecho principal desta etapa.
+Origem histórica: conversa original, linhas 1144–1158. Trecho principal desta etapa.
 
 <!-- FONTE: F070 INICIO -->
 > Fase 4: A Rede de Contenção (BDD, Testes de Propriedade e Anti-Tautologia)
@@ -576,7 +576,7 @@ Origem histórica: `pensamentos.md`, linhas 1144–1158. Trecho principal desta 
 
 #### F083 — Sequência revisada: verificação e validação
 
-Origem histórica: `pensamentos.md`, linhas 1339–1347. Trecho principal desta etapa.
+Origem histórica: conversa original, linhas 1339–1347. Trecho principal desta etapa.
 
 <!-- FONTE: F083 INICIO -->
 > Fase 5: Verificação, Validação (V&V) e Redes de Contenção
@@ -603,7 +603,7 @@ Origem histórica: `pensamentos.md`, linhas 1339–1347. Trecho principal desta 
 
 #### F076 — Métricas estáticas e análise de mutação
 
-Origem histórica: `pensamentos.md`, linhas 1253–1268. Trecho principal desta etapa.
+Origem histórica: conversa original, linhas 1253–1268. Trecho principal desta etapa.
 
 <!-- FONTE: F076 INICIO -->
 > 3. Métricas de Código e Garantia de Qualidade de Software (SQA)
@@ -629,7 +629,7 @@ Origem histórica: `pensamentos.md`, linhas 1253–1268. Trecho principal desta 
 
 #### F080 — Sequência revisada: qualidade e auditoria
 
-Origem histórica: `pensamentos.md`, linhas 1312–1320. Trecho principal desta etapa.
+Origem histórica: conversa original, linhas 1312–1320. Trecho principal desta etapa.
 
 <!-- FONTE: F080 INICIO -->
 > Fase 2: Garantia da Qualidade (SQA), Métricas Estáticas e Auditoria
@@ -656,7 +656,7 @@ Origem histórica: `pensamentos.md`, linhas 1312–1320. Trecho principal desta 
 
 #### F036 — Repertório de falhas e laboratório
 
-Origem histórica: `pensamentos.md`, linhas 601–607. Cópia relacionada para este assunto. Destino principal: [anexo 08](08-texto-anexo.md#fonte-f036).
+Origem histórica: conversa original, linhas 601–607. Cópia relacionada para este assunto. Destino principal: [anexo 08](08-texto-anexo.md#fonte-f036).
 
 <!-- FONTE: F036 INICIO -->
 > 5. Repertório de Falhas (A Ausência de "Cicatrizes de Produção")
@@ -673,7 +673,7 @@ Origem histórica: `pensamentos.md`, linhas 601–607. Cópia relacionada para e
 
 #### F054 — Conclusões e alcance atribuídos ao exercício
 
-Origem histórica: `pensamentos.md`, linhas 891–913. Cópia relacionada para este assunto. Destino principal: [anexo 11](11-texto-anexo.md#fonte-f054).
+Origem histórica: conversa original, linhas 891–913. Cópia relacionada para este assunto. Destino principal: [anexo 11](11-texto-anexo.md#fonte-f054).
 
 <!-- FONTE: F054 INICIO -->
 > O Que Esse Exercício Prova
@@ -701,4 +701,3 @@ Origem histórica: `pensamentos.md`, linhas 891–913. Cópia relacionada para e
 > 
 
 <!-- FONTE: F054 FIM -->
-

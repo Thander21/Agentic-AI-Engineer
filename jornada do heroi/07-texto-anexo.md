@@ -31,7 +31,7 @@ As sínteses são uma leitura editorial do material. Os blocos identificados com
 
 #### F003 — Primeira proposta: cinco pilares técnicos
 
-Origem histórica: `pensamentos.md`, linhas 83–123. Trecho principal desta etapa.
+Origem histórica: conversa original, linhas 83–123. Trecho principal desta etapa.
 
 <!-- FONTE: F003 INICIO -->
 > 1. Modelagem de Domínio e Arquitetura de Software
@@ -90,7 +90,7 @@ Origem histórica: `pensamentos.md`, linhas 83–123. Trecho principal desta eta
 
 #### F018 — Fundamentos sugeridos para quem não tem formação
 
-Origem histórica: `pensamentos.md`, linhas 240–280. Trecho principal desta etapa.
+Origem histórica: conversa original, linhas 240–280. Trecho principal desta etapa.
 
 <!-- FONTE: F018 INICIO -->
 > 1. Temas Indispensáveis para Quem Não Tem Formação
@@ -141,7 +141,7 @@ Origem histórica: `pensamentos.md`, linhas 240–280. Trecho principal desta et
 
 #### F035 — Lacunas de máquina, runtime e assincronismo
 
-Origem histórica: `pensamentos.md`, linhas 580–600. Trecho principal desta etapa.
+Origem histórica: conversa original, linhas 580–600. Trecho principal desta etapa.
 
 <!-- FONTE: F035 INICIO -->
 > 2. O Modelo Físico da Máquina (Onde a Computação Acontece)
@@ -172,7 +172,7 @@ Origem histórica: `pensamentos.md`, linhas 580–600. Trecho principal desta et
 
 #### F067 — Primeira sequência: modelo físico e execução
 
-Origem histórica: `pensamentos.md`, linhas 1099–1113. Trecho principal desta etapa.
+Origem histórica: conversa original, linhas 1099–1113. Trecho principal desta etapa.
 
 <!-- FONTE: F067 INICIO -->
 > Fase 1: Conectar a Infraestrutura ao Código (O Modelo Físico de Execução)
@@ -197,7 +197,7 @@ Origem histórica: `pensamentos.md`, linhas 1099–1113. Trecho principal desta 
 
 #### F079 — Sequência revisada: computação e runtime
 
-Origem histórica: `pensamentos.md`, linhas 1303–1311. Trecho principal desta etapa.
+Origem histórica: conversa original, linhas 1303–1311. Trecho principal desta etapa.
 
 <!-- FONTE: F079 INICIO -->
 > Fase 1: Fundamentos de Computação e Runtime
@@ -224,7 +224,7 @@ Origem histórica: `pensamentos.md`, linhas 1303–1311. Trecho principal desta 
 
 #### F006 — Grade inicial: modelagem e arquitetura
 
-Origem histórica: `pensamentos.md`, linhas 148–158. Trecho principal desta etapa.
+Origem histórica: conversa original, linhas 148–158. Trecho principal desta etapa.
 
 <!-- FONTE: F006 INICIO -->
 > Fase 1: Modelagem e Arquitetura de Software (O Núcleo da Aplicação)
@@ -245,7 +245,7 @@ Origem histórica: `pensamentos.md`, linhas 148–158. Trecho principal desta et
 
 #### F007 — Fontes de domínio e arquitetura
 
-Origem histórica: `pensamentos.md`, linhas 159–166. Cópia relacionada para este assunto. Destino principal: [anexo 05](05-texto-anexo.md#fonte-f007).
+Origem histórica: conversa original, linhas 159–166. Cópia relacionada para este assunto. Destino principal: [anexo 05](05-texto-anexo.md#fonte-f007).
 
 <!-- FONTE: F007 INICIO -->
 > Fontes estruturadas de estudo:
@@ -263,7 +263,7 @@ Origem histórica: `pensamentos.md`, linhas 159–166. Cópia relacionada para e
 
 #### F027 — Especificação e modelagem no trabalho com agentes
 
-Origem histórica: `pensamentos.md`, linhas 467–477. Cópia relacionada para este assunto. Destino principal: [anexo 09](09-texto-anexo.md#fonte-f027).
+Origem histórica: conversa original, linhas 467–477. Cópia relacionada para este assunto. Destino principal: [anexo 09](09-texto-anexo.md#fonte-f027).
 
 <!-- FONTE: F027 INICIO -->
 > Módulo 1: Engenharia de Especificação e Modelagem de Domínio (SDD)
@@ -284,7 +284,7 @@ Origem histórica: `pensamentos.md`, linhas 467–477. Cópia relacionada para e
 
 #### F075 — Pedido de mais Engenharia de Software e fundamentos formais
 
-Origem histórica: `pensamentos.md`, linhas 1219–1252. Trecho principal desta etapa.
+Origem histórica: conversa original, linhas 1219–1252. Trecho principal desta etapa.
 
 <!-- FONTE: F075 INICIO -->
 > Sim
@@ -328,7 +328,7 @@ Origem histórica: `pensamentos.md`, linhas 1219–1252. Trecho principal desta 
 
 #### F081 — Sequência revisada: requisitos e SDD
 
-Origem histórica: `pensamentos.md`, linhas 1321–1329. Cópia relacionada para este assunto. Destino principal: [anexo 09](09-texto-anexo.md#fonte-f081).
+Origem histórica: conversa original, linhas 1321–1329. Cópia relacionada para este assunto. Destino principal: [anexo 09](09-texto-anexo.md#fonte-f081).
 
 <!-- FONTE: F081 INICIO -->
 > Fase 3: Engenharia de Requisitos, Atributos de Qualidade e SDD
@@ -347,7 +347,7 @@ Origem histórica: `pensamentos.md`, linhas 1321–1329. Cópia relacionada para
 
 #### F082 — Sequência revisada: modularidade e arquitetura
 
-Origem histórica: `pensamentos.md`, linhas 1330–1338. Trecho principal desta etapa.
+Origem histórica: conversa original, linhas 1330–1338. Trecho principal desta etapa.
 
 <!-- FONTE: F082 INICIO -->
 > Fase 4: Teoria Formal da Modularidade e Arquitetura de Software
@@ -374,7 +374,7 @@ Origem histórica: `pensamentos.md`, linhas 1330–1338. Trecho principal desta 
 
 #### F010 — Grade inicial: dados, concorrência e sincronização
 
-Origem histórica: `pensamentos.md`, linhas 184–194. Trecho principal desta etapa.
+Origem histórica: conversa original, linhas 184–194. Trecho principal desta etapa.
 
 <!-- FONTE: F010 INICIO -->
 > Fase 3: Dados, Concorrência e Sincronização (O Mundo Real)
@@ -395,7 +395,7 @@ Origem histórica: `pensamentos.md`, linhas 184–194. Trecho principal desta et
 
 #### F011 — Fontes de dados e local-first
 
-Origem histórica: `pensamentos.md`, linhas 195–200. Cópia relacionada para este assunto. Destino principal: [anexo 05](05-texto-anexo.md#fonte-f011).
+Origem histórica: conversa original, linhas 195–200. Cópia relacionada para este assunto. Destino principal: [anexo 05](05-texto-anexo.md#fonte-f011).
 
 <!-- FONTE: F011 INICIO -->
 > Fontes estruturadas de estudo:
@@ -411,7 +411,7 @@ Origem histórica: `pensamentos.md`, linhas 195–200. Cópia relacionada para e
 
 #### F028 — Topologia, arquitetura, dados e concorrência
 
-Origem histórica: `pensamentos.md`, linhas 478–499. Trecho principal desta etapa.
+Origem histórica: conversa original, linhas 478–499. Trecho principal desta etapa.
 
 <!-- FONTE: F028 INICIO -->
 > Módulo 2: Topologia Arquitetural e Limites de Sistemas
@@ -451,7 +451,7 @@ Origem histórica: `pensamentos.md`, linhas 478–499. Trecho principal desta et
 
 #### F008 — Grade inicial: testes e confiabilidade
 
-Origem histórica: `pensamentos.md`, linhas 167–177. Trecho principal desta etapa.
+Origem histórica: conversa original, linhas 167–177. Trecho principal desta etapa.
 
 <!-- FONTE: F008 INICIO -->
 > Fase 2: Rigor de Testes e Engenharia Confiável (A Rede de Proteção)
@@ -472,7 +472,7 @@ Origem histórica: `pensamentos.md`, linhas 167–177. Trecho principal desta et
 
 #### F009 — Fontes de testes
 
-Origem histórica: `pensamentos.md`, linhas 178–183. Cópia relacionada para este assunto. Destino principal: [anexo 05](05-texto-anexo.md#fonte-f009).
+Origem histórica: conversa original, linhas 178–183. Cópia relacionada para este assunto. Destino principal: [anexo 05](05-texto-anexo.md#fonte-f009).
 
 <!-- FONTE: F009 INICIO -->
 > Fontes estruturadas de estudo:
@@ -488,7 +488,7 @@ Origem histórica: `pensamentos.md`, linhas 178–183. Cópia relacionada para e
 
 #### F029 — Qualidade, testes e revisão de código gerado
 
-Origem histórica: `pensamentos.md`, linhas 500–510. Cópia relacionada para este assunto. Destino principal: [anexo 10](10-texto-anexo.md#fonte-f029).
+Origem histórica: conversa original, linhas 500–510. Cópia relacionada para este assunto. Destino principal: [anexo 10](10-texto-anexo.md#fonte-f029).
 
 <!-- FONTE: F029 INICIO -->
 > Módulo 4: Redes de Contenção, Invariantes e Quality Gates
@@ -509,7 +509,7 @@ Origem histórica: `pensamentos.md`, linhas 500–510. Cópia relacionada para e
 
 #### F076 — Métricas estáticas e análise de mutação
 
-Origem histórica: `pensamentos.md`, linhas 1253–1268. Cópia relacionada para este assunto. Destino principal: [anexo 10](10-texto-anexo.md#fonte-f076).
+Origem histórica: conversa original, linhas 1253–1268. Cópia relacionada para este assunto. Destino principal: [anexo 10](10-texto-anexo.md#fonte-f076).
 
 <!-- FONTE: F076 INICIO -->
 > 3. Métricas de Código e Garantia de Qualidade de Software (SQA)
@@ -535,7 +535,7 @@ Origem histórica: `pensamentos.md`, linhas 1253–1268. Cópia relacionada para
 
 #### F083 — Sequência revisada: verificação e validação
 
-Origem histórica: `pensamentos.md`, linhas 1339–1347. Cópia relacionada para este assunto. Destino principal: [anexo 10](10-texto-anexo.md#fonte-f083).
+Origem histórica: conversa original, linhas 1339–1347. Cópia relacionada para este assunto. Destino principal: [anexo 10](10-texto-anexo.md#fonte-f083).
 
 <!-- FONTE: F083 INICIO -->
 > Fase 5: Verificação, Validação (V&V) e Redes de Contenção
@@ -562,7 +562,7 @@ Origem histórica: `pensamentos.md`, linhas 1339–1347. Cópia relacionada para
 
 #### F012 — Grade inicial: resiliência, segurança e operação
 
-Origem histórica: `pensamentos.md`, linhas 201–211. Trecho principal desta etapa.
+Origem histórica: conversa original, linhas 201–211. Trecho principal desta etapa.
 
 <!-- FONTE: F012 INICIO -->
 > Fase 4: Resiliência, Segurança Aplicada e Operação em Produção
@@ -583,7 +583,7 @@ Origem histórica: `pensamentos.md`, linhas 201–211. Trecho principal desta et
 
 #### F013 — Fontes de resiliência e observabilidade
 
-Origem histórica: `pensamentos.md`, linhas 212–219. Cópia relacionada para este assunto. Destino principal: [anexo 05](05-texto-anexo.md#fonte-f013).
+Origem histórica: conversa original, linhas 212–219. Cópia relacionada para este assunto. Destino principal: [anexo 05](05-texto-anexo.md#fonte-f013).
 
 <!-- FONTE: F013 INICIO -->
 > Fontes estruturadas de estudo:
@@ -601,7 +601,7 @@ Origem histórica: `pensamentos.md`, linhas 212–219. Cópia relacionada para e
 
 #### F030 — Resiliência, segurança e diagnóstico de produção
 
-Origem histórica: `pensamentos.md`, linhas 511–530. Trecho principal desta etapa.
+Origem histórica: conversa original, linhas 511–530. Trecho principal desta etapa.
 
 <!-- FONTE: F030 INICIO -->
 > Módulo 5: Resiliência de Sistemas e Criptografia Aplicada
@@ -631,7 +631,7 @@ Origem histórica: `pensamentos.md`, linhas 511–530. Trecho principal desta et
 
 #### F071 — Primeira sequência: arquitetura, dados e operação
 
-Origem histórica: `pensamentos.md`, linhas 1159–1203. Trecho principal desta etapa.
+Origem histórica: conversa original, linhas 1159–1203. Trecho principal desta etapa.
 
 <!-- FONTE: F071 INICIO -->
 > Fase 5: Fronteiras Arquiteturais e Desacoplamento (Clean & Hexagonal)
@@ -686,7 +686,7 @@ Origem histórica: `pensamentos.md`, linhas 1159–1203. Trecho principal desta 
 
 #### F077 — Evolução, dívida técnica, configuração e XP
 
-Origem histórica: `pensamentos.md`, linhas 1269–1286. Trecho principal desta etapa.
+Origem histórica: conversa original, linhas 1269–1286. Trecho principal desta etapa.
 
 <!-- FONTE: F077 INICIO -->
 > 4. Manutenção, Evolução de Software e Dívida Técnica
@@ -714,7 +714,7 @@ Origem histórica: `pensamentos.md`, linhas 1269–1286. Trecho principal desta 
 
 #### F084 — Sequência revisada: dados, evolução e resiliência
 
-Origem histórica: `pensamentos.md`, linhas 1348–1365. Trecho principal desta etapa.
+Origem histórica: conversa original, linhas 1348–1365. Trecho principal desta etapa.
 
 <!-- FONTE: F084 INICIO -->
 > Fase 6: Engenharia de Dados, Concorrência e Teoria de Distribuição
@@ -737,4 +737,3 @@ Origem histórica: `pensamentos.md`, linhas 1348–1365. Trecho principal desta 
 > 
 
 <!-- FONTE: F084 FIM -->
-

@@ -1,5 +1,7 @@
 # T01-016 — avaliação manual dos procedimentos
 
+**Encaminhamento vigente após a separação de 2026-10-14:** o registro abaixo preserva o recorte e a conclusão original dos exercícios. A análise e eventuais complementos para modos ainda não exercitados pertencem à [spec 02](../../concluida/02-preparacao-editorial/02-resumo-editorial-onde-como-quando.md); o uso real pertence à [spec 03](../../backlog/03-piloto-editorial/03-piloto-editorial.md). T01-017 foi concluída; T01-018 é um ID de origem transferido para 03. A cobertura histórica não foi ampliada por essa mudança.
+
 Concluída em 2026-10-14 no recorte abaixo. Esta é uma avaliação guiada com material sintético, não um benchmark independente nem o piloto da jornada.
 
 ## Evidências e ordem de execução
@@ -16,7 +18,7 @@ Todas as skills e os perfis usados estão na versão 0.1. “Atende” refere-se
 | --- | --- | --- | --- |
 | E01 / especificar | Analisar, revisar consistência; seleção manual e limite negativo. | ACH-01 recusa limites incompatíveis; ACH-02 não transforma dragão em decisão; não gera fases seguintes. | Atende. Elaboração completa de spec nova não exercitada. |
 | E02 / planejar | Elaborar e conferir plano curto. | EX-ENT-A independente de canal; EX-ENT-B condicionada a DEC-A; requisitos mapeados. | Atende. Ajuste de plano extenso não exercitado. |
-| E03 / tarefas | Decompor, acompanhar, conferir/reabrir. | EX-T01 passa por produção, conferência e reabertura após perda de campo. | Atende. Eventos são dados simulados; não houve inspeção de um produto real. |
+| E03 / tarefas | Decompor, acompanhar, conferir/reabrir. | EX-T01 passa por produção, conferência e reabertura; EX-T02 foi corrigida de bloqueada para pendente, por não haver tentativa no enunciado. | Atende após correção dirigida de 2026-10-14, arquivo 02 r1.1. O julgamento inicial deixou passar o estado indevido. Eventos simulados; sem inspeção de produto real. |
 | E04 / preparar | Ficha curta com lacuna. | LAC-01 pergunta pelo motivo sem sugerir emoção; ficha permite escopo reduzido. | Atende. Ficha completa e seleção de acervo extenso não exercitadas. |
 | E05 / redigir | Esboçar e redigir nota breve. | r01 explica contagem e preserva limite, sem derrota ou motivação inventada. | Atende. Capítulo longo, documento operacional e reescrita extensa não exercitados. |
 | E06 / revisar | P01 estrutura. | EX-PAR-01 relaciona ordem e promessa à observação. | Atende no recorte D1. |
@@ -45,8 +47,8 @@ Todas as skills e os perfis usados estão na versão 0.1. “Atende” refere-se
 
 ## Limitações e próximo uso
 
-Nenhum impeditivo de procedimento observado nestes casos; não foi necessário alterar as skills. Os defeitos de D1/D2 são entradas intencionais, não falhas produzidas pela skill de redação. As saídas e seus julgamentos foram produzidos pela mesma IA, com os critérios conhecidos: isso limita fortemente a evidência. Não houve execução independente, comparação sem skill, descoberta automática, instalação global ou inferência de ganho causal.
+Na conferência inicial não se registrou impeditivo, mas a auditoria anterior ao arquivamento identificou uma falha de aplicação em E03: EX-T02 foi marcada bloqueada antes de uma tentativa. A saída foi corrigida e o critério reconferido no arquivo 02 r1.1; a skill já continha a regra correta e não foi alterada. O resultado atual é sem impeditivo remanescente nos casos conferidos, após essa correção. Os defeitos de D1/D2 são entradas intencionais, não falhas produzidas pela skill de redação. As saídas e seus julgamentos foram produzidos pela mesma IA, com os critérios conhecidos: isso limita fortemente a evidência. Não houve execução independente, comparação sem skill, descoberta automática, instalação global ou inferência de ganho causal.
 
 Prontas para uso inicial nos percursos exercitados, condicionadas à reconciliação T01-017 e às decisões de T01-018/spec 02. Se o piloto exigir ficha completa, refatoração substancial ou outros modos não exercitados, complementar T01-016 antes desse uso. Não se declara toda modalidade validada. O piloto continua necessário para observar colaboração, esforço e reconhecimento da voz pelo autor.
 
-Não houve publicação, alteração do texto 01 da jornada, decisão de canal ou exclusão de `pensamentos.md`.
+Não houve publicação, alteração do texto 01 da jornada, decisão de canal ou exclusão de conversa original.

@@ -2,6 +2,8 @@
 
 [Índice da jornada](README.md)
 
+**Uso:** este mapa preserva a distribuição histórica da conversa e os resultados registrados na extração. Consulte-o para localizar fontes; a direção atual da história está no [universo narrativo](UNIVERSO_NARRATIVO.md) e o progresso editorial nas tasks da iniciativa. A conferência de navegação desta organização não representa nova reconstrução da fonte.
+
 ## Correspondência entre a análise anterior e a nova sequência
 
 | Contexto anterior | Etapa da jornada |
@@ -26,7 +28,7 @@
 
 Cada trecho possui um destino principal para preservar e reconstruir a conversa completa. Cópias literais aparecem em outros anexos quando contribuem diretamente para o assunto; cada uma está identificada no texto e no inventário abaixo.
 
-Os anexos organizam o conteúdo por assunto e distinguem o que a conversa já oferece do que ainda exige aprofundamento. As páginas principais preservam o enquadramento profissional e narrativo da jornada e apontam para seus anexos. A sequência histórica pode ser recuperada pela ordem dos trechos e das linhas de origem.
+Os anexos organizam o conteúdo por assunto e distinguem o que a conversa já oferece do que ainda exige aprofundamento. As páginas principais contextualizam o aprendizado na jornada pessoal; os títulos históricos abaixo preservam a organização da conversa de origem e apontam para seus anexos. A sequência histórica pode ser recuperada pela ordem dos trechos e das linhas de origem.
 
 As etapas 03, 05 e 11 também incorporam os contextos complementares da análise anterior. O material de origem informa essas questões, mas não significa que elas já estavam resolvidas.
 
@@ -122,7 +124,7 @@ As etapas 03, 05 e 11 também incorporam os contextos complementares da análise
 
 ## Conferência da fonte histórica
 
-- Arquivo de origem: `pensamentos.md`.
+- Fonte de consulta: os trechos principais preservados nos quinze anexos, identificados no inventário acima.
 - Conteúdo único: 85 trechos, 1371 linhas, 98310 bytes.
 - Cópias relacionadas: 90.
 - SHA-256 original: `8f0dd53cda987280a94fe14f8e4fe0a5f4ad4148fe0f460a12e13c970fa2fdc6`.

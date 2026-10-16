@@ -1,9 +1,13 @@
 # Plano de implementação do SDD editorial
 
 **ID:** PLANO-EDITORIAL-001  
-**Versão:** 0.3 — revisão final para decomposição em tasks  
-**Base:** [SPEC-EDITORIAL-001, versão 0.5](01-especificacao-sdd-editorial.md)  
-**Estado:** planejamento de referência; implementação iniciada e acompanhada nas tasks.
+**Versão:** 0.5 — conferido e arquivado como concluído
+
+**Base:** [SPEC-EDITORIAL-001, versão 0.7](01-especificacao-sdd-editorial.md)
+
+**Estado:** ENT-01 a ENT-06 encerradas nos limites registrados nas tasks; ENT-07 transferida para a spec 03, sem execução.
+
+**Regra vigente de escopo:** seção 19 da spec 01. As descrições de implementação e os contratos abaixo são preservados; menções à execução do piloto são condições para a iniciativa 03, não entregas remanescentes de 01.
 
 ## 1. Resultado pretendido
 
@@ -23,7 +27,7 @@ A análise e a revisão da metodologia permanecem na spec. Este plano define com
 
 ## 3. Organização dos artefatos
 
-Os caminhos abaixo são relativos a `spec editorial/` e identificam as entregas deste plano. Sua existência, versão e situação de conferência são acompanhadas nas tasks.
+Os caminhos de artefatos abaixo continuam relativos a `spec editorial/`. Os três documentos da iniciativa foram arquivados em `spec editorial/concluida/01-sdd-editorial/`; seus links refletem a localização atual. A linha de tasks indica o documento ao lado deste plano. Os demais caminhos identificam as entregas deste plano. Sua existência, versão e situação de conferência são acompanhadas nas tasks.
 
 | Caminho | Função |
 | --- | --- |
@@ -52,7 +56,7 @@ O destino dos arquivos do piloto será definido no documento 02. Este plano não
 | ENT-04 | Skills para elaborar e acompanhar a metodologia. | ENT-01, ENT-02 e modelo de parecer de ENT-03. | Cada modo possui gatilho, entradas, sequência, saída, limites e critério de encerramento. |
 | ENT-05 | Skills de produção editorial e perfis de revisão. | ENT-01 e ENT-03. | Cobrem preparação, redação, revisão e refatoração; distinguem erro, preferência e fato não confirmado. |
 | ENT-06 | Conferência integrada dos artefatos. | ENT-01 a ENT-05. | Ligações funcionam, requisitos têm cobertura e nenhuma passagem depende de campo ausente ou procedimento indefinido. Achados ficam nas tasks. |
-| ENT-07 | Aplicação no piloto 01 e avaliação. | ENT-06 e escolhas necessárias da spec 02. | Rascunho e versão revisada são comparáveis; avaliação da orientação documental e avaliação das skills ficam separadas, com apreciação autoral ou sua pendência explícita. |
+| ENT-07 — transferida | Aplicação no piloto 01 e avaliação, agora na [spec 03](../../backlog/03-piloto-editorial/03-piloto-editorial.md). | Método de 01 e preparação suficiente em 02. | Critérios preservados em 03; não executada e não incluída no fechamento de 01. |
 
 ENT-02 e ENT-03 podem ser elaboradas após o guia; ENT-04 e ENT-05 são frentes separáveis depois dos respectivos modelos. A execução pode ser inteiramente sequencial. O plano não exige agentes simultâneos.
 
@@ -116,7 +120,7 @@ O pacote do revisor usará `references/perfis.md`, com seções identificadas po
 - Recebe pedido, destino conhecido, registros e decisões editoriais disponíveis. Seleciona apenas o contexto necessário à entrega e identifica a origem de cada afirmação central.
 - Produz ficha curta ou completa conforme escopo, quantidade de fontes e dificuldade. Identifica se o material é relato real, exemplo fictício ou documento operacional.
 - Se faltar uma vivência, pergunta pelo acontecimento concreto e permite que o autor não queira relatá-lo. Se faltar fonte, registra a necessidade; uma transcrição de IA não se transforma em evidência técnica por estar arquivada.
-- Devolve ficha utilizável e lacunas classificadas como impeditivas para a redação ou compatíveis com um rascunho marcado. Não incorpora todo `pensamentos.md` como contexto padrão.
+- Devolve ficha utilizável e lacunas classificadas como impeditivas para a redação ou compatíveis com um rascunho marcado. Não incorpora toda a conversa original como contexto padrão.
 
 **`editorial-redigir`**
 
@@ -227,7 +231,9 @@ Nas tasks, registrar o artefato e sua versão, critérios examinados, resultado 
 
 ## 9. Dependências do piloto e avaliação
 
-O piloto permanece [01 — Novo mundo, bagagem antiga](<../jornada do heroi/01-novo-mundo-bagagem-antiga.md>). Antes de ENT-07, o [resumo editorial 02](02-resumo-editorial-onde-como-quando.md) precisa definir para essa entrega: leitor, propósito, formato, voz, variante linguística, humor, destino, local dos arquivos de trabalho e momento de uso. Também precisam estar disponíveis os detalhes pessoais necessários ao relato.
+**Destino vigente desde v0.4:** esta seção conserva as condições da entrega transferida para a spec 03. A análise e os complementos necessários de contexto, voz, fatos e cobertura das skills ficam na spec 02. Não são pendências do escopo encerrado da iniciativa 01.
+
+O piloto permanece [01 — Novo mundo, bagagem antiga](<../../../jornada do heroi/01-novo-mundo-bagagem-antiga.md>). Antes de ENT-07, o [resumo editorial 02](../02-preparacao-editorial/02-resumo-editorial-onde-como-quando.md) precisa definir para essa entrega: leitor, propósito, formato, voz, variante linguística, humor, destino, local dos arquivos de trabalho e momento de uso. Também precisam estar disponíveis os detalhes pessoais necessários ao relato.
 
 Essas pendências não bloqueiam ENT-01 a ENT-06. Não é necessário fechar o calendário completo de postagens; é necessário saber a finalidade e as condições de uso do texto piloto. Publicação continua fora da execução automática.
 
@@ -236,6 +242,8 @@ A avaliação deverá separar: suficiência da spec e do contexto recebido; func
 Nas tasks de ENT-07, separar produção/revisão do texto e avaliação autoral. A parte executada pode ser conferida enquanto se aguarda o autor, mas a entrega de avaliação completa do piloto não será concluída sem esse retorno. Registrar a dependência sem presumir aprovação ou deixar indefinido o critério de conclusão.
 
 ## 10. Prontidão para gerar tasks
+
+**Registro histórico das versões 0.2/0.3:** a decomposição abaixo já foi executada. O encerramento do escopo 0.4 está na seção 12 e nas tasks 0.21.
 
 O plano define sete entregas, sete pacotes de skills, seus caminhos, dependências, contratos e cobertura dos vinte requisitos. A versão 0.2 detalha seleção de contexto, contratos por skill, referência de voz e situações de avaliação. As decisões editoriais ainda abertas têm destino e momento de resolução identificados. O agrupamento não altera as regras da spec.
 
@@ -250,3 +258,19 @@ O plano define sete entregas, sete pacotes de skills, seus caminhos, dependênci
 | 0.1 | Agrupamento das skills, entregas e cobertura. | Estrutura geral definida; contratos ainda resumidos. |
 | 0.2 | Revisão com orientação de autoria de skills e detalhamento das seções 5.1 a 5.5. | Lacunas de planejamento tratadas; comportamento ainda não avaliado porque as skills não foram implementadas. |
 | 0.3 | Conferência cruzada com a spec: início manual das tasks, cobertura dos modos/perfis, conclusão da avaliação autoral e uso de amostras Markdown. | Apto para tasks; sem impedimentos documentais restantes nesta revisão. |
+| 0.4 | Separação autorizada pela spec 01 v0.6: ENT-01 a ENT-06 em 01; preparação em 02; ENT-07 em 03. | Escopo de construção encerrado; cobertura e critérios práticos preservados para o piloto futuro. |
+| 0.5 | Auditoria e arquivamento, com base na spec 0.7; correção de E03 e destinos dos critérios antigos conferidos. | Método concluído no recorte; piloto não executado. |
+
+## 12. Conferência da redistribuição
+
+Conferidos os vínculos entre spec 01 v0.6, este plano v0.4, tasks v0.21 e specs 02/03. ENT-01 a ENT-06 continuam cobertas por T01-001 a T01-017; ENT-07 e suas quatro tarefas têm destino explícito em 03. A tabela de requisitos da seção 7 conserva a responsabilidade prática de ENT-07 onde aplicável; a transferência não transforma avaliação humana em conferência documental.
+
+Complementos condicionais dos exercícios serão delimitados e registrados em 02, aproveitando T01-016 como evidência histórica. Seus resultados não serão retroativamente atribuídos aos exercícios antigos.
+
+**Resultado:** plano coerente com a separação de escopo autorizada. Revisão pela mesma IA, com acesso ao histórico. O fechamento de 01 é sustentado pelas evidências das tasks; planejamento e execução de 03 aguardam a preparação em 02.
+
+## 13. Auditoria e arquivamento — v0.5
+
+Base atual: spec 01 v0.7 e tasks v0.22. A revisão anterior ao arquivamento preserva ENT-01 a ENT-06 e a transferência de ENT-07. A seção 20 da spec reconcilia todas as decisões e a checklist original. Corrigida a falha de aplicação em E03; o contrato da skill e os critérios do plano não precisaram mudar. Não foi encontrada entrega ausente no escopo documental.
+
+Spec, plano e tasks arquivados juntos em `spec editorial/concluida/01-sdd-editorial/`. Guia, modelos, skills e avaliações continuam nos caminhos de uso. Links atualizados e conferidos após a mudança. Parecer: coerente com o encerramento e apto ao arquivamento; avaliação aplicada continua em 03. Revisão pela mesma IA, com acesso ao histórico.

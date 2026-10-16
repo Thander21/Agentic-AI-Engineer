@@ -8,7 +8,7 @@ O novo mundo exige aprender outras regras. O protagonista escolhe uma classe, pr
 
 O diário dessa evolução alimenta publicações, ajuda outros membros da guilda e se transforma em um grimório: um livro capaz de ensinar o caminho. O arco termina com uma contribuição concreta e um novo conjunto de perguntas.
 
-**Temática adotada:** fantasia medieval de reencarnação em outro mundo, com progressão de RPG, humor, derrotas, arrependimento, dedicação e resiliência. O mundo, os personagens e as imagens são uma criação própria para dar unidade ao percurso.
+**Temática adotada:** fantasia medieval de reencarnação em outro mundo, com progressão de RPG e humor; derrotas, arrependimento, dedicação e resiliência podem compor relatos quando correspondem à experiência confirmada. O mundo, os personagens e as imagens são uma criação própria para dar unidade ao percurso.
 
 **Estado:** estrutura narrativa aplicada aos quinze contextos. As cenas são propostas de enquadramento; os acontecimentos, resultados e conquistas serão preenchidos pela experiência real.
 
@@ -16,9 +16,25 @@ O diário dessa evolução alimenta publicações, ajuda outros membros da guild
 
 [Registro contínuo: método, fichas, canais e base do livro](<../registro da autoridade/README.md>)
 
+## Minha história, meus estudos
+
+A jornada é pessoal, narrada em primeira pessoa, com humor, retórica, cotidiano e referências escolhidas pelo autor. Família, seu pet (um furão), filmes, animes, livros e outros interesses podem participar conforme os relatos forem trazidos. Esses temas já estão autorizados como direção; nomes, cenas, diálogos, emoções e acontecimentos específicos precisam de fonte autoral. Nenhum tema precisa aparecer em todo texto.
+
+Os capítulos de estudo são o percurso técnico autônomo e formarão o livro. Devem apresentar conceitos, pré-requisitos e fontes suficientes para quem não acompanha a história pessoal. Relatos podem ser vinculados como leitura complementar; compreender a jornada não é pré-requisito para aprender o conteúdo. Posts e artigos recebem voz conforme a finalidade: história pessoal, explicação técnica ou combinação explícita das duas.
+
+Os quinze contextos abaixo são propostas de organização da história, não episódios vividos nem um roteiro obrigatório de vida. As descrições de planejamento podem estar em terceira pessoa; os relatos resultantes serão escritos em primeira pessoa. A rotina de trabalho acompanha a vida do autor, sem exigir cadência de publicação ou produtividade como medida do valor da jornada.
+
+## Responsabilidade desta pasta
+
+A jornada orienta como contar o percurso: contexto, universo, voz, metáforas e continuidade. A [ordem de estudo e os capítulos](<../capitulos estudos/MAPA_DE_ESTUDOS.md>) pertencem a estudos; a [metodologia de produção e revisão](<../spec editorial/GUIA_DE_OPERACAO.md>) pertence ao SDD editorial. Todos os posts e artigos derivados são guardados no [registro da autoridade](<../registro da autoridade/PUBLICACOES.md>), com vínculos às origens.
+
+Cenas, emoções, preços e conquistas das páginas são possibilidades narrativas. Só entram como vivência quando confirmados pelo autor; uma descoberta tranquila ou uma pergunta aberta basta para sustentar um relato.
+
+As [ferramentas de estudo](<../ferramentas de estudo/README.md>) acrescentam contexto para histórias e posts: uma ideia de ferramenta, a evolução de uma base adaptada a cada projeto e uma fonte privada sobre o autor e sua busca de vagas. O mapa orienta a consulta e separa relato, intenção e resultado. Consultar a fonte privada não autoriza transcrever seus dados no acervo; acontecimentos e detalhes pessoais só entram no texto dentro do recorte autorizado pelo autor.
+
 ## Como usar a jornada
 
-A jornada assume a forma de quinze episódios de uma campanha. O título principal é conciso e identifica o contexto da etapa. Logo abaixo, entre parênteses, aparece o título animesco como referência para a versão mais humorística da história. O campo Na prática explicita o objetivo profissional. A experiência da vida anterior corresponde à sua bagagem em tecnologia, e a evolução no novo mundo corresponde às competências que serão adquiridas e demonstradas.
+A jornada assume a forma de quinze episódios de uma campanha. O título principal é conciso e identifica o contexto da etapa. Logo abaixo, entre parênteses, aparece o título animesco como referência para a versão mais humorística da história. O campo Na prática localiza a relação daquela etapa com o aprendizado; não define o valor pessoal do episódio. A experiência da vida anterior corresponde à sua bagagem em tecnologia, e a evolução no novo mundo corresponde às competências que serão adquiridas e demonstradas.
 
 Cada etapa tem dois documentos: a página principal apresenta o contexto, a narrativa e os marcos; o arquivo NN-texto-anexo.md reúne o material disponível por assunto, os pontos para aprofundar e os trechos integrais da conversa. Cópias relacionadas aproximam os assuntos compartilhados entre etapas.
 
@@ -78,7 +94,7 @@ A cronologia indica quando cada frente ganha protagonismo. As frentes continuam 
 
 ## O fio condutor das histórias
 
-Em cada ciclo, registrar: missão → expectativa → tentativa → obstáculo ou derrota → consequência e arrependimento, quando houver → estudo e ajuste → nova tentativa → evidência → recompensa → próximo desafio. Uma experiência simples pode percorrer só parte desse arco; o relato acompanha o que aconteceu.
+Como repertório possível, registrar os movimentos efetivamente vividos: missão, expectativa, tentativa, eventual obstáculo, consequência, estudo, ajuste, evidência e próximo desafio. Emoções, derrota ou recompensa só entram quando fornecidas pela experiência. Uma experiência simples pode percorrer só parte desse arco; o relato acompanha o que aconteceu.
 
 Esse fio pode alimentar uma nota, uma postagem, um artigo ou um capítulo. A intensidade da narrativa vem das consequências, das dúvidas e das mudanças de entendimento registradas. A autoridade pretendida se apoia na qualidade e na utilidade dessas contribuições, sem tratar um estudo concluído como garantia automática de senioridade.
 
@@ -88,18 +104,31 @@ Os quinze contextos foram preservados e reordenados, com uma etapa principal par
 
 ## Preservação do material
 
-Todo o conteúdo de `pensamentos.md` foi transferido para os quinze anexos temáticos. Cada trecho tem um destino principal e pode ter cópias relacionadas em outros anexos. Perguntas, respostas, exemplos, repetições e versões anteriores foram preservados; as sínteses editoriais ficam separadas das transcrições.
+Todo o conteúdo da conversa original foi transferido para os quinze anexos temáticos. Cada trecho tem um destino principal e pode ter cópias relacionadas em outros anexos. Perguntas, respostas, exemplos, repetições e versões anteriores foram preservados; as sínteses editoriais ficam separadas das transcrições.
 
-Os trechos principais dos anexos permitem reconstruir a conversa pela ordem dos intervalos de origem. `pensamentos.md` foi mantido nesta entrega para revisão antes de sua futura exclusão. A consulta ao material continua funcionando se ele for removido.
+Os trechos principais dos anexos permitem reconstruir a conversa pela ordem dos intervalos de origem. Os quinze anexos rastreáveis permanecem nesta pasta da jornada e são as fontes documentais para consulta.
 
 As afirmações e propostas da outra IA continuam sujeitas a avaliação. Esta conferência verifica cobertura, preservação, distribuição temática e navegação; não substitui a validação técnica dos exemplos ou das referências externas.
 
-## Documentos de apoio
+## Mapa de uso dos documentos de apoio
 
-- [Universo narrativo e tom de voz](UNIVERSO_NARRATIVO.md).
-- [Mapa dos contextos e dos trechos de origem](MAPA_ORIGEM.md).
-- [Referências mencionadas e pontos para validar](REFERENCIAS.md).
+Além das quinze páginas de contexto e dos quinze anexos numerados, esta pasta contém quatro documentos de apoio. Na conferência de 16/10/2026, todos permanecem aqui por sua função; os arquivos de 01 a 15 não foram alterados nesta organização.
+
+| Documento | Função e situação | Quando usar |
+| --- | --- | --- |
+| Este README | Entrada da jornada: identidade pessoal, sequência proposta e navegação. | Para localizar contexto e apoio antes de selecionar fontes. Não é acompanhamento de tarefas editoriais. |
+| [UNIVERSO_NARRATIVO.md](UNIVERSO_NARRATIVO.md) | Direção de voz em uso: primeira pessoa, humor, retórica e repertório pessoal. Premissas, arcos e exemplo fictício são recursos de escrita. | Ao preparar, redigir ou revisar uma história. Não converter cenas propostas em fatos nem impor todos os movimentos a um relato. |
+| [MAPA_ORIGEM.md](MAPA_ORIGEM.md) | Rastreabilidade histórica: relaciona contextos, trechos, intervalos e anexos; conserva o registro da conferência de extração. | Ao recuperar uma fala ou verificar sua localização. Não define currículo, voz vigente ou próxima tarefa. |
+| [REFERENCIAS.md](REFERENCIAS.md) | Inventário histórico de obras, conceitos, ferramentas e alegações mencionadas na conversa. | Como ponto de partida para selecionar e conferir uma fonte. Não comprova leitura, adoção ou validade técnica. |
+
+As referências técnicas continuam aqui porque o arquivo inventaria o que foi mencionado na conversa preservada nos anexos. Quando uma fonte for selecionada e estudada, registrar edição/versão, trechos e uso no [capítulo correspondente](<../capitulos estudos/MAPA_DE_ESTUDOS.md>), mantendo o vínculo com a origem. Referências culturais e pessoais para a narrativa são desenvolvidas no universo e nos relatos fornecidos pelo autor; não se confundem com essa bibliografia histórica.
+
+O [AGENTS.md](../AGENTS.md#consulta-da-jornada-do-herói) orienta a consulta por finalidade. A skill de redação já aponta para o universo narrativo; as demais fases recebem as fontes pertinentes pela ficha editorial. Os documentos permanecem como contexto do projeto, sem copiar seu conteúdo para as skills. Decisões novas ficam na spec da iniciativa e repercutem no universo quando alteram a direção de escrita.
+
+O mapa de origem localiza os trechos da conversa. Já [ORIGEM_DAS_IDEIAS.md](<../registro da autoridade/ORIGEM_DAS_IDEIAS.md>) explica como algumas ideias foram aproveitadas na organização do registro: os dois documentos se complementam, sem manter outra versão da conversa.
+
+Para retomar a produção, consulte as [iniciativas editoriais e suas tasks](<../spec editorial/README.md>). Posts e artigos resultantes ficam no [acervo de publicações](<../registro da autoridade/PUBLICACOES.md>); os próprios capítulos de estudo formarão o livro.
 
 ## Livro e estudo
 
-[Estrutura consolidada do livro](../Livro/ESTRUTURA_E_ESTUDO.md) · [Última revisão da conversa](../Livro/EXTRACAO_ULTIMA_REVISAO.md) · [Base editorial](../BASE_DO_LIVRO.md).
+[Estrutura consolidada do livro](<../capitulos estudos/ESTRUTURA_E_ESTUDO.md>) · [Última revisão da conversa](<../capitulos estudos/EXTRACAO_ULTIMA_REVISAO.md>) · [Base editorial](<../capitulos estudos/BASE_DO_LIVRO.md>).

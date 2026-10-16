@@ -28,7 +28,7 @@ As sínteses são uma leitura editorial do material. Os blocos identificados com
 
 #### F016 — Primeira formulação do público sem formação
 
-Origem histórica: `pensamentos.md`, linhas 233–237. Trecho principal desta etapa.
+Origem histórica: conversa original, linhas 233–237. Trecho principal desta etapa.
 
 <!-- FONTE: F016 INICIO -->
 > Sim
@@ -43,7 +43,7 @@ Origem histórica: `pensamentos.md`, linhas 233–237. Trecho principal desta et
 
 #### F033 — Revisão da proposta para pessoas sem base técnica
 
-Origem histórica: `pensamentos.md`, linhas 550–561. Trecho principal desta etapa.
+Origem histórica: conversa original, linhas 550–561. Trecho principal desta etapa.
 
 <!-- FONTE: F033 INICIO -->
 > Sim
@@ -73,7 +73,7 @@ Origem histórica: `pensamentos.md`, linhas 550–561. Trecho principal desta et
 
 #### F038 — Debate sobre o público não técnico e a promessa do livro
 
-Origem histórica: `pensamentos.md`, linhas 619–626. Trecho principal desta etapa.
+Origem histórica: conversa original, linhas 619–626. Trecho principal desta etapa.
 
 <!-- FONTE: F038 INICIO -->
 > Sim
@@ -91,7 +91,7 @@ Origem histórica: `pensamentos.md`, linhas 619–626. Trecho principal desta et
 
 #### F040 — Reformulação do público e da promessa de aprendizagem
 
-Origem histórica: `pensamentos.md`, linhas 650–661. Trecho principal desta etapa.
+Origem histórica: conversa original, linhas 650–661. Trecho principal desta etapa.
 
 <!-- FONTE: F040 INICIO -->
 > O verdadeiro caminho para o seu livro:
@@ -121,7 +121,7 @@ Origem histórica: `pensamentos.md`, linhas 650–661. Trecho principal desta et
 
 #### F041 — Relato pessoal e dúvida sobre aprender a ler código
 
-Origem histórica: `pensamentos.md`, linhas 662–664. Cópia relacionada para este assunto. Destino principal: [anexo 01](01-texto-anexo.md#fonte-f041).
+Origem histórica: conversa original, linhas 662–664. Cópia relacionada para este assunto. Destino principal: [anexo 01](01-texto-anexo.md#fonte-f041).
 
 <!-- FONTE: F041 INICIO -->
 > Sim
@@ -134,7 +134,7 @@ Origem histórica: `pensamentos.md`, linhas 662–664. Cópia relacionada para e
 
 #### F065 — Definição pessoal da jornada de estudo e autoria
 
-Origem histórica: `pensamentos.md`, linhas 1092–1094. Cópia relacionada para este assunto. Destino principal: [anexo 01](01-texto-anexo.md#fonte-f065).
+Origem histórica: conversa original, linhas 1092–1094. Cópia relacionada para este assunto. Destino principal: [anexo 01](01-texto-anexo.md#fonte-f065).
 
 <!-- FONTE: F065 INICIO -->
 > Sim
@@ -142,4 +142,3 @@ Origem histórica: `pensamentos.md`, linhas 1092–1094. Cópia relacionada para
 > 
 
 <!-- FONTE: F065 FIM -->
-

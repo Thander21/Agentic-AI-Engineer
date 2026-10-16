@@ -16,7 +16,11 @@ A árvore de habilidades ficou impecável: fundamentos, arquitetura, dados, agen
 
 **Contexto 05 — Trilha e metodologia de autoestudo.** Como adquirir esses conhecimentos: sequência, pré-requisitos, fontes, exercícios, revisão e ritmo compatível com seu trabalho. As diferentes propostas de fases pertencem aqui como material para avaliação posterior.
 
-## O que desenvolver aqui
+## Uso atual deste contexto
+
+Esta página orienta a narrativa sobre a experiência. O [mapa de estudos](<../capitulos estudos/MAPA_DE_ESTUDOS.md>) organiza capítulos, sequência e pré-requisitos; o [guia SDD](<../spec editorial/GUIA_DE_OPERACAO.md>) define produção e revisão; posts e artigos derivados entram no [acervo central](<../registro da autoridade/PUBLICACOES.md>). As propostas e cenas preservadas não são fatos biográficos nem um segundo plano de execução.
+
+## Temas para contar a experiência
 
 - Pré-requisitos e ordem de aprendizagem.
 - Ciclos de estudo, aplicação, revisão e registro.
@@ -62,4 +66,4 @@ As quatro fases, a grade de sete módulos e as duas versões das sete fases são
 
 ## Estrutura consolidada do livro
 
-[Sete partes e dados de estudo](../Livro/ESTRUTURA_E_ESTUDO.md) · [Última revisão literal](../Livro/EXTRACAO_ULTIMA_REVISAO.md).
+[Sete partes e dados de estudo](<../capitulos estudos/ESTRUTURA_E_ESTUDO.md>) · [Última revisão literal](<../capitulos estudos/EXTRACAO_ULTIMA_REVISAO.md>).

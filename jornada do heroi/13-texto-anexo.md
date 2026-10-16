@@ -29,7 +29,7 @@ As sínteses são uma leitura editorial do material. Os blocos identificados com
 
 #### F001 — Origem da conversa: posicionamento, temas e distribuição no LinkedIn
 
-Origem histórica: `pensamentos.md`, linhas 1–74. Trecho principal desta etapa.
+Origem histórica: conversa original, linhas 1–74. Trecho principal desta etapa.
 
 <!-- FONTE: F001 INICIO -->
 > Sobre escrever tópicos que engajam no LinkedIn e se destacar no mercado. Posta, artigos me tornar uma autoridade engenheiro argentino com metodologias aplicáveis no desenvolvimento
@@ -121,7 +121,7 @@ Origem histórica: `pensamentos.md`, linhas 1–74. Trecho principal desta etapa
 
 #### F060 — Preferência por presença simples e pouca rede social
 
-Origem histórica: `pensamentos.md`, linhas 1013–1020. Trecho principal desta etapa.
+Origem histórica: conversa original, linhas 1013–1020. Trecho principal desta etapa.
 
 <!-- FONTE: F060 INICIO -->
 > Enquanto eu estudo, como é que eu posso ir construindo a minha autoridade para poder ir depois descrevendo todo o meu processo dentro de um livro mais didático? É, somente LinkedIn, não gosto muito de redes sociais. O que que eu posso fazer dentre as coisas mais simples, mas que tragam o maior resultado em torno de autoridade?
@@ -139,7 +139,7 @@ Origem histórica: `pensamentos.md`, linhas 1013–1020. Trecho principal desta 
 
 #### F062 — Ensaios e LinkedIn como vitrine
 
-Origem histórica: `pensamentos.md`, linhas 1034–1061. Trecho principal desta etapa.
+Origem histórica: conversa original, linhas 1034–1061. Trecho principal desta etapa.
 
 <!-- FONTE: F062 INICIO -->
 > 2. Ensaios Técnicos Profundos (Capítulos Beta do Livro)
@@ -185,7 +185,7 @@ Origem histórica: `pensamentos.md`, linhas 1034–1061. Trecho principal desta 
 
 #### F061 — Repositório de decisões e casos documentados
 
-Origem histórica: `pensamentos.md`, linhas 1021–1033. Cópia relacionada para este assunto. Destino principal: [anexo 12](12-texto-anexo.md#fonte-f061).
+Origem histórica: conversa original, linhas 1021–1033. Cópia relacionada para este assunto. Destino principal: [anexo 12](12-texto-anexo.md#fonte-f061).
 
 <!-- FONTE: F061 INICIO -->
 > 1. O Repositório Público de Casos e Decisões (GitHub)
@@ -208,7 +208,7 @@ Origem histórica: `pensamentos.md`, linhas 1021–1033. Cópia relacionada para
 
 #### F064 — Integração entre estudo, registro e publicação
 
-Origem histórica: `pensamentos.md`, linhas 1075–1091. Cópia relacionada para este assunto. Destino principal: [anexo 12](12-texto-anexo.md#fonte-f064).
+Origem histórica: conversa original, linhas 1075–1091. Cópia relacionada para este assunto. Destino principal: [anexo 12](12-texto-anexo.md#fonte-f064).
 
 <!-- FONTE: F064 INICIO -->
 > O Ciclo Integrado de Execução
@@ -243,7 +243,7 @@ Origem histórica: `pensamentos.md`, linhas 1075–1091. Cópia relacionada para
 
 #### F063 — Proposta de publicação incremental
 
-Origem histórica: `pensamentos.md`, linhas 1062–1074. Cópia relacionada para este assunto. Destino principal: [anexo 15](15-texto-anexo.md#fonte-f063).
+Origem histórica: conversa original, linhas 1062–1074. Cópia relacionada para este assunto. Destino principal: [anexo 15](15-texto-anexo.md#fonte-f063).
 
 <!-- FONTE: F063 INICIO -->
 > 4. Lean Publishing: O Livro em Acesso Antecipado
@@ -261,4 +261,3 @@ Origem histórica: `pensamentos.md`, linhas 1062–1074. Cópia relacionada para
 > 
 
 <!-- FONTE: F063 FIM -->
-

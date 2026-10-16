@@ -1,8 +1,8 @@
 # Modelo de ficha editorial
 
-**Versão do modelo:** 0.1  
+**Versão do modelo:** 0.3 — 2026-10-16
 **Entrega de origem:** ENT-03 / T01-005  
-**Orientação:** [Guia de operação](../GUIA_DE_OPERACAO.md) · [Resumo editorial do projeto](../02-resumo-editorial-onde-como-quando.md).
+**Orientação:** [Guia de operação](../GUIA_DE_OPERACAO.md) · [Resumo editorial do projeto](../concluida/02-preparacao-editorial/02-resumo-editorial-onde-como-quando.md).
 
 ## Como usar
 
@@ -12,6 +12,10 @@ Use a **forma curta** para uma entrega delimitada, com poucas fontes e decisões
 
 Referencie escolhas já feitas pelo autor, inclusive no documento 02. Não infira variante do português pela localização, não escolha intensidade de humor por conta própria e não transforme abreviações de notas em estilo obrigatório. Se faltar decisão essencial, pergunte pelo ponto específico. A ficha pode ficar parcialmente preenchida enquanto outras partes do trabalho avançam.
 
+Para posts e artigos, aplicar o [contrato de localização e passagem ao acervo](../GUIA_DE_OPERACAO.md#contrato-de-localização-e-passagem-ao-acervo) e usar o [índice central](<../../registro da autoridade/PUBLICACOES.md>). A origem pode ser jornada, estudo ou ambas; um episódio pessoal não é obrigatório. A v0.2 acrescenta esses vínculos; não amplia a cobertura comportamental histórica de T01-016.
+
+**Direção vigente do projeto:** identificar se a peça é história pessoal, explicação técnica ou mista. Para a jornada, usar primeira pessoa, humor, retórica e referências pessoais confirmadas. Registrar cenas e detalhes ainda a obter, sem exigir nova autorização sobre essa direção já escolhida. Para capítulos, exigir compreensão independente da autobiografia. Família, furão e interesses culturais são possibilidades narrativas, sem presença obrigatória. Esta v0.3 atualiza a orientação; não comprova cobertura comportamental adicional.
+
 ## Forma curta — copiar a partir daqui
 
 # Ficha editorial — {título de trabalho}
@@ -19,7 +23,7 @@ Referencie escolhas já feitas pelo autor, inclusive no documento 02. Não infir
 **Texto:** {ID existente ou novo ID estável}  
 **Versão da ficha:** {versão e data}  
 **Versão do texto:** {ainda não redigido / revisão exata e caminho}  
-**Vínculos:** {spec/tarefa e registros de origem; etapa ou parte do livro somente quando pertinente}  
+**Vínculos:** {spec/tarefa, origem jornada/estudo/ambas, capítulos/fontes/episódios pertinentes, entrada no acervo e peças derivadas}
 **Situação:** em preparação; prontidão ainda não avaliada.
 
 ### 1. Intenção
@@ -73,7 +77,7 @@ Referencie escolhas já feitas pelo autor, inclusive no documento 02. Não infir
 
 **Pré-requisitos do leitor:** {o que já deve saber e o que precisa ser explicado aqui}.
 
-**Relações:** {etapa da jornada, parte do livro, texto anterior e seguinte, quando pertinentes; indicar a função desta unidade no conjunto}.
+**Relações:** {origem jornada/estudo/ambas, IDs de capítulos ou etapas, fontes/episódios pertinentes, entrada no acervo, artigo e chamada relacionados; indicar a função desta unidade no conjunto}.
 
 **Reaproveitamento:** {registro original e outros textos derivados; manter vínculo com a mesma experiência em vez de duplicá-la como um acontecimento novo}.
 

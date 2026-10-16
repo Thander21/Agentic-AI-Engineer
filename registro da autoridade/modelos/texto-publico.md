@@ -1,34 +1,40 @@
-# PUB-001 — Título para o leitor
+# {PUB-ID disponível} — {Título para o leitor}
 
-[Canais e autoridade](../CANAIS_E_AUTORIDADE.md)
+**Modelo v0.3 — 2026-10-16.** Copiar para `publicacoes/`, ajustar links ao destino e substituir campos. Consultar o [índice](../PUBLICACOES.md), a [ficha editorial](<../../spec editorial/modelos/ficha-editorial.md>) e o [guia SDD](<../../spec editorial/GUIA_DE_OPERACAO.md>). O checklist abaixo apoia a conferência; não substitui o percurso selecionado na ficha.
 
-- Estado: rascunho.
-- Episódio de origem:
-- Leitor e contribuição principal:
-- Formato e canal pretendidos:
-- Data e URL de publicação: ainda não publicado.
+- ID e revisão do texto: {PUB-ID, r01, data e arquivo}.
+- Origem: {jornada / estudo / ambas; fontes e IDs de capítulo/episódio quando existentes}.
+- Ficha e acompanhamento: {links, versões e tarefa pertinente; correção pequena pode usar registro proporcional}.
+- Leitor e contribuição principal: {definidos na ficha}.
+- Formato e canal pretendidos: {escolha vigente}.
+- Peças relacionadas: {ID do artigo ou post de chamada; não se aplica quando peça única}.
+- Estado editorial: rascunho; conferência pendente.
+- Retorno autoral: pendente.
+- Publicação: não realizada.
 
-## Rascunho
+**Voz por finalidade:** jornada pessoal em primeira pessoa, com humor, retórica e vida cotidiana; estudo com explicação técnica autônoma; origem mista com transições claras. Registrar referências pessoais efetivamente trazidas pelo autor, sem fabricar acontecimentos.
 
-Situação que o leitor pode reconhecer.
+## Texto
 
-Dúvida ou expectativa inicial.
+{Organizar pela pergunta e contribuição ao leitor. Um relato usa fatos confirmados; uma explicação técnica pode partir diretamente de conceitos e fontes. Tentativa, obstáculo e aprendizado pessoal só entram quando documentados.}
 
-Tentativa e mudança de entendimento.
+## Revisão e integração
 
-Aprendizado útil, com sua evidência ou referência.
+- Afirmações ligadas às fontes e limites preservados.
+- Contribuição e pré-requisitos compreensíveis para o leitor escolhido.
+- Revisões pertinentes realizadas na versão identificada; achados integrados e reconferidos.
+- Retorno autoral registrado quando recebido, sem aprovação presumida.
+- Artigo e chamada coerentes; destino do link conferido quando existir.
 
-Limite da conclusão e próxima pergunta.
+Registrar resultado e pendências na ficha/tasks ou registro proporcional, conforme o guia.
 
-Se fizer sentido: pergunta específica sobre uma decisão ou experiência do leitor.
+## Distribuição efetiva
 
-## Revisão antes de compartilhar
+Uma linha por versão e destino enviados, somente após instrução explícita. Manter a revisão publicada recuperável mesmo se a versão de trabalho mudar.
 
-- As afirmações correspondem ao episódio e às evidências?
-- A contribuição está compreensível para o leitor escolhido?
-- O exemplo está preparado para compartilhamento?
-- O texto tem uma finalidade clara e uma conclusão proporcional ao caso?
+| Artefato e revisão | Canal/destino | Data | URL | Instrução/registro de envio |
+| --- | --- | --- | --- | --- |
 
 ## Retorno e aproveitamento
 
-Perguntas recebidas, correções, leitores que aplicaram a ideia e contribuição possível para o livro.
+{Perguntas recebidas, correções e vínculo ao capítulo/episódio. Sem retorno real, manter pendente.}

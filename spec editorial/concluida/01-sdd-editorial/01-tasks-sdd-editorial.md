@@ -1,18 +1,23 @@
 # Tasks de implementação do SDD editorial
 
 **ID:** TASKS-EDITORIAL-001  
-**Versão:** 0.19 — acompanhamento reconciliado
+**Versão:** 0.22 — auditada e arquivada como concluída
 **Data da atualização:** 2026-10-14    
-**Base:** [spec 01 — versão 0.5](01-especificacao-sdd-editorial.md) e [plano 01 — versão 0.3](01-plano-sdd-editorial.md)  
-**Estado:** T01-001 a T01-015 concluídas no escopo documental; T01-016 concluída nos percursos exercitados; T01-017 concluída. T01-018 a T01-021 pendentes; preparação do piloto depende das definições editoriais da spec 02.
+**Base:** [spec 01 — versão 0.7](01-especificacao-sdd-editorial.md) e [plano 01 — versão 0.5](01-plano-sdd-editorial.md)
+
+**Estado:** iniciativa 01 encerrada no escopo autorizado de construção e avaliação inicial do método. T01-001 a T01-017 concluídas nos limites registrados; T01-018 a T01-021 transferidas, não executadas, para a spec 03. Próximo trabalho: análise da spec 02.
+
+**Leitura do histórico:** registros anteriores descrevem a situação e o escopo da sua data. A decisão de separação abaixo substitui a obrigação de executar o piloto dentro de 01, preservando critérios e evidências.
 
 ## 1. Como acompanhar
 
 Este documento reúne tarefas, execução, conferência e pendências. Foi elaborado manualmente antes da existência do modelo e da skill de tarefas. Sua compatibilidade com essas entregas foi conferida em T01-017, preservando IDs e histórico. O registro datado está na seção 6.
 
-Todos os caminhos de saída são relativos a `spec editorial/`, salvo indicação contrária. Caminhos planejados não significam arquivos existentes. Os requisitos citados são os REQ da spec; as entregas ENT pertencem ao plano.
+Todos os caminhos de saída em código continuam relativos a `spec editorial/`, salvo indicação contrária. Spec, plano e tasks foram arquivados em `spec editorial/concluida/01-sdd-editorial/`; os links Markdown foram ajustados ao local atual. Caminhos planejados não significam arquivos existentes. Os requisitos citados são os REQ da spec; as entregas ENT pertencem ao plano.
 
 Estados: **pendente**, **em execução**, **produzida/aguardando conferência**, **concluída** ou **bloqueada com motivo**. Dependências futuras mantêm a tarefa pendente; ao tentar avançar e encontrar um impedimento, registrar o bloqueio concreto.
+
+Nesta redistribuição autorizada, **transferida (não executada)** é uma situação administrativa: identifica saída do escopo e destino verificável, sem conclusão do trabalho. Não altera os estados de execução dos modelos ou das skills.
 
 Cada tarefa só termina depois de produzir sua saída, conferir o critério e registrar evidência. A execução deve atualizar sua linha na seção 5 com artefato/versão, resultado, achados e próximo passo. Se uma alteração invalidar a conferência, reabrir a tarefa e preservar o registro anterior. Mudanças nos requisitos retornam à spec; mudanças de estratégia retornam ao plano.
 
@@ -48,6 +53,8 @@ As fontes de orientação e os limites de seus validadores estão na seção 8. 
 
 ## 4. Conferência integrada e piloto
 
+T01-015 a T01-017 pertencem ao escopo encerrado. As definições de T01-018 a T01-021 abaixo são preservadas como contratos de origem, transferidos à spec 03. Suas antigas dependências recebem agora as definições e a análise de cobertura da spec 02.
+
 | ID | Entrega / requisitos | Dependências | Responsável | Saída prevista | Critério de conclusão |
 | --- | --- | --- | --- | --- | --- |
 | T01-015 | ENT-06; REQ-01 a 20 | T01-001 a T01-014. | Revisor do conjunto. | Estado na seção 5; resultado e achados na seção 6. | Confere caminhos, referências, cobertura dos vinte requisitos e passagem de contexto entre artefatos. Verifica estrutura das skills com recurso disponível quando aplicável; distingue essa conferência de avaliação de comportamento. Resolve impeditivos ou reabre tarefas afetadas. |
@@ -66,27 +73,27 @@ O critério específico está nas seções 2 a 4. Ao executar, substituir “nã
 
 | Tarefa | Estado | Artefato / versão conferida | Conferência e evidência | Pendências / próximo passo |
 | --- | --- | --- | --- | --- |
-| T01-001 | Concluída | [GUIA_DE_OPERACAO.md](GUIA_DE_OPERACAO.md), v0.2. | Evidência original v0.1 preservada; ajustes e reconferência do fluxo registrados em T01-015. | Percurso curto exercitado em T01-016; uso real pendente no piloto. |
-| T01-002 | Concluída | [modelos/spec.md](modelos/spec.md), v0.1. | Conferência documental de 2026-10-13 registrada abaixo; link para o guia válido. | Conjunto conferido em T01-015; exercícios e limites registrados em T01-016; uso real pendente. |
-| T01-003 | Concluída | [modelos/plano.md](modelos/plano.md), v0.1. | Conferência documental de 2026-10-13 registrada abaixo; 2 links locais válidos. | Conjunto conferido em T01-015; exercícios e limites registrados em T01-016; uso real pendente. |
-| T01-004 | Concluída | [modelos/tasks.md](modelos/tasks.md), v0.1. | Conferência documental de 2026-10-13 registrada abaixo; 2 links locais válidos. | Compatibilidade conferida em T01-017; ver registro na seção 6. |
-| T01-005 | Concluída | [modelos/ficha-editorial.md](modelos/ficha-editorial.md), v0.1. | Conferência documental de 2026-10-13 registrada abaixo; 2 links locais válidos. | Conjunto conferido em T01-015; exercícios e limites registrados em T01-016; uso real pendente. |
-| T01-006 | Concluída | [modelos/parecer-editorial.md](modelos/parecer-editorial.md), v0.1. | Conferência documental de 2026-10-13 registrada abaixo; 2 links locais válidos. | Conjunto conferido em T01-015; exercícios e limites registrados em T01-016; uso real pendente. |
-| T01-007 | Concluída | [modelos/integracao-e-avaliacao.md](modelos/integracao-e-avaliacao.md), v0.1. | Conferência documental de 2026-10-13 registrada abaixo; 3 links locais válidos. | Conjunto conferido em T01-015; exercícios e limites registrados em T01-016; uso real pendente. |
-| T01-008 | Concluída | [sdd-editorial-especificar/SKILL.md](skills/sdd-editorial-especificar/SKILL.md), v0.1. | Validador estrutural aprovado; 3 referências válidas; conferência documental de 2026-10-13 abaixo. | Comportamento exercitado em T01-016; consultar cobertura e limites por modo. |
-| T01-009 | Concluída | [sdd-editorial-planejar/SKILL.md](skills/sdd-editorial-planejar/SKILL.md), v0.1. | Validador estrutural aprovado; 3 referências válidas; conferência documental de 2026-10-13 abaixo. | Comportamento exercitado em T01-016; consultar cobertura e limites por modo. |
-| T01-010 | Concluída | [sdd-editorial-tarefas/SKILL.md](skills/sdd-editorial-tarefas/SKILL.md), v0.1. | Validador estrutural aprovado; 3 referências válidas; registro de conclusão em 2026-10-14 abaixo. | Comportamento exercitado em T01-016; consultar cobertura e limites por modo. |
-| T01-011 | Concluída | [editorial-preparar/SKILL.md](skills/editorial-preparar/SKILL.md), v0.1. | Validador estrutural aprovado; 3 referências válidas; conferência documental de 2026-10-14 abaixo. | Comportamento exercitado em T01-016; consultar cobertura e limites por modo. |
-| T01-012 | Concluída | [editorial-redigir/SKILL.md](skills/editorial-redigir/SKILL.md), v0.1. | Validador estrutural aprovado; 3 referências válidas; conferência documental de 2026-10-14 abaixo. | Comportamento exercitado em T01-016; consultar cobertura e limites por modo. |
-| T01-013 | Concluída | [editorial-revisar/SKILL.md](skills/editorial-revisar/SKILL.md) e [perfis.md](skills/editorial-revisar/references/perfis.md), v0.1. | Validador estrutural aprovado; referências válidas e nove perfis conferidos; registro de 2026-10-14 abaixo. | Nove perfis exercitados em T01-016; avaliação guiada e limites registrados. |
-| T01-014 | Concluída | [editorial-integrar/SKILL.md](skills/editorial-integrar/SKILL.md), v0.1. | Validador estrutural aprovado; 3 referências válidas; conferência documental de 2026-10-14 abaixo. | Comportamento exercitado em T01-016; consultar cobertura e limites por modo. |
+| T01-001 | Concluída | [GUIA_DE_OPERACAO.md](../../GUIA_DE_OPERACAO.md), v0.4. | Evidências anteriores preservadas; navegação do guia v0.4 reconferida no arquivamento, seção 11. | Percurso curto exercitado em T01-016; uso real transferido para 03. |
+| T01-002 | Concluída | [modelos/spec.md](../../modelos/spec.md), v0.1. | Conferência documental de 2026-10-13 registrada abaixo; link para o guia válido. | Conjunto conferido em T01-015; exercícios e limites registrados em T01-016; uso real pendente. |
+| T01-003 | Concluída | [modelos/plano.md](../../modelos/plano.md), v0.1. | Conferência documental de 2026-10-13 registrada abaixo; 2 links locais válidos. | Conjunto conferido em T01-015; exercícios e limites registrados em T01-016; uso real pendente. |
+| T01-004 | Concluída | [modelos/tasks.md](../../modelos/tasks.md), v0.1. | Conferência documental de 2026-10-13 registrada abaixo; 2 links locais válidos. | Compatibilidade conferida em T01-017; ver registro na seção 6. |
+| T01-005 | Concluída | [modelos/ficha-editorial.md](../../modelos/ficha-editorial.md), v0.1. | Conferência documental de 2026-10-13 registrada abaixo; 2 links locais válidos. | Conjunto conferido em T01-015; exercícios e limites registrados em T01-016; uso real pendente. |
+| T01-006 | Concluída | [modelos/parecer-editorial.md](../../modelos/parecer-editorial.md), v0.1. | Conferência documental de 2026-10-13 registrada abaixo; 2 links locais válidos. | Conjunto conferido em T01-015; exercícios e limites registrados em T01-016; uso real pendente. |
+| T01-007 | Concluída | [modelos/integracao-e-avaliacao.md](../../modelos/integracao-e-avaliacao.md), v0.1. | Conferência documental de 2026-10-13 registrada abaixo; 3 links locais válidos. | Conjunto conferido em T01-015; exercícios e limites registrados em T01-016; uso real pendente. |
+| T01-008 | Concluída | [sdd-editorial-especificar/SKILL.md](../../skills/sdd-editorial-especificar/SKILL.md), v0.1. | Validador estrutural aprovado; 3 referências válidas; conferência documental de 2026-10-13 abaixo. | Comportamento exercitado em T01-016; consultar cobertura e limites por modo. |
+| T01-009 | Concluída | [sdd-editorial-planejar/SKILL.md](../../skills/sdd-editorial-planejar/SKILL.md), v0.1. | Validador estrutural aprovado; 3 referências válidas; conferência documental de 2026-10-13 abaixo. | Comportamento exercitado em T01-016; consultar cobertura e limites por modo. |
+| T01-010 | Concluída | [sdd-editorial-tarefas/SKILL.md](../../skills/sdd-editorial-tarefas/SKILL.md), v0.1. | Validador estrutural aprovado; 3 referências válidas; registro de conclusão em 2026-10-14 abaixo. | Comportamento exercitado em T01-016; consultar cobertura e limites por modo. |
+| T01-011 | Concluída | [editorial-preparar/SKILL.md](../../skills/editorial-preparar/SKILL.md), v0.1. | Validador estrutural aprovado; 3 referências válidas; conferência documental de 2026-10-14 abaixo. | Comportamento exercitado em T01-016; consultar cobertura e limites por modo. |
+| T01-012 | Concluída | [editorial-redigir/SKILL.md](../../skills/editorial-redigir/SKILL.md), v0.1. | Validador estrutural aprovado; 3 referências válidas; conferência documental de 2026-10-14 abaixo. | Comportamento exercitado em T01-016; consultar cobertura e limites por modo. |
+| T01-013 | Concluída | [editorial-revisar/SKILL.md](../../skills/editorial-revisar/SKILL.md) e [perfis.md](../../skills/editorial-revisar/references/perfis.md), v0.1. | Validador estrutural aprovado; referências válidas e nove perfis conferidos; registro de 2026-10-14 abaixo. | Nove perfis exercitados em T01-016; avaliação guiada e limites registrados. |
+| T01-014 | Concluída | [editorial-integrar/SKILL.md](../../skills/editorial-integrar/SKILL.md), v0.1. | Validador estrutural aprovado; 3 referências válidas; conferência documental de 2026-10-14 abaixo. | Comportamento exercitado em T01-016; consultar cobertura e limites por modo. |
 | T01-015 | Concluída | Guia v0.2; seis modelos v0.1; sete skills e perfis v0.1; spec 0.5 e plano 0.3 com referências de navegação atualizadas. | Conferência de 2026-10-14 abaixo: 7 validações estruturais, 88 links locais válidos, cobertura documental de 20 requisitos. | Uso real e comportamento não comprovados por esta conferência. |
-| T01-016 | Concluída | [Entradas, saídas e cobertura](avaliacoes/T01-016/README.md). | Exercícios E01–E07; sete skills e nove perfis, com limites por modo registrados. | Conclusão restrita ao recorte exercitado, pela mesma IA. Modos adicionais exigem complemento antes do uso; ver PEN-02. |
-| T01-017 | Concluída | Este documento, v0.19; modelo e skill de tasks v0.1. | Reconciliação de 2026-10-14 na seção 6: IDs, dependências, evidências, estados e pendências conferidos. | Preparar definições da spec 02 para T01-018; ver PEN-01. |
-| T01-018 | Pendente | Não produzido. | Não realizada. | ENT-06 atendida no recorte registrado; definir contexto editorial mínimo no 02, com o autor (PEN-01). |
-| T01-019 | Pendente | Não produzido. | Não realizada. | Aguardar ficha e condições de início. |
-| T01-020 | Pendente | Não produzido. | Não realizada. | Aguardar piloto e retorno do autor. |
-| T01-021 | Pendente | Não produzido. | Não realizada. | Aguardar avaliação do piloto. |
+| T01-016 | Concluída | [Entradas, saídas e cobertura](../../avaliacoes/T01-016/README.md). | Exercícios E01–E07; correção dirigida de E03 no arquivo de saídas r1.1 e reconferência da seção 11; limites por modo preservados. | Conclusão restrita ao recorte exercitado, pela mesma IA. Modos adicionais exigem complemento antes do uso; ver PEN-02. |
+| T01-017 | Concluída | Este documento, v0.22; modelo e skill de tasks v0.1. | Reconciliação histórica na seção 6; reexame dirigido após correção de E03 e arquivamento na seção 11. | Preparar definições da spec 02 para T01-018; ver PEN-01. |
+| T01-018 | Transferida (não executada) | [Spec 03 v0.1, seção 2](../../backlog/03-piloto-editorial/03-piloto-editorial.md#2-trabalho-recebido-e-rastreabilidade). | Contrato de preparação preservado; ficha não produzida. | Receber contexto e cobertura analisados na spec 02; executar na iniciativa 03. |
+| T01-019 | Transferida (não executada) | [Spec 03 v0.1](../../backlog/03-piloto-editorial/03-piloto-editorial.md). | Contrato de produção/revisão preservado; piloto não escrito. | Planejar e executar em 03 após preparação suficiente. |
+| T01-020 | Transferida (não executada) | [Spec 03 v0.1](../../backlog/03-piloto-editorial/03-piloto-editorial.md). | Critério de apreciação humana preservado; retorno ainda não obtido. | Autor avalia o piloto na iniciativa 03. |
+| T01-021 | Transferida (não executada) | [Spec 03 v0.1](../../backlog/03-piloto-editorial/03-piloto-editorial.md). | Avaliação aplicada e ajustes do método preservados como trabalho futuro. | Consolidar resultados e ajustes em 03, reabrindo aspectos de 01 se necessário. |
 
 ## 6. Registros de execução e conferência
 
@@ -239,7 +246,7 @@ Resultado: sem impeditivo documental remanescente no escopo conferido; T01-015 c
 
 ### T01-016 — exercícios sintéticos de 2026-10-14
 
-Entradas, critérios prévios, saídas, pareceres e versões preservados em [avaliações/T01-016](avaliacoes/T01-016/README.md). E01–E07 cobrem os oito casos previstos na seção 5.4 do plano, combinando seleção/limite de escopo com E01. A tabela de cobertura identifica cada skill v0.1, modo/perfil, resultado e limite. A cadeia E04–E07 preserva fonte, ressalva e lacuna; a integração manteve o rascunho após recusar cortes incompatíveis com o contrato.
+Entradas, critérios prévios, saídas, pareceres e versões preservados em [avaliações/T01-016](../../avaliacoes/T01-016/README.md). E01–E07 cobrem os oito casos previstos na seção 5.4 do plano, combinando seleção/limite de escopo com E01. A tabela de cobertura identifica cada skill v0.1, modo/perfil, resultado e limite. A cadeia E04–E07 preserva fonte, ressalva e lacuna; a integração manteve o rascunho após recusar cortes incompatíveis com o contrato.
 
 Resultado: nenhum impeditivo observado nos percursos exercitados. Sete skills e nove perfis avaliados manualmente com contexto compartilhado e critérios conhecidos, sem independência ou comparação causal. Elaboração completa de spec, ficha completa, capítulo longo e refatoração substancial permanecem não exercitados. Antes de usá-los no piloto, complementar esta avaliação. T01-016 concluída neste recorte; T01-017 é a próxima tarefa. Piloto, apreciação autoral e decisões da spec 02 continuam pendentes.
 
@@ -260,17 +267,27 @@ Resultado: nenhum impeditivo observado nos percursos exercitados. Sete skills e 
 
 **Resultado:** acompanhamento compatível com o modelo e a skill, após as correções; T01-017 concluída. Nenhum requisito, ID ou critério de conclusão foi reduzido. A conclusão de T01-016 vale para os percursos registrados; escolher modos adicionais no piloto aciona a complementação prevista, não aprovação automática.
 
-### Pendências vigentes após T01-017
+### Destino vigente das pendências identificadas após T01-017
 
 | ID | Tarefa afetada | Dependência e impacto | Quem resolve / momento | Situação |
 | --- | --- | --- | --- | --- |
-| PEN-01 | T01-018 | Spec 02 v0.1 ainda não define o contexto mínimo: destino e armazenamento do piloto, leitor, propósito, formato/extensão, voz/variante, limites de exposição, momento de registrar/revisar e condição de publicação. É possível levantar propostas nas fontes já vinculadas; não tratá-las como escolhas aceitas. | IA organiza propostas e autor define preferências antes de fechar a ficha; não é necessário fechar todo o calendário. | Aberta; dependência planejada, sem execução do piloto. |
-| PEN-02 | T01-016 / T01-018 / T01-019 | Conferir os modos escolhidos para o piloto contra a cobertura dos exercícios. Ficha completa, refatoração substancial e demais modos não exercitados precisam de complemento se forem utilizados. | IA, após delimitar o percurso e antes do uso não coberto. | Condicional; não é validação integral das skills. |
-| PEN-03 | T01-020 / T01-021 | Reconhecimento da voz, clareza, prazer de leitura e esforço exigem retorno real sobre o piloto. | Autor após T01-019; IA registra e encaminha ajustes. | Futura; nenhuma apreciação presumida. |
+| PEN-01 | Origem T01-018 | Contexto editorial, história, fontes, voz e decisões de uso; análise ampliada na spec 02 v0.3. | Autor e IA na iniciativa 02, antes da execução de 03. | Transferida para spec 02; aberta no destino. |
+| PEN-02 | Origem T01-016 / T01-018 / T01-019 | Analisar modos e perfis para o percurso pretendido; complementar avaliação se usar modos não exercitados. | IA na iniciativa 02; preservar T01-016 e registrar novas evidências separadamente. | Transferida para spec 02; condicional e aberta no destino. |
+| PEN-03 | Origem T01-020 / T01-021 | Reconhecimento da voz, clareza, prazer de leitura e esforço exigem retorno real sobre o piloto. | Autor e IA na iniciativa 03, após produção/revisão. | Transferida para spec 03; não avaliada. |
 
-**Próximo trabalho:** detalhar com o autor as definições necessárias da [spec 02](02-resumo-editorial-onde-como-quando.md), reaproveitando suas fontes e distinguindo propostas de decisões. T01-018 permanece pendente até haver contexto suficiente. A metodologia inicial está construída e conferida nos limites registrados; a iniciativa completa ainda depende do piloto e do retorno autoral.
+**Próximo trabalho:** prosseguir na análise da [spec 02](../02-preparacao-editorial/02-resumo-editorial-onde-como-quando.md): acervo, história/contexto, referência de voz e adequação das skills. Receber decisões autorais depois de explicar as lacunas pertinentes. A iniciativa 01 está encerrada; o piloto e seu retorno autoral pertencem à iniciativa 03.
+
+### Levantamento de PEN-01 — 2026-10-14
+
+**Artefato:** spec 02, v0.1 → v0.2. **Base:** spec 01 v0.5, seção 15.8; plano 01 v0.3, seção 9; tasks v0.19; fontes locais indicadas no quadro da spec 02. Skills usadas: `sdd-editorial-especificar` v0.1, modo elaborar com conferência localizada; `sdd-editorial-tarefas` v0.1, modo acompanhar. Versões anteriores da spec 02 e destas tasks recuperáveis no commit `e931a1bbcd599c2337e576eb4bc6ad8a8f01c53d`, com presença no histórico e ausência de alterações locais verificadas antes da edição.
+
+**Produção e critério conferido:** levantadas as propostas das fontes e organizadas sete decisões que cobrem o contexto mínimo de PEN-01. Leitura documental verificou origem, distinção entre proposta e decisão, preservação dos limites factuais e encaminhamento das lacunas. A sequência da spec 02 foi atualizada para refletir a implementação inicial já registrada. Links locais dos dois documentos alterados e integridade do diff conferidos após a edição.
+
+**Resultado e limites:** levantamento concluído; PEN-01 continua aberta. Foram solicitadas escolhas sobre finalidade, leitor e voz, sem resposta registrada neste levantamento. As preferências não foram presumidas; ficha, redação, complementos de avaliação e apreciação autoral não foram executados. Conferência pela mesma IA autora das alterações, com acesso ao histórico, sem independência. T01-018 permanece pendente; requisitos da spec 01 e estratégia do plano 01 preservados.
 
 ### Protocolo dos exercícios de T01-016 — preservado para complementos
+
+Após a separação de 2026-10-14, este protocolo permanece como referência. Novos complementos pertencem à preparação em 02 e não modificam a conclusão histórica de E01–E07; falha comprovada de uma skill exige correção e reconferência identificadas.
 
 Ao executar T01-016, acrescentar uma linha por exercício com: identificação; skill e versão; modo/perfil; entrada ou localização do recorte; comportamento esperado; resultado observado; evidência; limitações; ajuste e reconferência, quando necessários.
 
@@ -358,7 +375,42 @@ Não adotar automaticamente suas rotinas de execução paralela, arquivos de ben
 | 0.15 | Criação e validação estrutural/documental da skill de revisão e nove perfis v0.1 em 2026-10-14. | T01-013 concluída no escopo de construção; próxima T01-014. |
 | 0.16 | Criação e validação estrutural/documental da skill de integração v0.1 em 2026-10-14. | T01-014 concluída; sete skills construídas; próxima T01-015. |
 | 0.17 | Conferência integrada de 2026-10-14: links corrigidos, guia v0.2, passagens e cobertura documental examinadas. | T01-015 concluída; próxima T01-016. |
-
 | 0.18 | Exercícios sintéticos E01–E07 em 2026-10-14, com entradas, saídas e limites preservados. | T01-016 concluída no recorte exercitado; próxima T01-017. |
-
 | 0.19 | Reconciliação de 2026-10-14 com modelo e skill de tasks; situações atuais corrigidas e pendências do piloto explicitadas. | T01-017 concluída; próximo trabalho: definições da spec 02 para preparar T01-018. |
+| 0.20 | Levantamento de PEN-01 e conferência localizada da spec 02 v0.2; propostas D02-01 a D02-07 e dependências registradas. | Aguardar escolhas autorais; T01-018 pendente, sem execução do piloto. |
+| 0.21 | Separação expressamente solicitada pelo autor: método em 01, preparação/análise em 02, piloto em 03; conferência do fechamento e destinos. | 01 encerrada no novo escopo. T01-018 a T01-021 e PEN-01 a PEN-03 transferidas, sem conclusão fictícia. |
+| 0.22 | Auditoria: corrigida falha em E03, reconciliados critérios antigos e arquivados os três documentos de 01. | T01-016/T01-017 reconferidas no aspecto afetado; iniciativa concluída nos limites registrados. |
+
+## 10. Encerramento autorizado em 2026-10-14
+
+**Base e versões:** spec 01 v0.6, plano 01 v0.4, tasks v0.21, spec 02 v0.3, spec 03 v0.1 e guia v0.3. A decisão do autor altera o escopo, preservando os vinte requisitos como contratos do método e critérios de aplicação futura.
+
+**Evidência examinada:** registros T01-001 a T01-017, artefatos existentes, cobertura e saídas E01–E07. A conferência desta rodada tratou suficiência do fechamento, rastreabilidade das transferências e navegação; não repetiu os validadores estruturais ou os exercícios antigos. Não foi encontrado impeditivo de construção documental no recorte. As limitações observadas nas skills estão na análise da spec 02 e permanecem abertas para o uso pertinente.
+
+**Preservação:** spec 01, plano, guia e AGENTS anteriores recuperáveis no commit `e931a1bbcd599c2337e576eb4bc6ad8a8f01c53d`. As alterações ainda não commitadas foram preservadas em `historico/2026-10-14-antes-da-separacao/01-tasks-v0.20.md` e `02-resumo-v0.2.md`, com hashes iguais aos arquivos de partida conferidos antes da edição. Essas cópias são históricas; links relativos internos conservam o contexto da localização original.
+
+**Resultado:** ENT-01 a ENT-06 encerradas; ENT-07 e T01-018 a T01-021 recebidas na seção 2 da spec 03. PEN-01/PEN-02 recebidas em 02 e PEN-03 em 03. Nenhuma atividade transferida foi marcada como executada. Guia e AGENTS atualizados para retomar pela iniciativa pertinente; contratos das skills não alterados.
+
+**Conferência final:** nove documentos vigentes alterados/criados examinados na navegação, com 115 referências locais e nenhum destino ausente; seis modelos e sete pacotes de skills encontrados. Tabela de acompanhamento mantém 21 IDs: 17 concluídos nos limites históricos e quatro transferidos sem execução. `git diff --check` sem erros. A referência antiga da base do livro foi corrigida para o arquivo existente em `capitulos estudos/`; nenhuma fonte ou texto da jornada foi reescrito. Guia v0.3 reconferido nas instruções de entrada, referência de base e encaminhamento do piloto; não houve mudança no contrato de redação/revisão.
+
+**Limites:** revisão pela mesma IA com acesso ao histórico. Método construído e avaliado inicialmente não significa eficácia geral, voz reconhecida, aprendizagem ou prazer de leitura demonstrados. O piloto continua não iniciado.
+
+**Próximo passo:** tratar os achados A02-01 a A02-07 da spec 02, começando pela história disponível e pelas referências de voz; depois fechar o contexto e os complementos de cobertura antes de planejar 03.
+
+## 11. Auditoria e arquivamento — 2026-10-14
+
+**Escopo e versões:** spec 01 0.6 → 0.7, plano 0.4 → 0.5, tasks 0.21 → 0.22; guia 0.4 com navegação atualizada. Conferidos requisitos, entregas, decisões antigas, checklist original, modelos, contratos das skills, nove perfis e entradas/saídas E01–E07. Os critérios e achados ARQ-01 a ARQ-05 estão na seção 20 da spec.
+
+**Falha e reabertura localizada:** T01-016 foi reaberta para corrigir o estado de EX-T02 em E03; T01-017 foi reexaminada quanto à aceitação dessa evidência. A saída r1.1 agora usa pendente para a dependência futura, mantém produção distinta de conclusão e reabertura após mudança. Reconferência manual dirigida com os critérios já conhecidos; resultado atende após correção. As duas tarefas voltam a concluídas no recorte, sem apagar o julgamento inicial nem apresentar o exercício como independente. Nenhuma skill foi alterada.
+
+**Demais correções:** checklist/decisões antigas com destino individual; tabela de histórico contínua; critério dos dois tipos de mudança explicitado na spec 03; links adequados ao arquivo. Nenhum dos itens do piloto foi concluído por essa revisão.
+
+**Preservação:** versões imediatamente anteriores dos três documentos em `historico/2026-10-14-antes-do-arquivamento/`, relativas a `spec editorial/`; saída original E03 recuperável no commit `e931a1bbcd599c2337e576eb4bc6ad8a8f01c53d`. Cópias históricas mantêm seus caminhos relativos de origem e não são documentos ativos.
+
+**Conferência estrutural atual:** sete chamadas de `validate_skill` do `quick_validate.py` local retornaram `True, Skill is valid!`, usando a dependência YAML isolada já disponível em `%TEMP%/sdd-editorial-validator-deps`. Sem instalação nova. Isso verifica estrutura, não qualidade editorial nem todos os modos de comportamento.
+
+**Arquivamento:** somente spec, plano e tasks movidos para `spec editorial/concluida/01-sdd-editorial/`. Guia, modelos, skills e avaliações permanecem disponíveis nos caminhos de uso; fontes e textos da jornada preservados. IDs e evidências históricas mantidos.
+
+**Conferência após a mudança:** 25 documentos ativos do conjunto examinados; 146 referências locais com destinos existentes e âncoras resolvidas. Vinte REQ na spec e no mapeamento do plano, sem requisito ausente; 21 IDs únicos no acompanhamento, sendo quatro transferidos e 17 concluídos. Seis modelos, sete skills e nove perfis presentes. `git diff --check` sem erros nos arquivos rastreados; os três arquivos movidos foram também conferidos em relação às cópias anteriores. Cópias em `historico/` foram preservadas e excluídas da conferência de navegação ativa, pois guardam o contexto de origem.
+
+**Resultado:** concluída e arquivada após correções, sem impeditivo remanescente identificado no escopo documental e sintético conferido. Revisão pela mesma IA, com acesso ao histórico. Próximo trabalho em 02; piloto e apreciação autoral em 03.

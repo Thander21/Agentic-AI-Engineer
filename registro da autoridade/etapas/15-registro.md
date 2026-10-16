@@ -4,7 +4,7 @@
 
 [Etapa da jornada](<../../jornada do heroi/15-escrever-ensinar-e-recomecar.md>) · [Texto anexo](<../../jornada do heroi/15-texto-anexo.md>) · [Método](../METODO_DE_REGISTRO.md) · [Índice do registro](../README.md)
 
-**Estado inicial:** Aguardando registros próprios de aprendizagem.
+**Estado atual:** preparação documentada vinculada; aprendizagem própria da etapa ainda a demonstrar.
 
 **Marco a demonstrar:** Um capítulo revisado e experimentado com leitores, com melhorias registradas e vínculo com suas fontes e casos.
 
@@ -18,6 +18,7 @@
 
 | Data | ID e arquivo | Pergunta ou caso | Estado e evidência | Próximo passo |
 | --- | --- | --- | --- | --- |
+| 2026-10-13 | [EP-000](../episodios/000-preparacao-da-jornada.md) | Preparação da jornada; etapa já associada na origem. | Organização documentada, sem comprovar aprendizagem técnica. | Registrar atividade própria da etapa quando ocorrer. |
 
 Adicionar uma linha quando houver um registro real. A existência desta ficha não indica conclusão da etapa.
 

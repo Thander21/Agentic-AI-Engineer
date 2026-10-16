@@ -4,7 +4,12 @@
 
 [Índice do registro](../README.md) · [Episódio de origem](../episodios/000-preparacao-da-jornada.md)
 
+- ID e revisão: PUB-000, r01 catalogada em 2026-10-16; corpo do rascunho preservado.
+- Origem: jornada; EP-000.
+- Acervo: [índice de publicações](../PUBLICACOES.md).
 - Estado: rascunho para revisão do autor.
+- Retorno autoral sobre esta revisão: pendente.
+- Relação com o piloto: peça anterior preservada; não equivale ao artigo e à chamada previstos em 03. Ficha e revisões desta peça serão delimitadas se for selecionada para nova produção.
 - Formato sugerido: post de apresentação no LinkedIn.
 - Publicação externa: ainda não realizada.
 - Finalidade: apresentar a pergunta da jornada e o tipo de registro que será compartilhado.

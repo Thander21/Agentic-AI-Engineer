@@ -2,7 +2,7 @@
 name: editorial-revisar
 description: Examina uma versão de texto ou artefato editorial e emite parecer por especialidade, com achados fundamentados e passagens a preservar. Use para revisar estrutura, fontes, didática, continuidade, voz, fluidez, língua, leitura ou prova final. Não use para reescrever o original, integrar pareceres ou declarar a prontidão geral de uma spec para planejamento.
 metadata:
-  version: "0.1"
+  version: "0.2"
 ---
 
 # Revisar por especialidade

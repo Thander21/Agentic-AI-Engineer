@@ -30,13 +30,15 @@ Procedimento: `sdd-editorial-tarefas` v0.1, decompor, acompanhar e conferir. Bas
 | ID sintético | Entrega | Conclusão exigida | Estado inicial |
 | --- | --- | --- | --- |
 | EX-T01 | EX-ENT-A | Modelo com fonte/data, seguido de conferência identificada. | Pendente. |
-| EX-T02 | EX-ENT-B | Ficha com destino definido e conferido. | Bloqueada para finalização por DEC-A; preparação dos campos possível. |
+| EX-T02 | EX-ENT-B | Ficha com destino definido e conferido. | Pendente; finalizar depende de DEC-A, e a preparação dos campos é possível. |
 
 Linha do tempo de EX-T01, baseada exclusivamente nos eventos fornecidos:
 
 1. Modelo r01 criado: produzida/aguardando conferência. Arquivo existente não demonstra critério atendido.
 2. Conferência de r01 verificou fonte/data: concluída no cenário, com evidência fornecida pelo enunciado, não por inspeção real de arquivo.
 3. Edição r02 removeu fonte: reaberta, em execução. A conferência de r01 permanece no histórico, mas não valida r02. Restaurar o campo e reconferir antes de concluir. Impacto em EX-T02: se usar o modelo r02, verificar também o campo de origem; não declarar esse uso sem evidência.
+
+**Correção dirigida de E03 — 2026-10-14, revisão 1.1 deste arquivo:** a saída original marcou EX-T02 como “Bloqueada para finalização” sem tentativa de execução no enunciado. Isso contrariava a distinção entre dependência futura e bloqueio efetivamente encontrado. Corrigido para “Pendente”, mantendo DEC-A e a possibilidade de preparar os campos. Reconferência manual contra o pedido E03, o modelo de tasks, seção 3, e a skill de tarefas, “Atualizar por evidências”: estado inicial pendente; produção sem revisão não concluída; alteração após conferência exige reabertura. Os três critérios agora estão coerentes. Correção pela mesma IA com acesso aos resultados, sem nova execução independente. Saída original recuperável no commit `e931a1bbcd599c2337e576eb4bc6ad8a8f01c53d`, neste caminho. Demais exercícios deste arquivo preservados.
 
 ## E04 — ficha EX-TXT-A / f01
 

@@ -1,11 +1,15 @@
 # Guia de operação do SDD editorial
 
-**Versão:** 0.2 — conferência integrada  
-**Base:** [spec 01, v0.5](01-especificacao-sdd-editorial.md) e [plano 01, v0.3](01-plano-sdd-editorial.md)  
+**Versão:** 0.7 — 2026-10-16 — jornada pessoal e leitura técnica independente
+
+**Base:** [spec 01, v0.7](concluida/01-sdd-editorial/01-especificacao-sdd-editorial.md) e [plano 01, v0.5](concluida/01-sdd-editorial/01-plano-sdd-editorial.md)
+
 **Entrega:** ENT-01 / T01-001  
-**Estado:** guia inicial; modelos, skills e piloto têm acompanhamento próprio nas [tasks](01-tasks-sdd-editorial.md).
+**Estado:** guia do método; construção e avaliação inicial registradas nas [tasks 01](concluida/01-sdd-editorial/01-tasks-sdd-editorial.md). Preparação em 02 e piloto em 03 têm escopos próprios.
 
 ## 1. Começar pelo trabalho solicitado
+
+Localize a iniciativa pelo [índice de organização](README.md): `backlog/` para trabalho aguardando seleção, `changes/` para análise ou execução ativa e `concluida/` para encerramento conferido. Spec, plano e tasks acompanham a pasta da iniciativa quando existirem. Atualize links ao mover, preserve IDs e evidências e não crie cópias concorrentes. A pasta não substitui os estados detalhados das tasks nem autoriza executar fases adicionais.
 
 Identifique a entrega pedida, sua fase atual e os documentos já existentes. Uma solicitação de análise não inicia automaticamente redação, implementação ou publicação. Reutilize decisões anteriores e avance nas partes que tenham contexto suficiente.
 
@@ -19,6 +23,14 @@ Identifique a entrega pedida, sua fase atual e os documentos já existentes. Uma
 | Retorno sobre material existente | Localizar a versão e avaliar o impacto. | Correção localizada ou revisão da intenção, com histórico preservado. |
 
 Análise, especificação e revisão de consistência ficam juntas na spec. Plano e tasks são documentos separados. Os artefatos resultantes recebem revisão adequada à sua finalidade. O resumo editorial 02 é outra iniciativa, e não o plano da spec 01.
+
+## Jornada pessoal e finalidade de cada texto
+
+A jornada é pessoal, narrada em primeira pessoa, com humor, retórica, cotidiano e referências escolhidas pelo autor. Família, seu pet (um furão), filmes, animes, livros e outros interesses podem participar conforme os relatos forem trazidos. Esses temas já estão autorizados como direção; nomes, cenas, diálogos, emoções e acontecimentos específicos precisam de fonte autoral. Nenhum tema precisa aparecer em todo texto.
+
+Os capítulos de estudo são o percurso técnico autônomo e formarão o livro. Devem apresentar conceitos, pré-requisitos e fontes suficientes para quem não acompanha a história pessoal. Relatos podem ser vinculados como leitura complementar; compreender a jornada não é pré-requisito para aprender o conteúdo. Posts e artigos recebem voz conforme a finalidade: história pessoal, explicação técnica ou combinação explícita das duas.
+
+O método serve à organização pessoal do autor: rotina, pausas e escolhas reais orientam o trabalho, sem metas de exposição ou produção presumidas. Specs, planos e tasks conservam clareza e evidência em linguagem direta; não precisam imitar formalidade corporativa nem transformar cada registro em história. Na preparação e revisão, distinguir precisão técnica de formalidade da voz. A escolha autoral vigente é registrada em RA02-15 da spec 02; orientações anteriores de tom profissional para toda a jornada ficam superadas.
 
 ## 2. Contexto mínimo
 
@@ -40,7 +52,7 @@ Selecione o contexto necessário ao trabalho, sem carregar todo o acervo. Transc
 
 Se a lacuna altera intenção, vivência ou conclusão central, formule uma pergunta específica ao autor ou registre a necessidade de pesquisa. Trabalhe nas partes independentes. Se a ausência não impedir um rascunho, mantenha uma marca editorial identificável, sem preencher a lacuna como fato.
 
-Decisões de público, tom, formato e canal pertencem ao [resumo editorial 02](02-resumo-editorial-onde-como-quando.md). A ausência dessas escolhas não impede construir modelos genéricos, mas pode impedir redigir ou avaliar o texto concreto. Fonte inacessível, instrução ausente e preferência não definida são limitações distintas: indique qual delas afeta a entrega.
+Decisões de público, tom, formato e canal pertencem à spec da iniciativa pertinente; para a primeira publicação, consultar a síntese vigente do [resumo editorial 02](concluida/02-preparacao-editorial/02-resumo-editorial-onde-como-quando.md). A ausência dessas escolhas não impede construir modelos genéricos, mas pode impedir redigir ou avaliar o texto concreto. Fonte inacessível, instrução ausente e preferência não definida são limitações distintas: indique qual delas afeta a entrega.
 
 ## 3. Escolher o percurso
 
@@ -100,7 +112,18 @@ Mantenha IDs existentes de sessões, episódios e publicações. Entregas sem ID
 | Apreciação autoral | Pendente ou retorno recebido, com decisões registradas. | Ausência de resposta não significa aprovação. |
 | Publicação | Não publicada ou publicação ocorrida, com destino e versão identificados. | Revisão concluída não publica o conteúdo. |
 
-As definições de maturidade seguem a [base do livro](../BASE_DO_LIVRO.md). Reutilize o registro de origem por vínculo, sem duplicá-lo como uma nova experiência para cada postagem ou capítulo.
+As definições de maturidade seguem a [base do livro](<../capitulos estudos/BASE_DO_LIVRO.md>). Reutilize o registro de origem por vínculo, sem duplicá-lo como uma nova experiência para cada postagem ou capítulo.
+
+### Contrato de localização e passagem ao acervo
+
+- `capitulos estudos/` mantém mapa, sequência de aprendizagem e capítulos; `jornada do heroi/` mantém contexto narrativo e fontes preservadas. As quinze etapas não substituem o currículo.
+- `registro da autoridade/publicacoes/` guarda todos os posts e artigos criados, inclusive rascunhos e derivados de capítulos. O [índice de publicações](<../registro da autoridade/PUBLICACOES.md>) identifica a versão de trabalho e os vínculos. Fontes antigas fora da pasta podem ser inventariadas por referência; sua cópia histórica permanece identificada, sem concorrer com novas versões editoriais.
+- Cada peça recebe ID, revisão, origem (`jornada`, `estudo` ou `ambas`), links às fontes/capítulos/episódios pertinentes, ficha e tarefa quando existentes. Episódio pessoal é opcional para uma explicação técnica. Artigo e chamada são peças distintas, ligadas entre si.
+- A ficha, os pareceres e as revisões podem acompanhar a peça em sua pasta. Specs, planos, tasks e avaliações do método permanecem em `spec editorial/`. Um capítulo que gera um artigo conserva seu arquivo de estudo e aponta para a publicação derivada.
+- Ao criar ou revisar uma peça, atualizar seu índice e registrar separadamente estado editorial, retorno autoral e publicação. Cada envio efetivo registra artefato, revisão exata, destino, data e URL; ausência de informação fica explícita. Preparar uma peça não autoriza enviá-la.
+- Notas de sessão e decisões de estudo documentam experiências. Mudanças de intenção editorial voltam à spec; estratégia ao plano; execução às tasks. O método de registro não substitui preparação, redação, revisão e integração SDD.
+
+Convenção aplicada na iniciativa 04. A conferência da nova interface é documental; as evidências históricas da v0.5 e das skills conservam seus limites. Antes do piloto, T02-005 deve considerar esta versão do guia e a ficha atualizada ao selecionar procedimentos e complementos.
 
 ## 8. Conferir e encerrar
 
@@ -116,9 +139,9 @@ Separar quatro evidências: estrutura dos arquivos; comportamento nos exercício
 
 O guia, os seis modelos e as sete skills foram construídos. Confirme caminhos e versões antes de usar os recursos. As skills locais são lidas explicitamente, sem presumir descoberta automática pelo ambiente. A situação de conferência e avaliação de cada entrega permanece nas tasks.
 
-O piloto permanece **01 — Novo mundo, bagagem antiga**. Antes dele, concluir a conferência integrada da metodologia, receber as definições necessárias do documento 02, confirmar os fatos pessoais relevantes e preservar o texto original. Os exercícios de avaliação usam material separado e não antecipam a reescrita do piloto.
+O piloto permanece **01 — Novo mundo, bagagem antiga**, sob a [spec 03](backlog/03-piloto-editorial/03-piloto-editorial.md). A [spec 02](concluida/02-preparacao-editorial/02-resumo-editorial-onde-como-quando.md) reúne análise de história/contexto, voz/tom e adequação das skills, além das condições de uso. Antes do piloto, receber sua preparação suficiente, confirmar fatos pessoais relevantes, complementar modos necessários ainda não exercitados e preservar o original. Os exercícios usam material separado e não antecipam a reescrita do piloto.
 
-Para continuar, consultar a próxima tarefa com dependências atendidas nas tasks. Não manter neste guia uma segunda lista de progresso; nenhuma preferência de público, canal ou voz precisa ser inventada para executar conferências documentais do método.
+Para continuar, consultar o acompanhamento da iniciativa pertinente. Se ainda não houver plano/tasks, seguir o parecer e a próxima ação da própria spec. As tasks 01 conservam as evidências e os IDs transferidos; não obrigam a executar o piloto para encerrar a construção do método. Não manter neste guia uma segunda lista de progresso nem inventar preferências de público, canal ou voz.
 
 ## 10. Histórico
 
@@ -126,3 +149,7 @@ Para continuar, consultar a próxima tarefa com dependências atendidas nas task
 | --- | --- |
 | 0.1 | Guia inicial, produzido antes dos modelos e skills. |
 | 0.2 | T01-015: papéis de parecer e aplicação explicitados nas passagens estrutural e de acabamento; referência aos perfis existentes e retirada de instruções de progresso desatualizadas. |
+| 0.3 | Separação autorizada: método em 01, preparação em 02 e piloto em 03. Atualizada a orientação de retomada; contratos editoriais e limites de evidência preservados. |
+| 0.4 | Referências de 01 atualizadas para o arquivo de concluídos; guia e recursos operacionais permanecem ativos. |
+| 0.5 | Convenção backlog → changes → concluida documentada no índice; referências de 02/03 atualizadas. Avaliações preservadas como evidência, sem alteração dos contratos editoriais. |
+| 0.6 | 2026-10-16: contrato de responsabilidades, origem dupla e passagem ao acervo; decisões da primeira publicação remetem à síntese vigente de 02. Conferência documental na iniciativa 04. |

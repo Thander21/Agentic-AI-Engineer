@@ -1,14 +1,16 @@
-# EP-001 — Título profissional do episódio
+# EP-001 — Título da história pessoal
 
 *(Título animesco entre parênteses.)*
 
-[Método de registro](../METODO_DE_REGISTRO.md) · [Base do livro](../../BASE_DO_LIVRO.md)
+[Método de registro](../METODO_DE_REGISTRO.md) · [Base do livro](<../../capitulos estudos/BASE_DO_LIVRO.md>)
 
 - Data e período do caso:
 - Etapa ou etapas:
 - Sessões e decisões relacionadas:
 - Estado: rascunho / documentado / conferido / para leitura.
 - Visibilidade pretendida: trabalho local / versão publicável.
+
+**Direção:** narrar em primeira pessoa, com humor e referências pessoais conforme o relato. Usar somente as seções que couberem: cotidiano, família, furão e interesses podem sustentar o episódio sem missão técnica, agentes, obstáculo ou conquista. Registrar detalhes a confirmar; não inventar cenas ou diálogos.
 
 ## Missão e contexto
 

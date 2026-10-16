@@ -29,7 +29,7 @@ As sínteses são uma leitura editorial do material. Os blocos identificados com
 
 #### F004 — Estudo aplicado ao próprio produto
 
-Origem histórica: `pensamentos.md`, linhas 124–136. Cópia relacionada para este assunto. Destino principal: [anexo 06](06-texto-anexo.md#fonte-f004).
+Origem histórica: conversa original, linhas 124–136. Cópia relacionada para este assunto. Destino principal: [anexo 06](06-texto-anexo.md#fonte-f004).
 
 <!-- FONTE: F004 INICIO -->
 > O Caminho Rápido para Fechar a Lacuna
@@ -52,7 +52,7 @@ Origem histórica: `pensamentos.md`, linhas 124–136. Cópia relacionada para e
 
 #### F014 — Como estudar enquanto mantém as entregas
 
-Origem histórica: `pensamentos.md`, linhas 220–229. Cópia relacionada para este assunto. Destino principal: [anexo 06](06-texto-anexo.md#fonte-f014).
+Origem histórica: conversa original, linhas 220–229. Cópia relacionada para este assunto. Destino principal: [anexo 06](06-texto-anexo.md#fonte-f014).
 
 <!-- FONTE: F014 INICIO -->
 > Como Estudar sem Parar as Entregas Práticas
@@ -72,7 +72,7 @@ Origem histórica: `pensamentos.md`, linhas 220–229. Cópia relacionada para e
 
 #### F015 — Possibilidade de aplicação ao domínio fiscal
 
-Origem histórica: `pensamentos.md`, linhas 230–232. Trecho principal desta etapa.
+Origem histórica: conversa original, linhas 230–232. Trecho principal desta etapa.
 
 <!-- FONTE: F015 INICIO -->
 > 
@@ -85,7 +85,7 @@ Origem histórica: `pensamentos.md`, linhas 230–232. Trecho principal desta et
 
 #### F023 — Escolha de caso condutor para o capítulo
 
-Origem histórica: `pensamentos.md`, linhas 436–436. Trecho principal desta etapa.
+Origem histórica: conversa original, linhas 436–436. Trecho principal desta etapa.
 
 <!-- FONTE: F023 INICIO -->
 > Qual domínio ou caso de uso prático você prefere usar como fio condutor nos exemplos de código desse capítulo piloto: regras de cálculo de faturamento/impostos ou validação de concorrência em estoque?
@@ -104,7 +104,7 @@ Origem histórica: `pensamentos.md`, linhas 436–436. Trecho principal desta et
 
 #### F036 — Repertório de falhas e laboratório
 
-Origem histórica: `pensamentos.md`, linhas 601–607. Trecho principal desta etapa.
+Origem histórica: conversa original, linhas 601–607. Trecho principal desta etapa.
 
 <!-- FONTE: F036 INICIO -->
 > 5. Repertório de Falhas (A Ausência de "Cicatrizes de Produção")
@@ -129,7 +129,7 @@ Origem histórica: `pensamentos.md`, linhas 601–607. Trecho principal desta et
 
 #### F045 — Exemplo didático: especificação e cenário de fatura
 
-Origem histórica: `pensamentos.md`, linhas 748–760. Cópia relacionada para este assunto. Destino principal: [anexo 10](10-texto-anexo.md#fonte-f045).
+Origem histórica: conversa original, linhas 748–760. Cópia relacionada para este assunto. Destino principal: [anexo 10](10-texto-anexo.md#fonte-f045).
 
 <!-- FONTE: F045 INICIO -->
 > Sim
@@ -152,7 +152,7 @@ Origem histórica: `pensamentos.md`, linhas 748–760. Cópia relacionada para e
 
 #### F046 — Exemplo didático: código da emissão de fatura
 
-Origem histórica: `pensamentos.md`, linhas 761–806. Cópia relacionada para este assunto. Destino principal: [anexo 10](10-texto-anexo.md#fonte-f046).
+Origem histórica: conversa original, linhas 761–806. Cópia relacionada para este assunto. Destino principal: [anexo 10](10-texto-anexo.md#fonte-f046).
 
 <!-- FONTE: F046 INICIO -->
 ~~~~csharp
@@ -210,7 +210,7 @@ public class FaturaService
 
 #### F047 — Exemplo didático: contratos, I/O e invariante
 
-Origem histórica: `pensamentos.md`, linhas 807–849. Cópia relacionada para este assunto. Destino principal: [anexo 10](10-texto-anexo.md#fonte-f047).
+Origem histórica: conversa original, linhas 807–849. Cópia relacionada para este assunto. Destino principal: [anexo 10](10-texto-anexo.md#fonte-f047).
 
 <!-- FONTE: F047 INICIO -->
 > Para um programador tradicional, a revisão exigiria ler linha por linha.
@@ -263,7 +263,7 @@ Origem histórica: `pensamentos.md`, linhas 807–849. Cópia relacionada para e
 
 #### F048 — Exemplo didático: condição de desconto
 
-Origem histórica: `pensamentos.md`, linhas 850–850. Cópia relacionada para este assunto. Destino principal: [anexo 10](10-texto-anexo.md#fonte-f048).
+Origem histórica: conversa original, linhas 850–850. Cópia relacionada para este assunto. Destino principal: [anexo 10](10-texto-anexo.md#fonte-f048).
 
 <!-- FONTE: F048 INICIO -->
 ~~~~csharp
@@ -276,7 +276,7 @@ if (pedido.DescontoTotal > 0.15m)
 
 #### F049 — Exemplo didático: interpretação e introdução do teste
 
-Origem histórica: `pensamentos.md`, linhas 851–862. Cópia relacionada para este assunto. Destino principal: [anexo 10](10-texto-anexo.md#fonte-f049).
+Origem histórica: conversa original, linhas 851–862. Cópia relacionada para este assunto. Destino principal: [anexo 10](10-texto-anexo.md#fonte-f049).
 
 <!-- FONTE: F049 INICIO -->
 > A falha: pedido.DescontoTotal está em valor absoluto (ex: 20€) ou em porcentagem (0.20)? Se o pedido for de 1.000€ e o desconto for de 50€, 50 > 0.15 é verdadeiro, e o sistema vai travar o pedido exigindo gerente para um desconto de 5%! A IA confundiu porcentagem com valor monetário.
@@ -298,7 +298,7 @@ Origem histórica: `pensamentos.md`, linhas 851–862. Cópia relacionada para e
 
 #### F050 — Exemplo didático: teste da emissão
 
-Origem histórica: `pensamentos.md`, linhas 863–869. Cópia relacionada para este assunto. Destino principal: [anexo 10](10-texto-anexo.md#fonte-f050).
+Origem histórica: conversa original, linhas 863–869. Cópia relacionada para este assunto. Destino principal: [anexo 10](10-texto-anexo.md#fonte-f050).
 
 <!-- FONTE: F050 INICIO -->
 ~~~~csharp
@@ -317,7 +317,7 @@ public async Task Deve_Emitir_Fatura_Com_Sucesso()
 
 #### F051 — Exemplo didático: leitura do teste e introdução dos logs
 
-Origem histórica: `pensamentos.md`, linhas 870–883. Cópia relacionada para este assunto. Destino principal: [anexo 10](10-texto-anexo.md#fonte-f051).
+Origem histórica: conversa original, linhas 870–883. Cópia relacionada para este assunto. Destino principal: [anexo 10](10-texto-anexo.md#fonte-f051).
 
 <!-- FONTE: F051 INICIO -->
 > A pergunta: O teste valida a regra ou apenas se o código roda sem explodir?
@@ -341,7 +341,7 @@ Origem histórica: `pensamentos.md`, linhas 870–883. Cópia relacionada para e
 
 #### F052 — Exemplo didático: sequência de logs
 
-Origem histórica: `pensamentos.md`, linhas 884–888. Cópia relacionada para este assunto. Destino principal: [anexo 10](10-texto-anexo.md#fonte-f052).
+Origem histórica: conversa original, linhas 884–888. Cópia relacionada para este assunto. Destino principal: [anexo 10](10-texto-anexo.md#fonte-f052).
 
 <!-- FONTE: F052 INICIO -->
 ~~~~text
@@ -358,7 +358,7 @@ Origem histórica: `pensamentos.md`, linhas 884–888. Cópia relacionada para e
 
 #### F053 — Exemplo didático: interpretação dos logs
 
-Origem histórica: `pensamentos.md`, linhas 889–890. Cópia relacionada para este assunto. Destino principal: [anexo 10](10-texto-anexo.md#fonte-f053).
+Origem histórica: conversa original, linhas 889–890. Cópia relacionada para este assunto. Destino principal: [anexo 10](10-texto-anexo.md#fonte-f053).
 
 <!-- FONTE: F053 INICIO -->
 > O diagnóstico visual: Você bate o olho e vê o tempo de 3.200ms entre o BEGIN e o COMMIT. Mesmo sem entender nada da sintaxe interna do C#, qualquer um entende que segurar uma transação aberta por 3 segundos é uma bomba-relógio para o banco de dados.
@@ -378,7 +378,7 @@ Origem histórica: `pensamentos.md`, linhas 889–890. Cópia relacionada para e
 
 #### F072 — Ciclo proposto de estudo, aplicação e escrita
 
-Origem histórica: `pensamentos.md`, linhas 1204–1214. Cópia relacionada para este assunto. Destino principal: [anexo 06](06-texto-anexo.md#fonte-f072).
+Origem histórica: conversa original, linhas 1204–1214. Cópia relacionada para este assunto. Destino principal: [anexo 06](06-texto-anexo.md#fonte-f072).
 
 <!-- FONTE: F072 INICIO -->
 > A Dinâmica do Estudo Aplicado
@@ -394,4 +394,3 @@ Origem histórica: `pensamentos.md`, linhas 1204–1214. Cópia relacionada para
 > 
 
 <!-- FONTE: F072 FIM -->
-

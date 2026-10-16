@@ -29,7 +29,7 @@ As sínteses são uma leitura editorial do material. Os blocos identificados com
 
 #### F024 — Pedido de uma grade para orquestrar e decidir
 
-Origem histórica: `pensamentos.md`, linhas 437–438. Cópia relacionada para este assunto. Destino principal: [anexo 03](03-texto-anexo.md#fonte-f024).
+Origem histórica: conversa original, linhas 437–438. Cópia relacionada para este assunto. Destino principal: [anexo 03](03-texto-anexo.md#fonte-f024).
 
 <!-- FONTE: F024 INICIO -->
 > Com base no que discutimos e os para mtos levantados análise a grade curricular de um curso de engenharia de software e monte a nossa grade prática retira tópicos de programação já que nessa área o código é gerado pela ia o engeniro tem que entender como orquestrar, responder, direcionar e tomar todas as decisões
@@ -41,7 +41,7 @@ Origem histórica: `pensamentos.md`, linhas 437–438. Cópia relacionada para e
 
 #### F065 — Definição pessoal da jornada de estudo e autoria
 
-Origem histórica: `pensamentos.md`, linhas 1092–1094. Cópia relacionada para este assunto. Destino principal: [anexo 01](01-texto-anexo.md#fonte-f065).
+Origem histórica: conversa original, linhas 1092–1094. Cópia relacionada para este assunto. Destino principal: [anexo 01](01-texto-anexo.md#fonte-f065).
 
 <!-- FONTE: F065 INICIO -->
 > Sim
@@ -62,7 +62,7 @@ Origem histórica: `pensamentos.md`, linhas 1092–1094. Cópia relacionada para
 
 #### F029 — Qualidade, testes e revisão de código gerado
 
-Origem histórica: `pensamentos.md`, linhas 500–510. Cópia relacionada para este assunto. Destino principal: [anexo 10](10-texto-anexo.md#fonte-f029).
+Origem histórica: conversa original, linhas 500–510. Cópia relacionada para este assunto. Destino principal: [anexo 10](10-texto-anexo.md#fonte-f029).
 
 <!-- FONTE: F029 INICIO -->
 > Módulo 4: Redes de Contenção, Invariantes e Quality Gates
@@ -83,7 +83,7 @@ Origem histórica: `pensamentos.md`, linhas 500–510. Cópia relacionada para e
 
 #### F057 — Cinco filtros consolidados no blueprint
 
-Origem histórica: `pensamentos.md`, linhas 939–975. Cópia relacionada para este assunto. Destino principal: [anexo 10](10-texto-anexo.md#fonte-f057).
+Origem histórica: conversa original, linhas 939–975. Cópia relacionada para este assunto. Destino principal: [anexo 10](10-texto-anexo.md#fonte-f057).
 
 <!-- FONTE: F057 INICIO -->
 > ## 2. O Método dos 5 Filtros de Auditoria Rápida
@@ -130,7 +130,7 @@ Origem histórica: `pensamentos.md`, linhas 939–975. Cópia relacionada para e
 
 #### F083 — Sequência revisada: verificação e validação
 
-Origem histórica: `pensamentos.md`, linhas 1339–1347. Cópia relacionada para este assunto. Destino principal: [anexo 10](10-texto-anexo.md#fonte-f083).
+Origem histórica: conversa original, linhas 1339–1347. Cópia relacionada para este assunto. Destino principal: [anexo 10](10-texto-anexo.md#fonte-f083).
 
 <!-- FONTE: F083 INICIO -->
 > Fase 5: Verificação, Validação (V&V) e Redes de Contenção
@@ -157,7 +157,7 @@ Origem histórica: `pensamentos.md`, linhas 1339–1347. Cópia relacionada para
 
 #### F054 — Conclusões e alcance atribuídos ao exercício
 
-Origem histórica: `pensamentos.md`, linhas 891–913. Trecho principal desta etapa.
+Origem histórica: conversa original, linhas 891–913. Trecho principal desta etapa.
 
 <!-- FONTE: F054 INICIO -->
 > O Que Esse Exercício Prova
@@ -190,7 +190,7 @@ Origem histórica: `pensamentos.md`, linhas 891–913. Trecho principal desta et
 
 #### F073 — Resultados prometidos para o ciclo: a verificar
 
-Origem histórica: `pensamentos.md`, linhas 1215–1216. Trecho principal desta etapa.
+Origem histórica: conversa original, linhas 1215–1216. Trecho principal desta etapa.
 
 <!-- FONTE: F073 INICIO -->
 > Ao final desse ciclo em 7 fases, você terá modernizado completamente o seu produto, adquirido senioridade arquitetural comprovada e concluído o manuscrito de um livro 100% ancorado na realidade da engenharia moderna.
@@ -202,7 +202,7 @@ Origem histórica: `pensamentos.md`, linhas 1215–1216. Trecho principal desta 
 
 #### F076 — Métricas estáticas e análise de mutação
 
-Origem histórica: `pensamentos.md`, linhas 1253–1268. Cópia relacionada para este assunto. Destino principal: [anexo 10](10-texto-anexo.md#fonte-f076).
+Origem histórica: conversa original, linhas 1253–1268. Cópia relacionada para este assunto. Destino principal: [anexo 10](10-texto-anexo.md#fonte-f076).
 
 <!-- FONTE: F076 INICIO -->
 > 3. Métricas de Código e Garantia de Qualidade de Software (SQA)
@@ -236,7 +236,7 @@ Origem histórica: `pensamentos.md`, linhas 1253–1268. Cópia relacionada para
 
 #### F020 — Exemplo de spec editorial: escopo e objetivos
 
-Origem histórica: `pensamentos.md`, linhas 339–373. Cópia relacionada para este assunto. Destino principal: [anexo 15](15-texto-anexo.md#fonte-f020).
+Origem histórica: conversa original, linhas 339–373. Cópia relacionada para este assunto. Destino principal: [anexo 15](15-texto-anexo.md#fonte-f020).
 
 <!-- FONTE: F020 INICIO -->
 > Markdown
@@ -281,7 +281,7 @@ Origem histórica: `pensamentos.md`, linhas 339–373. Cópia relacionada para e
 
 #### F021 — Exemplo de spec editorial: critérios Gherkin
 
-Origem histórica: `pensamentos.md`, linhas 374–391. Cópia relacionada para este assunto. Destino principal: [anexo 15](15-texto-anexo.md#fonte-f021).
+Origem histórica: conversa original, linhas 374–391. Cópia relacionada para este assunto. Destino principal: [anexo 15](15-texto-anexo.md#fonte-f021).
 
 <!-- FONTE: F021 INICIO -->
 ~~~~text
@@ -306,4 +306,3 @@ Cenário: Criação de Teste de Comportamento em Memória
 
 ~~~~
 <!-- FONTE: F021 FIM -->
-

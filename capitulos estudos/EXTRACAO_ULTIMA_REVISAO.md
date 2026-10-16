@@ -2,7 +2,7 @@
 
 [Estrutura consolidada](ESTRUTURA_E_ESTUDO.md) · [Índice do livro](README.md)
 
-Origem: `pensamentos.md`, linhas 1219–1371. O trecho contém o pedido final de aprofundamento em Engenharia de Software e a resposta com os cinco pilares adicionais e a sequência revisada de sete fases.
+Origem: conversa original, linhas 1219–1371. O trecho contém o pedido final de aprofundamento em Engenharia de Software e a resposta com os cinco pilares adicionais e a sequência revisada de sete fases.
 
 A transcrição preserva as palavras, exemplos e afirmações da conversa. Alegações técnicas ou promessas presentes nela continuam como material a avaliar; a organização para estudo está no documento de estrutura consolidada.
 

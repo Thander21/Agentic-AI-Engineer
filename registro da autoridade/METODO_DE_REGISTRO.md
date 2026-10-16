@@ -2,6 +2,12 @@
 
 [Índice do registro](README.md) · [Universo narrativo](<../jornada do heroi/UNIVERSO_NARRATIVO.md>)
 
+## Relação com o SDD e com o acervo
+
+Este método organiza fontes e registros de experiência. Preparação, redação, revisão e integração de textos seguem o [guia SDD](<../spec editorial/GUIA_DE_OPERACAO.md>), usando ficha proporcional. Posts e artigos de origem jornada, estudo ou ambas ficam em `publicacoes/` e no [índice central](PUBLICACOES.md). Capítulos e ordem de aprendizagem ficam em `capitulos estudos/`.
+
+Um registro DEC documenta uma escolha da experiência ou do estudo. Se a escolha altera intenção editorial, registrá-la na spec pertinente e vincular o DEC; estratégia pertence ao plano e execução às tasks. Não manter decisões editoriais concorrentes nas fichas de registro.
+
 ## Um registro que sirva ao trabalho e à história
 
 Cada avanço deve deixar uma explicação recuperável: o problema, a compreensão inicial, a tentativa, a evidência e o que mudou. Isso preserva a matéria-prima antes de adaptá-la para leitores. A versão pública pode ser mais curta; o capítulo precisará de contexto, fontes e exemplos suficientes para ensinar.
@@ -11,11 +17,13 @@ Cada avanço deve deixar uma explicação recuperável: o problema, a compreens�
 | Registro | Quando usar | Conteúdo essencial |
 | --- | --- | --- |
 | Sessão | Ao estudar, experimentar ou investigar | Pergunta, atividade, fonte, observação e próximo passo. |
-| Episódio | Quando houver uma mudança de entendimento ou um impasse significativo | Situação, tentativa, consequência, decisão, evidência e aprendizado. |
+| Episódio | Quando houver uma experiência pessoal que o autor queira contar, cotidiana ou ligada ao estudo | Contexto vivido, voz em primeira pessoa e movimentos que o relato sustentar; aprendizado ou evidência técnica quando pertinentes. |
 | Decisão | Quando alternativas tiverem efeitos importantes para o projeto | Contexto, opções, escolha, motivos, custos e condição para rever. |
 | Retorno do leitor | Quando uma dúvida ou crítica revelar algo sobre o ensino | Pergunta recebida, entendimento do leitor, resposta e ajuste no material. |
 
-Os registros recebem IDs estáveis: `SS-AAAA-MM-DD-001`, `EP-001`, `DEC-001` e `RET-001`. O texto público pode receber `PUB-001` e apontar para o episódio que lhe deu origem. Não duplicar o episódio quando ele contribuir para duas etapas: vincular o mesmo ID às duas fichas.
+Os registros recebem IDs estáveis: `SS-AAAA-MM-DD-001`, `EP-001`, `DEC-001` e `RET-001`. O texto público recebe um ID PUB disponível, conferido no índice, e aponta para capítulo/fontes e/ou episódio de origem. Não criar episódio fictício para preencher o vínculo. Não duplicar o episódio quando ele contribuir para duas etapas: vincular o mesmo ID às duas fichas.
+
+A rotina de registro deve caber na vida do autor. Notas breves, pausas e retomadas são possíveis; frequência de postagem e quantidade de entregas não medem o valor da experiência pessoal.
 
 ## O registro mínimo de uma sessão
 
@@ -36,7 +44,7 @@ Registrar o trabalho do agente e a intervenção humana quando isso for relevant
 
 O obstáculo pode ser uma falha técnica, um conceito difícil, uma hipótese rejeitada ou uma explicação que não ficou clara. Nem todo episódio precisa de derrota, nem toda derrota termina resolvida na mesma sessão. Usar os movimentos que a experiência fornecer.
 
-A voz medieval aparece no título animesco e, se couber, numa frase de abertura. O título profissional identifica a questão que o leitor aprenderá a compreender. Em seguida, apresentar contexto técnico e evidências com vocabulário direto.
+A história pessoal é contada em primeira pessoa. Humor, retórica, cotidiano e referências de RPG, filmes, animes e livros podem atravessar o episódio, sem se limitar ao título ou à abertura. Família e furão entram a partir dos relatos do autor. Um episódio pode registrar uma observação cotidiana sem exigir problema técnico, conquista ou lição profissional. Explicações técnicas mantêm precisão; capítulos oferecem leitura autônoma.
 
 ## Como criar identificação e rapport
 
@@ -55,7 +63,7 @@ Uma abertura possível é: "Eu conseguia fazer X, mas ainda não sabia justifica
 
 Cada afirmação deve mostrar sua base. Separar o que foi observado, o que foi estudado em uma fonte e o que ainda é hipótese. Apresentar alternativas consideradas, o motivo da escolha e os limites do resultado. Uma conclusão pequena e bem sustentada já pode ser uma contribuição útil.
 
-O posicionamento acompanha esse processo: técnico experiente em uma jornada de formação em engenharia com agentes, documentando decisões e aprendizados aplicados. Especialidades e títulos adicionais podem ser definidos conforme as capacidades demonstradas.
+O autor documenta uma jornada pessoal que inclui formação e experiência técnica. O aproveitamento profissional do conhecimento e a credibilidade resultante convivem com relatos que têm valor pessoal, sem exigir posicionamento de carreira a cada episódio.
 
 ## Evidências adequadas ao tipo de afirmação
 

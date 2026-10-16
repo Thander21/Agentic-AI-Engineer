@@ -28,7 +28,7 @@ As sínteses são uma leitura editorial do material. Os blocos identificados com
 
 #### F024 — Pedido de uma grade para orquestrar e decidir
 
-Origem histórica: `pensamentos.md`, linhas 437–438. Trecho principal desta etapa.
+Origem histórica: conversa original, linhas 437–438. Trecho principal desta etapa.
 
 <!-- FONTE: F024 INICIO -->
 > Com base no que discutimos e os para mtos levantados análise a grade curricular de um curso de engenharia de software e monte a nossa grade prática retira tópicos de programação já que nessa área o código é gerado pela ia o engeniro tem que entender como orquestrar, responder, direcionar e tomar todas as decisões
@@ -40,7 +40,7 @@ Origem histórica: `pensamentos.md`, linhas 437–438. Trecho principal desta et
 
 #### F032 — Comparação de papéis e competências pretendidas
 
-Origem histórica: `pensamentos.md`, linhas 540–549. Trecho principal desta etapa.
+Origem histórica: conversa original, linhas 540–549. Trecho principal desta etapa.
 
 <!-- FONTE: F032 INICIO -->
 > Comparativo: Grade Tradicional vs. Grade Prática do Orquestrador
@@ -68,7 +68,7 @@ Origem histórica: `pensamentos.md`, linhas 540–549. Trecho principal desta et
 
 #### F031 — Orquestração e governança de agentes
 
-Origem histórica: `pensamentos.md`, linhas 531–539. Cópia relacionada para este assunto. Destino principal: [anexo 09](09-texto-anexo.md#fonte-f031).
+Origem histórica: conversa original, linhas 531–539. Cópia relacionada para este assunto. Destino principal: [anexo 09](09-texto-anexo.md#fonte-f031).
 
 <!-- FONTE: F031 INICIO -->
 > Módulo 7: Orquestração de Agentes e Governança de IA
@@ -95,7 +95,7 @@ Origem histórica: `pensamentos.md`, linhas 531–539. Cópia relacionada para e
 
 #### F034 — Lacuna de leitura e auditoria
 
-Origem histórica: `pensamentos.md`, linhas 562–579. Cópia relacionada para este assunto. Destino principal: [anexo 10](10-texto-anexo.md#fonte-f034).
+Origem histórica: conversa original, linhas 562–579. Cópia relacionada para este assunto. Destino principal: [anexo 10](10-texto-anexo.md#fonte-f034).
 
 <!-- FONTE: F034 INICIO -->
 > 1. Literacia de Leitura (Saber Ler Código 
@@ -123,7 +123,7 @@ Origem histórica: `pensamentos.md`, linhas 562–579. Cópia relacionada para e
 
 #### F035 — Lacunas de máquina, runtime e assincronismo
 
-Origem histórica: `pensamentos.md`, linhas 580–600. Cópia relacionada para este assunto. Destino principal: [anexo 07](07-texto-anexo.md#fonte-f035).
+Origem histórica: conversa original, linhas 580–600. Cópia relacionada para este assunto. Destino principal: [anexo 07](07-texto-anexo.md#fonte-f035).
 
 <!-- FONTE: F035 INICIO -->
 > 2. O Modelo Físico da Máquina (Onde a Computação Acontece)
@@ -154,7 +154,7 @@ Origem histórica: `pensamentos.md`, linhas 580–600. Cópia relacionada para e
 
 #### F065 — Definição pessoal da jornada de estudo e autoria
 
-Origem histórica: `pensamentos.md`, linhas 1092–1094. Cópia relacionada para este assunto. Destino principal: [anexo 01](01-texto-anexo.md#fonte-f065).
+Origem histórica: conversa original, linhas 1092–1094. Cópia relacionada para este assunto. Destino principal: [anexo 01](01-texto-anexo.md#fonte-f065).
 
 <!-- FONTE: F065 INICIO -->
 > Sim
@@ -162,4 +162,3 @@ Origem histórica: `pensamentos.md`, linhas 1092–1094. Cópia relacionada para
 > 
 
 <!-- FONTE: F065 FIM -->
-

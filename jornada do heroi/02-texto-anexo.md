@@ -28,7 +28,7 @@ As sínteses são uma leitura editorial do material. Os blocos identificados com
 
 #### F044 — Tese proposta para a obra
 
-Origem histórica: `pensamentos.md`, linhas 733–747. Trecho principal desta etapa.
+Origem histórica: conversa original, linhas 733–747. Trecho principal desta etapa.
 
 <!-- FONTE: F044 INICIO -->
 > O Que Isso Significa para o Seu Livro?
@@ -53,7 +53,7 @@ Origem histórica: `pensamentos.md`, linhas 733–747. Trecho principal desta et
 
 #### F056 — Manifesto e tese no blueprint
 
-Origem histórica: `pensamentos.md`, linhas 923–938. Trecho principal desta etapa.
+Origem histórica: conversa original, linhas 923–938. Trecho principal desta etapa.
 
 <!-- FONTE: F056 INICIO -->
 > ## 1. Tese Central e Manifesto
@@ -87,7 +87,7 @@ Origem histórica: `pensamentos.md`, linhas 923–938. Trecho principal desta et
 
 #### F065 — Definição pessoal da jornada de estudo e autoria
 
-Origem histórica: `pensamentos.md`, linhas 1092–1094. Cópia relacionada para este assunto. Destino principal: [anexo 01](01-texto-anexo.md#fonte-f065).
+Origem histórica: conversa original, linhas 1092–1094. Cópia relacionada para este assunto. Destino principal: [anexo 01](01-texto-anexo.md#fonte-f065).
 
 <!-- FONTE: F065 INICIO -->
 > Sim
@@ -100,7 +100,7 @@ Origem histórica: `pensamentos.md`, linhas 1092–1094. Cópia relacionada para
 
 #### F072 — Ciclo proposto de estudo, aplicação e escrita
 
-Origem histórica: `pensamentos.md`, linhas 1204–1214. Cópia relacionada para este assunto. Destino principal: [anexo 06](06-texto-anexo.md#fonte-f072).
+Origem histórica: conversa original, linhas 1204–1214. Cópia relacionada para este assunto. Destino principal: [anexo 06](06-texto-anexo.md#fonte-f072).
 
 <!-- FONTE: F072 INICIO -->
 > A Dinâmica do Estudo Aplicado
@@ -129,7 +129,7 @@ Origem histórica: `pensamentos.md`, linhas 1204–1214. Cópia relacionada para
 
 #### F038 — Debate sobre o público não técnico e a promessa do livro
 
-Origem histórica: `pensamentos.md`, linhas 619–626. Cópia relacionada para este assunto. Destino principal: [anexo 04](04-texto-anexo.md#fonte-f038).
+Origem histórica: conversa original, linhas 619–626. Cópia relacionada para este assunto. Destino principal: [anexo 04](04-texto-anexo.md#fonte-f038).
 
 <!-- FONTE: F038 INICIO -->
 > Sim
@@ -147,7 +147,7 @@ Origem histórica: `pensamentos.md`, linhas 619–626. Cópia relacionada para e
 
 #### F054 — Conclusões e alcance atribuídos ao exercício
 
-Origem histórica: `pensamentos.md`, linhas 891–913. Cópia relacionada para este assunto. Destino principal: [anexo 11](11-texto-anexo.md#fonte-f054).
+Origem histórica: conversa original, linhas 891–913. Cópia relacionada para este assunto. Destino principal: [anexo 11](11-texto-anexo.md#fonte-f054).
 
 <!-- FONTE: F054 INICIO -->
 > O Que Esse Exercício Prova
@@ -180,11 +180,10 @@ Origem histórica: `pensamentos.md`, linhas 891–913. Cópia relacionada para e
 
 #### F073 — Resultados prometidos para o ciclo: a verificar
 
-Origem histórica: `pensamentos.md`, linhas 1215–1216. Cópia relacionada para este assunto. Destino principal: [anexo 11](11-texto-anexo.md#fonte-f073).
+Origem histórica: conversa original, linhas 1215–1216. Cópia relacionada para este assunto. Destino principal: [anexo 11](11-texto-anexo.md#fonte-f073).
 
 <!-- FONTE: F073 INICIO -->
 > Ao final desse ciclo em 7 fases, você terá modernizado completamente o seu produto, adquirido senioridade arquitetural comprovada e concluído o manuscrito de um livro 100% ancorado na realidade da engenharia moderna.
 > 
 
 <!-- FONTE: F073 FIM -->
-

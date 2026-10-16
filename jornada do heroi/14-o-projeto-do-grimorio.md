@@ -16,7 +16,11 @@ As páginas acumuladas já contam uma aventura, mas o futuro leitor precisa enco
 
 **Contexto 10 — O livro como obra didática.** Propósito, recorte, transformação pretendida para o leitor, linguagem, exemplos e estrutura futura. Sua trajetória fornecerá a matéria-prima, mas a ordem mais clara para ensinar poderá ser diferente da ordem em que você aprendeu.
 
-## O que desenvolver aqui
+## Uso atual deste contexto
+
+Esta página orienta a narrativa sobre a experiência. O [mapa de estudos](<../capitulos estudos/MAPA_DE_ESTUDOS.md>) organiza capítulos, sequência e pré-requisitos; o [guia SDD](<../spec editorial/GUIA_DE_OPERACAO.md>) define produção e revisão; posts e artigos derivados entram no [acervo central](<../registro da autoridade/PUBLICACOES.md>). As propostas e cenas preservadas não são fatos biográficos nem um segundo plano de execução.
+
+## Temas para contar a experiência
 
 - Promessa editorial, escopo, didática e narrativa.
 - Seleção de casos e relação entre fundamentos e aplicação.
@@ -54,7 +58,7 @@ O desafio muda: algo importante para o autor pode estar confuso para quem não e
 
 ## Observações sobre o material
 
-O sumário de quinze capítulos preservado no anexo é uma proposta anterior. A última revisão organiza a formação em sete fases, agora reunidas na estrutura consolidada do livro. As quinze etapas desta jornada organizam o projeto completo e não fixam quinze capítulos para o livro.
+O sumário de quinze capítulos preservado no anexo é uma proposta anterior. A última revisão organiza a formação em sete fases, agora reunidas na estrutura consolidada do livro. As quinze etapas desta jornada organizam seus contextos narrativos e não fixam quinze capítulos para o livro.
 
 ## Registro contínuo desta etapa
 
@@ -62,4 +66,4 @@ O sumário de quinze capítulos preservado no anexo é uma proposta anterior. A 
 
 ## Estrutura consolidada do livro
 
-[Sete partes e dados de estudo](../Livro/ESTRUTURA_E_ESTUDO.md) · [Última revisão literal](../Livro/EXTRACAO_ULTIMA_REVISAO.md).
+[Sete partes e dados de estudo](<../capitulos estudos/ESTRUTURA_E_ESTUDO.md>) · [Última revisão literal](<../capitulos estudos/EXTRACAO_ULTIMA_REVISAO.md>).

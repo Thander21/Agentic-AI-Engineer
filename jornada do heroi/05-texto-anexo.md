@@ -29,7 +29,7 @@ As sínteses são uma leitura editorial do material. Os blocos identificados com
 
 #### F005 — Busca de formação estruturada e comparação com cursos
 
-Origem histórica: `pensamentos.md`, linhas 137–147. Trecho principal desta etapa.
+Origem histórica: conversa original, linhas 137–147. Trecho principal desta etapa.
 
 <!-- FONTE: F005 INICIO -->
 > Sim
@@ -50,7 +50,7 @@ Origem histórica: `pensamentos.md`, linhas 137–147. Trecho principal desta et
 
 #### F025 — Afirmações sobre formação tradicional a examinar
 
-Origem histórica: `pensamentos.md`, linhas 439–453. Trecho principal desta etapa.
+Origem histórica: conversa original, linhas 439–453. Trecho principal desta etapa.
 
 <!-- FONTE: F025 INICIO -->
 > A grade tradicional de Engenharia de Software foi desenhada para uma era em que 80% do tempo de um profissional era gasto digitando sintaxe, depurando ponteiros e implementando manualmente algoritmos já resolvidos pela ciência da computação.
@@ -83,7 +83,7 @@ Origem histórica: `pensamentos.md`, linhas 439–453. Trecho principal desta et
 
 #### F007 — Fontes de domínio e arquitetura
 
-Origem histórica: `pensamentos.md`, linhas 159–166. Trecho principal desta etapa.
+Origem histórica: conversa original, linhas 159–166. Trecho principal desta etapa.
 
 <!-- FONTE: F007 INICIO -->
 > Fontes estruturadas de estudo:
@@ -101,7 +101,7 @@ Origem histórica: `pensamentos.md`, linhas 159–166. Trecho principal desta et
 
 #### F009 — Fontes de testes
 
-Origem histórica: `pensamentos.md`, linhas 178–183. Trecho principal desta etapa.
+Origem histórica: conversa original, linhas 178–183. Trecho principal desta etapa.
 
 <!-- FONTE: F009 INICIO -->
 > Fontes estruturadas de estudo:
@@ -117,7 +117,7 @@ Origem histórica: `pensamentos.md`, linhas 178–183. Trecho principal desta et
 
 #### F011 — Fontes de dados e local-first
 
-Origem histórica: `pensamentos.md`, linhas 195–200. Trecho principal desta etapa.
+Origem histórica: conversa original, linhas 195–200. Trecho principal desta etapa.
 
 <!-- FONTE: F011 INICIO -->
 > Fontes estruturadas de estudo:
@@ -133,7 +133,7 @@ Origem histórica: `pensamentos.md`, linhas 195–200. Trecho principal desta et
 
 #### F013 — Fontes de resiliência e observabilidade
 
-Origem histórica: `pensamentos.md`, linhas 212–219. Trecho principal desta etapa.
+Origem histórica: conversa original, linhas 212–219. Trecho principal desta etapa.
 
 <!-- FONTE: F013 INICIO -->
 > Fontes estruturadas de estudo:
@@ -159,7 +159,7 @@ Origem histórica: `pensamentos.md`, linhas 212–219. Trecho principal desta et
 
 #### F075 — Pedido de mais Engenharia de Software e fundamentos formais
 
-Origem histórica: `pensamentos.md`, linhas 1219–1252. Cópia relacionada para este assunto. Destino principal: [anexo 07](07-texto-anexo.md#fonte-f075).
+Origem histórica: conversa original, linhas 1219–1252. Cópia relacionada para este assunto. Destino principal: [anexo 07](07-texto-anexo.md#fonte-f075).
 
 <!-- FONTE: F075 INICIO -->
 > Sim
@@ -211,7 +211,7 @@ Origem histórica: `pensamentos.md`, linhas 1219–1252. Cópia relacionada para
 
 #### F076 — Métricas estáticas e análise de mutação
 
-Origem histórica: `pensamentos.md`, linhas 1253–1268. Cópia relacionada para este assunto. Destino principal: [anexo 10](10-texto-anexo.md#fonte-f076).
+Origem histórica: conversa original, linhas 1253–1268. Cópia relacionada para este assunto. Destino principal: [anexo 10](10-texto-anexo.md#fonte-f076).
 
 <!-- FONTE: F076 INICIO -->
 > 3. Métricas de Código e Garantia de Qualidade de Software (SQA)
@@ -237,11 +237,10 @@ Origem histórica: `pensamentos.md`, linhas 1253–1268. Cópia relacionada para
 
 #### F073 — Resultados prometidos para o ciclo: a verificar
 
-Origem histórica: `pensamentos.md`, linhas 1215–1216. Cópia relacionada para este assunto. Destino principal: [anexo 11](11-texto-anexo.md#fonte-f073).
+Origem histórica: conversa original, linhas 1215–1216. Cópia relacionada para este assunto. Destino principal: [anexo 11](11-texto-anexo.md#fonte-f073).
 
 <!-- FONTE: F073 INICIO -->
 > Ao final desse ciclo em 7 fases, você terá modernizado completamente o seu produto, adquirido senioridade arquitetural comprovada e concluído o manuscrito de um livro 100% ancorado na realidade da engenharia moderna.
 > 
 
 <!-- FONTE: F073 FIM -->
-

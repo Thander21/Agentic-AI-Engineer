@@ -2,7 +2,7 @@
 name: editorial-preparar
 description: Seleciona contexto, registros e fontes para criar ou atualizar uma ficha editorial de episódio, postagem, capítulo ou documento operacional. Use antes da redação quando for necessário delimitar intenção, base factual, voz e lacunas. Não use para elaborar a spec geral da metodologia, escrever o texto final ou emitir revisão de um rascunho.
 metadata:
-  version: "0.1"
+  version: "0.2"
 ---
 
 # Preparar contexto e ficha editorial
@@ -19,9 +19,9 @@ Receba o pedido atual, a tarefa quando houver, o destino conhecido, os registros
 
 - [Guia de operação](../../GUIA_DE_OPERACAO.md): consulte para contexto mínimo, percurso e passagem à redação.
 - [Ficha editorial](../../modelos/ficha-editorial.md): escolha a forma curta ou completa e use seus campos para produzir a saída.
-- [Resumo editorial 02](../../02-resumo-editorial-onde-como-quando.md): consulte as decisões vigentes sobre onde, como e quando. Campos abertos nesse documento não são escolhas já feitas.
+- [Resumo editorial 02](../../concluida/02-preparacao-editorial/02-resumo-editorial-onde-como-quando.md): consulte as decisões vigentes sobre onde, como e quando. Campos abertos nesse documento não são escolhas já feitas.
 
-Resolva os caminhos a partir desta pasta e confirme sua existência. A skill depende do conjunto local; referência ausente deve ser informada com seu impacto, sem inventar conteúdo. Leia o acervo por necessidade do texto; não carregue todo `pensamentos.md`, todos os anexos ou o cofre inteiro do Obsidian por padrão.
+Resolva os caminhos a partir desta pasta e confirme sua existência. A skill depende do conjunto local; referência ausente deve ser informada com seu impacto, sem inventar conteúdo. Leia o acervo por necessidade do texto; não carregue toda a conversa original, todos os anexos ou o cofre inteiro do Obsidian por padrão.
 
 ## Escolher a forma da ficha
 
@@ -34,6 +34,8 @@ Explique a escolha brevemente. Ao ampliar uma ficha existente, conserve seu ID e
 Explicite a pergunta do leitor e a contribuição pretendida, usando o pedido e as decisões disponíveis. Registre público, formato, extensão, destino e momento de uso somente quando conhecidos. Não deduza variante do português pela localização do autor nem decida tom ou canal para preencher a ficha.
 
 Vincule o texto à etapa da jornada, à parte do livro e aos textos vizinhos apenas quando fizer sentido. Identifique pré-requisitos e função da unidade no conjunto. Um episódio, uma postagem e um capítulo podem usar o mesmo registro de origem; mantenha esse vínculo sem inventar experiências adicionais ou equivalência automática entre os formatos.
+
+Identifique a finalidade da peça: história pessoal, conteúdo técnico ou combinação. Receba a direção vigente de primeira pessoa, humor e referências pessoais sem perguntar novamente se ela está autorizada. Se a cena depender de um detalhe de família, furão ou outro tema ainda não relatado, registre a lacuna específica. Capítulos precisam de contexto técnico suficiente para leitura sem a autobiografia.
 
 ## Selecionar base factual e fontes
 

@@ -14,9 +14,13 @@ Os conceitos conhecidos pelo nome agora exigem explicação. Requisitos, memóri
 
 ## Contexto preservado da análise anterior
 
-**Contexto 04 — Bagagem teórica realmente necessária.** O conjunto de conhecimentos que sustenta as decisões: fundamentos de computação, requisitos, modelagem, arquitetura, dados, qualidade, segurança, operação, manutenção e economia do software. Aqui se define o que compreender e com qual profundidade; a sequência de estudo fica em outro contexto.
+**Contexto 04 — Bagagem teórica realmente necessária.** O conjunto de conhecimentos que sustenta as decisões: fundamentos de computação, requisitos, modelagem, arquitetura, dados, qualidade, segurança, operação, manutenção e economia do software. Esse contexto histórico reúne perguntas sobre o que compreender; a profundidade e a sequência atuais são organizadas em `capitulos estudos/`.
 
-## O que desenvolver aqui
+## Uso atual deste contexto
+
+Esta página orienta a narrativa sobre a experiência. O [mapa de estudos](<../capitulos estudos/MAPA_DE_ESTUDOS.md>) organiza capítulos, sequência e pré-requisitos; o [guia SDD](<../spec editorial/GUIA_DE_OPERACAO.md>) define produção e revisão; posts e artigos derivados entram no [acervo central](<../registro da autoridade/PUBLICACOES.md>). As propostas e cenas preservadas não são fatos biográficos nem um segundo plano de execução.
+
+## Temas para contar a experiência
 
 - Computação, runtime, redes, dados e concorrência.
 - Requisitos, domínio, modularidade, arquitetura, qualidade e testes.
@@ -55,7 +59,7 @@ Aqui cabem dificuldade, repetição, dedicação e pequenas recompensas: finalme
 
 ## Observações sobre o material
 
-Este documento reúne versões da base curricular; não é uma lista de disciplinas que devem ser concluídas integralmente antes de experimentar. O estudo retorna aqui a cada ciclo.
+Os anexos preservam versões da base curricular. A organização vigente é consultada no mapa de estudos; esta etapa fornece contexto para narrar os ciclos de aprendizagem.
 
 ## Registro contínuo desta etapa
 
@@ -63,4 +67,4 @@ Este documento reúne versões da base curricular; não é uma lista de discipli
 
 ## Estrutura consolidada do livro
 
-[Sete partes e dados de estudo](../Livro/ESTRUTURA_E_ESTUDO.md) · [Última revisão literal](../Livro/EXTRACAO_ULTIMA_REVISAO.md).
+[Sete partes e dados de estudo](<../capitulos estudos/ESTRUTURA_E_ESTUDO.md>) · [Última revisão literal](<../capitulos estudos/EXTRACAO_ULTIMA_REVISAO.md>).

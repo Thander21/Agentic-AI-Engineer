@@ -19,6 +19,7 @@
 | Data | ID e arquivo | Pergunta ou caso | Estado e evidência | Próximo passo |
 | --- | --- | --- | --- | --- |
 | 2026-10-13 | [EP-000](../episodios/000-preparacao-da-jornada.md) | Organização do percurso e ponto de partida declarado | Preparação documentada; extração conferida | Abrir o diagnóstico e a primeira sessão. |
+| 2026-10-15 | [SS-2026-10-15-001](../sessoes/2026-10-15-001-organizacao-do-registro.md) | Onde e como registrar antes de continuar pesquisa/estudo | Preparação documental registrada; sem novo resultado técnico | Escolher a primeira pergunta concreta de estudo. |
 
 Adicionar uma linha quando houver um registro real. A existência desta ficha não indica conclusão da etapa.
 

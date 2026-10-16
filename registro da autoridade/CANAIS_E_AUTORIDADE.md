@@ -1,12 +1,22 @@
 # Onde registrar e compartilhar a jornada
 
-[Índice do registro](README.md) · [Ideias recuperadas](../ORIGEM_DAS_IDEIAS.md)
+[Índice do registro](README.md) · [Ideias recuperadas](ORIGEM_DAS_IDEIAS.md)
 
 **Consulta às fontes oficiais:** 13 de outubro de 2026. Capacidades das plataformas foram verificadas; impacto e preferência de uso são escolhas propostas para este projeto.
 
-## Recomendação para começar
+O canal profissional não define sozinho a voz: textos da jornada preservam primeira pessoa, humor e referências pessoais; artigos de estudo podem adotar registro técnico. A escolha de LinkedIn ou Substack não transforma a jornada em narrativa corporativa.
 
-Manter a fonte principal em Markdown local e usar o LinkedIn como primeiro canal público. As notas completas ficam neste registro; cada publicação nasce de um episódio já documentado. Isso aproveita o ambiente de trabalho atual e sua preferência por pouca atividade em redes sociais.
+## Decisões vigentes — 2026-10-16
+
+A estratégia recebida em RA02-12 permanece: textos maiores em artigo no LinkedIn com post de chamada; atualizações curtas como post; estudos documentados no Substack com chamada no LinkedIn; GitHub como acervo pretendido, com repositório/visibilidade/sincronização ainda a definir; Pages opcional. Consultar a [síntese vigente da spec 02](<../spec editorial/concluida/02-preparacao-editorial/02-resumo-editorial-onde-como-quando.md>) para primeira publicação, voz e pendências.
+
+O acervo local é `registro da autoridade/publicacoes/`, com [índice](PUBLICACOES.md), qualquer que seja o canal externo. A origem pode ser capítulo/fontes, jornada ou ambas. Originais e amostras históricas permanecem preservados por referência. Registrar versão e URL apenas quando conhecidas; esta decisão não publica nem configura plataformas.
+
+A comparação abaixo preserva a pesquisa e as recomendações de 13/10/2026. Seus campos “uso proposto” são históricos e não substituem as decisões acima. Não houve nova conferência de capacidades externas nesta atualização.
+
+## Recomendação histórica de 13/10/2026
+
+Manter a fonte principal em Markdown local e usar o LinkedIn como primeiro canal público. As notas completas ficam neste registro; na proposta inicial, cada publicação nasceria de um episódio já documentado. A convenção atual acima também admite origem direta em capítulos e fontes. Isso aproveita o ambiente de trabalho atual e sua preferência por pouca atividade em redes sociais.
 
 Quando houver casos que mereçam acesso contínuo, preparar uma coleção pública de textos e exemplos. Um repositório ou um site pode cumprir esse papel. Newsletter e outras plataformas permanecem opções se aparecer uma necessidade concreta de acompanhar uma série ou enviar atualizações aos leitores.
 

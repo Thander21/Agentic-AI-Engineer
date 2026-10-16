@@ -4,6 +4,16 @@
 
 [Índice e episódios da jornada](README.md)
 
+## Direção autoral vigente — 2026-10-16
+
+A jornada é pessoal, narrada em primeira pessoa, com humor, retórica, cotidiano e referências escolhidas pelo autor. Família, seu pet (um furão), filmes, animes, livros e outros interesses podem participar conforme os relatos forem trazidos. Esses temas já estão autorizados como direção; nomes, cenas, diálogos, emoções e acontecimentos específicos precisam de fonte autoral. Nenhum tema precisa aparecer em todo texto.
+
+Os capítulos de estudo são o percurso técnico autônomo e formarão o livro. Devem apresentar conceitos, pré-requisitos e fontes suficientes para quem não acompanha a história pessoal. Relatos podem ser vinculados como leitura complementar; compreender a jornada não é pré-requisito para aprender o conteúdo. Posts e artigos recebem voz conforme a finalidade: história pessoal, explicação técnica ou combinação explícita das duas.
+
+RPG medieval e isekai são referências de linguagem, abertas a filmes, livros e outras afinidades. A vida cotidiana pode sustentar um episódio sem conflito técnico ou lição profissional. Humor, digressões e perguntas retóricas podem atravessar a narrativa conforme a intenção do autor, sem limite automático à abertura.
+
+As premissas e os arcos abaixo são instrumentos de planejamento, por vezes descritos em terceira pessoa. Ao escrever a história, usar primeira pessoa e experiências confirmadas; não converter o planejamento em autobiografia pronta. O livro toma forma nos próprios capítulos de estudo.
+
 ## A premissa
 
 Um técnico experiente chega a um mundo medieval desconhecido conservando o conhecimento da vida anterior. Ele reconhece alguns problemas, mas precisa descobrir novas formas de construir, decidir e verificar. Seu inventário inicial contém experiência real; sua árvore de habilidades ainda tem espaços importantes a preencher.
@@ -16,7 +26,7 @@ A ambição que sustenta a campanha é tornar-se capaz de conduzir essa constru�
 
 O protagonista começa com bagagem, curiosidade e uma dose de confiança que será colocada à prova. As primeiras dificuldades revelam onde a experiência anterior ajuda e onde ele precisa voltar a estudar. Sua força cresce quando consegue combinar as duas coisas.
 
-O arco emocional passa por entusiasmo, desorientação, frustração, arrependimento, retomada e satisfação. Uma conquista pode ser compreender uma causa, formular uma especificação melhor, detectar uma falha ou explicar um conceito a outra pessoa. Com o tempo, essas pequenas vitórias permitem enfrentar decisões maiores.
+O arco emocional pode incluir entusiasmo, desorientação, frustração, arrependimento, retomada ou satisfação, somente quando relatados pelo autor; nenhuma dessas emoções é obrigatória. Uma conquista pode ser compreender uma causa, formular uma especificação melhor, detectar uma falha ou explicar um conceito a outra pessoa. Com o tempo, essas pequenas vitórias permitem enfrentar decisões maiores.
 
 O conflito recorrente é a distância entre conseguir uma resposta e compreender o suficiente para agir sobre ela. Esse conflito poderá aparecer em uma leitura difícil, numa instrução ambígua, numa entrega que parecia pronta ou numa explicação que o leitor não entendeu.
 
@@ -52,11 +62,11 @@ O conflito recorrente é a distância entre conseguir uma resposta e compreender
 
 A documentação começa no primeiro episódio. Publicações e capítulos podem acompanhar cada ciclo de aprendizagem. Os arcos mostram quando essas frentes ganham destaque na narrativa.
 
-## Humor e tom profissional
+## Humor e voz pessoal
 
 O humor nasce da diferença entre a expectativa e a realidade: a missão que parecia pequena, a build que não cabe na rotina, a instrução obedecida com uma consequência inesperada. A ironia pode recair sobre a própria pressa, a confiança prematura e os hábitos que precisaram mudar.
 
-Cada etapa tem um título principal conciso, adequado ao contexto profissional. Logo abaixo, um título animesco entre parênteses oferece a referência para a história mais humorística, com liberdade para exagero narrativo e ironia. O corpo técnico usa termos precisos, exemplos compreensíveis e evidências. A metáfora ajuda a entrar na história; o campo Na prática e a explicação permitem acompanhar o conteúdo sem conhecer RPG ou anime.
+Cada etapa tem um título principal ligado à história pessoal, sem obrigação de enquadramento profissional. Logo abaixo, um título animesco entre parênteses oferece a referência para a história mais humorística, com liberdade para exagero narrativo e ironia. O corpo técnico usa termos precisos, exemplos compreensíveis e evidências. A metáfora pode acompanhar toda a história; explicações técnicas mantêm precisão e contexto suficiente para quem não conhece RPG ou anime.
 
 As cenas introdutórias são enquadramentos propostos. Ao escrever um relato público, preencher os acontecimentos com experiências vividas e identificar exemplos hipotéticos como exemplos. Resultados, números e conquistas precisam corresponder ao que foi observado.
 
@@ -68,7 +78,7 @@ O arrependimento tem uma consequência: uma pergunta que passou a ser feita, um 
 
 A resiliência aparece na disposição de retomar o problema, procurar ajuda, rever a estratégia e praticar novamente. Sua intensidade pode estar em voltar muitas vezes a um fundamento difícil. Descanso, pausas e redução de escopo também podem tornar possível continuar a campanha.
 
-As recompensas precisam aparecer: uma explicação finalmente compreendida, uma falha reproduzida, um resultado conferido, um leitor que conseguiu aplicar a ideia. São esses momentos que dão sentido ao esforço e vontade de seguir.
+Quando houver conquistas confirmadas, elas podem aparecer: uma explicação finalmente compreendida, uma falha reproduzida, um resultado conferido, um leitor que conseguiu aplicar a ideia. Uma dúvida em aberto também pode encerrar o relato; não é necessário inventar recompensa ou atribuir motivação ao autor.
 
 ## Estrutura de um episódio
 

@@ -4,7 +4,7 @@
 
 [Etapa da jornada](<../../jornada do heroi/12-o-diario-de-aprendizagem.md>) · [Texto anexo](<../../jornada do heroi/12-texto-anexo.md>) · [Método](../METODO_DE_REGISTRO.md) · [Índice do registro](../README.md)
 
-**Estado inicial:** Aguardando registros próprios de aprendizagem.
+**Estado atual:** preparação documentada vinculada; aprendizagem própria da etapa ainda a demonstrar.
 
 **Marco a demonstrar:** Um caso completo e rastreável, com material suficiente para explicar o aprendizado sem depender da memória.
 
@@ -18,6 +18,8 @@
 
 | Data | ID e arquivo | Pergunta ou caso | Estado e evidência | Próximo passo |
 | --- | --- | --- | --- | --- |
+| 2026-10-13 | [EP-000](../episodios/000-preparacao-da-jornada.md) | Preparação da jornada; etapa já associada na origem. | Organização documentada, sem comprovar aprendizagem técnica. | Registrar atividade própria da etapa quando ocorrer. |
+| 2026-10-15 | [SS-2026-10-15-001](../sessoes/2026-10-15-001-organizacao-do-registro.md) | Organização dos registros. | Sessão operacional, sem estudo técnico. | Vincular novos registros reais. |
 
 Adicionar uma linha quando houver um registro real. A existência desta ficha não indica conclusão da etapa.
 

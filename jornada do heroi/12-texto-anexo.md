@@ -28,7 +28,7 @@ As sínteses são uma leitura editorial do material. Os blocos identificados com
 
 #### F065 — Definição pessoal da jornada de estudo e autoria
 
-Origem histórica: `pensamentos.md`, linhas 1092–1094. Cópia relacionada para este assunto. Destino principal: [anexo 01](01-texto-anexo.md#fonte-f065).
+Origem histórica: conversa original, linhas 1092–1094. Cópia relacionada para este assunto. Destino principal: [anexo 01](01-texto-anexo.md#fonte-f065).
 
 <!-- FONTE: F065 INICIO -->
 > Sim
@@ -41,7 +41,7 @@ Origem histórica: `pensamentos.md`, linhas 1092–1094. Cópia relacionada para
 
 #### F072 — Ciclo proposto de estudo, aplicação e escrita
 
-Origem histórica: `pensamentos.md`, linhas 1204–1214. Cópia relacionada para este assunto. Destino principal: [anexo 06](06-texto-anexo.md#fonte-f072).
+Origem histórica: conversa original, linhas 1204–1214. Cópia relacionada para este assunto. Destino principal: [anexo 06](06-texto-anexo.md#fonte-f072).
 
 <!-- FONTE: F072 INICIO -->
 > A Dinâmica do Estudo Aplicado
@@ -70,7 +70,7 @@ Origem histórica: `pensamentos.md`, linhas 1204–1214. Cópia relacionada para
 
 #### F004 — Estudo aplicado ao próprio produto
 
-Origem histórica: `pensamentos.md`, linhas 124–136. Cópia relacionada para este assunto. Destino principal: [anexo 06](06-texto-anexo.md#fonte-f004).
+Origem histórica: conversa original, linhas 124–136. Cópia relacionada para este assunto. Destino principal: [anexo 06](06-texto-anexo.md#fonte-f004).
 
 <!-- FONTE: F004 INICIO -->
 > O Caminho Rápido para Fechar a Lacuna
@@ -93,7 +93,7 @@ Origem histórica: `pensamentos.md`, linhas 124–136. Cópia relacionada para e
 
 #### F061 — Repositório de decisões e casos documentados
 
-Origem histórica: `pensamentos.md`, linhas 1021–1033. Trecho principal desta etapa.
+Origem histórica: conversa original, linhas 1021–1033. Trecho principal desta etapa.
 
 <!-- FONTE: F061 INICIO -->
 > 1. O Repositório Público de Casos e Decisões (GitHub)
@@ -124,7 +124,7 @@ Origem histórica: `pensamentos.md`, linhas 1021–1033. Trecho principal desta 
 
 #### F062 — Ensaios e LinkedIn como vitrine
 
-Origem histórica: `pensamentos.md`, linhas 1034–1061. Cópia relacionada para este assunto. Destino principal: [anexo 13](13-texto-anexo.md#fonte-f062).
+Origem histórica: conversa original, linhas 1034–1061. Cópia relacionada para este assunto. Destino principal: [anexo 13](13-texto-anexo.md#fonte-f062).
 
 <!-- FONTE: F062 INICIO -->
 > 2. Ensaios Técnicos Profundos (Capítulos Beta do Livro)
@@ -162,7 +162,7 @@ Origem histórica: `pensamentos.md`, linhas 1034–1061. Cópia relacionada para
 
 #### F064 — Integração entre estudo, registro e publicação
 
-Origem histórica: `pensamentos.md`, linhas 1075–1091. Trecho principal desta etapa.
+Origem histórica: conversa original, linhas 1075–1091. Trecho principal desta etapa.
 
 <!-- FONTE: F064 INICIO -->
 > O Ciclo Integrado de Execução
@@ -184,4 +184,3 @@ Origem histórica: `pensamentos.md`, linhas 1075–1091. Trecho principal desta 
 > 
 
 <!-- FONTE: F064 FIM -->
-

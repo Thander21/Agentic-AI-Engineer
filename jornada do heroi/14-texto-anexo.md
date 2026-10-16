@@ -30,7 +30,7 @@ As sínteses são uma leitura editorial do material. Os blocos identificados com
 
 #### F044 — Tese proposta para a obra
 
-Origem histórica: `pensamentos.md`, linhas 733–747. Cópia relacionada para este assunto. Destino principal: [anexo 02](02-texto-anexo.md#fonte-f044).
+Origem histórica: conversa original, linhas 733–747. Cópia relacionada para este assunto. Destino principal: [anexo 02](02-texto-anexo.md#fonte-f044).
 
 <!-- FONTE: F044 INICIO -->
 > O Que Isso Significa para o Seu Livro?
@@ -55,7 +55,7 @@ Origem histórica: `pensamentos.md`, linhas 733–747. Cópia relacionada para e
 
 #### F055 — Pedido e abertura do blueprint do livro
 
-Origem histórica: `pensamentos.md`, linhas 914–922. Trecho principal desta etapa.
+Origem histórica: conversa original, linhas 914–922. Trecho principal desta etapa.
 
 <!-- FONTE: F055 INICIO -->
 > Sim
@@ -74,7 +74,7 @@ Origem histórica: `pensamentos.md`, linhas 914–922. Trecho principal desta et
 
 #### F085 — Proposta final de posicionamento do livro
 
-Origem histórica: `pensamentos.md`, linhas 1366–1371. Trecho principal desta etapa.
+Origem histórica: conversa original, linhas 1366–1371. Trecho principal desta etapa.
 
 <!-- FONTE: F085 INICIO -->
 > O Que Essa Mudança Agrega ao seu Livro
@@ -97,7 +97,7 @@ Origem histórica: `pensamentos.md`, linhas 1366–1371. Trecho principal desta 
 
 #### F016 — Primeira formulação do público sem formação
 
-Origem histórica: `pensamentos.md`, linhas 233–237. Cópia relacionada para este assunto. Destino principal: [anexo 04](04-texto-anexo.md#fonte-f016).
+Origem histórica: conversa original, linhas 233–237. Cópia relacionada para este assunto. Destino principal: [anexo 04](04-texto-anexo.md#fonte-f016).
 
 <!-- FONTE: F016 INICIO -->
 > Sim
@@ -112,7 +112,7 @@ Origem histórica: `pensamentos.md`, linhas 233–237. Cópia relacionada para e
 
 #### F038 — Debate sobre o público não técnico e a promessa do livro
 
-Origem histórica: `pensamentos.md`, linhas 619–626. Cópia relacionada para este assunto. Destino principal: [anexo 04](04-texto-anexo.md#fonte-f038).
+Origem histórica: conversa original, linhas 619–626. Cópia relacionada para este assunto. Destino principal: [anexo 04](04-texto-anexo.md#fonte-f038).
 
 <!-- FONTE: F038 INICIO -->
 > Sim
@@ -130,7 +130,7 @@ Origem histórica: `pensamentos.md`, linhas 619–626. Cópia relacionada para e
 
 #### F040 — Reformulação do público e da promessa de aprendizagem
 
-Origem histórica: `pensamentos.md`, linhas 650–661. Cópia relacionada para este assunto. Destino principal: [anexo 04](04-texto-anexo.md#fonte-f040).
+Origem histórica: conversa original, linhas 650–661. Cópia relacionada para este assunto. Destino principal: [anexo 04](04-texto-anexo.md#fonte-f040).
 
 <!-- FONTE: F040 INICIO -->
 > O verdadeiro caminho para o seu livro:
@@ -160,7 +160,7 @@ Origem histórica: `pensamentos.md`, linhas 650–661. Cópia relacionada para e
 
 #### F058 — Proposta histórica de sumário em quinze capítulos
 
-Origem histórica: `pensamentos.md`, linhas 976–1006. Trecho principal desta etapa.
+Origem histórica: conversa original, linhas 976–1006. Trecho principal desta etapa.
 
 <!-- FONTE: F058 INICIO -->
 > ## 3. Grade Modular de Capítulos do Livro
@@ -209,7 +209,7 @@ Origem histórica: `pensamentos.md`, linhas 976–1006. Trecho principal desta e
 
 #### F065 — Definição pessoal da jornada de estudo e autoria
 
-Origem histórica: `pensamentos.md`, linhas 1092–1094. Cópia relacionada para este assunto. Destino principal: [anexo 01](01-texto-anexo.md#fonte-f065).
+Origem histórica: conversa original, linhas 1092–1094. Cópia relacionada para este assunto. Destino principal: [anexo 01](01-texto-anexo.md#fonte-f065).
 
 <!-- FONTE: F065 INICIO -->
 > Sim
@@ -222,7 +222,7 @@ Origem histórica: `pensamentos.md`, linhas 1092–1094. Cópia relacionada para
 
 #### F064 — Integração entre estudo, registro e publicação
 
-Origem histórica: `pensamentos.md`, linhas 1075–1091. Cópia relacionada para este assunto. Destino principal: [anexo 12](12-texto-anexo.md#fonte-f064).
+Origem histórica: conversa original, linhas 1075–1091. Cópia relacionada para este assunto. Destino principal: [anexo 12](12-texto-anexo.md#fonte-f064).
 
 <!-- FONTE: F064 INICIO -->
 > O Ciclo Integrado de Execução
@@ -249,7 +249,7 @@ Origem histórica: `pensamentos.md`, linhas 1075–1091. Cópia relacionada para
 
 #### F072 — Ciclo proposto de estudo, aplicação e escrita
 
-Origem histórica: `pensamentos.md`, linhas 1204–1214. Cópia relacionada para este assunto. Destino principal: [anexo 06](06-texto-anexo.md#fonte-f072).
+Origem histórica: conversa original, linhas 1204–1214. Cópia relacionada para este assunto. Destino principal: [anexo 06](06-texto-anexo.md#fonte-f072).
 
 <!-- FONTE: F072 INICIO -->
 > A Dinâmica do Estudo Aplicado
@@ -278,7 +278,7 @@ Origem histórica: `pensamentos.md`, linhas 1204–1214. Cópia relacionada para
 
 #### F020 — Exemplo de spec editorial: escopo e objetivos
 
-Origem histórica: `pensamentos.md`, linhas 339–373. Cópia relacionada para este assunto. Destino principal: [anexo 15](15-texto-anexo.md#fonte-f020).
+Origem histórica: conversa original, linhas 339–373. Cópia relacionada para este assunto. Destino principal: [anexo 15](15-texto-anexo.md#fonte-f020).
 
 <!-- FONTE: F020 INICIO -->
 > Markdown
@@ -323,7 +323,7 @@ Origem histórica: `pensamentos.md`, linhas 339–373. Cópia relacionada para e
 
 #### F063 — Proposta de publicação incremental
 
-Origem histórica: `pensamentos.md`, linhas 1062–1074. Cópia relacionada para este assunto. Destino principal: [anexo 15](15-texto-anexo.md#fonte-f063).
+Origem histórica: conversa original, linhas 1062–1074. Cópia relacionada para este assunto. Destino principal: [anexo 15](15-texto-anexo.md#fonte-f063).
 
 <!-- FONTE: F063 INICIO -->
 > 4. Lean Publishing: O Livro em Acesso Antecipado
@@ -341,4 +341,3 @@ Origem histórica: `pensamentos.md`, linhas 1062–1074. Cópia relacionada para
 > 
 
 <!-- FONTE: F063 FIM -->
-

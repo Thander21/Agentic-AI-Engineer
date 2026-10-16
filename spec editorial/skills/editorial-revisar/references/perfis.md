@@ -69,7 +69,7 @@
 
 **Contexto necessário:** escolhas editoriais, amostras reconhecidas pelo autor, intenção e destino do texto. Informar quando a base de voz for insuficiente.
 
-**Examinar:** a escrita se aproxima das características desejadas? O humor ajuda ou desloca a questão? Há tom promocional, professoral ou dramatização incompatível com o pedido? A linguagem permanece profissional onde necessário sem apagar a personalidade? A metáfora exige conhecimento que o leitor não tem?
+**Examinar:** a escrita se aproxima das características desejadas? O humor ajuda ou desloca a questão? Há tom promocional, professoral ou dramatização incompatível com o pedido? A voz respeita a finalidade da peça: jornada pessoal em primeira pessoa, com humor e retórica, ou explicação técnica que pode ter registro profissional? A revisão preserva o cotidiano e as referências pessoais sem exigir uma lição de carreira? Capítulos podem ser compreendidos sem ler a autobiografia? A metáfora exige conhecimento que o leitor não tem?
 
 **Parecer específico:** relacionar cada comentário a uma decisão ou amostra, com alternativa localizada e possível perda de personalidade. Apontar passagens que preservam a voz.
 

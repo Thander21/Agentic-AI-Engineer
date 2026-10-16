@@ -30,7 +30,7 @@ As sínteses são uma leitura editorial do material. Os blocos identificados com
 
 #### F017 — Proposta inicial de SDD editorial
 
-Origem histórica: `pensamentos.md`, linhas 238–239. Trecho principal desta etapa.
+Origem histórica: conversa original, linhas 238–239. Trecho principal desta etapa.
 
 <!-- FONTE: F017 INICIO -->
 > Além disso, aplicar Spec-Driven Development (SDD) à escrita de um livro não apenas funciona, como é uma das abordagens mais eficientes para garantir consistência técnica e didática.
@@ -42,7 +42,7 @@ Origem histórica: `pensamentos.md`, linhas 238–239. Trecho principal desta et
 
 #### F019 — Processo editorial e métodos complementares
 
-Origem histórica: `pensamentos.md`, linhas 281–338. Trecho principal desta etapa.
+Origem histórica: conversa original, linhas 281–338. Trecho principal desta etapa.
 
 <!-- FONTE: F019 INICIO -->
 > 2. SDD Aplicado à Escrita de um Livro: Como Estruturar
@@ -110,7 +110,7 @@ Origem histórica: `pensamentos.md`, linhas 281–338. Trecho principal desta et
 
 #### F059 — Diretrizes editoriais do blueprint
 
-Origem histórica: `pensamentos.md`, linhas 1007–1012. Trecho principal desta etapa.
+Origem histórica: conversa original, linhas 1007–1012. Trecho principal desta etapa.
 
 <!-- FONTE: F059 INICIO -->
 > ## 4. Diretrizes de Execução Editorial (Meta-SDD)
@@ -134,7 +134,7 @@ Origem histórica: `pensamentos.md`, linhas 1007–1012. Trecho principal desta 
 
 #### F020 — Exemplo de spec editorial: escopo e objetivos
 
-Origem histórica: `pensamentos.md`, linhas 339–373. Trecho principal desta etapa.
+Origem histórica: conversa original, linhas 339–373. Trecho principal desta etapa.
 
 <!-- FONTE: F020 INICIO -->
 > Markdown
@@ -179,7 +179,7 @@ Origem histórica: `pensamentos.md`, linhas 339–373. Trecho principal desta et
 
 #### F021 — Exemplo de spec editorial: critérios Gherkin
 
-Origem histórica: `pensamentos.md`, linhas 374–391. Trecho principal desta etapa.
+Origem histórica: conversa original, linhas 374–391. Trecho principal desta etapa.
 
 <!-- FONTE: F021 INICIO -->
 ~~~~text
@@ -209,7 +209,7 @@ Cenário: Criação de Teste de Comportamento em Memória
 
 #### F022 — Exemplo de spec editorial: conteúdo, código e revisão
 
-Origem histórica: `pensamentos.md`, linhas 392–435. Trecho principal desta etapa.
+Origem histórica: conversa original, linhas 392–435. Trecho principal desta etapa.
 
 <!-- FONTE: F022 INICIO -->
 > 3. Blueprint Arquitetural do Conteúdo
@@ -271,7 +271,7 @@ Origem histórica: `pensamentos.md`, linhas 392–435. Trecho principal desta et
 
 #### F065 — Definição pessoal da jornada de estudo e autoria
 
-Origem histórica: `pensamentos.md`, linhas 1092–1094. Cópia relacionada para este assunto. Destino principal: [anexo 01](01-texto-anexo.md#fonte-f065).
+Origem histórica: conversa original, linhas 1092–1094. Cópia relacionada para este assunto. Destino principal: [anexo 01](01-texto-anexo.md#fonte-f065).
 
 <!-- FONTE: F065 INICIO -->
 > Sim
@@ -284,7 +284,7 @@ Origem histórica: `pensamentos.md`, linhas 1092–1094. Cópia relacionada para
 
 #### F072 — Ciclo proposto de estudo, aplicação e escrita
 
-Origem histórica: `pensamentos.md`, linhas 1204–1214. Cópia relacionada para este assunto. Destino principal: [anexo 06](06-texto-anexo.md#fonte-f072).
+Origem histórica: conversa original, linhas 1204–1214. Cópia relacionada para este assunto. Destino principal: [anexo 06](06-texto-anexo.md#fonte-f072).
 
 <!-- FONTE: F072 INICIO -->
 > A Dinâmica do Estudo Aplicado
@@ -313,7 +313,7 @@ Origem histórica: `pensamentos.md`, linhas 1204–1214. Cópia relacionada para
 
 #### F063 — Proposta de publicação incremental
 
-Origem histórica: `pensamentos.md`, linhas 1062–1074. Trecho principal desta etapa.
+Origem histórica: conversa original, linhas 1062–1074. Trecho principal desta etapa.
 
 <!-- FONTE: F063 INICIO -->
 > 4. Lean Publishing: O Livro em Acesso Antecipado
@@ -336,7 +336,7 @@ Origem histórica: `pensamentos.md`, linhas 1062–1074. Trecho principal desta 
 
 #### F064 — Integração entre estudo, registro e publicação
 
-Origem histórica: `pensamentos.md`, linhas 1075–1091. Cópia relacionada para este assunto. Destino principal: [anexo 12](12-texto-anexo.md#fonte-f064).
+Origem histórica: conversa original, linhas 1075–1091. Cópia relacionada para este assunto. Destino principal: [anexo 12](12-texto-anexo.md#fonte-f064).
 
 <!-- FONTE: F064 INICIO -->
 > O Ciclo Integrado de Execução
@@ -371,7 +371,7 @@ Origem histórica: `pensamentos.md`, linhas 1075–1091. Cópia relacionada para
 
 #### F058 — Proposta histórica de sumário em quinze capítulos
 
-Origem histórica: `pensamentos.md`, linhas 976–1006. Cópia relacionada para este assunto. Destino principal: [anexo 14](14-texto-anexo.md#fonte-f058).
+Origem histórica: conversa original, linhas 976–1006. Cópia relacionada para este assunto. Destino principal: [anexo 14](14-texto-anexo.md#fonte-f058).
 
 <!-- FONTE: F058 INICIO -->
 > ## 3. Grade Modular de Capítulos do Livro
@@ -412,7 +412,7 @@ Origem histórica: `pensamentos.md`, linhas 976–1006. Cópia relacionada para 
 
 #### F040 — Reformulação do público e da promessa de aprendizagem
 
-Origem histórica: `pensamentos.md`, linhas 650–661. Cópia relacionada para este assunto. Destino principal: [anexo 04](04-texto-anexo.md#fonte-f040).
+Origem histórica: conversa original, linhas 650–661. Cópia relacionada para este assunto. Destino principal: [anexo 04](04-texto-anexo.md#fonte-f040).
 
 <!-- FONTE: F040 INICIO -->
 > O verdadeiro caminho para o seu livro:
@@ -429,4 +429,3 @@ Origem histórica: `pensamentos.md`, linhas 650–661. Cópia relacionada para e
 > 
 
 <!-- FONTE: F040 FIM -->
-

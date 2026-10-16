@@ -29,7 +29,7 @@ As sínteses são uma leitura editorial do material. Os blocos identificados com
 
 #### F024 — Pedido de uma grade para orquestrar e decidir
 
-Origem histórica: `pensamentos.md`, linhas 437–438. Cópia relacionada para este assunto. Destino principal: [anexo 03](03-texto-anexo.md#fonte-f024).
+Origem histórica: conversa original, linhas 437–438. Cópia relacionada para este assunto. Destino principal: [anexo 03](03-texto-anexo.md#fonte-f024).
 
 <!-- FONTE: F024 INICIO -->
 > Com base no que discutimos e os para mtos levantados análise a grade curricular de um curso de engenharia de software e monte a nossa grade prática retira tópicos de programação já que nessa área o código é gerado pela ia o engeniro tem que entender como orquestrar, responder, direcionar e tomar todas as decisões
@@ -41,7 +41,7 @@ Origem histórica: `pensamentos.md`, linhas 437–438. Cópia relacionada para e
 
 #### F032 — Comparação de papéis e competências pretendidas
 
-Origem histórica: `pensamentos.md`, linhas 540–549. Cópia relacionada para este assunto. Destino principal: [anexo 03](03-texto-anexo.md#fonte-f032).
+Origem histórica: conversa original, linhas 540–549. Cópia relacionada para este assunto. Destino principal: [anexo 03](03-texto-anexo.md#fonte-f032).
 
 <!-- FONTE: F032 INICIO -->
 > Comparativo: Grade Tradicional vs. Grade Prática do Orquestrador
@@ -69,7 +69,7 @@ Origem histórica: `pensamentos.md`, linhas 540–549. Cópia relacionada para e
 
 #### F027 — Especificação e modelagem no trabalho com agentes
 
-Origem histórica: `pensamentos.md`, linhas 467–477. Trecho principal desta etapa.
+Origem histórica: conversa original, linhas 467–477. Trecho principal desta etapa.
 
 <!-- FONTE: F027 INICIO -->
 > Módulo 1: Engenharia de Especificação e Modelagem de Domínio (SDD)
@@ -90,7 +90,7 @@ Origem histórica: `pensamentos.md`, linhas 467–477. Trecho principal desta et
 
 #### F069 — Primeira sequência: especificação e domínio
 
-Origem histórica: `pensamentos.md`, linhas 1129–1143. Trecho principal desta etapa.
+Origem histórica: conversa original, linhas 1129–1143. Trecho principal desta etapa.
 
 <!-- FONTE: F069 INICIO -->
 > Fase 3: Engenharia de Especificação (SDD) e Modelagem de Domínio
@@ -115,7 +115,7 @@ Origem histórica: `pensamentos.md`, linhas 1129–1143. Trecho principal desta 
 
 #### F081 — Sequência revisada: requisitos e SDD
 
-Origem histórica: `pensamentos.md`, linhas 1321–1329. Trecho principal desta etapa.
+Origem histórica: conversa original, linhas 1321–1329. Trecho principal desta etapa.
 
 <!-- FONTE: F081 INICIO -->
 > Fase 3: Engenharia de Requisitos, Atributos de Qualidade e SDD
@@ -134,7 +134,7 @@ Origem histórica: `pensamentos.md`, linhas 1321–1329. Trecho principal desta 
 
 #### F045 — Exemplo didático: especificação e cenário de fatura
 
-Origem histórica: `pensamentos.md`, linhas 748–760. Cópia relacionada para este assunto. Destino principal: [anexo 10](10-texto-anexo.md#fonte-f045).
+Origem histórica: conversa original, linhas 748–760. Cópia relacionada para este assunto. Destino principal: [anexo 10](10-texto-anexo.md#fonte-f045).
 
 <!-- FONTE: F045 INICIO -->
 > Sim
@@ -165,7 +165,7 @@ Origem histórica: `pensamentos.md`, linhas 748–760. Cópia relacionada para e
 
 #### F031 — Orquestração e governança de agentes
 
-Origem histórica: `pensamentos.md`, linhas 531–539. Trecho principal desta etapa.
+Origem histórica: conversa original, linhas 531–539. Trecho principal desta etapa.
 
 <!-- FONTE: F031 INICIO -->
 > Módulo 7: Orquestração de Agentes e Governança de IA
@@ -192,7 +192,7 @@ Origem histórica: `pensamentos.md`, linhas 531–539. Trecho principal desta et
 
 #### F029 — Qualidade, testes e revisão de código gerado
 
-Origem histórica: `pensamentos.md`, linhas 500–510. Cópia relacionada para este assunto. Destino principal: [anexo 10](10-texto-anexo.md#fonte-f029).
+Origem histórica: conversa original, linhas 500–510. Cópia relacionada para este assunto. Destino principal: [anexo 10](10-texto-anexo.md#fonte-f029).
 
 <!-- FONTE: F029 INICIO -->
 > Módulo 4: Redes de Contenção, Invariantes e Quality Gates
@@ -213,7 +213,7 @@ Origem histórica: `pensamentos.md`, linhas 500–510. Cópia relacionada para e
 
 #### F057 — Cinco filtros consolidados no blueprint
 
-Origem histórica: `pensamentos.md`, linhas 939–975. Cópia relacionada para este assunto. Destino principal: [anexo 10](10-texto-anexo.md#fonte-f057).
+Origem histórica: conversa original, linhas 939–975. Cópia relacionada para este assunto. Destino principal: [anexo 10](10-texto-anexo.md#fonte-f057).
 
 <!-- FONTE: F057 INICIO -->
 > ## 2. O Método dos 5 Filtros de Auditoria Rápida
@@ -260,7 +260,7 @@ Origem histórica: `pensamentos.md`, linhas 939–975. Cópia relacionada para e
 
 #### F077 — Evolução, dívida técnica, configuração e XP
 
-Origem histórica: `pensamentos.md`, linhas 1269–1286. Cópia relacionada para este assunto. Destino principal: [anexo 07](07-texto-anexo.md#fonte-f077).
+Origem histórica: conversa original, linhas 1269–1286. Cópia relacionada para este assunto. Destino principal: [anexo 07](07-texto-anexo.md#fonte-f077).
 
 <!-- FONTE: F077 INICIO -->
 > 4. Manutenção, Evolução de Software e Dívida Técnica
@@ -283,4 +283,3 @@ Origem histórica: `pensamentos.md`, linhas 1269–1286. Cópia relacionada para
 > 
 
 <!-- FONTE: F077 FIM -->
-

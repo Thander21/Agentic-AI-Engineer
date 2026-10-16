@@ -28,7 +28,7 @@ As sínteses são uma leitura editorial do material. Os blocos identificados com
 
 #### F002 — Experiência prática e necessidade de aprofundamento
 
-Origem histórica: `pensamentos.md`, linhas 75–82. Trecho principal desta etapa.
+Origem histórica: conversa original, linhas 75–82. Trecho principal desta etapa.
 
 <!-- FONTE: F002 INICIO -->
 > Par me tornar uma autoridade quais assuntos devo dominar? Estou formado a anos e desatualizado de estudo, tenho vivido na prática em projeto solo no odev d- fiscal o que né trás alguns conceitos específicos, maxdalta bagagem e conhecimento mais produndo
@@ -46,7 +46,7 @@ Origem histórica: `pensamentos.md`, linhas 75–82. Trecho principal desta etap
 
 #### F041 — Relato pessoal e dúvida sobre aprender a ler código
 
-Origem histórica: `pensamentos.md`, linhas 662–664. Trecho principal desta etapa.
+Origem histórica: conversa original, linhas 662–664. Trecho principal desta etapa.
 
 <!-- FONTE: F041 INICIO -->
 > Sim
@@ -67,7 +67,7 @@ Origem histórica: `pensamentos.md`, linhas 662–664. Trecho principal desta et
 
 #### F065 — Definição pessoal da jornada de estudo e autoria
 
-Origem histórica: `pensamentos.md`, linhas 1092–1094. Trecho principal desta etapa.
+Origem histórica: conversa original, linhas 1092–1094. Trecho principal desta etapa.
 
 <!-- FONTE: F065 INICIO -->
 > Sim
@@ -88,7 +88,7 @@ Origem histórica: `pensamentos.md`, linhas 1092–1094. Trecho principal desta 
 
 #### F024 — Pedido de uma grade para orquestrar e decidir
 
-Origem histórica: `pensamentos.md`, linhas 437–438. Cópia relacionada para este assunto. Destino principal: [anexo 03](03-texto-anexo.md#fonte-f024).
+Origem histórica: conversa original, linhas 437–438. Cópia relacionada para este assunto. Destino principal: [anexo 03](03-texto-anexo.md#fonte-f024).
 
 <!-- FONTE: F024 INICIO -->
 > Com base no que discutimos e os para mtos levantados análise a grade curricular de um curso de engenharia de software e monte a nossa grade prática retira tópicos de programação já que nessa área o código é gerado pela ia o engeniro tem que entender como orquestrar, responder, direcionar e tomar todas as decisões
@@ -100,7 +100,7 @@ Origem histórica: `pensamentos.md`, linhas 437–438. Cópia relacionada para e
 
 #### F040 — Reformulação do público e da promessa de aprendizagem
 
-Origem histórica: `pensamentos.md`, linhas 650–661. Cópia relacionada para este assunto. Destino principal: [anexo 04](04-texto-anexo.md#fonte-f040).
+Origem histórica: conversa original, linhas 650–661. Cópia relacionada para este assunto. Destino principal: [anexo 04](04-texto-anexo.md#fonte-f040).
 
 <!-- FONTE: F040 INICIO -->
 > O verdadeiro caminho para o seu livro:
@@ -117,4 +117,3 @@ Origem histórica: `pensamentos.md`, linhas 650–661. Cópia relacionada para e
 > 
 
 <!-- FONTE: F040 FIM -->
-

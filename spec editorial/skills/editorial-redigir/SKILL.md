@@ -2,7 +2,7 @@
 name: editorial-redigir
 description: Elabora esboços e rascunhos de episódios, postagens, capítulos e documentos operacionais a partir de ficha ou contrato editorial suficiente. Use para transformar contexto e fontes em texto, preservando intenção, voz e limites factuais. Não use para definir a spec geral, emitir parecer especializado ou consolidar múltiplos pareceres em uma refatoração.
 metadata:
-  version: "0.1"
+  version: "0.2"
 ---
 
 # Esboçar e redigir com contexto
@@ -63,7 +63,7 @@ Crie interesse pela pergunta, pelo detalhe ou pela mudança real de entendimento
 
 ### Usar a aventura onde ela ajuda
 
-Nos textos da jornada, a metáfora medieval pode dar forma ao estranhamento, à bagagem anterior e ao aprendizado. Preserve o título profissional e a referência animesca quando esse formato estiver definido. Não exigir familiaridade com RPG para entender o conteúdo.
+Nos textos da jornada, a metáfora medieval pode dar forma ao estranhamento, à bagagem anterior e ao aprendizado. Use títulos coerentes com a história e referências animescas quando pertinentes; não exija título profissional para a jornada pessoal. Não exigir familiaridade com RPG para entender o conteúdo.
 
 Não impor derrota, chefe, recompensa ou piada a cada seção. Uma descoberta tranquila ou uma dúvida ainda aberta também pode sustentar um episódio. A intensidade do humor vem da ficha e do autor, não da preferência do redator.
 
@@ -72,6 +72,14 @@ Não impor derrota, chefe, recompensa ou piada a cada seção. Uma descoberta tr
 Não inventar emoções, diálogos, números, resultados ou cenas autobiográficas. Use fatos confirmados e exemplos fictícios identificados como tais quando previstos. Uma imagem metafórica não autoriza adicionar um acontecimento real inexistente.
 
 Não criar citações ou referências para tornar uma passagem convincente. Atribua ideias às fontes disponíveis e mantenha a localização recuperável na ficha ou nos apontamentos editoriais. Se houver conflito de fontes ainda aberto, não resolvê-lo silenciosamente pela redação.
+
+## Voz pessoal e autonomia dos capítulos
+
+A jornada é pessoal, narrada em primeira pessoa, com humor, retórica, cotidiano e referências escolhidas pelo autor. Família, seu pet (um furão), filmes, animes, livros e outros interesses podem participar conforme os relatos forem trazidos. Esses temas já estão autorizados como direção; nomes, cenas, diálogos, emoções e acontecimentos específicos precisam de fonte autoral. Nenhum tema precisa aparecer em todo texto.
+
+Os capítulos de estudo são o percurso técnico autônomo e formarão o livro. Devem apresentar conceitos, pré-requisitos e fontes suficientes para quem não acompanha a história pessoal. Relatos podem ser vinculados como leitura complementar; compreender a jornada não é pré-requisito para aprender o conteúdo. Posts e artigos recebem voz conforme a finalidade: história pessoal, explicação técnica ou combinação explícita das duas.
+
+Humor e retórica podem atravessar a história, sem restrição automática à abertura. Não exigir utilidade profissional ou conflito técnico para justificar um episódio cotidiano. A precisão de uma explicação técnica não exige apagar a voz do autor.
 
 ## Tratar pendências e versões
 

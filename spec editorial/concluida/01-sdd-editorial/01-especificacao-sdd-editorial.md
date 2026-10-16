@@ -1,12 +1,17 @@
 # Especificação do SDD editorial
 
 **ID:** SPEC-EDITORIAL-001  
-**Versão:** 0.5 — organização documental e revisão para planejamento  
-**Data:** 2026-10-13  
-**Estado:** revisada; plano e tasks elaborados; implementação parcial iniciada pelo guia de operação.  
-**Objeto:** definir, experimentar e ajustar a metodologia de escrita deste projeto usando o próprio processo de especificação.
+**Versão:** 0.7 — auditada e arquivada como concluída
 
-[Índice do projeto](../README.md) · [Base do livro](../BASE_DO_LIVRO.md) · [Estrutura e estudo](<../capitulos estudos/ESTRUTURA_E_ESTUDO.md>)
+**Data:** 2026-10-14
+
+**Estado:** concluída e arquivada no escopo de construção documental e avaliação inicial do método; auditoria e evidências nas tasks 01 v0.22.
+
+**Objeto:** definir e construir a metodologia de escrita, com conferência documental e exercícios iniciais delimitados.
+
+**Decisão vigente do autor:** separar o fechamento do método, a preparação editorial e o piloto. A seção 19 governa o escopo atual. As seções anteriores preservam a evolução da proposta; referências ao piloto como condição de conclusão da iniciativa 01 foram substituídas por essa decisão, sem eliminar seus critérios.
+
+[Índice do projeto](../../../README.md) · [Base do livro](<../../../capitulos estudos/BASE_DO_LIVRO.md>) · [Estrutura e estudo](<../../../capitulos estudos/ESTRUTURA_E_ESTUDO.md>)
 
 ## 1. Problema e intenção
 
@@ -41,17 +46,19 @@ Ficam fora desta primeira entrega: instalar frameworks, criar skills executávei
 
 | Material | Papel no método | Adaptação a investigar |
 | --- | --- | --- |
-| [Base do livro](../BASE_DO_LIVRO.md) | Aproveitamento editorial e estados do material. | Harmonizar estados e critérios sem criar dois fluxos concorrentes. |
-| [Estrutura e estudo](<../capitulos estudos/ESTRUTURA_E_ESTUDO.md>) | Sete partes técnicas provisórias e lacunas de formação. | Ligar objetivos de aprendizagem às especificações de capítulos. |
-| [Jornada do herói](<../jornada do heroi/README.md>) | Quinze etapas do percurso completo. | Relacionar episódios e capítulos sem transformar automaticamente etapas em capítulos. |
-| [Universo narrativo](<../jornada do heroi/UNIVERSO_NARRATIVO.md>) | Identidade, tom e referências de aventura. | Definir continuidade, liberdade criativa e limites entre metáfora e fato. |
-| [Método de registro](<../registro da autoridade/METODO_DE_REGISTRO.md>) | Sessões, episódios, decisões e retornos com IDs. | Reutilizar os registros como evidência e matéria-prima. |
-| [Canais e autoridade](<../registro da autoridade/CANAIS_E_AUTORIDADE.md>) | Destinos públicos e construção de confiança. | Adaptar a apresentação ao canal, mantendo origem e limites das afirmações. |
-| [Mapa de origem](<../jornada do heroi/MAPA_ORIGEM.md>) | Rastreabilidade dos trechos extraídos da conversa. | Distinguir transcrição histórica de decisão vigente. |
+| [Base do livro](<../../../capitulos estudos/BASE_DO_LIVRO.md>) | Aproveitamento editorial e estados do material. | Harmonizar estados e critérios sem criar dois fluxos concorrentes. |
+| [Estrutura e estudo](<../../../capitulos estudos/ESTRUTURA_E_ESTUDO.md>) | Sete partes técnicas provisórias e lacunas de formação. | Ligar objetivos de aprendizagem às especificações de capítulos. |
+| [Jornada do herói](<../../../jornada do heroi/README.md>) | Quinze etapas do percurso completo. | Relacionar episódios e capítulos sem transformar automaticamente etapas em capítulos. |
+| [Universo narrativo](<../../../jornada do heroi/UNIVERSO_NARRATIVO.md>) | Identidade, tom e referências de aventura. | Definir continuidade, liberdade criativa e limites entre metáfora e fato. |
+| [Método de registro](<../../../registro da autoridade/METODO_DE_REGISTRO.md>) | Sessões, episódios, decisões e retornos com IDs. | Reutilizar os registros como evidência e matéria-prima. |
+| [Canais e autoridade](<../../../registro da autoridade/CANAIS_E_AUTORIDADE.md>) | Destinos públicos e construção de confiança. | Adaptar a apresentação ao canal, mantendo origem e limites das afirmações. |
+| [Mapa de origem](<../../../jornada do heroi/MAPA_ORIGEM.md>) | Rastreabilidade dos trechos extraídos da conversa. | Distinguir transcrição histórica de decisão vigente. |
 
 As fontes históricas preservam o que foi dito. Uma afirmação da conversa anterior só entra como orientação atual após avaliação; sua extração não equivale à validação factual.
 
-## 5. Requisitos propostos
+## 5. Requisitos do método e critérios de avaliação futura
+
+Os vinte requisitos permanecem como contratos do método. A iniciativa 01 entrega sua cobertura documental e os exercícios registrados; os critérios de aplicação ao texto e de apreciação humana abaixo serão examinados na spec 03. Não se declara atendimento prático integral ao encerrar a construção do método.
 
 | ID | O método deverá permitir | Como avaliar no piloto |
 | --- | --- | --- |
@@ -159,7 +166,7 @@ Ao detalhar uma skill, definir: quando usar, quando não usar, entradas mínimas
 | --- | --- | --- |
 | DEC-01 | Qual leitor terá prioridade? | Explicitar experiência prévia e dificuldade central antes de detalhar capítulos. |
 | DEC-02 | Como equilibrar relato e ensino? | Ajustar por tipo de texto; evitar uma proporção universal. |
-| DEC-03 | Qual intensidade de humor e fantasia? | Título profissional, subtítulo animesco e metáforas pontuais; testar na leitura. |
+| DEC-03 | Qual intensidade de humor e fantasia? | Registro histórico: título profissional, subtítulo animesco e metáforas pontuais. Direção de voz substituída por [RA02-15 da spec 02](../02-preparacao-editorial/02-resumo-editorial-onde-como-quando.md#ra02-15--jornada-pessoal-e-autonomia-técnica--2026-10-16): jornada pessoal em primeira pessoa, com humor e retórica, sem limite à abertura. |
 | DEC-04 | Quais campos são obrigatórios por formato? | Começar com ficha curta e ampliar apenas onde faltar contexto. |
 | DEC-05 | Onde guardar fichas, rascunhos e revisões? | Projetar a organização respeitando as pastas existentes, antes de criar novas. |
 | DEC-06 | Como registrar versões e correções? | Definir identificação, histórico relevante e ligação com textos derivados. |
@@ -170,7 +177,9 @@ Ao detalhar uma skill, definir: quando usar, quando não usar, entradas mínimas
 | DEC-11 | Quais amostras representam a voz desejada? | Selecionar trechos reconhecidos pelo autor e exemplos que ele deseja evitar; o exemplo fictício do universo narrativo é apenas uma referência inicial. |
 | DEC-12 | Qual é a intensidade de revisão de cada entrega? | Usar os percursos leve e completo da seção 15 como hipóteses para o piloto. |
 
-## 12. Critérios para a primeira versão operacional
+## 12. Critérios históricos para a primeira versão operacional
+
+Checklist preservada da proposta anterior à separação. Os itens não marcados não são pendências ativas de 01: seu destino e o atendimento já demonstrado estão reconciliados na seção 20. O piloto e a decisão sobre uma versão 1.0 continuam futuros, em 03.
 
 - [ ] Definir os objetivos e os limites de cada tipo de texto utilizado no piloto.
 - [ ] Resolver as decisões abertas que afetem diretamente o piloto.
@@ -186,7 +195,7 @@ Ao detalhar uma skill, definir: quando usar, quando não usar, entradas mínimas
 
 Esses itens representam trabalho futuro. A existência desta especificação não significa que o método já foi validado.
 
-## 13. Próximo incremento
+## 13. Próximo incremento — registro histórico anterior à implementação
 
 Gerar o plano separado desta spec conforme a seção 17. Usar a seção 16 como insumo preliminar, incluindo os procedimentos de elaboração da própria metodologia. Depois gerar as tasks e implementar as entregas na ordem definida. As escolhas de leitor, voz, formato e destino serão detalhadas no documento 02 e precisam estar suficientes antes do piloto **01 — Novo mundo, bagagem antiga**. O suporte genérico pode ser planejado com essas escolhas pendentes.
 
@@ -302,9 +311,9 @@ O resultado será uma decisão sobre simplificar, manter ou ajustar cada passage
 
 ### 15.8. Piloto escolhido e condições de início
 
-**Decisão do autor:** usar o primeiro texto da jornada, [01 — Novo mundo, bagagem antiga](<../jornada do heroi/01-novo-mundo-bagagem-antiga.md>), como piloto após a implementação inicial da spec e a definição editorial. O arquivo atual é a base de planejamento da etapa; suas cenas propostas não constituem, por si só, um relato autobiográfico confirmado.
+**Decisão do autor:** usar o primeiro texto da jornada, [01 — Novo mundo, bagagem antiga](<../../../jornada do heroi/01-novo-mundo-bagagem-antiga.md>), como piloto após a implementação inicial da spec e a definição editorial. O arquivo atual é a base de planejamento da etapa; suas cenas propostas não constituem, por si só, um relato autobiográfico confirmado.
 
-Usar como apoio o [anexo 01](<../jornada do heroi/01-texto-anexo.md>) e a [ficha de registro da etapa 01](<../registro da autoridade/etapas/01-registro.md>). Confirmar com o autor os detalhes pessoais necessários à redação. Preservar uma versão de referência para comparar o rascunho e o texto revisado.
+Usar como apoio o [anexo 01](<../../../jornada do heroi/01-texto-anexo.md>) e a [ficha de registro da etapa 01](<../../../registro da autoridade/etapas/01-registro.md>). Confirmar com o autor os detalhes pessoais necessários à redação. Preservar uma versão de referência para comparar o rascunho e o texto revisado.
 
 Antes de iniciar o piloto, definir:
 
@@ -327,7 +336,7 @@ Na avaliação, comparar rascunho original e versão revisada, percepção do au
 
 A primeira análise está concluída. Esta seção preserva as propostas da versão 0.4 como insumos para o plano separado; não é o plano vigente nem um quadro de execução. O método permanece provisório até ser usado e avaliado. As entregas abaixo ainda não existem. Ao gerar o plano, consolidar nele a sequência e os caminhos escolhidos; nesta spec permanecem os requisitos e contratos que essas entregas devem cumprir.
 
-O documento 01 define **como conduzir o trabalho editorial**. O [documento 02](02-resumo-editorial-onde-como-quando.md) reúne **as escolhas editoriais que orientarão esse trabalho**. Podemos preparar procedimentos e modelos genéricos enquanto essas escolhas estão abertas; o piloto depende das definições necessárias ao texto 01.
+O documento 01 define **como conduzir o trabalho editorial**. O [documento 02](../02-preparacao-editorial/02-resumo-editorial-onde-como-quando.md) reúne **as escolhas editoriais que orientarão esse trabalho**. Podemos preparar procedimentos e modelos genéricos enquanto essas escolhas estão abertas; o piloto depende das definições necessárias ao texto 01.
 
 ### 16.2. Regras de operação da primeira implementação
 
@@ -483,3 +492,86 @@ Foram detalhados no plano: contratos por skill; estrutura e carregamento das ref
 Revisado o plano 0.3 em relação aos contratos desta spec e às dependências do documento 02. Foram esclarecidos: criação manual das primeiras tasks antes de existir sua skill; cobertura de avaliação por modo e perfil; separação entre texto revisado e avaliação autoral concluída; uso de amostras Markdown sem dependência do Obsidian. Corrigida também a indicação desatualizada de que o plano ainda não existia.
 
 **Parecer: apto para gerar tasks.** Não há impedimento documental identificado nesta revisão. Os requisitos permanecem os da spec 0.5. Definições de voz e destino continuam necessárias antes do piloto, e a avaliação prática das skills permanece futura. A revisão foi realizada com acesso ao histórico, sem alegação de independência.
+
+## 19. Encerramento e redistribuição autorizada — versão 0.6
+
+### 19.1. Decisão e limites vigentes
+
+Em 2026-10-14, o autor solicitou encerrar a spec 01, transferir o piloto para a spec 03 e analisar na spec 02 o que falta antes dele: textos de referência, tom, skills, história e contexto. Esta é uma mudança explícita de escopo, não uma declaração de execução do trabalho transferido.
+
+| Iniciativa | Responsabilidade vigente | Condição de conclusão |
+| --- | --- | --- |
+| 01 — Método | Guia, seis modelos, sete skills, nove perfis, conferência integrada e exercícios iniciais. ENT-01 a ENT-06; T01-001 a T01-017. | Evidências documentais e dos percursos exercitados registradas, com limitações e pendências posteriores encaminhadas. |
+| [02 — Preparação editorial](../02-preparacao-editorial/02-resumo-editorial-onde-como-quando.md) | Analisar acervo e lacunas; definir história, contexto, voz/tom, leitor, formato e condições de uso; avaliar adequação e cobertura das skills para o percurso pretendido. | Contexto suficiente e decisões necessárias recebidas; complementos ou ajustes das skills pertinentes conferidos antes de liberar seu uso. |
+| [03 — Piloto](../../backlog/03-piloto-editorial/03-piloto-editorial.md) | Preparar ficha final, escrever, revisar, integrar, receber avaliação autoral e avaliar o método em uso. | Texto e avaliação documentados; ajustes necessários resolvidos ou encaminhados com critérios, sem presumir aprovação ou publicação. |
+
+ENT-07 e T01-018 a T01-021 deixam o escopo ativo de 01 e ficam rastreadas na spec 03. PEN-01 e a análise/complementação condicional de PEN-02 passam à spec 02; PEN-03 passa à spec 03. IDs anteriores são preservados como origem. Não há cancelamento dos critérios de voz, fatos, fontes, versões, revisão ou apreciação humana.
+
+### 19.2. Conferência de fechamento
+
+Base examinada: plano 0.3 e tasks 0.20 anteriores à separação; registros T01-015 a T01-017; entradas, saídas e cobertura de T01-016; contratos das sete skills v0.1 e nove perfis. Conferência pela IA responsável pelas alterações, com acesso ao histórico e aos pareceres anteriores; não é avaliação independente.
+
+- Os artefatos da metodologia têm registros de produção/conferência nas tasks. A revisão presente verifica o fechamento e a transferência; não repete nem amplia as validações estruturais históricas.
+- E01–E07 preservam saídas e limites. Em E07, a integração preserva o texto; não comprova capacidade de refatoração substancial. Voz real, esforço autoral e prazer de leitura continuam sem avaliação humana.
+- A suficiência de contexto para escrever ainda não está demonstrada: o texto 01 é planejamento e as cenas não constituem autobiografia confirmada. Essa análise pertence agora a 02.
+- O plano, as tasks e a orientação de retomada precisam apontar para a divisão 01 → 02 → 03. Ajustados nesta revisão; pareceres históricos continuam limitados às versões que examinaram.
+
+**Parecer:** iniciativa 01 encerrada no novo escopo autorizado. Não foi identificado impeditivo remanescente de construção documental neste recorte. O encerramento não significa que todas as modalidades das skills foram avaliadas ou que a metodologia foi aprovada em uso real. Defeitos futuros no método poderão reabrir apenas os aspectos afetados.
+
+### 19.3. Histórico e próximo passo
+
+Versão 0.6: separação autorizada do escopo; plano atualizado para 0.4 e tasks para 0.21. Os requisitos REQ-01 a REQ-20 são preservados, com validação aplicada na iniciativa 03. A versão 0.5 permanece recuperável no commit `e931a1bbcd599c2337e576eb4bc6ad8a8f01c53d`.
+
+Próximo trabalho: análise e decisões da spec 02, conforme seu diagnóstico vigente. Não iniciar a ficha final nem a redação do piloto durante essa análise.
+
+## 20. Auditoria anterior ao arquivamento — versão 0.7
+
+**Pedido:** conferir omissões, falhas e erros antes de arquivar como concluída. **Base:** spec 0.6, plano 0.4, tasks 0.21, guia 0.3, seis modelos v0.1, sete skills/perfis v0.1, entradas e saídas E01–E07. Revisão pela mesma IA, com acesso ao histórico; não é auditoria independente nem novo piloto.
+
+### Achados e resolução
+
+| ID | Achado / fundamento | Correção e resultado |
+| --- | --- | --- |
+| ARQ-01 | E03 marcou EX-T02 bloqueada sem tentativa de execução, contrariando o modelo e a skill de tasks. O parecer inicial não detectou a falha. | Corrigida a saída para pendente, com dependência DEC-A preservada; reconferência dirigida registrada no arquivo de saídas r1.1. T01-016 e a reconciliação de T01-017 reexaminadas nesse aspecto e novamente concluídas; skill já continha a regra correta. |
+| ARQ-02 | A checklist da seção 12 e decisões da seção 11 não tinham destinação individual após a transferência. Um leitor poderia interpretá-las como pendências esquecidas de 01. | Reconciliação abaixo mantém todos os itens e distingue atendimento documental de avaliação futura. Rótulos históricos explicitados; nenhum checkbox de piloto marcado como executado. |
+| ARQ-03 | Linhas em branco dividiam a tabela de histórico das tasks a partir de 0.18. | Removidas as separações indevidas; conteúdo das versões preservado em tabela contínua. |
+| ARQ-04 | Arquivar os três documentos muda seus caminhos e poderia romper referências internas e de entrada. | Links recalculados para o arquivo; guia, AGENTS e specs ativas apontam para os novos destinos. Modelos, skills e avaliações permanecem em seus locais de uso. |
+| ARQ-05 | A spec 03 recebia os critérios por referência, mas não explicitava os dois tipos de alteração previstos na seção 15.7/15.8 da origem. | Acrescentada a exigência futura de observar alteração que preserve sentido e alteração que exija reconsiderar a especificação, sem inventar acontecimentos para demonstrá-las. |
+
+### Destino de todas as decisões da seção 11
+
+| Decisões de origem | Situação / evidência ou destino |
+| --- | --- |
+| DEC-01, DEC-02, DEC-03 | Leitor, relação relato/ensino e intensidade narrativa: spec 02, D02-02/D02-03/D02-04 e R02-01/R02-03. Preferências continuam abertas. |
+| DEC-04 | Formas curta/completa entregues em `modelos/ficha-editorial.md`; escolha aplicada ao piloto em D02-10 e ficha final de 03. |
+| DEC-05 | Local do texto: D02-05 em 02. Arquivos do método têm locais definidos; arquivamento desta iniciativa não decide local do piloto. |
+| DEC-06 | IDs, versões e preservação definidos no guia, seção 7, e modelos de tasks/integração. Comparação real do piloto em 03. |
+| DEC-07 | Piloto escolhido e preservado em 03; não executado. |
+| DEC-08 | Sete skills e nove perfis construídos e conferidos; T01-008 a T01-016, com cobertura parcial de comportamento. Complementos pertinentes em 02. |
+| DEC-09 | Importância e encerramento definidos no parecer, integração e guia; casos sintéticos em E06/E07. Aplicação real em 03. |
+| DEC-10, DEC-11 | Variante/convenções e referências de voz: D02-04/D02-09 em 02; reconhecimento humano em 03. |
+| DEC-12 | Percursos definidos no guia; seleção pertinente em D02-10 e avaliação de esforço em 03. |
+
+### Destino integral da checklist da seção 12
+
+| Item original | Atendimento demonstrado / trabalho restante |
+| --- | --- |
+| Objetivos e limites dos tipos de texto do piloto | Spec 02, D02-01 a D02-03; ainda a definir. |
+| Decisões abertas que afetam o piloto | Spec 02, D02-01 a D02-10 e achados A02. |
+| Harmonizar proposta com a base e o método de registro | Guia, ficha e integração distinguem IDs, estados de conteúdo e publicação; conferência documental T01-015. |
+| Aplicar ficha a episódio real | Spec 03, origem T01-018; E04 é sintético e não substitui esse item. |
+| Produzir/revisar rascunho factual, didático e literário | Spec 03, origem T01-019; selecionar perfis segundo o recorte, justificando dispensas. |
+| Avaliar REQ-01 a REQ-20 e registrar os não exercitados | Cobertura documental nas tasks e plano; comportamento limitado a E01–E07. Avaliação aplicada herdada por 03, sem aprovação integral antecipada. |
+| Ensaiar refatoração preservando sentido, fontes e voz | Complemento condicional em 02; integração real em 03. E07 preservou o texto e não demonstrou refatoração substancial. |
+| Passagem entre revisores, integração e encerramento | E04→E07 exercitam cadeia breve; funcionamento em história real será examinado em 03. |
+| Avaliação autoral de voz, utilidade e esforço | Spec 03, origem T01-020/PEN-03; não recebida. |
+| Reduzir campos/etapas sem contribuição | Spec 03, origem T01-021, conforme esforço observado, sem cortar requisitos antes de evidência. |
+| Ajustes, limites e pendências antes de 1.0 | Spec 03, origem T01-021. O arquivo concluído continua v0.7; arquivamento não o promove a método validado v1.0. |
+
+### Parecer final
+
+Os vinte requisitos possuem cobertura documental nas seis entregas do método, com responsabilidades de avaliação real preservadas em 03. Sete pacotes passaram novamente no validador estrutural; nomes, referências, nove perfis e limites dos exercícios foram conferidos. A falha encontrada em E03 foi corrigida sem ampliar sua evidência. Nenhum item de construção ficou sem entrega ou encaminhamento no escopo examinado.
+
+**Apta para arquivamento como concluída**, após as correções registradas. Permanecem fora desta conclusão a avaliação de todas as modalidades, voz real, esforço autoral e piloto. Os destinos são as specs 02/03, não uma lista de melhorias opcionais.
+
+**Histórico v0.7:** auditoria, correções e arquivamento em `spec editorial/concluida/01-sdd-editorial/`; plano v0.5 e tasks v0.22. Versões de partida preservadas em `spec editorial/historico/2026-10-14-antes-do-arquivamento/`. O acompanhamento final registra a conferência dos caminhos após a mudança.

@@ -1,10 +1,12 @@
 # Estrutura do livro e dados de estudo
 
-[Índice do livro](README.md) · [Texto literal da última revisão](EXTRACAO_ULTIMA_REVISAO.md) · [Base editorial](../BASE_DO_LIVRO.md)
+[Índice do livro](README.md) · [Texto literal da última revisão](EXTRACAO_ULTIMA_REVISAO.md) · [Base editorial](BASE_DO_LIVRO.md)
+
+**Uso atual:** esta consolidação preserva a origem das sete partes. A sequência e a decomposição inicial em capítulos estão no [mapa de estudos](MAPA_DE_ESTUDOS.md); as lacunas abaixo permanecem como pontos a conferir por unidade.
 
 ## Qual versão está sendo consolidada
 
-A base é o último ajuste de `pensamentos.md`: o pedido para enriquecer as sete fases com matéria de Engenharia de Software e a resposta que acrescenta requisitos, modularidade, qualidade, evolução e configuração. Sua visão geral está preservada em [F078](<../jornada do heroi/06-texto-anexo.md#fonte-f078>).
+A base é o último ajuste de conversa original: o pedido para enriquecer as sete fases com matéria de Engenharia de Software e a resposta que acrescenta requisitos, modularidade, qualidade, evolução e configuração. Sua visão geral está preservada em [F078](<../jornada do heroi/06-texto-anexo.md#fonte-f078>).
 
 As sete fases são apresentadas aqui como **partes técnicas provisórias do livro**. A ordem da última proposta foi preservada. O conteúdo e as referências foram reunidos a partir da conversa; os produtos de estudo e de escrita abaixo são sugestões de organização para o próximo detalhamento.
 
@@ -122,7 +124,7 @@ As sete fases são apresentadas aqui como **partes técnicas provisórias do liv
 
 **Leitura e diagnóstico de código:** praticados em todas as partes, com especial atenção ao runtime e à avaliação das entregas.
 
-**Orquestração de agentes:** a última lista mantém aplicações com IA em cada fase, mas reduz o destaque do módulo específico de contexto, avaliações e governança apresentado antes. Preservar esse material de [F031](<../jornada do heroi/09-texto-anexo.md#fonte-f031>) e decidir no detalhamento se será um capítulo próprio ou uma prática transversal.
+**Orquestração de agentes:** a última lista mantém aplicações com IA em cada fase, mas reduz o destaque do módulo específico de contexto, avaliações e governança apresentado antes. Preservar esse material de [F031](<../jornada do heroi/09-texto-anexo.md#fonte-f031>); o mapa inicial prevê CAP-18 como consolidação e prática transversal desde os primeiros ciclos, sujeito a revisão.
 
 **Economia e julgamento de engenharia:** a última revisão menciona economia do software, custos de manutenção, dívida técnica e escolhas sob restrições. Organizar essas relações nas decisões e nos casos; a bibliografia específica ainda não foi definida.
 
@@ -139,14 +141,14 @@ As sete fases são apresentadas aqui como **partes técnicas provisórias do liv
 | Textos públicos e retorno dos leitores | 13. |
 | Estrutura e elaboração do livro | 14 e 15. |
 
-Consultar o [registro contínuo](<../registro da autoridade/README.md>) para sessões, episódios e fichas das etapas. Vincular cada capítulo aos registros que sustentam suas explicações, usando a [base editorial](../BASE_DO_LIVRO.md).
+Consultar o [registro contínuo](<../registro da autoridade/README.md>) para sessões, episódios e fichas das etapas. Vincular cada capítulo aos registros que sustentam suas explicações, usando a [base editorial](BASE_DO_LIVRO.md).
 
 ## Dados ainda necessários para o próximo detalhamento
 
-- Pré-requisitos e profundidade de cada parte para o público escolhido.
+- Conferir os pré-requisitos propostos no mapa e delimitar profundidade por unidade.
 - Obras, edições e trechos específicos para os assuntos ainda sem fonte selecionada.
 - Um caso ou experimento delimitado por objetivo de aprendizagem.
 - Critérios para demonstrar entendimento e autonomia, além do resultado do produto.
-- Divisão definitiva em capítulos e relação entre a ordem de estudo e a ordem de ensino.
+- Rever a decomposição inicial CAP-01 a CAP-18 e definir a ordem final de ensino; o mapa não fixa o sumário definitivo.
 
 As referências acima foram recuperadas da conversa. Sua atualidade e adequação ainda precisarão de conferência ao selecionar as leituras; esta consolidação não acrescenta uma bibliografia externa nova.
