@@ -1,7 +1,7 @@
 # Plano 03 — Piloto editorial
 
-**ID:** PLANO-EDITORIAL-003. **Versão:** 0.8 — 17/10/2026.
-**Base:** [spec 03 v1.4](03-piloto-editorial.md), preparação 02 recebida e [guia vigente](../../GUIA_DE_OPERACAO.md). **Acompanhamento:** [tasks 03](03-tasks-piloto-editorial.md).
+**ID:** PLANO-EDITORIAL-003. **Versão:** 0.9 — 18/10/2026.
+**Base:** [spec 03 v1.7](03-piloto-editorial.md), preparação 02 recebida e [guia vigente](../../GUIA_DE_OPERACAO.md). **Acompanhamento:** [tasks 03](03-tasks-piloto-editorial.md).
 
 ## Entregas, sequência e conferência
 
@@ -48,3 +48,6 @@ D05-01 governa preservação antes da edição de texto; não substituir versão
 **Ajuste v0.7 — RA03-05:** mesmas entregas e dependências; conferir marco dos dez meses como projeto grande, uso anterior de IA e material já levantado ainda a publicar. Após a conquista em homologação, ligar aprofundamento às responsabilidades percebidas para uso real, sem transformar o relato em instrução fiscal ou garantia técnica.
 
 **Ajuste v0.8 — RA03-06:** reabrir preparação/redação e revisão da chamada. Equipe autorizada: proposta de redação, parecer de gancho/voz e integração pela coordenadora. Chamada como unidade autônoma de tensão/contexto/convite, sem resumo do percurso. Mesmos arquivos e IDs; artigo preservado. Entrega da versão integrada ao autor, prova após retorno.
+
+
+**Conferência de encerramento v0.9 — 18/10/2026:** mesmas entregas e dependências, sem ciclo; ENT03-01–06/09 e entregas históricas 07/08 têm resultado nas tasks. A matriz T03-006 cobre individualmente REQ-01–20, ganhos/perdas e limites dos dois casos de alteração; cobertura ausente recebe destino condicionado, sem iniciar nova produção. Contrato/base reconciliados com spec v1.7 e guia v1.3; peças e publicação não alteradas por esta conferência.

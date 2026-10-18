@@ -1,7 +1,7 @@
 # Esboço — Novo mundo, bagagem antiga
 
 **ID:** ESB03-001 · **Revisão:** r04 — 17/10/2026.  
-**Base:** [Ficha r04](ficha-editorial.md) · [Artigo](artigo.md) · [Tasks](<../../../spec editorial/changes/03-piloto-editorial/03-tasks-piloto-editorial.md>).
+**Base:** [Ficha r04](ficha-editorial.md) · [Artigo](artigo.md) · [Tasks](<../../../spec editorial/concluida/03-piloto-editorial/03-tasks-piloto-editorial.md>).
 
 | Movimento | Função / base |
 | --- | --- |

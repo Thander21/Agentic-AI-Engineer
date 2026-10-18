@@ -12,4 +12,4 @@ Os exercícios E01–E07 abrangem especificação, planejamento, tasks, prepara�
 
 ## Relação com as iniciativas
 
-A [spec 01](../../concluida/01-sdd-editorial/01-especificacao-sdd-editorial.md) registra a construção do método; a [spec 02](../../concluida/02-preparacao-editorial/02-resumo-editorial-onde-como-quando.md), a preparação do piloto; e a [spec 03](../../changes/03-piloto-editorial/03-piloto-editorial.md), sua aplicação a material real. Consulte as tasks correspondentes para cobertura, pendências e decisões de uso. O [guia de operação](../../GUIA_DE_OPERACAO.md) orienta o procedimento editorial.
+A [spec 01](../../concluida/01-sdd-editorial/01-especificacao-sdd-editorial.md) registra a construção do método; a [spec 02](../../concluida/02-preparacao-editorial/02-resumo-editorial-onde-como-quando.md), a preparação do piloto; e a [spec 03](../../concluida/03-piloto-editorial/03-piloto-editorial.md), sua aplicação a material real. Consulte as tasks correspondentes para cobertura, pendências e decisões de uso. O [guia de operação](../../GUIA_DE_OPERACAO.md) orienta o procedimento editorial.

@@ -1,6 +1,6 @@
 # Mapa de estudos e capítulos
 
-**Versão:** 0.1 — 2026-10-16. **Natureza:** organização documental inicial do acervo, produzida na iniciativa 04.
+**Versão:** 0.3 — 18/10/2026. **Natureza:** mapa documental iniciado na iniciativa 04; preparação de CAP-01 aberta por pedido do autor.
 
 [Índice de estudos](README.md) · [Base histórica das sete partes](ESTRUTURA_E_ESTUDO.md) · [Acervo de publicações](<../registro da autoridade/PUBLICACOES.md>) · [Método editorial](<../spec editorial/GUIA_DE_OPERACAO.md>)
 
@@ -33,7 +33,7 @@ Em todas as linhas, o estado **Pendente** significa que esta iniciativa não exe
 
 | Ordem / ID | Parte e capítulo de estudo | Objetivo | Pré-requisitos propostos | Fonte | Resultado esperado | Estado |
 | --- | --- | --- | --- | --- | --- | --- |
-| 01 / CAP-01 | I — Execução, runtime e memória | Explicar stack, heap e gerenciamento de memória no ambiente escolhido. | Delimitar ambiente e conhecimento de partida; nenhum CAP exigido. | S01 | Fluxo comentado de uma execução e limites da observação. | Pendente |
+| 01 / CAP-01 | I — Execução, runtime e memória | Explicar stack, heap e gerenciamento de memória no ambiente escolhido. | Delimitar ambiente e conhecimento de partida; nenhum CAP exigido. | S01 | Fluxo comentado de uma execução e limites da observação. | Preparação conferida — estudo ainda não iniciado |
 | 02 / CAP-02 | I — Processos, threads e I/O | Relacionar execução, concorrência e recursos físicos. | CAP-01. | S01 | Caso de uso de recursos com latência, descritores ou comunicação observados. | Pendente |
 | 03 / CAP-03 | II — Contratos e leitura diagnóstica | Localizar invariantes, efeitos colaterais e asserções. | CAP-01. | S02 | Leitura de uma entrega com afirmações ligadas a trechos e limites. | Pendente |
 | 04 / CAP-04 | II — Qualidade, métricas e profiling | Interpretar sinais de SQA, análise estática/SAST, complexidade, acoplamento e Halstead sem confundi-los com prova geral. | CAP-02 e CAP-03. | S02 | Análise contextualizada de sinais estáticos e de execução. | Pendente |
@@ -63,11 +63,13 @@ Ao iniciar uma unidade, acrescentar abaixo uma linha real com CAP, versão da no
 | Capítulo | Nota/capítulo e revisão | Fonte selecionada | Registro/evidência | Resultado e limite | Post/artigo derivado | Próxima ação |
 | --- | --- | --- | --- | --- | --- | --- |
 
-Nenhuma nota ou publicação foi associada aos novos IDs nesta entrega. Ao produzir um artigo/post, criar sua entrada no [índice central](<../registro da autoridade/PUBLICACOES.md>) e vincular o mesmo ID aqui. Episódio pessoal é opcional; uma síntese de fontes pode originar publicação. Não copiar uma experiência como se fossem acontecimentos diferentes.
+| CAP-01 | [FIC-CAP-01 r02](01-execucao-runtime-e-memoria/ficha-editorial.md); capítulo ainda não produzido | TEC01-01/02/04/05 para introdução; TEC01-03 reservada a aprofundamento; trechos e consulta na ficha | Autor escolheu Dart desktop e declarou leitura de chamadas/ifs/funções/waits, sem explicação dos conceitos-alvo. Fontes de chamadas/quadros complementadas; adequação didática conferida | Preparação concluída para rascunho conceitual com pendências delimitadas; sem experiência ou aprendizagem demonstrada | Nenhum | Próxima passagem: esboço introdutório, quando autorizada a produção. Antes de prática/detalhes da VM, identificar SDK, sistema e modo de execução e fixar fonte de implementação. |
+
+Ao produzir um artigo/post, criar sua entrada no [índice central](<../registro da autoridade/PUBLICACOES.md>) e vincular o mesmo ID aqui. Episódio pessoal é opcional; uma síntese de fontes pode originar publicação. Não copiar uma experiência como se fossem acontecimentos diferentes.
 
 ## Pendências concretas
 
-- Antes de CAP-01: confirmar ambiente/caso de estudo, profundidade inicial e fonte com versão/trecho. Não há diagnóstico de domínio registrado neste mapa.
+- CAP-01: Dart desktop e ponto de partida recebidos em 18/10/2026; preparação conceitual conferida. Versão do SDK, sistema operacional, modo de execução e fonte imutável da implementação são necessários antes de observação prática ou detalhamento da VM, sem impedir a futura redação introdutória delimitada.
 - Antes de cada unidade: selecionar e conferir bibliografia específica; a listagem S01–S08 rastreia a conversa, não substitui fontes técnicas primárias.
 - Durante o percurso: ajustar dependências conforme as dificuldades reais, registrando motivo e versão; definir caso e evidência antes de declarar aprendizagem.
 - Antes de organizar a obra final: definir ordem didática, extensão e eventual divisão/união de capítulos, preservando a correspondência dos IDs.

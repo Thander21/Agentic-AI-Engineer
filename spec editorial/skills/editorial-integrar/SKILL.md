@@ -2,7 +2,7 @@
 name: editorial-integrar
 description: Resolve achados e decisões autorais e aplica alterações autorizadas a uma versão identificada, preservando sentido, fontes e voz. Use em integração ou ajustes após leitura autoral; não emite revisão independente nem publica.
 metadata:
-  version: "0.4"
+  version: "0.5"
 ---
 
 # Integrar e ajustar
@@ -13,7 +13,7 @@ Receber pedido/limite, versão de partida, ficha/contrato, fontes pertinentes e 
 
 ## Preservação antes da edição
 
-Sempre que precisar preservar texto de publicação, jornada ou capítulo de estudo, verificar sua recuperação no Git. Se faltar, solicitar commit do autor e aguardar antes da alteração dependente, continuando partes independentes. Não executar commit/push, criar cópia, backup, snapshot ou manifesto substituto. Uma etiqueta de revisão não garante recuperação. Não reescrever fonte/transcrição para caber na narrativa.
+Sempre que precisar preservar texto de publicação, jornada ou capítulo de estudo, verificar sua recuperação no Git. Se faltar, solicitar commit do autor e aguardar antes da alteração dependente, continuando partes independentes. Havendo dispensa explícita do autor para aquela versão em andamento, registrar o alcance e continuar sem commit, conforme a seção 6 do guia; não presumir recuperação nem repetir uma decisão já recebida. Não executar commit/push, criar cópia, backup, snapshot ou manifesto substituto. Uma etiqueta de revisão não garante recuperação. Não reescrever fonte/transcrição para caber na narrativa.
 
 ## Decidir e aplicar
 

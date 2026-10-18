@@ -32,7 +32,7 @@ Canais confirmados em RA02-12: artigo e chamada no LinkedIn para textos maiores;
 
 Preparar editorialmente a primeira publicação, tendo como material escolhido “01 — Novo mundo, bagagem antiga”: analisar história/contexto, definir intenção, leitor, voz, formato, destino, armazenamento e condições de uso, selecionar os procedimentos pertinentes e conferir a suficiência da preparação para a iniciativa 03. Pesquisa e estudo técnico da formação serão tratados em outro momento. A organização geral dos registros e o aproveitamento no livro são contexto e possibilidades posteriores, não entregas a expandir nesta iniciativa.
 
-Por decisão do autor em 2026-10-14, esta iniciativa também concentra a análise anterior ao piloto: o que já existe, o que falta na história e no contexto, quais referências de texto e tom orientarão a voz e se as skills estão adequadas ao uso pretendido. Recebe PEN-01 e PEN-02 da iniciativa 01. O piloto e a avaliação autoral ficam na [spec 03](../../changes/03-piloto-editorial/03-piloto-editorial.md), recebendo uma preparação suficientemente definida.
+Por decisão do autor em 2026-10-14, esta iniciativa também concentra a análise anterior ao piloto: o que já existe, o que falta na história e no contexto, quais referências de texto e tom orientarão a voz e se as skills estão adequadas ao uso pretendido. Recebe PEN-01 e PEN-02 da iniciativa 01. O piloto e a avaliação autoral ficam na [spec 03](../../concluida/03-piloto-editorial/03-piloto-editorial.md), recebendo uma preparação suficientemente definida.
 
 No levantamento inicial, destino, leitor e voz ainda estavam abertos. As decisões recebidas posteriormente estão consolidadas acima; a proposta de uso interno e a faixa de 600–900 palavras não foram adotadas.
 

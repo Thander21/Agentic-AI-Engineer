@@ -1,7 +1,7 @@
 # Ficha editorial FIC03-002 — chamada do artigo
 
 **Revisão:** r04 — 18/10/2026. **Peça:** PUB-002 r04. **Origem:** jornada, etapa 01.  
-**Acompanhamento:** [T03-003/004/005](<../../../spec editorial/changes/03-piloto-editorial/03-tasks-piloto-editorial.md>).
+**Acompanhamento:** [T03-003/004/005](<../../../spec editorial/concluida/03-piloto-editorial/03-tasks-piloto-editorial.md>).
 
 - **Pedido:** autor rejeitou r02 como resumo sem contexto/atrativo e solicitou equipe editorial para produzir um texto próprio que convide à história completa. Artigo PUB-001 r05 permanece apreciado e com prova concluída.
 - **Intenção e leitor:** despertar interesse pela jornada pessoal em quem conhece a distância entre conseguir construir e compreender as decisões. O convite deve situar o desenvolvimento de software próprio com agentes sem apresentar a sequência completa do artigo.

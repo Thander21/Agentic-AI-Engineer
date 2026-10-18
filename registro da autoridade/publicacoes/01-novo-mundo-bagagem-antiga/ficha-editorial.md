@@ -4,8 +4,8 @@
 **Versão:** r04 — 2026-10-17  
 **Responsável:** IA colaboradora, preparação editorial.  
 **Entrega:** artigo pessoal para LinkedIn; origem `jornada`, etapa 01.  
-**Texto:** [PUB-001](artigo.md), arquivo de trabalho. Estado e próxima ação na [tabela atual de tasks 03](<../../../spec editorial/changes/03-piloto-editorial/03-tasks-piloto-editorial.md>).  
-**Base:** [spec 03 vigente](<../../../spec editorial/changes/03-piloto-editorial/03-piloto-editorial.md>), [plano 03 vigente](<../../../spec editorial/changes/03-piloto-editorial/03-plano-piloto-editorial.md>), [T03-001](<../../../spec editorial/changes/03-piloto-editorial/03-tasks-piloto-editorial.md>).  
+**Texto:** [PUB-001](artigo.md), arquivo de trabalho. Estado e próxima ação na [tabela atual de tasks 03](<../../../spec editorial/concluida/03-piloto-editorial/03-tasks-piloto-editorial.md>).  
+**Base:** [spec 03 vigente](<../../../spec editorial/concluida/03-piloto-editorial/03-piloto-editorial.md>), [plano 03 vigente](<../../../spec editorial/concluida/03-piloto-editorial/03-plano-piloto-editorial.md>), [T03-001](<../../../spec editorial/concluida/03-piloto-editorial/03-tasks-piloto-editorial.md>).  
 **Acompanhamento:** estado e próxima ação nas tasks; fontes da preparação inicial reaproveitadas e complementadas pelo retorno autoral desta revisão.
 
 Forma completa, conforme modelo v0.3: múltiplos relatos, limites factuais e referências de voz precisam acompanhar a escrita. Esta ficha é preparação; não constitui artigo ou capítulo.

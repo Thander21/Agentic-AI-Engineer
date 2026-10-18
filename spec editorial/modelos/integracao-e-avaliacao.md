@@ -1,6 +1,6 @@
 # Modelo — integração e ajustes
 
-**Versão do modelo:** 0.4 — 17/10/2026.
+**Versão do modelo:** 0.5 — 18/10/2026.
 **Entrega de origem:** ENT-03 / T01-007
 [Guia de operação](../GUIA_DE_OPERACAO.md). Copiar somente a estrutura útil abaixo, substituir os campos e ajustar os links. Modelo disponível não é entrega preenchida.
 
@@ -8,7 +8,7 @@
 
 **Versão de partida:** {caminho/revisão}. **Entrada:** {ficha/contrato, pareceres ou retorno autoral e versão examinada}. **Saída:** {versão resultante}. **Acompanhamento:** {task da iniciativa; sem iniciativa/tasks, único registro proporcional na própria peça ou ficha}.
 
-**Preservação:** {se a versão do texto precisa ser preservada, indicar recuperação no Git; se faltar, solicitar commit do autor antes de sobrescrever a parte dependente}. Não criar cópia, backup ou manifesto; não executar commit/push automaticamente.
+**Preservação:** {se a versão do texto precisa ser preservada, indicar recuperação no Git; se faltar, solicitar commit antes da parte dependente ou registrar a dispensa explícita do autor para essa versão em andamento, conforme o guia}. Não criar cópia, backup ou manifesto; não executar commit/push automaticamente.
 
 | Achado/retorno | Decisão e motivo | Alteração aplicada ou preservação | Reconferência necessária/resultado |
 | --- | --- | --- | --- |

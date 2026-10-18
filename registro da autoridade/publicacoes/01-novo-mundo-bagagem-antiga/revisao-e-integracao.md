@@ -2,7 +2,7 @@
 
 **ID:** PAR03-001 · **Revisão:** r09 — 17/10/2026.  
 **Versões examinadas:** PUB-001 r01, corpo entre “Texto” e “Apontamentos editoriais”; PUB-002 r01, corpo entre “Texto” e “Uso editorial”.  
-**Acompanhamento:** [T03-004](<../../../spec editorial/changes/03-piloto-editorial/03-tasks-piloto-editorial.md>).
+**Acompanhamento:** [T03-004](<../../../spec editorial/concluida/03-piloto-editorial/03-tasks-piloto-editorial.md>).
 
 **Vigência:** o exame de r01 abaixo é histórico e foi considerado insuficiente em estrutura/voz pelo retorno autoral. Os exames por versão estão abaixo; a prova do artigo r05 permanece vigente; os pareceres anteriores têm alcance histórico. Aprovação/prova da chamada r04 e limpeza de apresentação constam na última seção. Rodadas anteriores mantêm seu alcance histórico.
 

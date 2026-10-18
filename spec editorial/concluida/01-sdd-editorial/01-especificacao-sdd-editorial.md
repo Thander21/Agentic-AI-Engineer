@@ -505,7 +505,7 @@ Em 2026-10-14, o autor solicitou encerrar a spec 01, transferir o piloto para a 
 | --- | --- | --- |
 | 01 — Método | Guia, seis modelos, sete skills, nove perfis, conferência integrada e exercícios iniciais. ENT-01 a ENT-06; T01-001 a T01-017. | Evidências documentais e dos percursos exercitados registradas, com limitações e pendências posteriores encaminhadas. |
 | [02 — Preparação editorial](../02-preparacao-editorial/02-resumo-editorial-onde-como-quando.md) | Analisar acervo e lacunas; definir história, contexto, voz/tom, leitor, formato e condições de uso; avaliar adequação e cobertura das skills para o percurso pretendido. | Contexto suficiente e decisões necessárias recebidas; complementos ou ajustes das skills pertinentes conferidos antes de liberar seu uso. |
-| [03 — Piloto](../../changes/03-piloto-editorial/03-piloto-editorial.md) | Preparar ficha final, escrever, revisar, integrar, receber avaliação autoral e avaliar o método em uso. | Texto e avaliação documentados; ajustes necessários resolvidos ou encaminhados com critérios, sem presumir aprovação ou publicação. |
+| [03 — Piloto](../../concluida/03-piloto-editorial/03-piloto-editorial.md) | Preparar ficha final, escrever, revisar, integrar, receber avaliação autoral e avaliar o método em uso. | Texto e avaliação documentados; ajustes necessários resolvidos ou encaminhados com critérios, sem presumir aprovação ou publicação. |
 
 ENT-07 e T01-018 a T01-021 deixam o escopo ativo de 01 e ficam rastreadas na spec 03. PEN-01 e a análise/complementação condicional de PEN-02 passam à spec 02; PEN-03 passa à spec 03. IDs anteriores são preservados como origem. Não há cancelamento dos critérios de voz, fatos, fontes, versões, revisão ou apreciação humana.
 

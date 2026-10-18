@@ -2,7 +2,7 @@
 name: sdd-editorial-planejar
 description: Elabora, ajusta ou confere o plano separado de uma iniciativa editorial com spec suficientemente revisada. Organiza entregas, documentos afetados, dependências e evidências proporcionais; não redefine intenção nem redige as peças.
 metadata:
-  version: "0.2"
+  version: "0.3"
 ---
 
 # Planejar uma iniciativa editorial
@@ -17,7 +17,7 @@ Receber pedido/fase autorizada, spec e versão, parecer e lacunas; plano existen
 - Mapear todos os requisitos a entregas, sem criar um arquivo por requisito. Verificar ciclos, referências inexistentes e informação externa sem responsável/momento.
 - Para texto, organizar a sequência do guia: preparação, esboço condicional, redação, revisão, integração, reconferência, autor, ajustes condicionais e prova. Distinguir a cadeia da iniciativa da produção das peças. Não criar outra spec/plano/tasks para cada peça breve.
 - Selecionar skills/perfis por questão real. Plano coordena; skill executa; task acompanha. Definir quais versões/fontes passam entre papéis, sem exigir todo o acervo. Uma mesma IA pode assumir papéis, sem independência alegada ou delegação automática.
-- Definir preservação conforme D05-01 no guia: texto que precisa ser preservado e não está no Git exige commit do autor antes da edição dependente. Não criar cópia paralela ou commit automático.
+- Definir preservação conforme D05-01 no guia: texto que precisa ser preservado e não está no Git depende de commit do autor antes da edição, salvo dispensa explícita para a versão em andamento; registrar seu alcance, conforme o guia. Não criar cópia paralela ou commit automático.
 - Propor conferência proporcional: documento por coerência/referências, texto por fatos/sentido/legibilidade, apreciação por retorno real. Validação de skill não demonstra eficácia editorial. Definir cobertura não exercitada e seu destino, sem simular resultados.
 
 ## Saída e limites

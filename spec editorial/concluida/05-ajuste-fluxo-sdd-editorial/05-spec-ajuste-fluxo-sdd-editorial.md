@@ -17,8 +17,8 @@ O público desta entrega é o autor e as IAs que trabalham no projeto. Não é c
 
 | Fonte examinada no levantamento | Problema observado / uso nesta iniciativa |
 | --- | --- |
-| [Spec 03 v0.9](../../changes/03-piloto-editorial/03-piloto-editorial.md) | Cabeçalho registra produção, enquanto seções mantêm “plano futuro”, estados de origem e prontidão anterior. Distinguir histórico e orientação atual. |
-| [Plano 03 v0.3](../../changes/03-piloto-editorial/03-plano-piloto-editorial.md) e [tasks 03](../../changes/03-piloto-editorial/03-tasks-piloto-editorial.md) | T03-007/008 são manutenção do método incorporada ao piloto; acompanhamento disperso e registros longos. Preservar origem e resultado ao separar responsabilidades. |
+| [Spec 03 v0.9](../../concluida/03-piloto-editorial/03-piloto-editorial.md) | Cabeçalho registra produção, enquanto seções mantêm “plano futuro”, estados de origem e prontidão anterior. Distinguir histórico e orientação atual. |
+| [Plano 03 v0.3](../../concluida/03-piloto-editorial/03-plano-piloto-editorial.md) e [tasks 03](../../concluida/03-piloto-editorial/03-tasks-piloto-editorial.md) | T03-007/008 são manutenção do método incorporada ao piloto; acompanhamento disperso e registros longos. Preservar origem e resultado ao separar responsabilidades. |
 | [Ficha FIC03-001 r01](<../../../registro da autoridade/publicacoes/01-novo-mundo-bagagem-antiga/ficha-editorial.md>) | Ficha extensa, com procedimentos repetidos e estado de entrada que pode ser confundido com situação atual. |
 | [Guia v0.9](../../GUIA_DE_OPERACAO.md), [AGENTS](../../../AGENTS.md), [modelos](../../modelos) e [skills](../../skills) | Conferir hierarquia, leitura mínima, seleção de percurso e repetição de regras. Não presumir que todos os recursos devam ser lidos em cada tarefa. |
 | [Spec 01](../../concluida/01-sdd-editorial/01-especificacao-sdd-editorial.md) e [tasks 01](../../concluida/01-sdd-editorial/01-tasks-sdd-editorial.md) | Base do método e limites das avaliações anteriores; identificar somente os aspectos afetados pela correção. |

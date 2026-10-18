@@ -20,7 +20,7 @@ A pasta não substitui o estado das tasks. Sem tasks, a próxima ação fica na 
 | --- | --- | --- |
 | 01 — Construção do método | [Spec](concluida/01-sdd-editorial/01-especificacao-sdd-editorial.md) | Construção e avaliação inicial do método; procedimento de uso no guia. |
 | 02 — Preparação do piloto | [Spec](concluida/02-preparacao-editorial/02-resumo-editorial-onde-como-quando.md) | Fontes e decisões específicas do piloto; não configuração universal de novas peças. |
-| 03 — Piloto | [Spec](changes/03-piloto-editorial/03-piloto-editorial.md), [plano](changes/03-piloto-editorial/03-plano-piloto-editorial.md), [tasks](changes/03-piloto-editorial/03-tasks-piloto-editorial.md) | Aplicação do método a artigo e chamada, apreciação autoral e avaliação do percurso. |
+| 03 — Piloto | [Spec](concluida/03-piloto-editorial/03-piloto-editorial.md), [plano](concluida/03-piloto-editorial/03-plano-piloto-editorial.md), [tasks](concluida/03-piloto-editorial/03-tasks-piloto-editorial.md) | Aplicação do método a artigo e chamada, apreciação autoral e avaliação do percurso. |
 | 04 — Alinhamento e mapa de estudos | [Spec](concluida/04-alinhamento-editorial/04-spec-alinhamento-editorial.md) | Responsabilidades das áreas, navegação e organização do mapa de estudos. |
 | 05 — Correção do fluxo | [Spec](<concluida/05-ajuste-fluxo-sdd-editorial/05-spec-ajuste-fluxo-sdd-editorial.md>), [plano](<concluida/05-ajuste-fluxo-sdd-editorial/05-plano-ajuste-fluxo-sdd-editorial.md>), [tasks](<concluida/05-ajuste-fluxo-sdd-editorial/05-tasks-ajuste-fluxo-sdd-editorial.md>) | Ajuste das fases, passagens, preservação e interfaces do método. |
 

@@ -11,10 +11,10 @@
             "id": "b446142173a76b04",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Nova aba"
+              "icon": "lucide-git-fork",
+              "title": "Visualização em gráfico"
             }
           }
         ]
@@ -186,6 +186,7 @@
   },
   "active": "b446142173a76b04",
   "lastOpenFiles": [
+    "ferramentas de estudo/VagasAutomatizado/docs/archive/redes/calendario_postagens.md",
     "registro da autoridade/etapas/15-registro.md",
     "AGENTS.md",
     "Agentic Ai Engineer/Bem-vindo.md",
@@ -220,7 +221,6 @@
     "spec editorial/historico/2026-10-16-antes-do-mapa-de-uso-do-registro",
     "spec editorial/historico/2026-10-16-antes-da-direcao-pessoal/spec editorial/concluida/01-sdd-editorial/01-especificacao-sdd-editorial.md",
     "spec editorial/historico/2026-10-16-antes-da-direcao-pessoal/PRESERVACAO.md",
-    "spec editorial/historico/2026-10-16-antes-da-direcao-pessoal/spec editorial/skills/editorial-revisar/references/perfis.md",
-    "spec editorial/historico/2026-10-16-antes-da-direcao-pessoal/spec editorial/skills/editorial-revisar/SKILL.md"
+    "spec editorial/historico/2026-10-16-antes-da-direcao-pessoal/spec editorial/skills/editorial-revisar/references/perfis.md"
   ]
 }

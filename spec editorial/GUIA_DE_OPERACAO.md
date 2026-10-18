@@ -1,6 +1,6 @@
 # Guia de operação do SDD editorial
 
-**Versão:** 1.1 — 17/10/2026. **Base vigente:** [spec 05](<concluida/05-ajuste-fluxo-sdd-editorial/05-spec-ajuste-fluxo-sdd-editorial.md>), D05-01/02 e R05-01–12. Evidências em [tasks 05](<concluida/05-ajuste-fluxo-sdd-editorial/05-tasks-ajuste-fluxo-sdd-editorial.md>). A construção inicial permanece na [spec 01](concluida/01-sdd-editorial/01-especificacao-sdd-editorial.md); pareceres antigos não validam automaticamente esta versão.
+**Versão:** 1.3 — 18/10/2026. **Base vigente:** [spec 05](<concluida/05-ajuste-fluxo-sdd-editorial/05-spec-ajuste-fluxo-sdd-editorial.md>), D05-01/02 e R05-01–12. Evidências em [tasks 05](<concluida/05-ajuste-fluxo-sdd-editorial/05-tasks-ajuste-fluxo-sdd-editorial.md>). Complemento de preservação: [RA03-07](concluida/03-piloto-editorial/03-piloto-editorial.md), com evidências nas [tasks 03](concluida/03-piloto-editorial/03-tasks-piloto-editorial.md). A construção inicial permanece na [spec 01](concluida/01-sdd-editorial/01-especificacao-sdd-editorial.md); pareceres antigos não validam automaticamente esta versão.
 
 ## 1. Começar pelo escopo autorizado
 
@@ -78,6 +78,8 @@ Uma mesma IA pode assumir os papéis sequencialmente, declarando acesso ao hist�
 
 D05-01: sempre que precisar preservar texto de publicação, jornada ou capítulo de estudo antes de alterar, verificar se a versão está recuperável no Git. Se não estiver, solicitar o commit do autor e aguardar a edição dependente; continuar partes independentes. Não fazer commit/push automaticamente, cópia paralela, backup, snapshot ou manifesto para simular versionamento. Revisão r01/r02 não garante recuperação por si só.
 
+Complemento aceito em [RA03-07](concluida/03-piloto-editorial/03-piloto-editorial.md), proposta C: se o autor disser explicitamente que não quer preservar aquela versão em andamento, registrar o alcance e continuar sem commit. Recomendar preservação quando a comparação tiver valor, sem repetir decisão já recebida, criar backup substituto ou presumir recuperação. A dispensa não se estende automaticamente a outra versão ou à exclusão de fontes.
+
 A jornada é pessoal, em primeira pessoa e português brasileiro, com humor e repertório conforme a escolha do autor. Família, furão e outros interesses podem entrar quando pertinentes e relatados, sem cenas, emoções ou falas inventadas. Capítulos devem ensinar independentemente da autobiografia. Precisão técnica não exige voz corporativa. Preferências da preparação 02 são entradas do piloto 03; outra peça usa as decisões de sua própria iniciativa/ficha e a direção geral vigente.
 
 Achado relevante identifica trecho/versão, problema, fundamento, importância e encaminhamento; ganho e possível perda quando se propõe mudança expressiva. Pode recomendar manter o que funciona. Impeditivo impede concluir a entrega afetada; revisão necessária exige correção ou justificativa; sugestão pode ser recusada. Não há número mínimo de mudanças.
@@ -87,6 +89,8 @@ Mudança de intenção/requisito volta à spec; estratégia ao plano; execução
 ## 7. Conferência e encerramento
 
 Tasks registram ID, estado, resultado/versão, critério/evidência suficiente e pendência/próxima ação. Estados: pendente; em execução; produzida/aguardando conferência; concluída; bloqueada com motivo após tentativa impedida. Dependência futura não é bloqueio. A tabela atual é única; explicação extensa só quando necessária, sem diário de saves ou lista repetida de arquivos alterados. Quando houver iniciativa com tasks, elas são a fonte do progresso; ficha e peça vinculam esse acompanhamento, sem uma segunda lista de estado ou pendências. Trabalho pequeno que dispense iniciativa/tasks usa um único registro proporcional na própria peça ou ficha, sem criar documento só para isso.
+
+A conclusão da conferência deve identificar a versão ou o estado efetivamente examinado. Se houver alterações posteriores, inclusive edições concomitantes em arquivos ou no staging, reconferir somente os aspectos afetados antes de afirmar preservação ou conclusão; relatar a mudança sem presumir autoria.
 
 Distinguir documento produzido, estrutura/links conferidos, procedimento exercitado, apreciação autoral e publicação. Validador de skill não demonstra qualidade de escrita, prazer de leitura ou voz reconhecida. Não inventar tempos, retorno humano, consulta a fonte ou leitura em voz alta. Cobertura não exercitada recebe destino; impeditivo não é transferido para aparentar conclusão.
 

@@ -22,7 +22,7 @@ A participação conhecida de IA e o reconhecimento das amostras são registrado
 
 ## Piloto 03 — acompanhamento
 
-Artigo PUB-001 e chamada PUB-002 compartilham a origem na etapa 01 e têm fichas/IDs próprios. O [parecer PAR03-001](publicacoes/01-novo-mundo-bagagem-antiga/revisao-e-integracao.md) identifica as versões examinadas e as decisões de integração. A [tabela das tasks 03](<../spec editorial/changes/03-piloto-editorial/03-tasks-piloto-editorial.md>) concentra evidências, dependências e próxima ação. PUB-000 permanece uma peça distinta.
+Artigo PUB-001 e chamada PUB-002 compartilham a origem na etapa 01 e têm fichas/IDs próprios. O [parecer PAR03-001](publicacoes/01-novo-mundo-bagagem-antiga/revisao-e-integracao.md) identifica as versões examinadas e as decisões de integração. A [tabela das tasks 03](<../spec editorial/concluida/03-piloto-editorial/03-tasks-piloto-editorial.md>) concentra evidências, dependências e próxima ação. PUB-000 permanece uma peça distinta.
 
 ## Manutenção
 

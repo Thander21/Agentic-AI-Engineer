@@ -1,6 +1,6 @@
 # Modelo — plano editorial
 
-**Versão do modelo:** 0.2 — 17/10/2026.
+**Versão do modelo:** 0.3 — 18/10/2026.
 **Entrega de origem:** ENT-02 / T01-003
 [Guia de operação](../GUIA_DE_OPERACAO.md). Copiar somente a estrutura útil abaixo, substituir os campos e ajustar os links. Modelo disponível não é entrega preenchida.
 
@@ -20,7 +20,7 @@
 
 {Ordem, decisões operacionais e motivo. Para peças, seguir preparar → esboço condicional → redigir → revisar → integrar → reconferir → autor → ajustes condicionais → prova final. Definir contexto/versão que cada papel recebe, sem todo o acervo.}
 
-{Preservação pelo Git quando texto precisar ser preservado; dependência do commit do autor se faltar versão. Lacunas e encaminhamento; não criar backups ou exigir commit de tudo como rotina.}
+{Preservação pelo Git quando texto precisar ser preservado; dependência do commit do autor se faltar versão, salvo dispensa explícita para a versão em andamento, conforme o guia. Lacunas e encaminhamento; não criar backups ou exigir commit de tudo como rotina.}
 
 ## Revisão pré-execução
 

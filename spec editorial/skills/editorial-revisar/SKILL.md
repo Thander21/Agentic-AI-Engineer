@@ -2,7 +2,7 @@
 name: editorial-revisar
 description: Emite parecer editorial, reconfere alterações ou faz prova final de versão identificada, usando perfis pertinentes. Use para avaliar texto ou documento operacional; não altera silenciosamente o original nem substitui apreciação autoral.
 metadata:
-  version: "0.4"
+  version: "0.5"
 ---
 
 # Revisar, reconferir e provar
@@ -15,7 +15,9 @@ Declarar contexto recebido, histórico/pareceres já conhecidos e limites; assum
 
 ## Parecer proporcional
 
-Examinar foco/estrutura/fatos/sentido antes do acabamento; didática/continuidade/voz conforme a peça, depois fluidez/língua. Escolher perfis por questão real, sem exigir nove pareceres ou nove justificativas de dispensa. Mínimo: fidelidade à intenção/fontes/ressalvas, coerência e legibilidade. Capítulo exige pré-requisitos e suficiência de explicação; relato preserva vivência; chamada não promete além da peça de origem.
+Examinar foco/estrutura/fatos/sentido antes do acabamento; didática/continuidade/voz conforme a peça, depois fluidez/língua. Escolher perfis por questão real, sem exigir nove pareceres ou nove justificativas de dispensa. Mínimo: fidelidade à intenção/fontes/ressalvas, coerência e legibilidade. Capítulo exige pré-requisitos e suficiência de explicação; relato preserva vivência; chamada não promete além da peça de origem e cumpre sua função particular; se for convite, examinar contexto do leitor e curiosidade preservada, sem exigir sinopse.
+
+Em narrativa, examinar também o ponto de vista, a progressão e a função do humor ou emoção pedidos, com trechos; fidelidade factual isolada não atende à intenção narrativa. Se a vivência necessária não estiver disponível, delimitar a falta, sem inventá-la.
 
 Achado relevante identifica trecho/versão, problema, fundamento, importância e encaminhamento. Ganho/perda acompanham mudança expressiva. Distinguir erro, ambiguidade, lacuna de evidência e preferência; recomendar manter quando funciona. Impeditivo impede concluir a entrega; revisão necessária requer correção/justificativa; sugestão pode ser recusada. Não inventar número mínimo de correções.
 
