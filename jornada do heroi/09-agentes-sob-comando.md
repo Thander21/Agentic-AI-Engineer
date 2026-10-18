@@ -55,6 +55,20 @@ O arrependimento de uma ordem mal formulada rende uma mudança de método. A nar
 
 SDD de software pertence a esta etapa. Sua adaptação à produção de capítulos está na etapa 15. Afirmações de que uma spec impede alucinações permanecem pendentes de validação.
 
-## Registro contínuo desta etapa
+<a id="acompanhamento"></a>
 
-[Abrir a ficha de acompanhamento](<../registro da autoridade/etapas/09-registro.md>) para ligar sessões, episódios, decisões e material do livro. [Método e modelos](<../registro da autoridade/README.md>).
+## Acompanhamento da etapa
+
+Base recebida da ficha anterior em 16/10/2026; o estado abaixo não substitui as tasks editoriais atuais.
+
+**Estado inicial:** Aguardando registros próprios de aprendizagem.
+
+**Marco a demonstrar:** Um ciclo de trabalho documentado, da especificação à avaliação da entrega e aos ajustes necessários.
+
+### Perguntas para registrar experiências
+
+- Que intenção, contexto e critérios entreguei ao agente?
+- Onde a entrega divergiu da intenção e como intervim?
+- Que mudança na especificação ou no processo ajudou a conduzir a tarefa?
+
+Ainda sem registro próprio de experiência. As perguntas e o marco são orientação, não execução comprovada.

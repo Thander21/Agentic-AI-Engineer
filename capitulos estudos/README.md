@@ -14,9 +14,9 @@ Para localizar os assuntos e a sequência proposta, abra o [mapa de estudos](MAP
 
 ## Mapa de uso dos documentos
 
-Na conferência de 16/10/2026, esta pasta contém **cinco arquivos Markdown**, com funções distintas. Todos permanecem nas localizações atuais.
+Os documentos abaixo orientam a consulta às fontes, o planejamento do estudo e a preparação dos capítulos.
 
-| Documento | Função e situação | Quando consultar ou atualizar |
+| Documento | Função | Quando consultar ou atualizar |
 | --- | --- | --- |
 | Este README | Entrada e mapa de uso da área técnica. | Para escolher o documento pertinente sem carregar todas as fontes. |
 | [MAPA_DE_ESTUDOS.md](MAPA_DE_ESTUDOS.md) | Sequência inicial CAP-01 a CAP-18, objetivos, dependências propostas, fontes de origem e acompanhamento. | Para delimitar uma unidade de estudo e registrar fonte selecionada, atividade, evidência, versão do capítulo e próximo passo. Não é currículo definitivo nem comprovação de domínio. |
@@ -26,16 +26,14 @@ Na conferência de 16/10/2026, esta pasta contém **cinco arquivos Markdown**, c
 
 O recorte e a consolidação cumprem funções distintas: **trecho preservado e síntese histórica**. Os anexos da jornada guardam os trechos da conversa de origem. O mapa é a referência para o planejamento atual. Essa distinção permite uma entrada mais simples sem apagar a origem das decisões.
 
-## O que já existe e o que falta desenvolver
-
-Há organização documental dos temas e critérios para acompanhar estudo e escrita. Os dezoito IDs do mapa representam unidades planejadas; ainda não há arquivos de capítulos redigidos nesta pasta. A escolha das fontes, a profundidade, os casos e o conteúdo serão desenvolvidos por unidade.
+## Como desenvolver um capítulo
 
 Ao iniciar um capítulo no escopo autorizado, vincular seu arquivo e sua revisão ao CAP correspondente no mapa. Registrar separadamente o que foi estudado, o que teve evidência conferida e o estado editorial do texto. Não criar arquivos vazios apenas para preencher a lista.
 
 ## Relação com jornada, acervo e SDD
 
 - A [jornada pessoal](<../jornada do heroi/README.md>) fornece contexto e voz para relatos; sua leitura não é pré-requisito dos capítulos.
-- As [ferramentas de estudo](<../ferramentas de estudo/README.md>) oferecem projetos para perguntas e casos: FlutterGuard-AI como ideia e SDD-TDDkit/SpecSimpleKit em desenvolvimento e adaptação. O mapa também registra a fonte privada VagasAutomatizado e seus limites de consulta. Disponibilidade de um projeto não comprova estudo concluído nem resultado técnico; selecionar e conferir a evidência por unidade.
+- As [ferramentas de estudo](<../ferramentas de estudo/README.md>) oferecem projetos para perguntas e casos: FlutterGuard-AI e SDD-TDDkit/SpecSimpleKit. O mapa também registra a fonte privada VagasAutomatizado e seus limites de consulta. Disponibilidade de um projeto não comprova estudo concluído nem resultado técnico; selecionar e conferir a evidência por unidade.
 - O [mapa de origem](<../jornada do heroi/MAPA_ORIGEM.md>) localiza trechos da conversa nos anexos. O [inventário de referências](<../jornada do heroi/REFERENCIAS.md>) registra menções históricas; a seleção e o uso efetivo das fontes técnicas ficam no estudo correspondente.
 - O [acervo de publicações](<../registro da autoridade/PUBLICACOES.md>) guarda posts e artigos derivados, com vínculos ao capítulo. Publicar um artigo não conclui o estudo nem a revisão do capítulo.
 - O [guia SDD](<../spec editorial/GUIA_DE_OPERACAO.md>) e as skills orientam preparação, redação e revisão. Estes arquivos fornecem conteúdo e contexto do projeto; não precisam ser movidos ou copiados para dentro das skills.

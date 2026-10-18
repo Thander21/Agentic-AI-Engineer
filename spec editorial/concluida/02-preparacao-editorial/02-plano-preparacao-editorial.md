@@ -17,7 +17,7 @@ Preparar história, contexto, referências de voz e condições de uso suficient
 
 O escopo cobre R02-01 a R02-05 e o encaminhamento de D02-01 a D02-10. Reutilizar a análise existente, as fontes apontadas na spec e a cobertura de [T01-016](../../avaliacoes/T01-016/README.md). PEN-01/PEN-02 de 01 são origens recebidas; não renumerar os registros históricos.
 
-A ficha final, a preservação operacional do original do piloto, a redação, a integração e a apreciação autoral do texto pertencem à [spec 03 v0.6](../../backlog/03-piloto-editorial/03-piloto-editorial.md). Calendário completo, escolha de todos os canais e publicação não integram este recorte. A preservação dos documentos editados em 02 é obrigatória antes de cada integração.
+A ficha final, a preservação operacional do original do piloto, a redação, a integração e a apreciação autoral do texto pertencem à [spec 03 v0.6](../../changes/03-piloto-editorial/03-piloto-editorial.md). Calendário completo, escolha de todos os canais e publicação não integram este recorte. A preservação dos documentos editados em 02 é obrigatória antes de cada integração.
 
 **Direção recebida de RA02-15:** história pessoal em primeira pessoa; humor, retórica, família, furão e referências culturais conforme relatos. Preparar o recorte do artigo/chamada nessa voz, sem exigir fatos pessoais novos quando não forem necessários ao recorte. Capítulos têm percurso técnico independente; esta preparação não os executa.
 

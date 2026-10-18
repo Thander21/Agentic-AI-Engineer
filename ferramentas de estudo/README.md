@@ -1,22 +1,24 @@
 # Ferramentas de estudo — projetos e fontes de contexto
 
-**Versão:** 0.1 — 2026-10-16. **Base:** relato do autor registrado em [SS-2026-10-16-001](<../registro da autoridade/sessoes/2026-10-16-001-escopos-ferramentas-de-estudo.md>) e conferência dos pontos de entrada locais.
+**Base histórica:** relato autoral de 16/10/2026. O antigo registro SS-2026-10-16-001 é recuperável no Git, sem manter um diário de alterações paralelo.
 
 Esta pasta reúne três projetos com funções distintas na formação e na história do autor. Seus documentos podem ajudar a preparar estudos, posts, artigos ou histórias, conforme o assunto. A leitura começa pelo projeto pertinente e pelos trechos necessários; a existência de documentação não comprova implementação, aprendizagem ou resultado.
 
+<a id="decisoes-de-consulta"></a>
+
 ## Os três escopos
 
-| Projeto | Estado informado pelo autor | Como contribui para o conhecimento e a escrita |
+| Projeto | Contexto de origem — relato de 16/10/2026 | Como contribui para o conhecimento e a escrita |
 | --- | --- | --- |
 | [FlutterGuard-AI](FlutterGuard-AI/README.md) | Somente uma ideia a desenvolver para estudo. | Contexto da intenção, perguntas a investigar e propostas de arquitetura. Funcionalidades descritas são pretendidas; não apresentar como ferramenta pronta ou caso validado. |
 | [SDD-TDDkit](SDD-TDDkit/README.md) e sua base [SpecSimpleKit](SDD-TDDkit/SpecSimpleKit/README.md) | Em desenvolvimento e uso, evoluindo com a experimentação e personalização em cada projeto. | Contexto de decisões sobre especificação, trabalho com agentes e adaptação de métodos. Conferir separadamente o que está na base, o que foi ajustado no projeto e o que voltou ao kit. |
 | VagasAutomatizado — chamado de VagasAutomatizada no pedido | Projeto em uso na busca de vagas e fonte privada com mais informações pessoais/profissionais do autor. | Consulta local dirigida para compreender o contexto do autor. Aqui se documentam apenas existência, finalidade e limites; conteúdo e dados permanecem no ambiente privado. |
 
-Os estados acima registram a decisão autoral de 16/10/2026. Ao preparar um texto futuro, conferir se continuam atuais e se há evidências novas. Não usar descrições promocionais ou instruções de execução como prova de algo realizado.
+O contexto acima preserva o relato autoral datado, sem acompanhar o progresso dos projetos. Ao preparar um texto, consultar a fonte pertinente e conferir as evidências. Não usar descrições promocionais ou instruções de execução como prova de algo realizado.
 
 ## FlutterGuard-AI: ler como proposta
 
-Começar pelo [README](FlutterGuard-AI/README.md) e selecionar apenas os documentos relacionados à pergunta de estudo. O README usa o presente ao descrever funcionalidades; nesta base editorial, prevalece o relato atual do autor: **ideia a desenvolver**. A formulação original foi preservada como proposta, sem convertê-la em entrega executada.
+Começar pelo [README](FlutterGuard-AI/README.md) e selecionar apenas os documentos relacionados à pergunta de estudo. O README usa o presente ao descrever funcionalidades; nesta base editorial, o relato autoral de 16/10/2026 a caracteriza como: **ideia a desenvolver**. A formulação original foi preservada como proposta, sem convertê-la em entrega executada.
 
 Um post pode apresentar a intenção de estudar ou desenvolver a ideia. Uma história pode usar os motivos e acontecimentos efetivamente relatados. Resultados, testes e aprendizados exigem registros posteriores que os sustentem.
 
@@ -40,7 +42,7 @@ O caminho local é `ferramentas de estudo/VagasAutomatizado/`. A grafia real foi
 
 A consulta local está autorizada pelo autor quando o assunto exigir contexto pessoal/profissional ou da busca de vagas. Começar pelas instruções locais e selecionar a documentação necessária, sem executar automações ou enviar candidaturas por consequência da leitura. Não copiar arquivos, currículos, contatos, candidaturas, dados, capturas ou resumos privados para este acervo, seus históricos ou fichas. Um uso público exige seleção e autorização específica do recorte pelo autor; a versão resultante deverá ser conferida antes da publicação.
 
-O versionamento deve permanecer separado e privado. Nesta conferência, não foi encontrado um `.git` próprio nessa cópia local; a existência e a visibilidade de um repositório no GitHub não foram verificadas. Isso não impede a consulta local nem a exclusão pelo Git principal. Nenhum repositório remoto foi criado, alterado ou sincronizado nesta organização.
+O versionamento deve permanecer separado e privado. A existência e a visibilidade de um repositório remoto exigem verificação própria; a consulta local não autoriza criar, alterar ou sincronizar repositórios.
 
 ## Passagem para estudos, posts e histórias
 
@@ -55,4 +57,4 @@ Os três projetos são fontes possíveis, não uma nova ordem de estudo nem uma 
 
 Notas Markdown selecionadas no Obsidian podem complementar as consultas. Os links deste mapa oferecem a navegação inicial entre as áreas públicas; o caminho privado foi registrado como texto e sua ausência em uma cópia pública é esperada.
 
-A ampliação dos vínculos entre projetos, dados e notas no Obsidian fica para depois, conforme o autor selecionar o material. As configurações de `.obsidian/` permanecem como navegação e apresentação, sem importar dados privados. Próximo passo dessa frente: selecionar quais notas e relações devem ser conectadas, preservando a separação entre consulta local e conteúdo publicável.
+Os vínculos entre projetos, dados e notas no Obsidian dependem da seleção autoral do material, preservando a separação entre consulta local e conteúdo publicável. As configurações de `.obsidian/` servem à navegação e apresentação, sem importar dados privados.

@@ -51,6 +51,20 @@ O humor vem do encontro entre a aparência simples da tarefa e suas dependência
 - [Caso didático completo de emissão de fatura](08-texto-anexo.md#assunto-03).
 - [Do experimento ao registro](08-texto-anexo.md#assunto-04).
 
-## Registro contínuo desta etapa
+<a id="acompanhamento"></a>
 
-[Abrir a ficha de acompanhamento](<../registro da autoridade/etapas/08-registro.md>) para ligar sessões, episódios, decisões e material do livro. [Método e modelos](<../registro da autoridade/README.md>).
+## Acompanhamento da etapa
+
+Base recebida da ficha anterior em 16/10/2026; o estado abaixo não substitui as tasks editoriais atuais.
+
+**Estado inicial:** Aguardando registros próprios de aprendizagem.
+
+**Marco a demonstrar:** Um caso delimitado com situação inicial documentada e condições para comparar o resultado.
+
+### Perguntas para registrar experiências
+
+- Qual recorte do projeto, restrição e resultado esperado escolhi?
+- Como registrei a situação inicial e o experimento?
+- O que aconteceu e que decisão isso permite tomar?
+
+Ainda sem registro próprio de experiência. As perguntas e o marco são orientação, não execução comprovada.

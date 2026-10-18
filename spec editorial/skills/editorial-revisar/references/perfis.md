@@ -1,6 +1,6 @@
 # Perfis de revisão editorial
 
-**Versão:** 0.1  
+**Versão:** 0.2
 **Uso:** referência da skill `editorial-revisar`. Leia o perfil pertinente, aplicando o contrato comum do [SKILL.md](../SKILL.md). Cada perfil produz parecer, não edição direta do original.
 
 ## Índice
@@ -113,7 +113,7 @@
 
 ## P09 — Prova final
 
-**Quando:** alterações foram integradas e existe uma versão consolidada para conferir.
+**Quando:** para peça editorial, existe a versão resultante da leitura autoral e dos ajustes/reconferências. Conferência técnica anterior ao autor não substitui essa prova. Para documento operacional, conferir a versão consolidada no escopo solicitado, sem simular apreciação humana.
 
 **Contexto necessário:** versão final identificada, decisões de integração, convenções e referências pertinentes. Os pareceres anteriores podem ser usados aqui para verificar resolução.
 

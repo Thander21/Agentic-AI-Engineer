@@ -55,6 +55,20 @@ A recompensa emocional aparece no contraste com a primeira tentativa. Um problem
 
 A avaliação de competências é um complemento da análise anterior. Os trechos originais abaixo contêm promessas de senioridade que motivam essa separação; não são critérios de aprovação adotados.
 
-## Registro contínuo desta etapa
+<a id="acompanhamento"></a>
 
-[Abrir a ficha de acompanhamento](<../registro da autoridade/etapas/11-registro.md>) para ligar sessões, episódios, decisões e material do livro. [Método e modelos](<../registro da autoridade/README.md>).
+## Acompanhamento da etapa
+
+Base recebida da ficha anterior em 16/10/2026; o estado abaixo não substitui as tasks editoriais atuais.
+
+**Estado inicial:** Aguardando registros próprios de aprendizagem.
+
+**Marco a demonstrar:** Uma demonstração de competência acompanhada de evidência e dos limites do que foi verificado.
+
+### Perguntas para registrar experiências
+
+- Que capacidade consigo demonstrar agora?
+- Consigo explicar a escolha e repetir o raciocínio em outro problema?
+- Qual limite impede ampliar a conclusão sobre minha autonomia?
+
+Ainda sem registro próprio de experiência. As perguntas e o marco são orientação, não execução comprovada.

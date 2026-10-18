@@ -38,7 +38,7 @@ Um texto publicado pode continuar exigindo revisão antes de se tornar capítulo
 
 | Material | Contribuição possível | Base disponível | Falta desenvolver | Estado |
 | --- | --- | --- | --- | --- |
-| [EP-000](<../registro da autoridade/episodios/000-preparacao-da-jornada.md>) | Contexto da transição e apresentação do percurso | Relato inicial, estrutura das quinze etapas e conferência da extração | Diagnóstico de competências, objetivos específicos e primeiro estudo técnico | Preparação documentada. |
+| [EP-000](<../jornada do heroi/01-novo-mundo-bagagem-antiga.md#ep-000>) | Contexto da transição e apresentação do percurso | Relato inicial, estrutura das quinze etapas e conferência da extração | Diagnóstico de competências, objetivos específicos e primeiro estudo técnico | Preparação documentada. |
 | [PUB-000](<../registro da autoridade/publicacoes/000-apresentacao-da-jornada.md>) | Apresentação pública da investigação | EP-000 e a intenção expressa pelo autor | Revisão da voz pessoal e decisão de publicar | Rascunho. |
 
 Os próximos casos serão adicionados conforme acontecerem. Os exemplos de código preservados nos anexos são material da conversa anterior e ainda precisam de validação própria para uso didático.

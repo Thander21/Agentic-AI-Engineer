@@ -1,10 +1,10 @@
 # {PUB-ID disponível} — {Título para o leitor}
 
-**Modelo v0.3 — 2026-10-16.** Copiar para `publicacoes/`, ajustar links ao destino e substituir campos. Consultar o [índice](../PUBLICACOES.md), a [ficha editorial](<../../spec editorial/modelos/ficha-editorial.md>) e o [guia SDD](<../../spec editorial/GUIA_DE_OPERACAO.md>). O checklist abaixo apoia a conferência; não substitui o percurso selecionado na ficha.
+**Modelo v0.4 — 2026-10-17.** Copiar para `publicacoes/`, ajustar links ao destino e substituir campos. Consultar o [índice](../PUBLICACOES.md), a [ficha editorial](<../../spec editorial/modelos/ficha-editorial.md>) e o [guia SDD](<../../spec editorial/GUIA_DE_OPERACAO.md>). O checklist abaixo apoia a conferência; não substitui o percurso selecionado na ficha.
 
 - ID e revisão do texto: {PUB-ID, r01, data e arquivo}.
 - Origem: {jornada / estudo / ambas; fontes e IDs de capítulo/episódio quando existentes}.
-- Ficha e acompanhamento: {links, versões e tarefa pertinente; correção pequena pode usar registro proporcional}.
+- Ficha e acompanhamento: {links, versões e task pertinente; sem iniciativa/tasks, único registro proporcional na peça ou ficha}.
 - Leitor e contribuição principal: {definidos na ficha}.
 - Formato e canal pretendidos: {escolha vigente}.
 - Peças relacionadas: {ID do artigo ou post de chamada; não se aplica quando peça única}.
@@ -23,10 +23,11 @@
 - Afirmações ligadas às fontes e limites preservados.
 - Contribuição e pré-requisitos compreensíveis para o leitor escolhido.
 - Revisões pertinentes realizadas na versão identificada; achados integrados e reconferidos.
-- Retorno autoral registrado quando recebido, sem aprovação presumida.
+- Retorno autoral registrado com a revisão examinada, sem aprovação presumida; ajustes solicitados aplicados e reconferidos quando houver.
+- Prova final realizada na versão resultante da leitura autoral e dos ajustes, se houver; sem retorno autoral, manter a prova final pendente. Conferência técnica anterior não a substitui.
 - Artigo e chamada coerentes; destino do link conferido quando existir.
 
-Registrar resultado e pendências na ficha/tasks ou registro proporcional, conforme o guia.
+Registrar resultado e pendências nas tasks da iniciativa, vinculadas pela peça/ficha. Sem iniciativa/tasks, usar um único registro proporcional na peça ou ficha. Não duplicar o acompanhamento, conforme o guia.
 
 ## Distribuição efetiva
 

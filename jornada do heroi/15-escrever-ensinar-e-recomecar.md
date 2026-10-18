@@ -61,10 +61,26 @@ O final combina orgulho pelo que foi construído com humildade diante do que per
 
 A produção editorial pode começar com os primeiros casos; esta posição marca sua consolidação. Os modelos e procedimentos SDD já foram construídos em `spec editorial/`; seu uso integrado no piloto permanece por avaliar. Propostas históricas de acesso antecipado não constituem decisão de publicação.
 
-## Registro contínuo desta etapa
+<a id="acompanhamento"></a>
 
-[Abrir a ficha de acompanhamento](<../registro da autoridade/etapas/15-registro.md>) para ligar sessões, episódios, decisões e material do livro. [Método e modelos](<../registro da autoridade/README.md>).
+## Acompanhamento da etapa
 
-## Estrutura consolidada do livro
+Base recebida da ficha anterior em 16/10/2026; o estado abaixo não substitui as tasks editoriais atuais.
 
-[Sete partes e dados de estudo](<../capitulos estudos/ESTRUTURA_E_ESTUDO.md>) · [Última revisão literal](<../capitulos estudos/EXTRACAO_ULTIMA_REVISAO.md>).
+**Estado atual:** preparação documentada vinculada; aprendizagem própria da etapa ainda a demonstrar.
+
+**Marco a demonstrar:** Um capítulo revisado e experimentado com leitores, com melhorias registradas e vínculo com suas fontes e casos.
+
+### Perguntas para registrar experiências
+
+- O que a revisão técnica ou didática revelou?
+- O leitor conseguiu percorrer o exercício e explicar o conceito?
+- Que correção, atualização ou novo estudo passou a ser necessário?
+
+### Registros vinculados
+
+Registros históricos; próximos passos da época não substituem as tasks atuais.
+
+| Data | ID e arquivo | Pergunta ou caso | Estado e evidência | Próximo passo na época |
+| --- | --- | --- | --- | --- |
+| 2026-10-13 | [EP-000](<01-novo-mundo-bagagem-antiga.md#ep-000>) | Preparação da jornada; etapa já associada na origem. | Organização documentada, sem comprovar aprendizagem técnica. | Registrar atividade própria da etapa quando ocorrer. |

@@ -32,7 +32,7 @@ Canais confirmados em RA02-12: artigo e chamada no LinkedIn para textos maiores;
 
 Preparar editorialmente a primeira publicação, tendo como material escolhido “01 — Novo mundo, bagagem antiga”: analisar história/contexto, definir intenção, leitor, voz, formato, destino, armazenamento e condições de uso, selecionar os procedimentos pertinentes e conferir a suficiência da preparação para a iniciativa 03. Pesquisa e estudo técnico da formação serão tratados em outro momento. A organização geral dos registros e o aproveitamento no livro são contexto e possibilidades posteriores, não entregas a expandir nesta iniciativa.
 
-Por decisão do autor em 2026-10-14, esta iniciativa também concentra a análise anterior ao piloto: o que já existe, o que falta na história e no contexto, quais referências de texto e tom orientarão a voz e se as skills estão adequadas ao uso pretendido. Recebe PEN-01 e PEN-02 da iniciativa 01. O piloto e a avaliação autoral ficam na [spec 03](../../backlog/03-piloto-editorial/03-piloto-editorial.md), recebendo uma preparação suficientemente definida.
+Por decisão do autor em 2026-10-14, esta iniciativa também concentra a análise anterior ao piloto: o que já existe, o que falta na história e no contexto, quais referências de texto e tom orientarão a voz e se as skills estão adequadas ao uso pretendido. Recebe PEN-01 e PEN-02 da iniciativa 01. O piloto e a avaliação autoral ficam na [spec 03](../../changes/03-piloto-editorial/03-piloto-editorial.md), recebendo uma preparação suficientemente definida.
 
 No levantamento inicial, destino, leitor e voz ainda estavam abertos. As decisões recebidas posteriormente estão consolidadas acima; a proposta de uso interno e a faixa de 600–900 palavras não foram adotadas.
 
@@ -87,7 +87,7 @@ O levantamento inicial de PEN-01 é preservado abaixo. A v0.3 amplia a preparaç
 | Canais e autoridade, “Recomendação para começar” | Markdown local e LinkedIn como primeiro canal público sugerido. | A recomendação de LinkedIn não comprova escolha autoral; capacidades atuais das plataformas não foram reconferidas nesta rodada. |
 | Universo narrativo, “Humor e tom profissional” e “Exemplo de voz narrativa” | Referências de RPG/isekai, título profissional, humor e precisão técnica. | O exemplo é fictício; o arco emocional proposto não comprova emoções vividas. |
 | Base do livro, “Estados de trabalho” e “Inventário inicial” | Distinção entre registro, texto para leitura e capítulo; reaproveitamento por vínculo. | O piloto não corresponde automaticamente a um capítulo. |
-| [EP-000](<../../../registro da autoridade/episodios/000-preparacao-da-jornada.md>), “Ponto de partida declarado”; [ficha da etapa 01](<../../../registro da autoridade/etapas/01-registro.md>) | Relato inicial e intenção de formação; diagnóstico ainda a desenvolver. | Síntese de declarações anteriores, sem nova confirmação pessoal nesta rodada. |
+| [EP-000](<../../../jornada do heroi/01-novo-mundo-bagagem-antiga.md#ep-000>), “Ponto de partida declarado”; [ficha da etapa 01](<../../../jornada do heroi/01-novo-mundo-bagagem-antiga.md#acompanhamento>) | Relato inicial e intenção de formação; diagnóstico ainda a desenvolver. | Síntese de declarações anteriores, sem nova confirmação pessoal nesta rodada. |
 | [Texto 01](<../../../jornada do heroi/01-novo-mundo-bagagem-antiga.md>), “O que desenvolver aqui” | Pergunta de partida, bagagem, lacunas e capacidades desejadas. | É planejamento da etapa; cenas propostas não são acontecimentos confirmados. |
 
 ### Escolhas a resolver com o autor
@@ -384,6 +384,8 @@ Preservar o humor ligado a acontecimentos e observações reais. Dosagem fina ac
 
 **Conferência e impacto:** síntese confrontada com a resposta, sem excluir iniciantes ou transformar facilidade relativa em promessa universal. T02-004 em execução; R02-01 ainda depende de finalidade/formato do piloto. Plano v0.1 aplicável. Spec v0.16 e tasks v0.11 preservadas com hashes iguais em `spec editorial/historico/2026-10-15-antes-da-definicao-do-leitor/`, a partir da raiz. Conferência pela mesma IA responsável pelo registro, com acesso ao histórico.
 
+<a id="ra02-11"></a>
+
 ## Encaminhamento histórico corrigido: iniciar o registro — T02-004 / v0.18
 
 **RA02-11 — decisão autoral de 2026-10-15:** primeiro iniciar o registro, sabendo onde e como; depois passar à pesquisa e ao estudo para continuar registrando. A proposta de escolher agora entre texto de abertura e capítulo não é a prioridade recebida. Público e voz já definidos ficam preservados para o aproveitamento editorial posterior.
@@ -395,7 +397,7 @@ Preservar o humor ligado a acontecimentos e observações reais. Dosagem fina ac
 | D02-05 | Reutilizar `registro da autoridade/`: sessões em `sessoes/`, episódios em `episodios/`, vínculos na ficha da etapa. | Decisão operacional da IA dentro da organização existente e do pedido de iniciar o registro; dispensa criar a antiga pasta proposta `piloto-01/` agora. Não define ainda o armazenamento das versões do futuro piloto. |
 | D02-07 | Começar por uma sessão de organização; ao pesquisar/estudar, registrar pergunta, atividade, fonte, observação, limite e próxima ação. | Ordem recebida do autor. Registrar ao fim da atividade ou durante ela se ajudar a preservar o raciocínio; sem calendário ou frequência pública obrigatória. |
 
-**Onde e como disponíveis:** [índice do registro](<../../../registro da autoridade/README.md>), [modelo de sessão](<../../../registro da autoridade/modelos/sessao.md>) e [ficha da etapa 01](<../../../registro da autoridade/etapas/01-registro.md>). A primeira sessão, [SS-2026-10-15-001](<../../../registro da autoridade/sessoes/2026-10-15-001-organizacao-do-registro.md>), documenta somente a organização realizada nesta conversa; não é estudo técnico ou reescrita do piloto.
+**Onde e como disponíveis:** [índice do registro](<../../../registro da autoridade/README.md>), [modelo de sessão](<../../../registro da autoridade/METODO_DE_REGISTRO.md>) e [ficha da etapa 01](<../../../jornada do heroi/01-novo-mundo-bagagem-antiga.md#acompanhamento>). A primeira sessão, [SS-2026-10-15-001](<02-resumo-editorial-onde-como-quando.md#ra02-11>), documenta somente a organização realizada nesta conversa; não é estudo técnico ou reescrita do piloto.
 
 **Condição de avanço:** T02-004 conclui as condições de uso do registro inicial. A confirmação é suficiente para começar a registrar; não libera pesquisa técnica sem tema ou fonte selecionados nem equivale a parecer de suficiência para o piloto 03. Para retomar esse texto, reconferir D02-01/D02-03/D02-05/D02-07 quanto à finalidade, formato e destino então escolhidos. T02-005/T02-006/T02-007 permanecem pendentes para examinar procedimentos e suficiência no recorte pertinente.
 

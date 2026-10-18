@@ -17,7 +17,7 @@
 
 ## Preservação e registro inicial
 
-Antes da edição dos artefatos, 97 Markdown fora de `historico/` foram copiados para `spec editorial/historico/2026-10-15-antes-do-alinhamento-do-projeto/`, mantendo caminhos relativos à raiz. Todos os hashes SHA-256 coincidiram. Manifesto: [PRESERVACAO.md](../../historico/2026-10-15-antes-do-alinhamento-do-projeto/PRESERVACAO.md).
+Antes da edição dos artefatos, 97 Markdown fora de `historico/` foram copiados para `spec editorial/historico/2026-10-15-antes-do-alinhamento-do-projeto/`, mantendo caminhos relativos à raiz. Todos os hashes SHA-256 coincidiram. Manifesto: `historico/2026-10-15-antes-do-alinhamento-do-projeto/PRESERVACAO.md` (referência histórica, atualmente sem arquivo no workspace; estados anteriores recuperáveis no Git, sem recriar backup).
 
 Hash SHA-256 do índice Git no início: `8cd8b3b81f195eafdd34abe410630799a12eca0464a999d05d4175d0467e7d8d`. O índice contém trabalho anterior; sua composição não integra a edição autorizada desta rodada.
 
@@ -60,7 +60,7 @@ O fechamento desta iniciativa abrange correções de organização e mapa docume
 
 ## T04-005 — conferência final e encerramento
 
-**Artefatos conferidos:** [mapa v0.1](<../../../capitulos estudos/MAPA_DE_ESTUDOS.md>), [acervo v0.1](<../../../registro da autoridade/PUBLICACOES.md>), [guia v0.6](../../GUIA_DE_OPERACAO.md), [ficha v0.2](../../modelos/ficha-editorial.md), [spec 02 v0.23 e acompanhamento](../02-preparacao-editorial/02-resumo-editorial-onde-como-quando.md), [spec 03 v0.4](../../backlog/03-piloto-editorial/03-piloto-editorial.md), regras, índices, modelos e páginas identificados nas entregas acima.
+**Artefatos conferidos:** [mapa v0.1](<../../../capitulos estudos/MAPA_DE_ESTUDOS.md>), [acervo v0.1](<../../../registro da autoridade/PUBLICACOES.md>), [guia v0.6](../../GUIA_DE_OPERACAO.md), [ficha v0.2](../../modelos/ficha-editorial.md), [spec 02 v0.23 e acompanhamento](../02-preparacao-editorial/02-resumo-editorial-onde-como-quando.md), [spec 03 v0.4](../../changes/03-piloto-editorial/03-piloto-editorial.md), regras, índices, modelos e páginas identificados nas entregas acima.
 
 **Resultado:** R04-01 a R04-07 atendidos no escopo documental. Os 18 CAPs têm IDs únicos, dependências existentes e sem ciclos; todos permanecem pendentes quanto à aprendizagem. Cinco peças disponíveis inventariadas com seus limites; nenhuma publicação externa atribuída sem evidência. Corpo do rascunho PUB-000 preservado. Os 11 links antigos para Livro foram corrigidos nos documentos de orientação, mantendo referências históricas em seus contextos.
 

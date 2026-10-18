@@ -54,6 +54,20 @@ O contraste entre esperar uma resposta definitiva e receber trabalho de investig
 
 As referências foram extraídas do material fornecido. Edições, disponibilidade, atualidade e alegações técnicas não foram verificadas externamente nesta organização.
 
-## Registro contínuo desta etapa
+<a id="acompanhamento"></a>
 
-[Abrir a ficha de acompanhamento](<../registro da autoridade/etapas/05-registro.md>) para ligar sessões, episódios, decisões e material do livro. [Método e modelos](<../registro da autoridade/README.md>).
+## Acompanhamento da etapa
+
+Base recebida da ficha anterior em 16/10/2026; o estado abaixo não substitui as tasks editoriais atuais.
+
+**Estado inicial:** Aguardando registros próprios de aprendizagem.
+
+**Marco a demonstrar:** Uma lista inicial de fontes por assunto e um registro das afirmações pendentes de validação.
+
+### Perguntas para registrar experiências
+
+- Qual fonte, edição ou versão consultei e que pergunta levou à leitura?
+- Que parte da fonte mudou ou confirmou meu raciocínio?
+- Qual alegação ainda precisa de contexto, fonte ou experimento?
+
+Ainda sem registro próprio de experiência. As perguntas e o marco são orientação, não execução comprovada.

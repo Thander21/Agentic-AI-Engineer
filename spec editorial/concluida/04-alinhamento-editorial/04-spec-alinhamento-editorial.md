@@ -1,5 +1,7 @@
 # Spec 04 — Alinhamento da organização editorial e mapa de estudos
 
+> Vigência operacional — 17/10/2026: documento histórico do escopo encerrado. A [iniciativa 05](<../05-ajuste-fluxo-sdd-editorial/05-spec-ajuste-fluxo-sdd-editorial.md>) atualiza procedimento e interfaces; consultar o [guia vigente](../../GUIA_DE_OPERACAO.md) e as tasks da iniciativa ativa. As evidências originais conservam seus limites; esta evolução não reexecuta nem invalida por si só a aceitação histórica.
+
 **ID:** SPEC-EDITORIAL-004  
 **Versão:** 0.2 — 2026-10-16  
 **Estado:** concluída no escopo documental; evidências e pendências nas tasks.  

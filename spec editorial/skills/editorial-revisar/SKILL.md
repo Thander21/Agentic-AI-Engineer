@@ -1,76 +1,38 @@
 ---
 name: editorial-revisar
-description: Examina uma versão de texto ou artefato editorial e emite parecer por especialidade, com achados fundamentados e passagens a preservar. Use para revisar estrutura, fontes, didática, continuidade, voz, fluidez, língua, leitura ou prova final. Não use para reescrever o original, integrar pareceres ou declarar a prontidão geral de uma spec para planejamento.
+description: Emite parecer editorial, reconfere alterações ou faz prova final de versão identificada, usando perfis pertinentes. Use para avaliar texto ou documento operacional; não altera silenciosamente o original nem substitui apreciação autoral.
 metadata:
-  version: "0.2"
+  version: "0.4"
 ---
 
-# Revisar por especialidade
+# Revisar, reconferir e provar
 
-Entregue um parecer que ajude o editor a decidir o que alterar e o que preservar. A revisão examina uma versão identificada; não modifica o original e não presume aprovação do autor.
+## Entrada e modo
 
-## Delimitar perfil e versão
+Receber objetivo/limite, texto e revisão exatos, ficha/contrato, fontes selecionadas e achados anteriores quando a tarefa for reconferência. Modos: parecer, reconferência dirigida e prova final. Consultar [guia](../../GUIA_DE_OPERACAO.md), [perfis](references/perfis.md) apenas nas questões pertinentes e [modelo de parecer](../../modelos/parecer-editorial.md) para campos úteis.
 
-Receba pedido, texto e revisão recuperável, ficha ou contrato do artefato e fontes necessárias. Para revisão de linguagem de uma spec, use os critérios editoriais pertinentes; a análise de requisitos e prontidão para plano pertence ao procedimento de especificação.
+Declarar contexto recebido, histórico/pareceres já conhecidos e limites; assumir papel não cria independência. Primeira leitura sem outros pareceres quando possível, sem fingir desconhecimento dos já disponíveis.
 
-Se o perfil estiver indicado, respeite-o. Caso contrário, selecione o que responde ao pedido e explicite a escolha. Se houver pedido de múltiplas perspectivas, faça leituras e pareceres distintos, identificando o contexto compartilhado. Não aplicar todos os perfis por padrão.
+## Parecer proporcional
 
-Consulte o [índice dos perfis](references/perfis.md) e leia a seção pertinente:
+Examinar foco/estrutura/fatos/sentido antes do acabamento; didática/continuidade/voz conforme a peça, depois fluidez/língua. Escolher perfis por questão real, sem exigir nove pareceres ou nove justificativas de dispensa. Mínimo: fidelidade à intenção/fontes/ressalvas, coerência e legibilidade. Capítulo exige pré-requisitos e suficiência de explicação; relato preserva vivência; chamada não promete além da peça de origem.
 
-| Necessidade principal | Perfil |
-| --- | --- |
-| Foco, ordem, lacunas e função das partes | P01 — Estrutura |
-| Correspondência entre afirmações e evidências | P02 — Fatos e fontes |
-| Pré-requisitos, explicação e exemplos | P03 — Didática |
-| Coerência entre momentos, termos e textos | P04 — Continuidade |
-| Identidade autoral, registro e humor | P05 — Voz e tom |
-| Cadência, transições e precisão das frases | P06 — Linha e fluidez |
-| Ortografia, sintaxe, pontuação e convenções | P07 — Preparação linguística |
-| Interesse, compreensão e experiência de leitura | P08 — Leitura crítica |
-| Resíduos e fidelidade da versão consolidada | P09 — Prova final |
+Achado relevante identifica trecho/versão, problema, fundamento, importância e encaminhamento. Ganho/perda acompanham mudança expressiva. Distinguir erro, ambiguidade, lacuna de evidência e preferência; recomendar manter quando funciona. Impeditivo impede concluir a entrega; revisão necessária requer correção/justificativa; sugestão pode ser recusada. Não inventar número mínimo de correções.
 
-## Preparar a leitura
+Saída: parecer identificado com achados/preservações e limites. Não editar silenciosamente o texto; passar as decisões à integração. Se correções também estiverem autorizadas, mudar explicitamente de fase e aplicar a skill de integração.
 
-Use o [modelo de parecer](../../modelos/parecer-editorial.md) para a saída e o [guia de operação](../../GUIA_DE_OPERACAO.md) quando precisar conferir o fluxo e os limites. Resolva caminhos a partir desta pasta e informe recursos ausentes, sem inventar seu conteúdo. Não carregar referências de todos os perfis sem necessidade.
+## Reconferência
 
-Registre o que recebeu e o que efetivamente consultou. A primeira leitura não deve receber os outros pareceres quando possível. Se já estiverem no contexto, declare a exposição; assumir outro papel não cria independência. Em reconferência dirigida, receba os achados anteriores e a versão alterada.
+Receber a versão resultante identificada e os achados/decisões; examinar resolução e efeitos colaterais só nos aspectos afetados. Vincular problema anterior, resultado e evidência. Parecer sobre outra versão não valida esta. Persistência volta à integração; mudança de intenção/fato essencial retorna à preparação/spec/autor. Sem impeditivos pertinentes, preparar entrega para leitura autoral, sem declarar a aprovação dela.
 
-Se faltar fonte, amostra de voz ou texto vizinho necessário, limite a conclusão e encaminhe a lacuna. Revise as partes independentes. Fonte inacessível não comprova erro nem acerto; ausência de amostra autoral impede afirmar fidelidade à voz com base inexistente.
+Se a integração manteve o texto, conservar a revisão existente e conferir apenas decisões que ainda exijam exame. Sem mudanças nem achados a reconferir, registrar a dispensa fundamentada no acompanhamento existente e passar à leitura autoral ou, quando o retorno já tiver sido recebido para essa versão, à prova final; não criar edição, revisão ou commit para preencher a etapa.
 
-## Examinar e fundamentar
+## Prova final — P09
 
-Leia o trecho em seu contexto antes de sugerir correção. Use as perguntas do perfil selecionado e a intenção da ficha. Documentos operacionais precisam de clareza e uso consistente, sem obrigação de humor ou narrativa.
+Para peça editorial, receber a versão resultante da leitura autoral e dos ajustes/reconferências, ou indicar que esse retorno ainda está pendente. Conferir língua, títulos, links, gralhas, duplicações, marcadores, ressalvas e integridade. Uma conferência técnica antes do autor pode remover resíduos, mas não substitui a prova final posterior. Documento operacional recebe conferência de clareza/coerência pertinente, sem exigir uma leitura autoral fictícia para aplicar esta skill.
 
-Cada achado indica localização, problema, natureza, fundamento, sugestão, ganho esperado, possível perda, importância e encaminhamento. Referencie a fonte ou o critério que sustenta a observação. Uma alternativa de redação curta pode ilustrar a sugestão; não entregar uma reescrita integral no lugar do parecer.
+Não fazer reescrita substancial na prova: retornar à etapa responsável; mudança invalida a prova no aspecto afetado. Ortografia ou Markdown corretos não provam aparência de exportação não inspecionada. Conclusão: aspectos efetivamente conferidos, resíduos/pendências e situação da versão, nunca publicação automática.
 
-Distinga erro verificável, ambiguidade, lacuna de evidência e preferência expressiva. Um fragmento pode ser intencional; uma frase longa pode cumprir uma função. Explique o efeito concreto em vez de impor regras universais de estilo ou pedir apenas que o texto fique mais humano.
+## Limites de conclusão
 
-Classifique a importância proporcionalmente:
-
-- **Impeditivo:** compromete integridade ou intenção central no escopo examinado.
-- **Revisão necessária:** prejudica compreensão ou consistência e requer correção ou justificativa.
-- **Sugestão:** alternativa expressiva que pode ser recusada.
-
-Problemas relevantes fora do perfil podem ser encaminhados ao papel adequado, identificando que não houve revisão completa daquela dimensão. Não presumir que concordância entre agentes valida um fato.
-
-## Preservar e limitar a conclusão
-
-Registre passagens a preservar quando houver motivo concreto, incluindo função e cuidado durante a integração. Não há quantidade mínima de achados nem necessidade de inventar elogios. Recomendar manter o texto pode ser o resultado apropriado.
-
-Para aspectos qualitativos, use funciona, precisa de ajuste ou não avaliado, com trecho e justificativa. Distinga percepção da IA de retorno efetivo do autor ou de leitores. Não use detector de IA, nota de humanidade ou promessa de prazer universal.
-
-Declare a condição real da leitura. Não afirmar leitura em voz alta, consulta a fonte ou uso de ferramenta que não ocorreu. A prova de uma versão não valida alterações posteriores.
-
-## Entregar o parecer
-
-Identifique parecer, perfil, versão examinada, contexto e limites. Acrescente achados e preservações reais, prioridades e perguntas necessárias. Remova exemplos do modelo da cópia final. Se não houver achados, registre o resultado no escopo examinado, sem apresentar isso como aprovação de todas as dimensões.
-
-Deixe a decisão de acolher, recusar ou manter pendente para a integração. Não decidir conflitos por votação nem publicar ou editar o original. Se o pedido autorizar também correções, trate a integração como uma fase separada, preservando o parecer e a versão de partida antes da alteração.
-
-Na reconferência, vincule achado anterior, versão nova, aspecto reexaminado e evidência de resolução ou persistência. Não declarar reavaliado o que não foi lido.
-
-## Exemplo de decisão — ilustrativo
-
-No perfil linguístico, um parágrafo contém erro de concordância e uma frase fragmentada usada como pausa. Proponha corrigir a concordância. Examine o fragmento segundo a intenção e as convenções; se ele sustenta o ritmo sem ambiguidade relevante, recomende preservá-lo. Não normalizar ambos como se fossem o mesmo problema.
-
-Este exemplo não é resultado de exercício executado. A validação estrutural desta skill não comprova os nove perfis em uso.
+Fatos dependem de fontes, concordância entre IAs não os comprova. Interesse/voz/clareza recebem impressões situadas da IA; reconhecimento da voz e experiência real de leitura cabem ao autor. Não usar detector de IA, nota de humanidade, tempo inventado ou alegação de leitura em voz alta não realizada. Registrar resultado no acompanhamento pertinente, sem outro diário de revisão.

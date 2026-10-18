@@ -61,10 +61,20 @@ Aqui cabem dificuldade, repetição, dedicação e pequenas recompensas: finalme
 
 Os anexos preservam versões da base curricular. A organização vigente é consultada no mapa de estudos; esta etapa fornece contexto para narrar os ciclos de aprendizagem.
 
-## Registro contínuo desta etapa
+<a id="acompanhamento"></a>
 
-[Abrir a ficha de acompanhamento](<../registro da autoridade/etapas/07-registro.md>) para ligar sessões, episódios, decisões e material do livro. [Método e modelos](<../registro da autoridade/README.md>).
+## Acompanhamento da etapa
 
-## Estrutura consolidada do livro
+Base recebida da ficha anterior em 16/10/2026; o estado abaixo não substitui as tasks editoriais atuais.
 
-[Sete partes e dados de estudo](<../capitulos estudos/ESTRUTURA_E_ESTUDO.md>) · [Última revisão literal](<../capitulos estudos/EXTRACAO_ULTIMA_REVISAO.md>).
+**Estado inicial:** Aguardando registros próprios de aprendizagem.
+
+**Marco a demonstrar:** Um conceito aplicado e explicado com uma decisão, suas alternativas e suas consequências.
+
+### Perguntas para registrar experiências
+
+- Que conceito consigo explicar com minhas palavras?
+- Qual decisão concreta passou a fazer sentido com esse conceito?
+- Que exercício ou outro cenário permitirá verificar meu entendimento?
+
+Ainda sem registro próprio de experiência. As perguntas e o marco são orientação, não execução comprovada.

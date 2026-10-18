@@ -10,11 +10,11 @@ O diário dessa evolução alimenta publicações, ajuda outros membros da guild
 
 **Temática adotada:** fantasia medieval de reencarnação em outro mundo, com progressão de RPG e humor; derrotas, arrependimento, dedicação e resiliência podem compor relatos quando correspondem à experiência confirmada. O mundo, os personagens e as imagens são uma criação própria para dar unidade ao percurso.
 
-**Estado:** estrutura narrativa aplicada aos quinze contextos. As cenas são propostas de enquadramento; os acontecimentos, resultados e conquistas serão preenchidos pela experiência real.
+As cenas dos quinze contextos são propostas de enquadramento; acontecimentos, resultados e conquistas dependem dos relatos da experiência real.
 
 [Universo narrativo, tom de voz e regras da história](UNIVERSO_NARRATIVO.md)
 
-[Registro contínuo: método, fichas, canais e base do livro](<../registro da autoridade/README.md>)
+[Acervo de publicações e fontes](<../registro da autoridade/README.md>)
 
 ## Minha história, meus estudos
 
@@ -36,7 +36,7 @@ As [ferramentas de estudo](<../ferramentas de estudo/README.md>) acrescentam con
 
 A jornada assume a forma de quinze episódios de uma campanha. O título principal é conciso e identifica o contexto da etapa. Logo abaixo, entre parênteses, aparece o título animesco como referência para a versão mais humorística da história. O campo Na prática localiza a relação daquela etapa com o aprendizado; não define o valor pessoal do episódio. A experiência da vida anterior corresponde à sua bagagem em tecnologia, e a evolução no novo mundo corresponde às competências que serão adquiridas e demonstradas.
 
-Cada etapa tem dois documentos: a página principal apresenta o contexto, a narrativa e os marcos; o arquivo NN-texto-anexo.md reúne o material disponível por assunto, os pontos para aprofundar e os trechos integrais da conversa. Cópias relacionadas aproximam os assuntos compartilhados entre etapas.
+Cada etapa tem dois documentos: a página principal apresenta o contexto, as perguntas, os marcos e o acompanhamento, incorporando as antigas fichas de registro; o arquivo NN-texto-anexo.md reúne o material disponível por assunto, os pontos para aprofundar e os trechos integrais da conversa. Cópias relacionadas aproximam os assuntos compartilhados entre etapas.
 
 A cronologia indica quando cada frente ganha protagonismo. As frentes continuam se cruzando:
 
@@ -112,7 +112,7 @@ As afirmações e propostas da outra IA continuam sujeitas a avaliação. Esta c
 
 ## Mapa de uso dos documentos de apoio
 
-Além das quinze páginas de contexto e dos quinze anexos numerados, esta pasta contém quatro documentos de apoio. Na conferência de 16/10/2026, todos permanecem aqui por sua função; os arquivos de 01 a 15 não foram alterados nesta organização.
+As páginas de contexto e os anexos numerados são acompanhados pelos documentos de apoio abaixo, consultados conforme a finalidade da leitura.
 
 | Documento | Função e situação | Quando usar |
 | --- | --- | --- |
@@ -132,3 +132,7 @@ Para retomar a produção, consulte as [iniciativas editoriais e suas tasks](<..
 ## Livro e estudo
 
 [Estrutura consolidada do livro](<../capitulos estudos/ESTRUTURA_E_ESTUDO.md>) · [Última revisão da conversa](<../capitulos estudos/EXTRACAO_ULTIMA_REVISAO.md>) · [Base editorial](<../capitulos estudos/BASE_DO_LIVRO.md>).
+
+## Acompanhamento sem duplicação
+
+As quinze páginas reúnem contexto e registros da própria etapa. Não há fichas paralelas no acervo. O registro histórico [EP-000](01-novo-mundo-bagagem-antiga.md#ep-000) ficou na etapa 01, com referências nas outras etapas que já o utilizavam. Posts e artigos, inclusive rascunhos, ficam somente no [índice de publicações](<../registro da autoridade/PUBLICACOES.md>). Para preparar um texto, ler a peça/ficha e apenas as fontes indicadas; não é necessário percorrer as quinze etapas.

@@ -53,6 +53,20 @@ A cena permite brincar com a vontade de equipar um título antes de reunir seus 
 
 A distinção entre os dois escopos foi acrescentada na análise anterior. Os trechos abaixo oferecem contexto para essa decisão, mas não a resolvem.
 
-## Registro contínuo desta etapa
+<a id="acompanhamento"></a>
 
-[Abrir a ficha de acompanhamento](<../registro da autoridade/etapas/03-registro.md>) para ligar sessões, episódios, decisões e material do livro. [Método e modelos](<../registro da autoridade/README.md>).
+## Acompanhamento da etapa
+
+Base recebida da ficha anterior em 16/10/2026; o estado abaixo não substitui as tasks editoriais atuais.
+
+**Estado inicial:** Aguardando registros próprios de aprendizagem.
+
+**Marco a demonstrar:** Uma definição de escopo profissional com exemplos de tarefas e decisões pretendidas.
+
+### Perguntas para registrar experiências
+
+- Que responsabilidade profissional consegui exercer?
+- O que coube ao meu julgamento e o que foi delegado?
+- Que competência falta para assumir a próxima responsabilidade?
+
+Ainda sem registro próprio de experiência. As perguntas e o marco são orientação, não execução comprovada.

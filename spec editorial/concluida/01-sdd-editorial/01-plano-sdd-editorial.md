@@ -56,7 +56,7 @@ O destino dos arquivos do piloto será definido no documento 02. Este plano não
 | ENT-04 | Skills para elaborar e acompanhar a metodologia. | ENT-01, ENT-02 e modelo de parecer de ENT-03. | Cada modo possui gatilho, entradas, sequência, saída, limites e critério de encerramento. |
 | ENT-05 | Skills de produção editorial e perfis de revisão. | ENT-01 e ENT-03. | Cobrem preparação, redação, revisão e refatoração; distinguem erro, preferência e fato não confirmado. |
 | ENT-06 | Conferência integrada dos artefatos. | ENT-01 a ENT-05. | Ligações funcionam, requisitos têm cobertura e nenhuma passagem depende de campo ausente ou procedimento indefinido. Achados ficam nas tasks. |
-| ENT-07 — transferida | Aplicação no piloto 01 e avaliação, agora na [spec 03](../../backlog/03-piloto-editorial/03-piloto-editorial.md). | Método de 01 e preparação suficiente em 02. | Critérios preservados em 03; não executada e não incluída no fechamento de 01. |
+| ENT-07 — transferida | Aplicação no piloto 01 e avaliação, agora na [spec 03](../../changes/03-piloto-editorial/03-piloto-editorial.md). | Método de 01 e preparação suficiente em 02. | Critérios preservados em 03; não executada e não incluída no fechamento de 01. |
 
 ENT-02 e ENT-03 podem ser elaboradas após o guia; ENT-04 e ENT-05 são frentes separáveis depois dos respectivos modelos. A execução pode ser inteiramente sequencial. O plano não exige agentes simultâneos.
 

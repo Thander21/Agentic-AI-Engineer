@@ -57,6 +57,20 @@ Este é o ponto de derrota mais forte do arco. Cabem frustração, arrependiment
 
 Os exemplos são transcrições didáticas da outra IA, não testes executados neste projeto. Os tempos de auditoria, os diagnósticos e os limites numéricos citados precisam de revisão antes de virarem recomendações.
 
-## Registro contínuo desta etapa
+<a id="acompanhamento"></a>
 
-[Abrir a ficha de acompanhamento](<../registro da autoridade/etapas/10-registro.md>) para ligar sessões, episódios, decisões e material do livro. [Método e modelos](<../registro da autoridade/README.md>).
+## Acompanhamento da etapa
+
+Base recebida da ficha anterior em 16/10/2026; o estado abaixo não substitui as tasks editoriais atuais.
+
+**Estado inicial:** Aguardando registros próprios de aprendizagem.
+
+**Marco a demonstrar:** Uma entrega examinada com evidências: comportamento esperado, falha encontrada ou limite ainda não resolvido.
+
+### Perguntas para registrar experiências
+
+- Qual hipótese investiguei e quais sinais me levaram a ela?
+- Que evidência de código, teste ou execução confirmou ou rejeitou a hipótese?
+- O que a verificação detectou e o que ainda ficou fora de seu alcance?
+
+Ainda sem registro próprio de experiência. As perguntas e o marco são orientação, não execução comprovada.

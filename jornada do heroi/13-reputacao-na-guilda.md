@@ -55,6 +55,20 @@ A exposição inclui receio, humor sobre os próprios tropeços e satisfação q
 
 As cadências intensivas do começo da conversa e a proposta posterior de presença mínima foram preservadas. Não foram adotadas como calendário. Nenhuma publicação externa foi realizada.
 
-## Registro contínuo desta etapa
+<a id="acompanhamento"></a>
 
-[Abrir a ficha de acompanhamento](<../registro da autoridade/etapas/13-registro.md>) para ligar sessões, episódios, decisões e material do livro. [Método e modelos](<../registro da autoridade/README.md>).
+## Acompanhamento da etapa
+
+Base recebida da ficha anterior em 16/10/2026; o estado abaixo não substitui as tasks editoriais atuais.
+
+**Estado inicial:** Aguardando registros próprios de aprendizagem.
+
+**Marco a demonstrar:** Uma publicação derivada de um caso documentado, com o nível de certeza e a evidência adequados ao conteúdo.
+
+### Perguntas para registrar experiências
+
+- Que contribuição foi preparada para um leitor e em qual formato?
+- Que pergunta, aplicação ou crítica apareceu depois do compartilhamento?
+- O que o retorno e o esforço de publicar indicam para a próxima contribuição?
+
+Ainda sem registro próprio de experiência. As perguntas e o marco são orientação, não execução comprovada.

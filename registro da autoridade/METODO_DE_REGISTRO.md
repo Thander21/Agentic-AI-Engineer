@@ -1,84 +1,30 @@
-# Método de registro da jornada
+# Registro de conhecimento e fontes
 
-[Índice do registro](README.md) · [Universo narrativo](<../jornada do heroi/UNIVERSO_NARRATIVO.md>)
+[Acervo](README.md) · [Jornada](<../jornada do heroi/README.md>) · [Estudos](<../capitulos estudos/README.md>) · [SDD editorial](<../spec editorial/GUIA_DE_OPERACAO.md>)
 
-## Relação com o SDD e com o acervo
+## Onde registrar
 
-Este método organiza fontes e registros de experiência. Preparação, redação, revisão e integração de textos seguem o [guia SDD](<../spec editorial/GUIA_DE_OPERACAO.md>), usando ficha proporcional. Posts e artigos de origem jornada, estudo ou ambas ficam em `publicacoes/` e no [índice central](PUBLICACOES.md). Capítulos e ordem de aprendizagem ficam em `capitulos estudos/`.
-
-Um registro DEC documenta uma escolha da experiência ou do estudo. Se a escolha altera intenção editorial, registrá-la na spec pertinente e vincular o DEC; estratégia pertence ao plano e execução às tasks. Não manter decisões editoriais concorrentes nas fichas de registro.
-
-## Um registro que sirva ao trabalho e à história
-
-Cada avanço deve deixar uma explicação recuperável: o problema, a compreensão inicial, a tentativa, a evidência e o que mudou. Isso preserva a matéria-prima antes de adaptá-la para leitores. A versão pública pode ser mais curta; o capítulo precisará de contexto, fontes e exemplos suficientes para ensinar.
-
-## Quatro formas de registrar
-
-| Registro | Quando usar | Conteúdo essencial |
-| --- | --- | --- |
-| Sessão | Ao estudar, experimentar ou investigar | Pergunta, atividade, fonte, observação e próximo passo. |
-| Episódio | Quando houver uma experiência pessoal que o autor queira contar, cotidiana ou ligada ao estudo | Contexto vivido, voz em primeira pessoa e movimentos que o relato sustentar; aprendizado ou evidência técnica quando pertinentes. |
-| Decisão | Quando alternativas tiverem efeitos importantes para o projeto | Contexto, opções, escolha, motivos, custos e condição para rever. |
-| Retorno do leitor | Quando uma dúvida ou crítica revelar algo sobre o ensino | Pergunta recebida, entendimento do leitor, resposta e ajuste no material. |
-
-Os registros recebem IDs estáveis: `SS-AAAA-MM-DD-001`, `EP-001`, `DEC-001` e `RET-001`. O texto público recebe um ID PUB disponível, conferido no índice, e aponta para capítulo/fontes e/ou episódio de origem. Não criar episódio fictício para preencher o vínculo. Não duplicar o episódio quando ele contribuir para duas etapas: vincular o mesmo ID às duas fichas.
-
-A rotina de registro deve caber na vida do autor. Notas breves, pausas e retomadas são possíveis; frequência de postagem e quantidade de entregas não medem o valor da experiência pessoal.
-
-## O registro mínimo de uma sessão
-
-Responder:
-
-1. Que pergunta eu queria esclarecer?
-2. O que li, fiz ou pedi ao agente?
-3. O que observei ou compreendi melhor?
-4. Qual referência ou artefato permite conferir isso?
-5. O que ainda não consigo concluir?
-6. Qual será a próxima ação?
-
-Registrar o trabalho do agente e a intervenção humana quando isso for relevante: intenção, contexto enviado, entrega recebida, decisão de revisão e motivo. A explicação pode resumir a interação; conservar uma transcrição maior apenas quando ela ajudar a examinar o caso.
-
-## O arco de um episódio
-
-**Missão → expectativa → tentativa → obstáculo → ajuste → resultado → aprendizado → próxima pergunta.**
-
-O obstáculo pode ser uma falha técnica, um conceito difícil, uma hipótese rejeitada ou uma explicação que não ficou clara. Nem todo episódio precisa de derrota, nem toda derrota termina resolvida na mesma sessão. Usar os movimentos que a experiência fornecer.
-
-A história pessoal é contada em primeira pessoa. Humor, retórica, cotidiano e referências de RPG, filmes, animes e livros podem atravessar o episódio, sem se limitar ao título ou à abertura. Família e furão entram a partir dos relatos do autor. Um episódio pode registrar uma observação cotidiana sem exigir problema técnico, conquista ou lição profissional. Explicações técnicas mantêm precisão; capítulos oferecem leitura autônoma.
-
-## Como criar identificação e rapport
-
-O leitor precisa reconhecer uma situação e acompanhar seu raciocínio. Para isso:
-
-- Apresentar uma dificuldade concreta: a decisão que não sabia justificar, a regra que não conseguiu rastrear ou a fonte que contradisse sua primeira compreensão.
-- Explicar o que pensava antes. A mudança de entendimento ganha significado quando o ponto de partida aparece.
-- Descrever a consequência da tentativa: retrabalho, dúvida persistente, melhora observada ou necessidade de reduzir o escopo.
-- Nomear emoções apenas quando você quiser relatá-las e realmente as tiver vivido. Deixar o campo pessoal vazio também é válido.
-- Oferecer algo aproveitável: uma pergunta de diagnóstico, um exemplo, um critério de decisão ou uma referência contextualizada.
-- Formular uma pergunta específica ao leitor quando houver interesse real em sua experiência. Registrar as respostas que ajudarem a aprender ou explicar melhor.
-
-Uma abertura possível é: "Eu conseguia fazer X, mas ainda não sabia justificar Y. Nesta sessão, investiguei Z." Completar com fatos do caso, sem transformar o modelo numa fórmula obrigatória.
-
-## Como sustentar autoridade enquanto aprende
-
-Cada afirmação deve mostrar sua base. Separar o que foi observado, o que foi estudado em uma fonte e o que ainda é hipótese. Apresentar alternativas consideradas, o motivo da escolha e os limites do resultado. Uma conclusão pequena e bem sustentada já pode ser uma contribuição útil.
-
-O autor documenta uma jornada pessoal que inclui formação e experiência técnica. O aproveitamento profissional do conhecimento e a credibilidade resultante convivem com relatos que têm valor pessoal, sem exigir posicionamento de carreira a cada episódio.
-
-## Evidências adequadas ao tipo de afirmação
-
-| Afirmação | Registro que a sustenta |
+| Conteúdo | Destino |
 | --- | --- |
-| "Aprendi a explicar este conceito" | Explicação própria, referência consultada e exercício ou pergunta resolvida. |
-| "Este teste detecta esta violação" | Cenário, asserção e execução com comportamento correto e incorreto. |
-| "A mudança alterou este resultado" | Comparação antes e depois sob condições identificadas. |
-| "Escolhi esta alternativa por estes motivos" | Opções, restrições, decisão e consequências. |
-| "O leitor compreendeu melhor" | Pergunta ou exercício aplicado e retorno registrado. |
+| Versões anteriores, diff e mudanças de arquivos | Histórico do Git; GitHub quando sincronizado pelo autor. |
+| Intenção e decisões editoriais | Spec da iniciativa pertinente. |
+| Estratégia de execução | Plano da iniciativa. |
+| Progresso, critério e evidência de conclusão | Tasks, de forma breve e suficiente para retomar. |
+| Experiência pessoal que o autor queira contar | Página da etapa pertinente na jornada. |
+| Conceito, fonte, exercício e resultado de estudo | Nota ou capítulo pertinente em estudos. |
+| Artigo/post e suas decisões de revisão | Pasta da peça em `publicacoes/`, sem duplicar o acompanhamento das tasks. |
+| Finalidade e limites de uma fonte de consulta | Seu mapa de entrada, como o mapa das ferramentas. |
 
-Código, comandos, logs, diagramas e resultados podem ser evidências. Incluir contexto para interpretá-los. Antes de compartilhar um artefato do produto, preparar um exemplo ou recorte publicável que preserve a explicação e respeite informações de clientes e do negócio.
+Não criar sessões para narrar alterações de arquivos, copias de segurança, snapshots, manifestos de hashes ou um segundo histórico do trabalho. Não recriar `sessoes/`, `episodios/` ou `etapas/` no acervo. Um pedido de continuar uma tarefa não pede um novo relatório de sessão.
 
-## Dúvidas, correções e continuidade
+## O que merece ficar no conteúdo
 
-Preservar o raciocínio inicial e registrar a correção com data e motivo. Ao revisar uma conclusão, ligar o novo episódio ao anterior. O livro poderá aproveitar essa evolução quando ela ajudar a explicar o conceito.
+Registrar pergunta, fonte selecionada, explicação própria, observação ou relato confirmado, limite do que se pode concluir e dúvida seguinte quando isso acrescentar conhecimento. Escrever diretamente no estudo ou relato pertinente. Não repetir a lista de arquivos alterados, as mesmas decisões ou o mesmo resultado em vários documentos.
 
-Nenhuma etapa ganha conclusão automática pela quantidade de sessões ou publicações. A ficha registra seu estado e o marco de aprendizagem que já tem evidência.
+A história pessoal mantém primeira pessoa, humor e referências confirmadas. Não inventar cenas, emoções ou resultados. O estudo técnico deve permitir compreensão independente da autobiografia. Um artigo pode nascer diretamente das fontes suficientes, sem sessão ou episódio intermediário.
+
+## Evidência proporcional
+
+Distinguir relato do autor, interpretação, hipótese e resultado conferido. Vincular a afirmação à fonte; não copiar conversas inteiras nem dados privados. Retorno de leitor e reconhecimento da voz só são registrados quando recebidos. Mudança relevante de conclusão atualiza o documento responsável e, quando necessário, a tarefa afetada.
+
+Sempre que precisar preservar texto de publicação, jornada ou capítulo de estudo antes de alterar, conferir se a versão está recuperável no Git. Se não estiver, solicitar o commit do autor e aguardar a alteração dependente, continuando partes independentes. Não executar commit ou envio automaticamente nem fabricar preservação por cópia paralela. Etiqueta de revisão não garante recuperação do texto.

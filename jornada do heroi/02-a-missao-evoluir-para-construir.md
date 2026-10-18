@@ -53,6 +53,26 @@ O humor está na distância entre a empolgação da partida e o tamanho do compr
 
 Os manifestos transcritos contêm generalizações sobre programação e promessas de auditoria. São versões históricas da tese, sujeitas à curadoria da etapa 05.
 
-## Registro contínuo desta etapa
+<a id="acompanhamento"></a>
 
-[Abrir a ficha de acompanhamento](<../registro da autoridade/etapas/02-registro.md>) para ligar sessões, episódios, decisões e material do livro. [Método e modelos](<../registro da autoridade/README.md>).
+## Acompanhamento da etapa
+
+Base recebida da ficha anterior em 16/10/2026; o estado abaixo não substitui as tasks editoriais atuais.
+
+**Estado atual:** preparação documentada vinculada; aprendizagem própria da etapa ainda a demonstrar.
+
+**Marco a demonstrar:** Uma tese de trabalho curta, com o resultado pretendido e as perguntas que ainda precisam de resposta.
+
+### Perguntas para registrar experiências
+
+- Que transformação estou investigando?
+- Qual caso sustenta, limita ou contradiz minha tese?
+- O que revisei na promessa depois de estudar ou experimentar?
+
+### Registros vinculados
+
+Registros históricos; próximos passos da época não substituem as tasks atuais.
+
+| Data | ID e arquivo | Pergunta ou caso | Estado e evidência | Próximo passo na época |
+| --- | --- | --- | --- | --- |
+| 2026-10-13 | [EP-000](<01-novo-mundo-bagagem-antiga.md#ep-000>) | Preparação da jornada; etapa já associada na origem. | Organização documentada, sem comprovar aprendizagem técnica. | Registrar atividade própria da etapa quando ocorrer. |

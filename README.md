@@ -1,10 +1,10 @@
 # Agentic AI Engineer
 
-**Minha jornada pessoal de aprendizado com agentes de IA: histórias da vida, estudos em capítulos e conhecimento para quem quiser usar.**
+**Minha jornada pessoal de aprendizado com Desenvolvimento asistido por IA: histórias da vida, estudos em capítulos, projeots aplicados e conhecimento para quem quiser usar.**
 
-Este projeto é a documentação da minha jornada pessoal enquanto estudo e desenvolvo com agentes de inteligência artificial. Trago minha experiência em TI, minhas perguntas e a vida que acontece junto do aprendizado. Os estudos têm aplicação profissional, tanto para mim quanto para quem quiser aproveitar o que compartilho.
+Este projeto é a documentação da minha jornada pessoal de forma descontraida e pessoa, enquanto estudo e desenvolvo com agentes de inteligência artificial. Trago minha experiência em TI, minhas perguntas e a vida que acontece junto do aprendizado. Os estudos têm aplicação profissional, tanto para mim quanto para quem quiser aproveitar o que compartilho.
 
-Os estudos serão documentados em capítulos que, desenvolvidos e estruturados ao longo da jornada, formarão o livro. Junto deles, registro minha experiência e compartilho o percurso em posts e artigos.
+Os estudos serão documentados em capítulos que, desenvolvidos e estruturados ao longo da jornada, que pode vir a se tornar um livro dos pontos necessários no aprendizado. Junto deles, registro minha experiência e compartilho o percurso em posts e artigos.
 
 A pergunta que orienta o percurso é: **como desenvolver com IA compreendendo o que está sendo construído e tendo critérios para orientar, avaliar e assumir as decisões?** A proposta é estudar os fundamentos, relacioná-los à prática e tornar esse raciocínio acompanhável por outras pessoas.
 
@@ -23,6 +23,7 @@ O projeto reúne cinco componentes:
 - **Um acervo de posts e artigos:** textos derivados dos estudos, da jornada pessoal ou de ambos, ligados às suas fontes e identificados por versão e estado editorial.
 - **Uma metodologia aplicada à escrita:** o SDD (*Spec-Driven Development*, ou desenvolvimento orientado por especificação) adaptado ao trabalho editorial, para definir a intenção, organizar a produção e conferir as entregas.
 - **Um acervo organizado para leitura no Obsidian:** notas conectadas e configurações de navegação para facilitar a leitura, a busca por assuntos e a consulta às referências.
+- **Ferramentas de estudo:** aplicações praticas ou frameworks criados para auxiliar o estudo e o entendimento, assim como otimizar o usso de AI no desenvolvimento
 
 O mapa inicial reúne fundamentos de execução e memória, qualidade de software, requisitos, arquitetura, testes, dados, sistemas distribuídos, evolução e segurança. Contexto, orquestração e avaliação de agentes atravessam o percurso. A seleção de fontes e o aprofundamento serão desenvolvidos conforme cada unidade de estudo.
 
@@ -48,7 +49,7 @@ Referências de RPG medieval e *isekai* — histórias de chegada a outro mundo 
 
 Os capítulos e sua base editorial ficam em `capitulos estudos/`: ali se organiza o estudo e a estruturação desses mesmos capítulos como livro. O arquivo `BASE_DO_LIVRO.md` orienta como incorporar fontes e experiências aos capítulos.
 
-As ferramentas de estudo têm três escopos: **FlutterGuard-AI**, uma ideia a desenvolver; **SDD-TDDkit**, em desenvolvimento e uso a partir do SpecSimpleKit e das adaptações feitas em cada projeto; e **VagasAutomatizado**, fonte privada de contexto pessoal/profissional e projeto de busca de vagas. O último fica fora do Git deste acervo; aqui há apenas o registro de sua existência e finalidade. O mapa orienta consultas para futuros textos, e a ampliação dos vínculos com notas e dados no Obsidian fica para uma etapa posterior.
+As ferramentas de estudo têm três escopos: **FlutterGuard-AI**, uma ideia a desenvolver aplicada no "Meta Global AI Developer Hackathon"; **SDD-TDDkit**, em desenvolvimento e uso a partir do SpecSimpleKit e das adaptações feitas em cada projeto; e **VagasAutomatizado**, fonte privada de contexto pessoal/profissional e projeto de busca de vagas. O último fica fora do Git deste acervo; aqui há apenas o registro de sua existência e finalidade. O mapa orienta consultas para futuros textos, e a ampliação dos vínculos com notas e dados no Obsidian fica para uma etapa posterior.
 
 “Registro da autoridade” é o nome do acervo de experiências e publicações. Essa pasta também guarda `ORIGEM_DAS_IDEIAS.md`, que permite consultar de onde vieram as propostas iniciais. As decisões vigentes ficam nas specs das iniciativas editoriais. O nome identifica o acervo da jornada pessoal e do conhecimento compartilhado; a credibilidade vem de tornar visíveis o raciocínio, as fontes e os limites de cada conclusão.
 
@@ -77,9 +78,3 @@ A produção segue o **SDD editorial**, uma adaptação do trabalho orientado po
 As fontes e versões são preservadas para permitir acompanhar como uma ideia se tornou texto. A IA participa da organização, da escrita e da revisão; as decisões autorais e a confirmação das experiências continuam com o autor. Rascunho, texto revisado e publicação são estados distintos no acervo.
 
 O [guia de operação](<spec editorial/GUIA_DE_OPERACAO.md>) explica o método. O [índice de iniciativas editoriais](<spec editorial/README.md>) reúne o trabalho aguardando seleção, em andamento e encerrado. Para atuar no repositório com uma IA ou IDE, o ponto de entrada é [AGENTS.md](AGENTS.md).
-
-## Em que ponto estamos
-
-A estrutura editorial, o mapa inicial de estudos e os índices do acervo estão organizados. Há registros de preparação, um rascunho de apresentação e textos anteriores preservados como referências de voz. A preparação editorial da primeira publicação foi concluída. O próximo passo é planejar o piloto de escrita e revisão.
-
-Os capítulos do mapa ainda são unidades planejadas, com fontes e conteúdo a desenvolver. À medida que forem escritos e revisados, esses mesmos capítulos darão forma ao livro, incorporando os casos e registros pertinentes. Os estados atualizados ficam no mapa, no índice de publicações e no acompanhamento de cada iniciativa.

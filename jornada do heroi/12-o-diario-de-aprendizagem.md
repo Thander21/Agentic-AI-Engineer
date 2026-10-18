@@ -51,6 +51,26 @@ O episódio pode partir do arrependimento de não ter anotado algo importante. A
 - [Decisões e casos documentados](12-texto-anexo.md#assunto-02).
 - [Do registro ao artigo e ao capítulo](12-texto-anexo.md#assunto-03).
 
-## Registro contínuo desta etapa
+<a id="acompanhamento"></a>
 
-[Abrir a ficha de acompanhamento](<../registro da autoridade/etapas/12-registro.md>) para ligar sessões, episódios, decisões e material do livro. [Método e modelos](<../registro da autoridade/README.md>).
+## Acompanhamento da etapa
+
+Base recebida da ficha anterior em 16/10/2026; o estado abaixo não substitui as tasks editoriais atuais.
+
+**Estado atual:** preparação documentada vinculada; aprendizagem própria da etapa ainda a demonstrar.
+
+**Marco a demonstrar:** Um caso completo e rastreável, com material suficiente para explicar o aprendizado sem depender da memória.
+
+### Perguntas para registrar experiências
+
+- O que registrei e consegui reencontrar quando precisei?
+- Como liguei pergunta, decisão, fonte e evidência?
+- Qual parte do registro pode virar explicação útil para outra pessoa?
+
+### Registros vinculados
+
+Registros históricos; próximos passos da época não substituem as tasks atuais.
+
+| Data | ID e arquivo | Pergunta ou caso | Estado e evidência | Próximo passo na época |
+| --- | --- | --- | --- | --- |
+| 2026-10-13 | [EP-000](<01-novo-mundo-bagagem-antiga.md#ep-000>) | Preparação da jornada; etapa já associada na origem. | Organização documentada, sem comprovar aprendizagem técnica. | Registrar atividade própria da etapa quando ocorrer. |

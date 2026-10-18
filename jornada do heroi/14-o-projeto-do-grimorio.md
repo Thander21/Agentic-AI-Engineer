@@ -60,10 +60,26 @@ O desafio muda: algo importante para o autor pode estar confuso para quem não e
 
 O sumário de quinze capítulos preservado no anexo é uma proposta anterior. A última revisão organiza a formação em sete fases, agora reunidas na estrutura consolidada do livro. As quinze etapas desta jornada organizam seus contextos narrativos e não fixam quinze capítulos para o livro.
 
-## Registro contínuo desta etapa
+<a id="acompanhamento"></a>
 
-[Abrir a ficha de acompanhamento](<../registro da autoridade/etapas/14-registro.md>) para ligar sessões, episódios, decisões e material do livro. [Método e modelos](<../registro da autoridade/README.md>).
+## Acompanhamento da etapa
 
-## Estrutura consolidada do livro
+Base recebida da ficha anterior em 16/10/2026; o estado abaixo não substitui as tasks editoriais atuais.
 
-[Sete partes e dados de estudo](<../capitulos estudos/ESTRUTURA_E_ESTUDO.md>) · [Última revisão literal](<../capitulos estudos/EXTRACAO_ULTIMA_REVISAO.md>).
+**Estado atual:** preparação documentada vinculada; aprendizagem própria da etapa ainda a demonstrar.
+
+**Marco a demonstrar:** Uma proposta de livro ligada ao público escolhido e sustentada pelos casos que já existem ou ainda precisam ser desenvolvidos.
+
+### Perguntas para registrar experiências
+
+- Que dúvida do leitor o material ajuda a resolver?
+- Quais episódios, fontes e exercícios sustentam a explicação?
+- Como reorganizar os casos para ensinar com pré-requisitos claros?
+
+### Registros vinculados
+
+Registros históricos; próximos passos da época não substituem as tasks atuais.
+
+| Data | ID e arquivo | Pergunta ou caso | Estado e evidência | Próximo passo na época |
+| --- | --- | --- | --- | --- |
+| 2026-10-13 | [EP-000](<01-novo-mundo-bagagem-antiga.md#ep-000>) | Preparação da jornada; etapa já associada na origem. | Organização documentada, sem comprovar aprendizagem técnica. | Registrar atividade própria da etapa quando ocorrer. |

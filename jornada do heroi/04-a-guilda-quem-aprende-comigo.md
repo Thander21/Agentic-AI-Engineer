@@ -49,6 +49,20 @@ O encontro com a guilda traz alívio e pertencimento: a dificuldade deixa de par
 - [Debate sobre código e promessa didática](04-texto-anexo.md#assunto-02).
 - [O perfil mais próximo da sua experiência](04-texto-anexo.md#assunto-03).
 
-## Registro contínuo desta etapa
+<a id="acompanhamento"></a>
 
-[Abrir a ficha de acompanhamento](<../registro da autoridade/etapas/04-registro.md>) para ligar sessões, episódios, decisões e material do livro. [Método e modelos](<../registro da autoridade/README.md>).
+## Acompanhamento da etapa
+
+Base recebida da ficha anterior em 16/10/2026; o estado abaixo não substitui as tasks editoriais atuais.
+
+**Estado inicial:** Aguardando registros próprios de aprendizagem.
+
+**Marco a demonstrar:** Um perfil de leitor e uma lista inicial do que ele precisa saber antes de começar.
+
+### Perguntas para registrar experiências
+
+- Que dificuldade do leitor também reconheço na minha experiência?
+- Qual pré-requisito ficou explícito ao tentar explicar o assunto?
+- Que retorno ajudou a definir para quem este percurso será útil?
+
+Ainda sem registro próprio de experiência. As perguntas e o marco são orientação, não execução comprovada.
