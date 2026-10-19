@@ -13,3 +13,4 @@ Dava para chegar com pose de veterano. O tutorial, pelo visto, continuava obriga
 Resolvi começar a contar essa história. Ela já estava acontecendo havia algum tempo; agora estou abrindo o diário.
 
 É por aí que começa **“Novo mundo, bagagem antiga”**. Se você também anda conciliando a vontade de construir com o tamanho do que ainda precisa aprender, vem comigo. Tenho uma história para contar.
+

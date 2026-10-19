@@ -103,3 +103,6 @@ Se você também está construindo com IA e percebe que precisa compreender melh
 Eu já atravessei o portal. Aprendi a andar por uma parte desse mundo e comecei a construir nele.
 
 Agora quero entender o que mantém a masmorra de pé.
+
+Para acompanhar o material completo tanto do texto e de como essa jornada esta sendo criada
+https://github.com/Thander21/Agentic-AI-Engineer

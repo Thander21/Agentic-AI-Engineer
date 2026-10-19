@@ -2,7 +2,7 @@
 
 **ID da publicação:** PUB-001 (artigo) e PUB-002 (chamada)  
 **Origem:** [Jornada, etapa 01](../../../jornada%20do%20heroi/01-novo-mundo-bagagem-antiga.md)  
-**Peças entregues:** [artigo.md](artigo.md) (r05) · [chamada-linkedin.md](chamada-linkedin.md) (r04)  
+**Peças entregues:** [artigo.md](artigo.md) (r05) · [chamada-linkedin.md](chamada-linkedin.md) (r04) · [prompts-imagens.md](prompts-imagens.md)  
 **Acompanhamento SDD:** [Tasks da Iniciativa 03](../../../spec%20editorial/concluida/03-piloto-editorial/03-tasks-piloto-editorial.md) e [Índice de Publicações](../../PUBLICACOES.md)  
 **Estado:** Artigo e chamada apreciados pelo autor ("perfeito"); prova textual concluída; aguardando envio/URL pública.
 
