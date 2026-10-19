@@ -34,7 +34,7 @@ Este inventário reúne as referências já mencionadas na conversa. Não é uma
 
 ## Ferramentas e canais mencionados na conversa histórica
 
-O material também menciona Mermaid, Excalidraw, Testcontainers, Docker, Git, GitHub, GitHub Pages, LinkedIn, Substack, Dev.to, Leanpub, Gumroad e ferramentas de agentes. São opções presentes na conversa; sua menção não define a stack, a rotina de publicação nem a infraestrutura do projeto. As decisões de canais recebidas depois dessa conversa estão na [spec 02](<../spec editorial/concluida/02-preparacao-editorial/02-resumo-editorial-onde-como-quando.md>) e na [síntese de canais do acervo](<../registro da autoridade/CANAIS_E_AUTORIDADE.md>). Este inventário preserva a menção histórica; não reabre escolhas já feitas nem demonstra publicação ou implantação.
+O material também menciona Mermaid, Excalidraw, Testcontainers, Docker, Git, GitHub, GitHub Pages, LinkedIn, Substack, Dev.to, Leanpub, Gumroad e ferramentas de agentes. São opções presentes na conversa; sua menção não define a stack, a rotina de publicação nem a infraestrutura do projeto. As decisões de canais recebidas depois dessa conversa estão na [spec 02](<../../spec editorial/concluida/02-preparacao-editorial/02-resumo-editorial-onde-como-quando.md>) e na [síntese de canais do acervo](<../CANAIS_E_AUTORIDADE.md>). Este inventário preserva a menção histórica; não reabre escolhas já feitas nem demonstra publicação ou implantação.
 
 ## Afirmações para examinar antes de incorporar ao método ou ao livro
 
@@ -50,6 +50,6 @@ Esses pontos estão preservados nos trechos originais para que possam ser revisa
 
 ## Como aprofundar uma referência
 
-Ao selecionar uma fonte técnica, registrar seu uso no [mapa de estudos e capítulo pertinente](<../capitulos estudos/MAPA_DE_ESTUDOS.md>). Para referências culturais e pessoais da história, consultar o [universo narrativo](UNIVERSO_NARRATIVO.md). Manter aqui a origem histórica das menções, sem apresentar esta lista como bibliografia já estudada.
+Ao selecionar uma fonte técnica, registrar seu uso no [mapa de estudos e capítulo pertinente](<../../capitulos estudos/MAPA_DE_ESTUDOS.md>). Para referências culturais e pessoais da história, consultar o [universo narrativo](UNIVERSO_NARRATIVO.md). Manter aqui a origem histórica das menções, sem apresentar esta lista como bibliografia já estudada.
 
 Relacionar o problema atual, a pergunta de estudo, a fonte consultada e sua edição ou versão, o conceito extraído, o experimento realizado e o resultado observado. Depois registrar o que o caso permite concluir e o que permanece em aberto.

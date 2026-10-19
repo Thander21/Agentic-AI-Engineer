@@ -9,7 +9,7 @@ metadata:
 
 ## Entrada e modo
 
-Receber pedido/limite, ficha vigente ou contrato operacional suficiente, fontes selecionadas, tarefa e versão de partida se houver. Modos: esboço, redação ou reescrita delimitada. Consultar [guia](../../GUIA_DE_OPERACAO.md); [universo narrativo](../../../jornada%20do%20heroi/UNIVERSO_NARRATIVO.md) somente quando pertinente à história.
+Receber pedido/limite, ficha vigente ou contrato operacional suficiente, fontes selecionadas, tarefa e versão de partida se houver. Modos: esboço, redação ou reescrita delimitada. Consultar [guia](../../GUIA_DE_OPERACAO.md); [universo narrativo](<../../../registro da autoridade/Template jornada do heroi/UNIVERSO_NARRATIVO.md>) somente quando pertinente à história.
 
 Intenção, leitor, natureza e tom vêm da preparação. Não inferir vivência ou reabrir escolha aceita. Falta de fato/decisão essencial retorna à preparação/autor; escrever partes independentes possíveis sem preencher lacuna como certeza.
 

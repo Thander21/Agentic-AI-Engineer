@@ -2,7 +2,7 @@
 
 *(Trouxe anos de TI. Algumas habilidades ainda precisam ser desbloqueadas.)*
 
-[Índice do registro](../README.md) · [Episódio de origem](<../../jornada do heroi/01-novo-mundo-bagagem-antiga.md#ep-000>)
+[Índice do registro](../README.md) · [Episódio de origem](<../Template jornada do heroi/01-novo-mundo-bagagem-antiga.md#ep-000>)
 
 - ID e revisão: PUB-000, r01 catalogada em 2026-10-16; corpo do rascunho preservado.
 - Origem: jornada; EP-000.

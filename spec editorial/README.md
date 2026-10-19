@@ -30,6 +30,6 @@ A pasta não substitui o estado das tasks. Sem tasks, a próxima ação fica na 
 - [Modelos](modelos): campos proporcionais; não são formulários integrais obrigatórios nem entregas preenchidas.
 - [Avaliações T01-016](avaliacoes/T01-016/README.md): exercícios sintéticos E01–E07 com limites de cobertura, consultados quando o modo realmente exigir. Não são piloto ou relato autoral.
 - [Complementos T02](avaliacoes/T02/02-complementos-voz-e-artigo/03-pareceres-e-integracao.md): cenário sintético de preparação/voz/artigo/chamada; não eficácia geral. A [entrada operacional T02](avaliacoes/T02/01-complemento-registro-operacional.md) documenta o cenário de registro operacional; resultados e cobertura devem ser consultados no acompanhamento correspondente.
-- [Jornada](<../jornada do heroi/README.md>), [estudos](<../capitulos estudos/MAPA_DE_ESTUDOS.md>) e [publicações](<../registro da autoridade/PUBLICACOES.md>): conteúdo e fontes em suas áreas, vinculados pelo acompanhamento pertinente.
+- [Jornada](<../registro da autoridade/Template jornada do heroi/README.md>), [estudos](<../capitulos estudos/MAPA_DE_ESTUDOS.md>) e [publicações](<../registro da autoridade/PUBLICACOES.md>): conteúdo e fontes em suas áreas, vinculados pelo acompanhamento pertinente.
 
 Decisões e evidências antigas permanecem nas iniciativas de origem e no Git. Este índice não mantém diário de alterações, histórico de aprovações ou uma segunda lista de tarefas.

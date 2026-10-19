@@ -32,7 +32,7 @@ Uma peça pequena dentro de iniciativa definida usa seu acompanhamento, sem nova
 | Este guia | Procedimento editorial vigente e passagens comuns. |
 | Spec / plano / tasks | Intenção/requisitos e decisões / entregas e estratégia / estado, evidência e próxima ação. |
 | Skills / modelos | Procedimento do papel / campos proporcionais, sem preenchimento mecânico. |
-| `jornada do heroi/` | Contexto, relatos pessoais e acompanhamento nas próprias páginas. |
+| `registro da autoridade/Template jornada do heroi/` | Contexto, relatos pessoais e acompanhamento nas próprias páginas. |
 | `capitulos estudos/` | Ordem de estudo, fontes, explicações e capítulos que formarão o livro. |
 | `registro da autoridade/publicacoes/` | Peças para leitores, suas fichas e revisões, inclusive rascunhos. |
 

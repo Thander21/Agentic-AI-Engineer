@@ -6,7 +6,7 @@
 
 ## 1. Intenção, contexto e entradas
 
-Aplicar o método a material real: [01 — Novo mundo, bagagem antiga](<../../../jornada do heroi/01-novo-mundo-bagagem-antiga.md>), comparar versões, receber retorno do autor e avaliar o texto e o esforço editorial. A etapa é contexto, não relato pronto; a cena no Reino dos Agentes é metáfora proposta.
+Aplicar o método a material real: [01 — Novo mundo, bagagem antiga](<../../../registro da autoridade/Template jornada do heroi/01-novo-mundo-bagagem-antiga.md>), comparar versões, receber retorno do autor e avaliar o texto e o esforço editorial. A etapa é contexto, não relato pronto; a cena no Reino dos Agentes é metáfora proposta.
 
 Receber a [preparação 02 v0.26](../../concluida/02-preparacao-editorial/02-resumo-editorial-onde-como-quando.md), plano v0.9, tasks v0.21 e [EX02-A/B](../../avaliacoes/T02/02-complementos-voz-e-artigo/03-pareceres-e-integracao.md). Essas entradas prepararam o recorte e modos necessários; exercícios não comprovam eficácia do piloto.
 

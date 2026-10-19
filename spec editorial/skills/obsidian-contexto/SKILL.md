@@ -18,10 +18,10 @@ Ela assegura que o grafo de conhecimento represente a arquitetura editorial real
 No Obsidian, um grafo conectado só tem valor se as conexões forem **significativas**. Não se deve criar links apenas para "sumir com os nós órfãos" do gráfico.
 
 Toda conexão deve responder a uma das 4 perguntas:
-1. **É evidência ou fato biográfico?** Deve ancorar em um episódio da [Jornada do Herói](../../../jornada%20do%20heroi/README.md) ou no [Mapa de Origem](../../../jornada%20do%20heroi/MAPA_ORIGEM.md).
-2. **É conceito técnico ou lição de engenharia?** Deve ancorar em uma unidade de estudo no [Mapa de Estudos](../../../capitulos%20estudos/MAPA_DE_ESTUDOS.md).
-3. **É peça editorial ou rascunho de publicação?** Deve constar no [Índice de Publicações](../../../registro%20da%20autoridade/PUBLICACOES.md) com sua ficha de acompanhamento.
-4. **É decisão ou planejamento de fluxo?** Deve constar na iniciativa SDD pertinente em [Spec Editorial](../../../spec%20editorial/README.md).
+1. **É evidência ou fato biográfico?** Deve ancorar em um episódio da [Jornada do Herói](<../../../registro da autoridade/Template jornada do heroi/README.md>) ou no [Mapa de Origem](<../../../registro da autoridade/Template jornada do heroi/MAPA_ORIGEM.md>).
+2. **É conceito técnico ou lição de engenharia?** Deve ancorar em uma unidade de estudo no [Mapa de Estudos](<../../../capitulos estudos/MAPA_DE_ESTUDOS.md>).
+3. **É peça editorial ou rascunho de publicação?** Deve constar no [Índice de Publicações](<../../../registro da autoridade/PUBLICACOES.md>) com sua ficha de acompanhamento.
+4. **É decisão ou planejamento de fluxo?** Deve constar na iniciativa SDD pertinente em [Spec Editorial](<../../../spec editorial/README.md>).
 
 Se o arquivo não se encaixa em nenhuma das 4 categorias, ele pode ser um **anexo utilitário** (ferramenta externa) ou um **rascunho descartável** que deve ser saneado.
 
@@ -36,7 +36,7 @@ O Grafo Global mostra a topologia completa do cofre. Para torná-lo legível e p
    - Adicione no filtro de busca do Grafo: `-path:"ferramentas de estudo"`
    - *Motivo:* Pastas de repositórios/ferramentas externas (como `VagasAutomatizado` ou kits de código) contêm dezenas de arquivos que poluem a visão editorial.
 2. **Colorir por áreas (Color Groups):**
-   - Grupo 1 (Jornada): `path:"jornada do heroi"` (verde)
+   - Grupo 1 (Jornada): `path:"registro da autoridade/Template jornada do heroi"` (verde)
    - Grupo 2 (Estudos/Livro): `path:"capitulos estudos"` (azul)
    - Grupo 3 (Publicações): `path:"registro da autoridade"` (laranja)
    - Grupo 4 (SDD / Governança): `path:"spec editorial"` (roxo)
@@ -48,7 +48,7 @@ O Grafo Global mostra a topologia completa do cofre. Para torná-lo legível e p
 
 ### B. Local Graph (Grafo Local)
 Em vez de analisar todo o acervo de uma vez, use o Grafo Local nos **Mapas de Conteúdo (MOCs)**:
-- Abra [`MAPA_DE_ESTUDOS.md`](../../../capitulos%20estudos/MAPA_DE_ESTUDOS.md), [`UNIVERSO_NARRATIVO.md`](../../../jornada%20do%20heroi/UNIVERSO_NARRATIVO.md) ou [`PUBLICACOES.md`](../../../registro%20da%20autoridade/PUBLICACOES.md).
+- Abra [`MAPA_DE_ESTUDOS.md`](<../../../capitulos estudos/MAPA_DE_ESTUDOS.md>), [`UNIVERSO_NARRATIVO.md`](<../../../registro da autoridade/Template jornada do heroi/UNIVERSO_NARRATIVO.md>) ou [`PUBLICACOES.md`](<../../../registro da autoridade/PUBLICACOES.md>).
 - Na paleta de comandos (`Ctrl + P`), execute: `Open local graph`.
 - Configure **Depth (Profundidade)** para `2` ou `3`.
 - Inspecione se os arquivos que deveriam pertencer àquela área estão orbitando o mapa central. Se algum arquivo estiver ausente dessa teia, ele está isolado.

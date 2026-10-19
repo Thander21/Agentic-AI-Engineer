@@ -43,7 +43,7 @@ A preparação conserva as decisões já recebidas e delimita as pendências res
 - [Método de registro](<../../../registro da autoridade/METODO_DE_REGISTRO.md>): sessões, episódios, decisões e retornos.
 - [Canais e autoridade](<../../../registro da autoridade/CANAIS_E_AUTORIDADE.md>): propostas anteriores de canais e exposição pública.
 - [Base do livro](<../../../capitulos estudos/BASE_DO_LIVRO.md>): aproveitamento dos registros como material editorial.
-- [Universo narrativo](<../../../jornada do heroi/UNIVERSO_NARRATIVO.md>): voz e referências da jornada.
+- [Universo narrativo](<../../../registro da autoridade/Template jornada do heroi/UNIVERSO_NARRATIVO.md>): voz e referências da jornada.
 
 ## Quadro histórico inicial — dimensões a desenvolver
 
@@ -69,7 +69,7 @@ Registrar os achados e ajustar o documento conforme a experiência. Esta avalia�
 
 ## Relação com o piloto das skills
 
-O piloto das skills já está **escolhido**, mas ainda não foi executado: [01 — Novo mundo, bagagem antiga](<../../../jornada do heroi/01-novo-mundo-bagagem-antiga.md>).
+O piloto das skills já está **escolhido**, mas ainda não foi executado: [01 — Novo mundo, bagagem antiga](<../../../registro da autoridade/Template jornada do heroi/01-novo-mundo-bagagem-antiga.md>).
 
 Este documento fornece as definições editoriais necessárias ao piloto. Sua avaliação verifica a clareza e a utilidade das orientações; o piloto verifica a aplicação dos procedimentos de escrita e revisão. Os dois resultados podem ser observados na mesma experiência, mas devem ser registrados separadamente.
 
@@ -87,8 +87,8 @@ O levantamento inicial de PEN-01 é preservado abaixo. A v0.3 amplia a preparaç
 | Canais e autoridade, “Recomendação para começar” | Markdown local e LinkedIn como primeiro canal público sugerido. | A recomendação de LinkedIn não comprova escolha autoral; capacidades atuais das plataformas não foram reconferidas nesta rodada. |
 | Universo narrativo, “Humor e tom profissional” e “Exemplo de voz narrativa” | Referências de RPG/isekai, título profissional, humor e precisão técnica. | O exemplo é fictício; o arco emocional proposto não comprova emoções vividas. |
 | Base do livro, “Estados de trabalho” e “Inventário inicial” | Distinção entre registro, texto para leitura e capítulo; reaproveitamento por vínculo. | O piloto não corresponde automaticamente a um capítulo. |
-| [EP-000](<../../../jornada do heroi/01-novo-mundo-bagagem-antiga.md#ep-000>), “Ponto de partida declarado”; [ficha da etapa 01](<../../../jornada do heroi/01-novo-mundo-bagagem-antiga.md#acompanhamento>) | Relato inicial e intenção de formação; diagnóstico ainda a desenvolver. | Síntese de declarações anteriores, sem nova confirmação pessoal nesta rodada. |
-| [Texto 01](<../../../jornada do heroi/01-novo-mundo-bagagem-antiga.md>), “O que desenvolver aqui” | Pergunta de partida, bagagem, lacunas e capacidades desejadas. | É planejamento da etapa; cenas propostas não são acontecimentos confirmados. |
+| [EP-000](<../../../registro da autoridade/Template jornada do heroi/01-novo-mundo-bagagem-antiga.md#ep-000>), “Ponto de partida declarado”; [ficha da etapa 01](<../../../registro da autoridade/Template jornada do heroi/01-novo-mundo-bagagem-antiga.md#acompanhamento>) | Relato inicial e intenção de formação; diagnóstico ainda a desenvolver. | Síntese de declarações anteriores, sem nova confirmação pessoal nesta rodada. |
+| [Texto 01](<../../../registro da autoridade/Template jornada do heroi/01-novo-mundo-bagagem-antiga.md>), “O que desenvolver aqui” | Pergunta de partida, bagagem, lacunas e capacidades desejadas. | É planejamento da etapa; cenas propostas não são acontecimentos confirmados. |
 
 ### Escolhas a resolver com o autor
 
@@ -117,7 +117,7 @@ Os IDs abaixo pertencem a esta spec 02. Este quadro preserva as propostas do lev
 
 ### História e contexto: a base disponível não é ainda um episódio completo
 
-Foram lidos o texto 01, seu [anexo](<../../../jornada do heroi/01-texto-anexo.md>), EP-000, ficha da etapa, universo narrativo, método de registro e base do livro. Este recorte permite conferir a natureza dos materiais; não constitui auditoria de todo o acervo ou validação técnica externa.
+Foram lidos o texto 01, seu [anexo](<../../../registro da autoridade/Template jornada do heroi/01-texto-anexo.md>), EP-000, ficha da etapa, universo narrativo, método de registro e base do livro. Este recorte permite conferir a natureza dos materiais; não constitui auditoria de todo o acervo ou validação técnica externa.
 
 | Material / localização | Natureza e contribuição utilizável | Cuidado necessário |
 | --- | --- | --- |
@@ -228,7 +228,7 @@ Começar pela base da história: distinguir intenção de formação, capacidade
 
 ## Inventário factual conferido — T02-001 / v0.7
 
-**Escopo da conferência:** cinco blocos do [anexo 01](<../../../jornada do heroi/01-texto-anexo.md>) confrontados com os respectivos intervalos de conversa original preservada nos anexos: F002, linhas 75–82; F024, 437–438; F040, 650–661; F041, 662–664; F065, 1092–1094. Consultados também texto 01, EP-000, ficha da etapa 01 e o mapa de origem. A identidade dos interlocutores segue o conteúdo e a alternância da conversa; o original não fornece marcação formal de papéis nesses intervalos. Correspondência textual não comprova veracidade ou competência.
+**Escopo da conferência:** cinco blocos do [anexo 01](<../../../registro da autoridade/Template jornada do heroi/01-texto-anexo.md>) confrontados com os respectivos intervalos de conversa original preservada nos anexos: F002, linhas 75–82; F024, 437–438; F040, 650–661; F041, 662–664; F065, 1092–1094. Consultados também texto 01, EP-000, ficha da etapa 01 e o mapa de origem. A identidade dos interlocutores segue o conteúdo e a alternância da conversa; o original não fornece marcação formal de papéis nesses intervalos. Correspondência textual não comprova veracidade ou competência.
 
 | ID | Afirmação ou elemento e localização | Natureza / resultado documental | Limite e encaminhamento |
 | --- | --- | --- | --- |
@@ -397,7 +397,7 @@ Preservar o humor ligado a acontecimentos e observações reais. Dosagem fina ac
 | D02-05 | Reutilizar `registro da autoridade/`: sessões em `sessoes/`, episódios em `episodios/`, vínculos na ficha da etapa. | Decisão operacional da IA dentro da organização existente e do pedido de iniciar o registro; dispensa criar a antiga pasta proposta `piloto-01/` agora. Não define ainda o armazenamento das versões do futuro piloto. |
 | D02-07 | Começar por uma sessão de organização; ao pesquisar/estudar, registrar pergunta, atividade, fonte, observação, limite e próxima ação. | Ordem recebida do autor. Registrar ao fim da atividade ou durante ela se ajudar a preservar o raciocínio; sem calendário ou frequência pública obrigatória. |
 
-**Onde e como disponíveis:** [índice do registro](<../../../registro da autoridade/README.md>), [modelo de sessão](<../../../registro da autoridade/METODO_DE_REGISTRO.md>) e [ficha da etapa 01](<../../../jornada do heroi/01-novo-mundo-bagagem-antiga.md#acompanhamento>). A primeira sessão, [SS-2026-10-15-001](<02-resumo-editorial-onde-como-quando.md#ra02-11>), documenta somente a organização realizada nesta conversa; não é estudo técnico ou reescrita do piloto.
+**Onde e como disponíveis:** [índice do registro](<../../../registro da autoridade/README.md>), [modelo de sessão](<../../../registro da autoridade/METODO_DE_REGISTRO.md>) e [ficha da etapa 01](<../../../registro da autoridade/Template jornada do heroi/01-novo-mundo-bagagem-antiga.md#acompanhamento>). A primeira sessão, [SS-2026-10-15-001](<02-resumo-editorial-onde-como-quando.md#ra02-11>), documenta somente a organização realizada nesta conversa; não é estudo técnico ou reescrita do piloto.
 
 **Condição de avanço:** T02-004 conclui as condições de uso do registro inicial. A confirmação é suficiente para começar a registrar; não libera pesquisa técnica sem tema ou fonte selecionados nem equivale a parecer de suficiência para o piloto 03. Para retomar esse texto, reconferir D02-01/D02-03/D02-05/D02-07 quanto à finalidade, formato e destino então escolhidos. T02-005/T02-006/T02-007 permanecem pendentes para examinar procedimentos e suficiência no recorte pertinente.
 

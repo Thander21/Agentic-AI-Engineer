@@ -2,7 +2,7 @@
 
 Esta pasta é o centro de formação técnica do projeto, responsável por estruturar, documentar e desenvolver os **capítulos de estudos**.
 
-Os capítulos constituem um percurso técnico autônomo voltado à formação do **Engenheiro Agêntico**. Ensinam desde a infraestrutura prática e governança de agentes (harness, guardrails, validação sem ler código) até os fundamentos profundos de computação, arquitetura, testes e resiliência com rigor conceitual e exemplos verificáveis, sem exigir que o leitor conheça a vida do autor ou leia a narrativa pessoal da [Jornada do Herói](<../jornada do heroi/README.md>).
+Os capítulos constituem um percurso técnico autônomo voltado à formação do **Engenheiro Agêntico**. Ensinam desde a infraestrutura prática e governança de agentes (harness, guardrails, validação sem ler código) até os fundamentos profundos de computação, arquitetura, testes e resiliência com rigor conceitual e exemplos verificáveis, sem exigir que o leitor conheça a vida do autor ou leia a narrativa pessoal da [Jornada do Herói](<../registro da autoridade/Template jornada do heroi/README.md>).
 
 ---
 
@@ -64,4 +64,4 @@ Para garantir que o conteúdo não seja apenas teoria abstrata nem cópia sem ve
 
 ## 4. Notas sobre Fontes Históricas
 
-As transcrições literais e os registros de conversas que serviram de subsídio à montagem inicial da grade estão preservados de forma imutável nos anexos da jornada ([`06-texto-anexo.md`](<../jornada do heroi/06-texto-anexo.md>) e [`10-texto-anexo.md`](<../jornada do heroi/10-texto-anexo.md>)). Toda a base conceitual ativa e as diretrizes editoriais estão unificadas neste README e no mapa de estudos.
+As transcrições literais e os registros de conversas que serviram de subsídio à montagem inicial da grade estão preservados de forma imutável nos anexos da jornada ([`06-texto-anexo.md`](<../registro da autoridade/Template jornada do heroi/06-texto-anexo.md>) e [`10-texto-anexo.md`](<../registro da autoridade/Template jornada do heroi/10-texto-anexo.md>)). Toda a base conceitual ativa e as diretrizes editoriais estão unificadas neste README e no mapa de estudos.

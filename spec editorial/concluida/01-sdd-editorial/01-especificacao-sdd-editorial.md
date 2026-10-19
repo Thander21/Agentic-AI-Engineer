@@ -50,11 +50,11 @@ Ficam fora desta primeira entrega: instalar frameworks, criar skills executávei
 | --- | --- | --- |
 | [Base do livro](<../../../capitulos estudos/BASE_DO_LIVRO.md>) | Aproveitamento editorial e estados do material. | Harmonizar estados e critérios sem criar dois fluxos concorrentes. |
 | [Estrutura e estudo](<../../../capitulos estudos/ESTRUTURA_E_ESTUDO.md>) | Sete partes técnicas provisórias e lacunas de formação. | Ligar objetivos de aprendizagem às especificações de capítulos. |
-| [Jornada do herói](<../../../jornada do heroi/README.md>) | Quinze etapas do percurso completo. | Relacionar episódios e capítulos sem transformar automaticamente etapas em capítulos. |
-| [Universo narrativo](<../../../jornada do heroi/UNIVERSO_NARRATIVO.md>) | Identidade, tom e referências de aventura. | Definir continuidade, liberdade criativa e limites entre metáfora e fato. |
+| [Jornada do herói](<../../../registro da autoridade/Template jornada do heroi/README.md>) | Quinze etapas do percurso completo. | Relacionar episódios e capítulos sem transformar automaticamente etapas em capítulos. |
+| [Universo narrativo](<../../../registro da autoridade/Template jornada do heroi/UNIVERSO_NARRATIVO.md>) | Identidade, tom e referências de aventura. | Definir continuidade, liberdade criativa e limites entre metáfora e fato. |
 | [Método de registro](<../../../registro da autoridade/METODO_DE_REGISTRO.md>) | Sessões, episódios, decisões e retornos com IDs. | Reutilizar os registros como evidência e matéria-prima. |
 | [Canais e autoridade](<../../../registro da autoridade/CANAIS_E_AUTORIDADE.md>) | Destinos públicos e construção de confiança. | Adaptar a apresentação ao canal, mantendo origem e limites das afirmações. |
-| [Mapa de origem](<../../../jornada do heroi/MAPA_ORIGEM.md>) | Rastreabilidade dos trechos extraídos da conversa. | Distinguir transcrição histórica de decisão vigente. |
+| [Mapa de origem](<../../../registro da autoridade/Template jornada do heroi/MAPA_ORIGEM.md>) | Rastreabilidade dos trechos extraídos da conversa. | Distinguir transcrição histórica de decisão vigente. |
 
 As fontes históricas preservam o que foi dito. Uma afirmação da conversa anterior só entra como orientação atual após avaliação; sua extração não equivale à validação factual.
 
@@ -313,9 +313,9 @@ O resultado será uma decisão sobre simplificar, manter ou ajustar cada passage
 
 ### 15.8. Piloto escolhido e condições de início
 
-**Decisão do autor:** usar o primeiro texto da jornada, [01 — Novo mundo, bagagem antiga](<../../../jornada do heroi/01-novo-mundo-bagagem-antiga.md>), como piloto após a implementação inicial da spec e a definição editorial. O arquivo atual é a base de planejamento da etapa; suas cenas propostas não constituem, por si só, um relato autobiográfico confirmado.
+**Decisão do autor:** usar o primeiro texto da jornada, [01 — Novo mundo, bagagem antiga](<../../../registro da autoridade/Template jornada do heroi/01-novo-mundo-bagagem-antiga.md>), como piloto após a implementação inicial da spec e a definição editorial. O arquivo atual é a base de planejamento da etapa; suas cenas propostas não constituem, por si só, um relato autobiográfico confirmado.
 
-Usar como apoio o [anexo 01](<../../../jornada do heroi/01-texto-anexo.md>) e a [ficha de registro da etapa 01](<../../../jornada do heroi/01-novo-mundo-bagagem-antiga.md#acompanhamento>). Confirmar com o autor os detalhes pessoais necessários à redação. Preservar uma versão de referência para comparar o rascunho e o texto revisado.
+Usar como apoio o [anexo 01](<../../../registro da autoridade/Template jornada do heroi/01-texto-anexo.md>) e a [ficha de registro da etapa 01](<../../../registro da autoridade/Template jornada do heroi/01-novo-mundo-bagagem-antiga.md#acompanhamento>). Confirmar com o autor os detalhes pessoais necessários à redação. Preservar uma versão de referência para comparar o rascunho e o texto revisado.
 
 Antes de iniciar o piloto, definir:
 

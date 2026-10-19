@@ -1,7 +1,7 @@
 # Ficha de acompanhamento — Novo mundo, bagagem antiga
 
 **ID da publicação:** PUB-001 (artigo) e PUB-002 (chamada)  
-**Origem:** [Jornada, etapa 01](../../../jornada%20do%20heroi/01-novo-mundo-bagagem-antiga.md)  
+**Origem:** [Jornada, etapa 01](<../../Template jornada do heroi/01-novo-mundo-bagagem-antiga.md>)  
 **Peças entregues:** [artigo.md](artigo.md) (r05) · [chamada-linkedin.md](chamada-linkedin.md) (r04) · [prompts-imagens.md](prompts-imagens.md)  
 **Acompanhamento SDD:** [Tasks da Iniciativa 03](../../../spec%20editorial/concluida/03-piloto-editorial/03-tasks-piloto-editorial.md) e [Índice de Publicações](../../PUBLICACOES.md)  
 **Estado:** Artigo e chamada apreciados pelo autor ("perfeito"); prova textual concluída; aguardando envio/URL pública.
@@ -21,7 +21,7 @@
 
 | ID | Fato / Relato utilizado | Fonte | Limite e cuidado |
 | :--- | :--- | :--- | :--- |
-| **F01** | Bagagem prévia em TI, sistemas e bancos; desafio de auditar todo o código gerado | [Anexo 01](../../../jornada%20do%20heroi/01-texto-anexo.md#fonte-f041) | Contextualizar a experiência sem alegar número fechado de anos ou títulos acadêmicos. |
+| **F01** | Bagagem prévia em TI, sistemas e bancos; desafio de auditar todo o código gerado | [Anexo 01](<../../Template jornada do heroi/01-texto-anexo.md#fonte-f041>) | Contextualizar a experiência sem alegar número fechado de anos ou títulos acadêmicos. |
 | **F02** | PDV D+ como projeto de software fiscal para a Sampa TI | Relato autoral validado | Contexto de software próprio; não inferir situação societária formal. |
 | **F03** | Transição de revenda/suporte para desenvolvimento próprio | Relato autoral | Não desqualificar tecnologias anteriores nem terceiros. |
 | **F04** | Primeiro MVP individual ("vibecoding") e emissão de NFC-e em homologação | Relato autoral | Manter em ambiente de homologação; não alegar sistema homologado em produção integral. |

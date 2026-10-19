@@ -77,7 +77,7 @@ Registros históricos; próximos passos da época não substituem as tasks atuai
 
 ### Texto em preparação
 
-[PUB-001 r01 — Novo mundo, bagagem antiga](<../registro da autoridade/publicacoes/01-novo-mundo-bagagem-antiga/artigo.md>): primeiro rascunho baseado nos relatos confirmados de 02, sem revisão especializada ou aprovação autoral. O EP-000 foi contexto da preparação; seus números de extração não integram o artigo.
+[PUB-001 r01 — Novo mundo, bagagem antiga](<../publicacoes/01-novo-mundo-bagagem-antiga/artigo.md>): primeiro rascunho baseado nos relatos confirmados de 02, sem revisão especializada ou aprovação autoral. O EP-000 foi contexto da preparação; seus números de extração não integram o artigo.
 
 
 <a id="ep-000"></a>
@@ -86,7 +86,7 @@ Registros históricos; próximos passos da época não substituem as tasks atuai
 
 *(Renasci no Reino dos Agentes. A primeira missão era organizar o inventário.)*
 
-[Índice do registro](<../registro da autoridade/README.md>) · [Ficha da etapa 01](<01-novo-mundo-bagagem-antiga.md#acompanhamento>)
+[Índice do registro](<../README.md>) · [Ficha da etapa 01](<01-novo-mundo-bagagem-antiga.md#acompanhamento>)
 
 - Data do registro: 13 de outubro de 2026.
 - Etapas relacionadas: 01, 02, 06, 12, 14 e 15.

@@ -1,18 +1,18 @@
 # Registro da autoridade — acervo e fontes
 
-[Publicações](PUBLICACOES.md) · [Jornada do herói](<../jornada do heroi/README.md>) · [Método de registro](METODO_DE_REGISTRO.md) · [Estudos e capítulos](<../capitulos estudos/MAPA_DE_ESTUDOS.md>)
+[Publicações](PUBLICACOES.md) · [Jornada do herói](<Template jornada do heroi/README.md>) · [Método de registro](METODO_DE_REGISTRO.md) · [Estudos e capítulos](<../capitulos estudos/MAPA_DE_ESTUDOS.md>)
 
 ## Onde ler e trabalhar
 
 | O que procura | Local único |
 | --- | --- |
 | Post, artigo, ficha e revisão da peça | [Publicações](PUBLICACOES.md), com arquivos em `publicacoes/`. Inclui rascunhos; não significa envio realizado. |
-| História pessoal, perguntas, marcos e acompanhamento das quinze etapas | [Jornada do herói](<../jornada do heroi/README.md>), na própria página da etapa. |
+| História pessoal, perguntas, marcos e acompanhamento das quinze etapas | [Jornada do herói](<Template jornada do heroi/README.md>), na própria página da etapa. |
 | Conhecimento ou experiência que vale preservar | Escrever diretamente no estudo, na jornada ou no mapa da fonte pertinente. |
 | Ordem de estudo e capítulos que formarão o livro | [Mapa de estudos](<../capitulos estudos/MAPA_DE_ESTUDOS.md>). |
 | Próximo trabalho editorial e evidências | [Tasks da iniciativa ativa](<../spec editorial/README.md>). |
 
-As antigas fichas de `etapas/` foram integradas às páginas da jornada em 16/10/2026. A camada separada `episodios/` também foi retirada: o único registro, [EP-000](<../jornada do heroi/01-novo-mundo-bagagem-antiga.md#ep-000>), permanece identificado na etapa 01. O histórico anterior está no Git. Não recriar essas pastas nem exigir um episódio intermediário para produzir um post ou artigo.
+As antigas fichas de `etapas/` foram integradas às páginas da jornada em 16/10/2026. A camada separada `episodios/` também foi retirada: o único registro, [EP-000](<Template jornada do heroi/01-novo-mundo-bagagem-antiga.md#ep-000>), permanece identificado na etapa 01. O histórico anterior está no Git. Não recriar essas pastas nem exigir um episódio intermediário para produzir um post ou artigo.
 
 ## Consulta às publicações
 
@@ -28,7 +28,7 @@ O [índice de publicações](PUBLICACOES.md) reúne as peças e referências de 
 | [Canais e autoridade](CANAIS_E_AUTORIDADE.md) | Síntese e pesquisa histórica de distribuição; conferir decisões atuais na spec e informações de plataforma quando necessário. |
 | [Origem das ideias](ORIGEM_DAS_IDEIAS.md) | Fonte histórica para recuperar uma ideia específica; não é leitura obrigatória. |
 | [Modelos](modelos) | Selecionar somente o modelo pertinente; não criar diário de alterações ou registro de sessão. |
-| [Base do livro](<../capitulos estudos/BASE_DO_LIVRO.md>) | Relação didática entre fontes, experiências e capítulos. |
+| [Capítulos de estudos](<../capitulos estudos/README.md>) | Relação técnica e didática entre fontes, conceitos e unidades de estudo. |
 
 A jornada tem primeira pessoa, humor e referências pessoais confirmadas, sem obrigação de narrar toda atividade. Capítulos oferecem estudo técnico independente da autobiografia. As fontes privadas permanecem sujeitas às [regras de consulta](<../ferramentas de estudo/README.md>); não copiar dados ou resumos privados para este acervo.
 

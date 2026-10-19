@@ -18,7 +18,7 @@ Os conceitos conhecidos pelo nome agora exigem explicação. Requisitos, memóri
 
 ## Uso atual deste contexto
 
-Esta página orienta a narrativa sobre a experiência. O [mapa de estudos](<../capitulos estudos/MAPA_DE_ESTUDOS.md>) organiza capítulos, sequência e pré-requisitos; o [guia SDD](<../spec editorial/GUIA_DE_OPERACAO.md>) define produção e revisão; posts e artigos derivados entram no [acervo central](<../registro da autoridade/PUBLICACOES.md>). As propostas e cenas preservadas não são fatos biográficos nem um segundo plano de execução.
+Esta página orienta a narrativa sobre a experiência. O [mapa de estudos](<../../capitulos estudos/MAPA_DE_ESTUDOS.md>) organiza capítulos, sequência e pré-requisitos; o [guia SDD](<../../spec editorial/GUIA_DE_OPERACAO.md>) define produção e revisão; posts e artigos derivados entram no [acervo central](<../PUBLICACOES.md>). As propostas e cenas preservadas não são fatos biográficos nem um segundo plano de execução.
 
 ## Temas para contar a experiência
 

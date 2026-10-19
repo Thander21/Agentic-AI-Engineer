@@ -14,7 +14,7 @@ As cenas dos quinze contextos são propostas de enquadramento; acontecimentos, r
 
 [Universo narrativo, tom de voz e regras da história](UNIVERSO_NARRATIVO.md)
 
-[Acervo de publicações e fontes](<../registro da autoridade/README.md>)
+[Acervo de publicações e fontes](<../README.md>)
 
 ## Minha história, meus estudos
 
@@ -26,11 +26,11 @@ Os quinze contextos abaixo são propostas de organização da história, não ep
 
 ## Responsabilidade desta pasta
 
-A jornada orienta como contar o percurso: contexto, universo, voz, metáforas e continuidade. A [ordem de estudo e os capítulos](<../capitulos estudos/MAPA_DE_ESTUDOS.md>) pertencem a estudos; a [metodologia de produção e revisão](<../spec editorial/GUIA_DE_OPERACAO.md>) pertence ao SDD editorial. Todos os posts e artigos derivados são guardados no [registro da autoridade](<../registro da autoridade/PUBLICACOES.md>), com vínculos às origens.
+A jornada orienta como contar o percurso: contexto, universo, voz, metáforas e continuidade. A [ordem de estudo e os capítulos](<../../capitulos estudos/MAPA_DE_ESTUDOS.md>) pertencem a estudos; a [metodologia de produção e revisão](<../../spec editorial/GUIA_DE_OPERACAO.md>) pertence ao SDD editorial. Todos os posts e artigos derivados são guardados no [registro da autoridade](<../PUBLICACOES.md>), com vínculos às origens.
 
 Cenas, emoções, preços e conquistas das páginas são possibilidades narrativas. Só entram como vivência quando confirmados pelo autor; uma descoberta tranquila ou uma pergunta aberta basta para sustentar um relato.
 
-As [ferramentas de estudo](<../ferramentas de estudo/README.md>) acrescentam contexto para histórias e posts: uma ideia de ferramenta, a evolução de uma base adaptada a cada projeto e uma fonte privada sobre o autor e sua busca de vagas. O mapa orienta a consulta e separa relato, intenção e resultado. Consultar a fonte privada não autoriza transcrever seus dados no acervo; acontecimentos e detalhes pessoais só entram no texto dentro do recorte autorizado pelo autor.
+As [ferramentas de estudo](<../../ferramentas de estudo/README.md>) acrescentam contexto para histórias e posts: uma ideia de ferramenta, a evolução de uma base adaptada a cada projeto e uma fonte privada sobre o autor e sua busca de vagas. O mapa orienta a consulta e separa relato, intenção e resultado. Consultar a fonte privada não autoriza transcrever seus dados no acervo; acontecimentos e detalhes pessoais só entram no texto dentro do recorte autorizado pelo autor.
 
 ## Como usar a jornada
 
@@ -121,18 +121,18 @@ As páginas de contexto e os anexos numerados são acompanhados pelos documentos
 | [MAPA_ORIGEM.md](MAPA_ORIGEM.md) | Rastreabilidade histórica: relaciona contextos, trechos, intervalos e anexos; conserva o registro da conferência de extração. | Ao recuperar uma fala ou verificar sua localização. Não define currículo, voz vigente ou próxima tarefa. |
 | [REFERENCIAS.md](REFERENCIAS.md) | Inventário histórico de obras, conceitos, ferramentas e alegações mencionadas na conversa. | Como ponto de partida para selecionar e conferir uma fonte. Não comprova leitura, adoção ou validade técnica. |
 
-As referências técnicas continuam aqui porque o arquivo inventaria o que foi mencionado na conversa preservada nos anexos. Quando uma fonte for selecionada e estudada, registrar edição/versão, trechos e uso no [capítulo correspondente](<../capitulos estudos/MAPA_DE_ESTUDOS.md>), mantendo o vínculo com a origem. Referências culturais e pessoais para a narrativa são desenvolvidas no universo e nos relatos fornecidos pelo autor; não se confundem com essa bibliografia histórica.
+As referências técnicas continuam aqui porque o arquivo inventaria o que foi mencionado na conversa preservada nos anexos. Quando uma fonte for selecionada e estudada, registrar edição/versão, trechos e uso no [capítulo correspondente](<../../capitulos estudos/MAPA_DE_ESTUDOS.md>), mantendo o vínculo com a origem. Referências culturais e pessoais para a narrativa são desenvolvidas no universo e nos relatos fornecidos pelo autor; não se confundem com essa bibliografia histórica.
 
-O [AGENTS.md](../AGENTS.md#consulta-da-jornada-do-herói) orienta a consulta por finalidade. A skill de redação já aponta para o universo narrativo; as demais fases recebem as fontes pertinentes pela ficha editorial. Os documentos permanecem como contexto do projeto, sem copiar seu conteúdo para as skills. Decisões novas ficam na spec da iniciativa e repercutem no universo quando alteram a direção de escrita.
+O [AGENTS.md](../../AGENTS.md#consulta-da-jornada-do-herói) orienta a consulta por finalidade. A skill de redação já aponta para o universo narrativo; as demais fases recebem as fontes pertinentes pela ficha editorial. Os documentos permanecem como contexto do projeto, sem copiar seu conteúdo para as skills. Decisões novas ficam na spec da iniciativa e repercutem no universo quando alteram a direção de escrita.
 
-O mapa de origem localiza os trechos da conversa. Já [ORIGEM_DAS_IDEIAS.md](<../registro da autoridade/ORIGEM_DAS_IDEIAS.md>) explica como algumas ideias foram aproveitadas na organização do registro: os dois documentos se complementam, sem manter outra versão da conversa.
+O mapa de origem localiza os trechos da conversa. Já [ORIGEM_DAS_IDEIAS.md](<../ORIGEM_DAS_IDEIAS.md>) explica como algumas ideias foram aproveitadas na organização do registro: os dois documentos se complementam, sem manter outra versão da conversa.
 
-Para retomar a produção, consulte as [iniciativas editoriais e suas tasks](<../spec editorial/README.md>). Posts e artigos resultantes ficam no [acervo de publicações](<../registro da autoridade/PUBLICACOES.md>); os próprios capítulos de estudo formarão o livro.
+Para retomar a produção, consulte as [iniciativas editoriais e suas tasks](<../../spec editorial/README.md>). Posts e artigos resultantes ficam no [acervo de publicações](<../PUBLICACOES.md>); os próprios capítulos de estudo formarão o livro.
 
-## Livro e estudo
+## Capítulos de estudo
 
-[Estrutura consolidada do livro](<../capitulos estudos/ESTRUTURA_E_ESTUDO.md>) · [Última revisão da conversa](<../capitulos estudos/EXTRACAO_ULTIMA_REVISAO.md>) · [Base editorial](<../capitulos estudos/BASE_DO_LIVRO.md>).
+[README de estudos](<../../capitulos estudos/README.md>) · [Mapa de estudos](<../../capitulos estudos/MAPA_DE_ESTUDOS.md>).
 
 ## Acompanhamento sem duplicação
 
-As quinze páginas reúnem contexto e registros da própria etapa. Não há fichas paralelas no acervo. O registro histórico [EP-000](01-novo-mundo-bagagem-antiga.md#ep-000) ficou na etapa 01, com referências nas outras etapas que já o utilizavam. Posts e artigos, inclusive rascunhos, ficam somente no [índice de publicações](<../registro da autoridade/PUBLICACOES.md>). Para preparar um texto, ler a peça/ficha e apenas as fontes indicadas; não é necessário percorrer as quinze etapas.
+As quinze páginas reúnem contexto e registros da própria etapa. Não há fichas paralelas no acervo. O registro histórico [EP-000](01-novo-mundo-bagagem-antiga.md#ep-000) ficou na etapa 01, com referências nas outras etapas que já o utilizavam. Posts e artigos, inclusive rascunhos, ficam somente no [índice de publicações](<../PUBLICACOES.md>). Para preparar um texto, ler a peça/ficha e apenas as fontes indicadas; não é necessário percorrer as quinze etapas.

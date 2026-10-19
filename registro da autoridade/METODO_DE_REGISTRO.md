@@ -1,6 +1,6 @@
 # Registro de conhecimento e fontes
 
-[Acervo](README.md) · [Jornada](<../jornada do heroi/README.md>) · [Estudos](<../capitulos estudos/README.md>) · [SDD editorial](<../spec editorial/GUIA_DE_OPERACAO.md>)
+[Acervo](README.md) · [Jornada](<Template jornada do heroi/README.md>) · [Estudos](<../capitulos estudos/README.md>) · [SDD editorial](<../spec editorial/GUIA_DE_OPERACAO.md>)
 
 ## Onde registrar
 

@@ -49,7 +49,7 @@ O versionamento deve permanecer separado e privado. A existência e a visibilida
 1. Definir a finalidade do texto e consultar somente o escopo pertinente, além dos relatos e notas já selecionados.
 2. Distinguir relato autoral, proposta, observação e resultado conferido. Para fontes publicáveis, registrar caminho, data/versão, afirmação sustentada e limites. Detalhes de fontes privadas continuam no ambiente privado.
 3. Aplicar a [preparação editorial](<../spec editorial/skills/editorial-preparar/SKILL.md>) e o percurso proporcional do [guia](<../spec editorial/GUIA_DE_OPERACAO.md>), preservando lacunas reais.
-4. Guardar posts e artigos no [acervo de publicações](<../registro da autoridade/PUBLICACOES.md>), com origem `jornada`, `estudo` ou `ambas`. Capítulos e evidências de estudo ficam em [capítulos e estudos](<../capitulos estudos/README.md>); a [jornada](<../jornada do heroi/README.md>) fornece contexto narrativo.
+4. Guardar posts e artigos no [acervo de publicações](<../registro da autoridade/PUBLICACOES.md>), com origem `jornada`, `estudo` ou `ambas`. Capítulos e evidências de estudo ficam em [capítulos e estudos](<../capitulos estudos/README.md>); a [jornada](<../registro da autoridade/Template jornada do heroi/README.md>) fornece contexto narrativo.
 
 Os três projetos são fontes possíveis, não uma nova ordem de estudo nem uma fila automática de publicações. A seleção de uma fonte não inicia desenvolvimento, estudo técnico ou piloto.
 

@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "d2ec42cc0f7f0eda",
+        "id": "56679d6f15f67d25",
         "type": "tabs",
         "children": [
           {
-            "id": "b446142173a76b04",
+            "id": "7fdd46cc365240f8",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Visualização em gráfico"
+              "icon": "lucide-file",
+              "title": "Nova aba"
             }
           }
         ]
@@ -184,8 +184,12 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "b446142173a76b04",
+  "active": "7fdd46cc365240f8",
   "lastOpenFiles": [
+    "ferramentas de estudo/SDD-TDDkit/docs/Specs/changes/08-endurecer-frase-aprovacao/origem/08 - Endurecer frase de aprovacao.md",
+    "ferramentas de estudo/SDD-TDDkit/docs/Specs/changes/08-endurecer-frase-aprovacao/origem",
+    "ferramentas de estudo/SDD-TDDkit/docs/Specs/changes/08-endurecer-frase-aprovacao",
+    "ferramentas de estudo/VagasAutomatizado/docs/archive/redes/github_profile_readme.md",
     "registro da autoridade/publicacoes/01-novo-mundo-bagagem-antiga/ficha.md",
     "origem.md",
     "ferramentas de estudo/SDD-TDDkit/docs/Specs/concluidas/05-guard-no-projeto/origem/05 - Kit so no projeto.md",
@@ -203,8 +207,6 @@
     "ferramentas de estudo/SDD-TDDkit/docs/Specs/changes/05-guard-no-projeto/verify.md.tmp19924",
     "ferramentas de estudo/SDD-TDDkit/docs/Specs/changes/05-guard-no-projeto/change.md.tmp2932",
     "ferramentas de estudo/SDD-TDDkit/tools/sdd/edit_guard.ps1",
-    "ferramentas de estudo/SDD-TDDkit/SpecSimpleKit/kernel/tools/sdd/edit_guard.ps1",
-    "ferramentas de estudo/SDD-TDDkit/tools/sdd/guard.ps1",
     "spec editorial/skills/obsidian-contexto/SKILL.md",
     "ferramentas de estudo/VagasAutomatizado/docs/archive/redes/calendario_postagens.md",
     "registro da autoridade/etapas/15-registro.md",
@@ -219,8 +221,6 @@
     "spec editorial/historico/2026-10-16-antes-do-mapa-de-uso-dos-estudos/PRESERVACAO.md",
     "spec editorial/historico/2026-10-16-antes-do-readme-organizacao-final/PRESERVACAO.md",
     "spec editorial/historico/2026-10-16-antes-do-mapa-de-uso-do-registro/PRESERVACAO.md",
-    "README.md",
-    "spec editorial/historico/2026-10-16-antes-do-mapa-de-uso-dos-estudos/capitulos estudos/README.md",
-    "spec editorial/historico/2026-10-16-antes-do-mapa-de-uso-dos-estudos/AGENTS.md"
+    "README.md"
   ]
 }

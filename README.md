@@ -39,7 +39,7 @@ Referências de RPG medieval e *isekai* — histórias de chegada a outro mundo 
 
 | Se você quer… | Comece aqui |
 | --- | --- |
-| Conhecer a proposta narrativa e o ponto de partida | [Jornada do herói](<jornada do heroi/README.md>) |
+| Conhecer a proposta narrativa e o ponto de partida | [Jornada do herói](<registro da autoridade/Template jornada do heroi/README.md>) |
 | Acompanhar os estudos e os capítulos estruturados | [Mapa de estudos e capítulos](<capitulos estudos/MAPA_DE_ESTUDOS.md>) |
 | Encontrar os posts, artigos e seus estados | [Índice de publicações](<registro da autoridade/PUBLICACOES.md>) |
 | Entender como experiências e decisões são registradas | [Registro da autoridade](<registro da autoridade/README.md>) |

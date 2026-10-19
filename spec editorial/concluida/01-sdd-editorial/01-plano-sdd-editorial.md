@@ -233,7 +233,7 @@ Nas tasks, registrar o artefato e sua versão, critérios examinados, resultado 
 
 **Destino vigente desde v0.4:** esta seção conserva as condições da entrega transferida para a spec 03. A análise e os complementos necessários de contexto, voz, fatos e cobertura das skills ficam na spec 02. Não são pendências do escopo encerrado da iniciativa 01.
 
-O piloto permanece [01 — Novo mundo, bagagem antiga](<../../../jornada do heroi/01-novo-mundo-bagagem-antiga.md>). Antes de ENT-07, o [resumo editorial 02](../02-preparacao-editorial/02-resumo-editorial-onde-como-quando.md) precisa definir para essa entrega: leitor, propósito, formato, voz, variante linguística, humor, destino, local dos arquivos de trabalho e momento de uso. Também precisam estar disponíveis os detalhes pessoais necessários ao relato.
+O piloto permanece [01 — Novo mundo, bagagem antiga](<../../../registro da autoridade/Template jornada do heroi/01-novo-mundo-bagagem-antiga.md>). Antes de ENT-07, o [resumo editorial 02](../02-preparacao-editorial/02-resumo-editorial-onde-como-quando.md) precisa definir para essa entrega: leitor, propósito, formato, voz, variante linguística, humor, destino, local dos arquivos de trabalho e momento de uso. Também precisam estar disponíveis os detalhes pessoais necessários ao relato.
 
 Essas pendências não bloqueiam ENT-01 a ENT-06. Não é necessário fechar o calendário completo de postagens; é necessário saber a finalidade e as condições de uso do texto piloto. Publicação continua fora da execução automática.
 
