@@ -1,6 +1,6 @@
 # Guia de operação do SDD editorial
 
-**Versão:** 1.3 — 18/10/2026. **Base vigente:** [spec 05](<concluida/05-ajuste-fluxo-sdd-editorial/05-spec-ajuste-fluxo-sdd-editorial.md>), D05-01/02 e R05-01–12. Evidências em [tasks 05](<concluida/05-ajuste-fluxo-sdd-editorial/05-tasks-ajuste-fluxo-sdd-editorial.md>). Complemento de preservação: [RA03-07](concluida/03-piloto-editorial/03-piloto-editorial.md), com evidências nas [tasks 03](concluida/03-piloto-editorial/03-tasks-piloto-editorial.md). A construção inicial permanece na [spec 01](concluida/01-sdd-editorial/01-especificacao-sdd-editorial.md); pareceres antigos não validam automaticamente esta versão.
+**Versão:** 1.4 — 19/10/2026. **Base vigente:** [spec 05](<concluida/05-ajuste-fluxo-sdd-editorial/05-spec-ajuste-fluxo-sdd-editorial.md>), D05-01/02 e R05-01–12. Evidências em [tasks 05](<concluida/05-ajuste-fluxo-sdd-editorial/05-tasks-ajuste-fluxo-sdd-editorial.md>). Complemento de preservação: [RA03-07](concluida/03-piloto-editorial/03-piloto-editorial.md), com evidências nas [tasks 03](concluida/03-piloto-editorial/03-tasks-piloto-editorial.md). Saneamento de artefatos transitórios e consolidação de ficha única em publicações (sessão 19/10/2026). A construção inicial permanece na [spec 01](concluida/01-sdd-editorial/01-especificacao-sdd-editorial.md); pareceres antigos não validam automaticamente esta versão.
 
 ## 1. Começar pelo escopo autorizado
 
@@ -42,7 +42,7 @@ Registros encerrados conservam o contexto da época, não determinam um próximo
 
 ### Contrato de localização e passagem ao acervo
 
-Posts/artigos têm um único arquivo de trabalho em `publicacoes/`, catalogado no [índice](<../registro da autoridade/PUBLICACOES.md>). Cada peça tem ID PUB disponível, revisão, origem (`jornada`, `estudo` ou `ambas`), ficha/tarefa quando pertinentes e relação com fontes. Artigo e chamada recebem IDs distintos. Os capítulos têm seus próprios IDs CAP e permanecem na área de estudo.
+Posts/artigos têm um único arquivo de trabalho em `publicacoes/`, catalogado no [índice](<../registro da autoridade/PUBLICACOES.md>). Cada peça tem ID PUB disponível, revisão, origem (`jornada`, `estudo` ou `ambas`), ficha/tarefa quando pertinentes e relação com fontes. Artigo e chamada recebem IDs distintos. Os capítulos têm seus próprios IDs CAP e permanecem na área de estudo. Após a conclusão e apreciação de uma peça, sua pasta retém exclusivamente os artefatos finais de leitura (ex.: `artigo.md` e/ou `chamada-linkedin.md`) e uma única ficha consolidada de acompanhamento (`ficha.md`). Esboços preliminares e fichas transitórias de etapas são descartados após a integração; o histórico do percurso pertence ao Git.
 
 Vincular uma experiência ou fonte sem duplicá-la como outro acontecimento. Não recriar pastas de sessões, episódios ou fichas de etapas paralelas no acervo. Identificadores históricos, como EP-000, permanecem recuperáveis e vinculados à jornada. Estado atual detalhado fica nas tasks; índice registra apenas revisão/estado editorial, retorno e publicação da peça, com vínculo ao acompanhamento.
 

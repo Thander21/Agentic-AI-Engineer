@@ -18,14 +18,14 @@ Você pode acompanhar minha história ou ir direto aos capítulos técnicos. Ele
 
 O projeto reúne cinco componentes:
 
-- **Capítulos de estudo que formarão o livro:** uma rota com objetivos, pré-requisitos, fontes e evidências esperadas. Os próprios capítulos serão desenvolvidos, revisados e estruturados para ajudar o leitor a aprender. A ordem de leitura do livro poderá diferir da ordem em que os assuntos foram estudados.
+- **Capítulos de estudos:** uma rota com objetivos, pré-requisitos, fontes e evidências esperadas. Os próprios capítulos são desenvolvidos, revisados e estruturados com documentos base dedicados para guiar o aprendizado em engenharia agêntica.
 - **Um registro da experiência:** minha história nessa jornada, com perguntas, observações, decisões e casos que preservem o contexto do que foi aprendido.
 - **Um acervo de posts e artigos:** textos derivados dos estudos, da jornada pessoal ou de ambos, ligados às suas fontes e identificados por versão e estado editorial.
 - **Uma metodologia aplicada à escrita:** o SDD (*Spec-Driven Development*, ou desenvolvimento orientado por especificação) adaptado ao trabalho editorial, para definir a intenção, organizar a produção e conferir as entregas.
 - **Um acervo organizado para leitura no Obsidian:** notas conectadas e configurações de navegação para facilitar a leitura, a busca por assuntos e a consulta às referências.
 - **Ferramentas de estudo:** aplicações praticas ou frameworks criados para auxiliar o estudo e o entendimento, assim como otimizar o usso de AI no desenvolvimento
 
-O mapa inicial reúne fundamentos de execução e memória, qualidade de software, requisitos, arquitetura, testes, dados, sistemas distribuídos, evolução e segurança. Contexto, orquestração e avaliação de agentes atravessam o percurso. A seleção de fontes e o aprofundamento serão desenvolvidos conforme cada unidade de estudo.
+O mapa reúne fundamentos de execução e memória, qualidade de software, requisitos, arquitetura, testes, dados, sistemas distribuídos, evolução e segurança. Contexto, orquestração e avaliação de agentes atravessam o percurso. A seleção de fontes e o aprofundamento são desenvolvidos conforme cada unidade de estudo.
 
 ## A jornada: novo mundo, bagagem antiga
 
@@ -40,14 +40,13 @@ Referências de RPG medieval e *isekai* — histórias de chegada a outro mundo 
 | Se você quer… | Comece aqui |
 | --- | --- |
 | Conhecer a proposta narrativa e o ponto de partida | [Jornada do herói](<jornada do heroi/README.md>) |
-| Acompanhar os estudos e os capítulos que formarão o livro | [Mapa de estudos e capítulos](<capitulos estudos/MAPA_DE_ESTUDOS.md>) |
+| Acompanhar os estudos e os capítulos estruturados | [Mapa de estudos e capítulos](<capitulos estudos/MAPA_DE_ESTUDOS.md>) |
 | Encontrar os posts, artigos e seus estados | [Índice de publicações](<registro da autoridade/PUBLICACOES.md>) |
 | Entender como experiências e decisões são registradas | [Registro da autoridade](<registro da autoridade/README.md>) |
-| Entender como fontes, registros e casos compõem os capítulos | [Base editorial dos capítulos e do livro](<capitulos estudos/BASE_DO_LIVRO.md>) |
 | Consultar as ideias históricas que deram origem à organização | [Origem das ideias](<registro da autoridade/ORIGEM_DAS_IDEIAS.md>) |
 | Conhecer os projetos que fornecem contexto para estudos e relatos | [Ferramentas de estudo e regras de consulta](<ferramentas de estudo/README.md>) |
 
-Os capítulos e sua base editorial ficam em `capitulos estudos/`: ali se organiza o estudo e a estruturação desses mesmos capítulos como livro. O arquivo `BASE_DO_LIVRO.md` orienta como incorporar fontes e experiências aos capítulos.
+Os capítulos de estudos ficam em `capitulos estudos/`: cada unidade possui sua pasta e seu documento base estruturado. O arquivo [MAPA_DE_ESTUDOS.md](<capitulos estudos/MAPA_DE_ESTUDOS.md>) orienta a navegação e o acompanhamento de cada etapa.
 
 As ferramentas de estudo têm três escopos: **FlutterGuard-AI**, uma ideia a desenvolver aplicada no "Meta Global AI Developer Hackathon"; **SDD-TDDkit**, em desenvolvimento e uso a partir do SpecSimpleKit e das adaptações feitas em cada projeto; e **VagasAutomatizado**, fonte privada de contexto pessoal/profissional e projeto de busca de vagas. O último fica fora do Git deste acervo; aqui há apenas o registro de sua existência e finalidade. O mapa orienta consultas para futuros textos, e a ampliação dos vínculos com notas e dados no Obsidian fica para uma etapa posterior.
 

@@ -1,1 +1,5 @@
-{}
+{
+  "userIgnoreFilters": [
+    "ferramentas de estudo/**"
+  ]
+}

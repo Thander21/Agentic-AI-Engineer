@@ -1,77 +1,65 @@
 # Mapa de estudos e capítulos
 
-**Versão:** 0.3 — 18/10/2026. **Natureza:** mapa documental iniciado na iniciativa 04; preparação de CAP-01 aberta por pedido do autor.
+**Versão:** 1.0 — 19/10/2026. **Natureza:** Mapa de estudos da formação técnica e índice central dos capítulos de estudos.
 
-[Índice de estudos](README.md) · [Base histórica das sete partes](ESTRUTURA_E_ESTUDO.md) · [Acervo de publicações](<../registro da autoridade/PUBLICACOES.md>) · [Método editorial](<../spec editorial/GUIA_DE_OPERACAO.md>)
+[Índice de estudos](README.md) · [Acervo de publicações](<../registro da autoridade/PUBLICACOES.md>) · [Método editorial](<../spec editorial/GUIA_DE_OPERACAO.md>)
+
+---
 
 ## Como usar
 
-Este é o local de referência para a ordem de estudo e a decomposição em capítulos. Os IDs CAP-01 a CAP-18 identificam unidades de trabalho, não capítulos já escritos. A sequência e as dependências abaixo são propostas operacionais derivadas dos assuntos do acervo, sujeitas a ajuste após diagnóstico; não foram confirmadas como currículo definitivo pelo autor nem validadas tecnicamente nesta entrega. As sete partes da fonte não equivalem a sete capítulos, e as quinze etapas narrativas não determinam o sumário.
+Este é o local de referência para a ordem de estudo e navegação pelos **capítulos de estudos**. Os IDs CAP-01 a CAP-18 identificam as unidades de trabalho e formação. Cada capítulo possui sua pasta dedicada e seu **documento base**, contendo objetivos pedagógicos, o papel do engenheiro agêntico, conceitos formais, aplicação dos filtros de leitura diagnóstica e evidências esperadas.
 
-Percorrer a ordem numérica como ponto de partida, conferindo os pré-requisitos indicados antes de cada unidade. Dependência significa compreensão necessária para a atividade proposta, não obrigação de concluir todo um livro. O primeiro passo é delimitar o caso e selecionar a fonte de CAP-01; estudos anteriores só contam como atendidos quando houver evidência identificada. Registrar antecipações ou retornos com motivo e manter IDs estáveis. Não há prazo semanal, calendário ou domínio técnico presumido.
+A sequência numérica serve como guia estruturado de pré-requisitos: dependência técnica significa compreensão necessária para a atividade proposta. O acompanhamento prático, as decisões e os experimentos realizados são registrados nas pastas de cada unidade.
 
-A ordem final de ensino no livro permanece a definir a partir do público, dos casos e dos pré-requisitos demonstrados. Uma nota de estudo pode anteceder o capítulo; uma publicação derivada pode surgir antes de seu acabamento editorial.
+---
 
-## Fontes de origem e limites
+## Sequência dos Capítulos de Estudos
 
-As referências abaixo comprovam a origem documental dos assuntos, não sua validade técnica. Antes de estudar cada unidade, selecionar obra/documentação, edição ou versão e trechos específicos; conferir adequação e atualidade. Obras mencionadas na conversa continuam candidatas, sem nova recomendação bibliográfica nesta organização.
+Abaixo está a trilha completa dos 18 capítulos de estudos organizados em suas 7 partes fundamentais e eixo transversal:
 
-| Código | Origem local | Conteúdo a organizar |
-| --- | --- | --- |
-| S01 | [Parte I e F079](ESTRUTURA_E_ESTUDO.md), [F079 original](<../jornada do heroi/06-texto-anexo.md#fonte-f079>) | Runtime, stack/heap, memória/GC, processos/threads, I/O, descritores e portas. |
-| S02 | [Parte II e F080](ESTRUTURA_E_ESTUDO.md), [F080 original](<../jornada do heroi/06-texto-anexo.md#fonte-f080>) | SQA, análise estática/SAST, métricas, contratos, efeitos colaterais, invariantes, asserções e profiling. |
-| S03 | [Parte III e F081](ESTRUTURA_E_ESTUDO.md), [F081 original](<../jornada do heroi/06-texto-anexo.md#fonte-f081>) | Requisitos, atributos de qualidade, rastreabilidade, linguagem ubíqua, contextos e SDD de software. |
-| S04 | [Parte IV e F082](ESTRUTURA_E_ESTUDO.md), [F082 original](<../jornada do heroi/06-texto-anexo.md#fonte-f082>) | Information hiding, coesão/acoplamento, SOLID, contratos, Conway e alternativas arquiteturais. |
-| S05 | [Parte V e F083](ESTRUTURA_E_ESTUDO.md), [F083 original](<../jornada do heroi/06-texto-anexo.md#fonte-f083>) | Verificação/validação, pirâmide/troféu, BDD, propriedades, mutação e design por contrato. |
-| S06 | [Parte VI e F084](ESTRUTURA_E_ESTUDO.md), [F084 original](<../jornada do heroi/06-texto-anexo.md#fonte-f084>) | Relacional, ACID, isolamento, travas, CAP/PACELC, Saga/2PC, idempotência, mensageria, APIs e offline-first. |
-| S07 | [Parte VII e F084](ESTRUTURA_E_ESTUDO.md), [F077](<../jornada do heroi/07-texto-anexo.md#fonte-f077>) | Evolução, dívida, SemVer, migração, resiliência, observabilidade e criptografia aplicada. |
-| S08 | [Temas transversais](ESTRUTURA_E_ESTUDO.md), [F031](<../jornada do heroi/09-texto-anexo.md#fonte-f031>), [F072](<../jornada do heroi/06-texto-anexo.md#fonte-f072>) | Contexto, orquestração, avaliações, governança, custos e ciclo estudo/aplicação/registro. |
+| Ordem / ID | Parte e Capítulo de Estudo | Documento Base | Objetivo Central | Pré-requisitos | Estado |
+| :---: | :--- | :---: | :--- | :--- | :--- |
+| 01 / CAP-01 | I — Execução, runtime e memória | [Base CAP-01](01-execucao-runtime-e-memoria/documento-base.md) | Explicar stack, heap e gerenciamento de memória no ambiente escolhido (Dart desktop). | Ponto de partida delimitado; nenhum CAP anterior exigido. | Preparação conferida — estudo a iniciar |
+| 02 / CAP-02 | I — Processos, threads e I/O | [Base CAP-02](02-processos-threads-e-io/documento-base.md) | Relacionar execução, concorrência, event loop, latência de I/O e descritores físicos. | CAP-01 | Planejado |
+| 03 / CAP-03 | II — Contratos e leitura diagnóstica | [Base CAP-03](03-contratos-e-leitura-diagnostica/documento-base.md) | Dominar Design por Contrato e os 5 Filtros de Auditoria Visual rápida de código gerado por IA. | CAP-01 | Planejado |
+| 04 / CAP-04 | II — Qualidade, métricas e profiling | [Base CAP-04](04-qualidade-metricas-e-profiling/documento-base.md) | Interpretar complexidade ciclomática, acoplamento, métricas de Halstead, SAST e profiling. | CAP-02 e CAP-03 | Planejado |
+| 05 / CAP-05 | III — Problema, requisitos e atributos de qualidade | [Base CAP-05](05-problema-requisitos-e-atributos-de-qualidade/documento-base.md) | Formular requisitos inequívocos e cenários de atributos de qualidade (NFRs) mensuráveis. | CAP-03 | Planejado |
+| 06 / CAP-06 | III — Linguagem e fronteiras de domínio | [Base CAP-06](06-linguagem-e-fronteiras-de-dominio/documento-base.md) | Aplicar Linguagem Ubíqua, Bounded Contexts e Context Mapping (DDD) para guiar agentes. | CAP-05 | Planejado |
+| 07 / CAP-07 | III — SDD e rastreabilidade no desenvolvimento | [Base CAP-07](07-sdd-e-rastreabilidade-no-desenvolvimento/documento-base.md) | Estruturar cadeia ponta a ponta: Requisito -> Spec -> Tarefa -> Implementação -> Verificação. | CAP-05 e CAP-06 | Planejado |
+| 08 / CAP-08 | IV — Modularidade e dependências | [Base CAP-08](08-modularidade-e-dependencias/documento-base.md) | Aplicar Information Hiding (Parnas), acoplamento/coesão (Stevens) e SOLID para estabilidade. | CAP-03 e CAP-06 | Planejado |
+| 09 / CAP-09 | IV — Escolhas arquiteturais | [Base CAP-09](09-escolhas-arquiteturais/documento-base.md) | Comparar monolito modular, arquitetura hexagonal, microsserviços e Conway via ADRs. | CAP-05 e CAP-08 | Planejado |
+| 10 / CAP-10 | V — Verificação, validação e aceitação | [Base CAP-10](10-verificacao-validacao-e-aceitacao/documento-base.md) | Distinguir V&V, pirâmide/troféu, BDD e auditar testes falsos/tautológicos gerados por IA. | CAP-03 e CAP-05 | Planejado |
+| 11 / CAP-11 | V — Propriedades, mutação e eficácia dos testes | [Base CAP-11](11-propriedades-mutacao-e-eficacia-dos-testes/documento-base.md) | Avaliar escore de testes de mutação e criar testes baseados em propriedades (QuickCheck). | CAP-10 | Planejado |
+| 12 / CAP-12 | VI — Dados, transações e isolamento | [Base CAP-12](12-dados-transacoes-e-isolamento/documento-base.md) | Controlar concorrência, propriedades ACID, anomalias de isolamento e travamento (OCC/PCC). | CAP-02 e CAP-03 | Planejado |
+| 13 / CAP-13 | VI — Distribuição e consistência | [Base CAP-13](13-distribuicao-e-consistencia/documento-base.md) | Compreender falhas parciais de rede, Teorema CAP, modelo PACELC, 2PC e Padrão Saga. | CAP-09 e CAP-12 | Planejado |
+| 14 / CAP-14 | VI — Mensageria, APIs e sincronização | [Base CAP-14](14-mensageria-apis-e-sincronizacao/documento-base.md) | Projetar idempotência, semântica de mensageria, outbox transacional e arquitetura offline-first. | CAP-10 e CAP-13 | Planejado |
+| 15 / CAP-15 | VII — Evolução e compatibilidade | [Base CAP-15](15-evolucao-e-compatibilidade/documento-base.md) | Gerenciar débito técnico, Leis de Lehman, SemVer e migrações progressivas (Expand & Contract). | CAP-09 e CAP-10 | Planejado |
+| 16 / CAP-16 | VII — Resiliência e observabilidade | [Base CAP-16](16-resiliencia-e-observabilidade/documento-base.md) | Implementar Circuit Breakers, Bulkheads, Retries com Jitter e rastreamento OpenTelemetry. | CAP-04 e CAP-14 | Planejado |
+| 17 / CAP-17 | VII — Segurança aplicada e julgamento econômico | [Base CAP-17](17-seguranca-aplicada-e-julgamento-economico/documento-base.md) | Auditar riscos OWASP, criptografia e finanças de software (trade-offs de TCO e manutenção). | CAP-09 e CAP-14 | Planejado |
+| 18 / CAP-18 | Transversal — Orquestração, contexto e governança | [Base CAP-18](18-orquestracao-contexto-e-governanca-de-agentes/documento-base.md) | Integrar engenharia de contexto, harnesses de agentes (MCP), suítes de Evals e governança. | CAP-07 e CAP-11 | Planejado |
 
-## Sequência inicial
-
-Em todas as linhas, o estado **Pendente** significa que esta iniciativa não executou nem avaliou a aprendizagem. Os resultados são critérios propostos para orientar o estudo; não são evidências já produzidas.
-
-| Ordem / ID | Parte e capítulo de estudo | Objetivo | Pré-requisitos propostos | Fonte | Resultado esperado | Estado |
-| --- | --- | --- | --- | --- | --- | --- |
-| 01 / CAP-01 | I — Execução, runtime e memória | Explicar stack, heap e gerenciamento de memória no ambiente escolhido. | Delimitar ambiente e conhecimento de partida; nenhum CAP exigido. | S01 | Fluxo comentado de uma execução e limites da observação. | Preparação conferida — estudo ainda não iniciado |
-| 02 / CAP-02 | I — Processos, threads e I/O | Relacionar execução, concorrência e recursos físicos. | CAP-01. | S01 | Caso de uso de recursos com latência, descritores ou comunicação observados. | Pendente |
-| 03 / CAP-03 | II — Contratos e leitura diagnóstica | Localizar invariantes, efeitos colaterais e asserções. | CAP-01. | S02 | Leitura de uma entrega com afirmações ligadas a trechos e limites. | Pendente |
-| 04 / CAP-04 | II — Qualidade, métricas e profiling | Interpretar sinais de SQA, análise estática/SAST, complexidade, acoplamento e Halstead sem confundi-los com prova geral. | CAP-02 e CAP-03. | S02 | Análise contextualizada de sinais estáticos e de execução. | Pendente |
-| 05 / CAP-05 | III — Problema, requisitos e atributos de qualidade | Delimitar intenção, escopo e critérios de aceitação. | CAP-03; contexto do problema escolhido. | S03 | Especificação curta com cenários de qualidade e limites. | Pendente |
-| 06 / CAP-06 | III — Linguagem e fronteiras de domínio | Relacionar linguagem ubíqua, bounded contexts e context mapping. | CAP-05. | S03 | Mapa de conceitos e fronteiras justificado pelo problema. | Pendente |
-| 07 / CAP-07 | III — SDD e rastreabilidade no desenvolvimento | Ligar especificação, entrega e evidência sem prometer eliminar erros dos agentes. | CAP-05 e CAP-06. | S03/S08 | Uma cadeia de requisito até verificação, com lacunas identificadas. | Pendente |
-| 08 / CAP-08 | IV — Modularidade e dependências | Examinar information hiding, coesão, acoplamento, SOLID e contratos. | CAP-03 e CAP-06. | S04 | Decisão de divisão com alternativas e consequências de mudança. | Pendente |
-| 09 / CAP-09 | IV — Escolhas arquiteturais | Comparar camadas, hexagonal, Clean Architecture, monolito modular e serviços no contexto estudado, incluindo organização e Conway. | CAP-05 e CAP-08. | S04 | Diagrama e decisão arquitetural com restrições e custos. | Pendente |
-| 10 / CAP-10 | V — Verificação, validação e aceitação | Relacionar intenção, BDD e estratégias de teste. | CAP-03 e CAP-05. | S05 | Cenários de aceitação com alcance e limites das verificações. | Pendente |
-| 11 / CAP-11 | V — Propriedades, mutação e eficácia dos testes | Examinar se verificações detectam violações relevantes. | CAP-10. | S05 | Caso de falha detectada ou não detectada e explicação do limite. | Pendente |
-| 12 / CAP-12 | VI — Dados, transações e isolamento | Relacionar modelo relacional, ACID, isolamento e travas. | CAP-02 e CAP-03. | S06 | Caso concorrente com invariante e evidência observada. | Pendente |
-| 13 / CAP-13 | VI — Distribuição e consistência | Examinar falhas de comunicação, CAP/PACELC, Saga e 2PC. | CAP-09 e CAP-12. | S06 | Comparação de alternativas sob uma falha delimitada. | Pendente |
-| 14 / CAP-14 | VI — Mensageria, APIs e sincronização | Examinar idempotência e offline-first em operações distribuídas. | CAP-10 e CAP-13. | S06 | Fluxo de sincronização com repetição/falha e limites documentados. | Pendente |
-| 15 / CAP-15 | VII — Evolução e compatibilidade | Relacionar manutenção, dívida, Lehman, Strangler Fig, SemVer e Expand and Contract. | CAP-09 e CAP-10. | S07 | Plano de mudança com compatibilidade, custos e verificação. | Pendente |
-| 16 / CAP-16 | VII — Resiliência e observabilidade | Examinar circuit breaker, bulkhead, retry/backoff/jitter e OpenTelemetry conforme o caso. | CAP-04 e CAP-14. | S07 | Diagnóstico de uma falha com evidências e alternativas de recuperação. | Pendente |
-| 17 / CAP-17 | VII — Segurança aplicada e julgamento econômico | Relacionar criptografia, riscos e custo de manutenção às decisões do caso. | CAP-09 e CAP-14; base específica de segurança a selecionar. | S07/S08 | Análise de riscos e trade-offs com limites da fonte e da conclusão. | Pendente |
-| 18 / CAP-18 | Transversal — Orquestração, contexto e governança de agentes | Consolidar direção, avaliação e registro das entregas de agentes. | CAP-07 e CAP-11 para consolidar; observações podem começar em qualquer ciclo. | S08 | Caso rastreável de orientação, entrega, avaliação e ajuste. | Pendente |
+---
 
 ## Práticas que acompanham os capítulos
 
-Leitura de código e diagnóstico atravessam as partes, com aprofundamento em CAP-03/04. Economia e julgamento aparecem nas alternativas de cada caso, com síntese em CAP-15/17. Orquestração é observada desde o primeiro uso de agentes; CAP-18 consolida essas observações e não obriga esperar o fim do percurso para praticá-la. O ciclo de pergunta, fonte, aplicação, registro e revisão acompanha todas as unidades. Os exemplos históricos exigem conferência antes de uso didático.
+* **Leitura diagnóstica e auditoria de código:** Praticadas continuamente em todas as unidades com foco nos 5 Filtros Visuais.
+* **Orquestração e liderança de agentes:** Praticadas desde o primeiro capítulo ao utilizar IA sob especificações e restrições formais.
+* **Julgamento de engenharia e economia:** Avaliação constante de trade-offs, limites de ferramentas e custos operacionais.
+* **Ciclo de estudo e registro:** Pergunta norteadora, consulta a fontes primárias, aplicação prática e registro objetivo da evidência produzida.
 
-## Acompanhamento e vínculos
+---
 
-Ao iniciar uma unidade, acrescentar abaixo uma linha real com CAP, versão da nota/capítulo, fonte selecionada e trecho, sessão/episódio quando existir, evidência examinada, limitação e próxima ação. Estados de estudo: pendente, em estudo, evidência produzida/aguardando conferência e objetivo conferido no recorte. A maturidade editorial do capítulo é registrada separadamente conforme [Base do livro](BASE_DO_LIVRO.md). Concluir estudo não equivale a capítulo revisado ou texto publicado.
+## Acompanhamento e Vínculos
 
-| Capítulo | Nota/capítulo e revisão | Fonte selecionada | Registro/evidência | Resultado e limite | Post/artigo derivado | Próxima ação |
-| --- | --- | --- | --- | --- | --- | --- |
+| Capítulo | Documentos de Trabalho | Fontes Selecionadas | Registro / Evidência | Próxima Ação |
+| :--- | :--- | :--- | :--- | :--- |
+| **CAP-01** | [FIC-CAP-01 r02](01-execucao-runtime-e-memoria/ficha-editorial.md) · [Base CAP-01](01-execucao-runtime-e-memoria/documento-base.md) | Dart Overview, DevTools Memory, Functions & Debugger | Ponto de partida autoral delimitado em Dart desktop; caso síncrono estruturado | Iniciar redação do esboço introdutório conceitual conforme autorizado |
+| **CAP-02** a **CAP-18** | Pastas dedicadas `02` a `18` com seus respectivos `documento-base.md` | Obras primárias e documentações mapeadas nos documentos base | Aguardando avanço da sequência de estudos | Iniciar preparação da unidade ao atingir seus pré-requisitos |
 
-| CAP-01 | [FIC-CAP-01 r02](01-execucao-runtime-e-memoria/ficha-editorial.md); capítulo ainda não produzido | TEC01-01/02/04/05 para introdução; TEC01-03 reservada a aprofundamento; trechos e consulta na ficha | Autor escolheu Dart desktop e declarou leitura de chamadas/ifs/funções/waits, sem explicação dos conceitos-alvo. Fontes de chamadas/quadros complementadas; adequação didática conferida | Preparação concluída para rascunho conceitual com pendências delimitadas; sem experiência ou aprendizagem demonstrada | Nenhum | Próxima passagem: esboço introdutório, quando autorizada a produção. Antes de prática/detalhes da VM, identificar SDK, sistema e modo de execução e fixar fonte de implementação. |
+---
 
-Ao produzir um artigo/post, criar sua entrada no [índice central](<../registro da autoridade/PUBLICACOES.md>) e vincular o mesmo ID aqui. Episódio pessoal é opcional; uma síntese de fontes pode originar publicação. Não copiar uma experiência como se fossem acontecimentos diferentes.
+## Pendências Concretas
 
-## Pendências concretas
-
-- CAP-01: Dart desktop e ponto de partida recebidos em 18/10/2026; preparação conceitual conferida. Versão do SDK, sistema operacional, modo de execução e fonte imutável da implementação são necessários antes de observação prática ou detalhamento da VM, sem impedir a futura redação introdutória delimitada.
-- Antes de cada unidade: selecionar e conferir bibliografia específica; a listagem S01–S08 rastreia a conversa, não substitui fontes técnicas primárias.
-- Durante o percurso: ajustar dependências conforme as dificuldades reais, registrando motivo e versão; definir caso e evidência antes de declarar aprendizagem.
-- Antes de organizar a obra final: definir ordem didática, extensão e eventual divisão/união de capítulos, preservando a correspondência dos IDs.
-
-**Conferência documental v0.1:** cobertura das sete partes e temas transversais confrontada com a estrutura existente; sequência proposta sem dependências futuras ou ciclos entre CAPs. Não houve estudo técnico, pesquisa externa, redação dos capítulos nem apreciação autoral da sequência. A iniciativa 04 registra a conferência integrada.
+1. **CAP-01:** Preparação conceitual concluída. Ao avançar para testes práticos no Dart SDK, fixar versão do SDK, ambiente operacional e fonte imutável da implementação.
+2. **Atualização contínua:** Conforme cada capítulo avançar, atualizar o estado e registrar as evidências diretamente nas fichas e no acompanhamento da unidade.

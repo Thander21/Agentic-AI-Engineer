@@ -1,44 +1,65 @@
-# Capítulos e estudos
+# Capítulos de Estudos
 
-Esta pasta é a referência para mapear a formação, documentar a ordem de estudo, seus pré-requisitos e o conteúdo em capítulos. A jornada do herói orienta como contar o percurso; o registro da autoridade reúne os posts e artigos derivados; a produção e revisão seguem o SDD editorial.
+Esta pasta é o centro de formação técnica do projeto, responsável por estruturar, documentar e desenvolver os **capítulos de estudos**.
 
-## Leitura técnica independente da jornada
+Os capítulos constituem um percurso técnico autônomo voltado à formação do **Engenheiro Agêntico**. Ensinam fundamentos de computação, engenharia de software e práticas de orquestração e auditoria de IA com rigor conceitual e exemplos verificáveis, sem exigir que o leitor conheça a vida do autor ou leia a narrativa pessoal da [Jornada do Herói](<../jornada do heroi/README.md>).
 
-Os capítulos de estudo são o percurso técnico autônomo e formarão o livro. Devem apresentar conceitos, pré-requisitos e fontes suficientes para quem não acompanha a história pessoal. Relatos podem ser vinculados como leitura complementar; compreender a jornada não é pré-requisito para aprender o conteúdo. Posts e artigos recebem voz conforme a finalidade: história pessoal, explicação técnica ou combinação explícita das duas.
+---
 
-As explicações podem usar termos e tom profissionais quando adequados ao assunto, mantendo clareza. Quem quiser acompanhar o contexto pessoal pode seguir os vínculos à jornada; quem quiser apenas estudar encontra aqui o percurso e os capítulos.
+## 1. Visão Geral das 7 Partes e Temas Transversais
 
-## Por onde começar
+A trilha de formação organiza-se em sete partes técnicas estruturantes e um eixo transversal que acompanha todo o percurso:
 
-Para localizar os assuntos e a sequência proposta, abra o [mapa de estudos](MAPA_DE_ESTUDOS.md). Para transformar o estudo em um capítulo, consulte também a [base editorial do livro](BASE_DO_LIVRO.md). Os próprios capítulos serão desenvolvidos e estruturados como livro; os registros da jornada são fontes opcionais de casos e contexto.
+| Parte | Foco de Estudo | Competência do Engenheiro Agêntico |
+| :--- | :--- | :--- |
+| **I — Computação e Runtime** | Execução física, stack, heap, ciclo de vida de objetos, processos, threads e latência de I/O. | Entender como o código gerado consome memória e CPU; evitar vazamentos, contenção e bloqueios de I/O. |
+| **II — Qualidade, Métricas e Auditoria** | Design por Contrato, complexidade ciclomática, acoplamento, SAST e profiling. | Aplicar os 5 Filtros Visuais de auditoria rápida; rejeitar código hipercomplexo e frágil antes da execução. |
+| **III — Requisitos, Domínio e SDD** | Requisitos não funcionais (NFRs), cenários de qualidade, DDD (Bounded Contexts) e SDD. | Fornecer contexto inequívoco e contratos formais aos agentes; manter rastreabilidade ponta a ponta. |
+| **IV — Modularidade e Arquitetura** | Information Hiding (Parnas), acoplamento/coesão, SOLID, arquitetura hexagonal e Conway. | Isolar o núcleo de negócio contra mudanças em bibliotecas ou frameworks externos gerados por IA. |
+| **V — Verificação, Validação e Testes** | V&V, pirâmide/troféu de testes, BDD, testes baseados em propriedades e testes de mutação. | Auditar testes tautológicos ("placebos verdes"); garantir que a suíte realmente capture falhas e mutantes. |
+| **VI — Dados, Concorrência e Distribuição** | Propriedades ACID, isolamento, locks, Teorema CAP, PACELC, Saga, idempotência e offline-first. | Evitar anomalias concorrentes (Lost Updates), desenhar operações idempotentes e lidar com falhas de rede. |
+| **VII — Evolução e Resiliência em Produção** | Leis de Lehman, débito técnico, SemVer, Expand & Contract, Circuit Breakers e OpenTelemetry. | Sustentar sistemas vivos, migrar contratos sem quebrar clientes e diagnosticar incidentes via telemetria. |
+| **Transversal — Orquestração e Governança** | Engenharia de contexto, harnesses de agentes (MCP), pipelines de avaliação (*evals*) e auditoria contínua. | Liderar múltiplos agentes com governança, testar prompts/specs e manter a soberania de engenharia. |
 
-## Mapa de uso dos documentos
+---
 
-Os documentos abaixo orientam a consulta às fontes, o planejamento do estudo e a preparação dos capítulos.
+## 2. Ciclo de Vida e Maturidade Editorial dos Capítulos
 
-| Documento | Função | Quando consultar ou atualizar |
-| --- | --- | --- |
-| Este README | Entrada e mapa de uso da área técnica. | Para escolher o documento pertinente sem carregar todas as fontes. |
-| [MAPA_DE_ESTUDOS.md](MAPA_DE_ESTUDOS.md) | Sequência inicial CAP-01 a CAP-18, objetivos, dependências propostas, fontes de origem e acompanhamento. | Para delimitar uma unidade de estudo e registrar fonte selecionada, atividade, evidência, versão do capítulo e próximo passo. Não é currículo definitivo nem comprovação de domínio. |
-| [BASE_DO_LIVRO.md](BASE_DO_LIVRO.md) | Orientação editorial para aproveitar fontes e casos nos próprios capítulos, com critérios de maturidade e revisão. | Ao preparar ou revisar um capítulo. Complementa o mapa, sem manter outra sequência de estudo. |
-| [ESTRUTURA_E_ESTUDO.md](ESTRUTURA_E_ESTUDO.md) | Consolidação histórica das sete partes técnicas e de sugestões de aprofundamento. | Para compreender a origem dos temas e recuperar lacunas. Alterações na sequência atual devem ser registradas no mapa, sem tratar essa proposta como currículo já validado. |
-| [EXTRACAO_ULTIMA_REVISAO.md](EXTRACAO_ULTIMA_REVISAO.md) | Recorte literal da conversa original: último pedido de aprofundamento e resposta com a proposta revisada. | Quando for necessário conferir a formulação que fundamentou a consolidação. Preservar como transcrição; não é explicação técnica revisada. |
+Para garantir que o conteúdo não seja apenas teoria abstrata nem cópia sem verificação, cada capítulo passa por estados explícitos de trabalho:
 
-O recorte e a consolidação cumprem funções distintas: **trecho preservado e síntese histórica**. Os anexos da jornada guardam os trechos da conversa de origem. O mapa é a referência para o planejamento atual. Essa distinção permite uma entrada mais simples sem apagar a origem das decisões.
+1. **Nota de estudo:** Registro inicial de uma dúvida, pergunta norteadora ou formulação de hipótese conceitual.
+2. **Caso documentado:** Delimitação de um cenário prático ou problema real, registrando contexto, código didático e resultado observado.
+3. **Caso conferido:** Verificação objetiva das afirmações contra fontes primárias e evidências de execução (profiler, testes de mutação, logs).
+4. **Texto para leitura (esboço):** Estruturação didática e redação orientada ao leitor técnico, com explicações claras e sem necessidade de autobiografia.
+5. **Capítulo revisado:** Integração de retorno editorial, revisão técnica dos exemplos e conferência de sua capacidade de ensinar com autonomia.
 
-## Como desenvolver um capítulo
+---
 
-Ao iniciar um capítulo no escopo autorizado, vincular seu arquivo e sua revisão ao CAP correspondente no mapa. Registrar separadamente o que foi estudado, o que teve evidência conferida e o estado editorial do texto. Não criar arquivos vazios apenas para preencher a lista.
+## 3. Estrutura das Pastas e Navegação
 
-## Relação com jornada, acervo e SDD
+* **[MAPA_DE_ESTUDOS.md](MAPA_DE_ESTUDOS.md):** Tabela central com a sequência de pré-requisitos dos 18 capítulos (CAP-01 a CAP-18), links diretos para cada base e acompanhamento de status.
+* **Pastas Dedicadas (`01` a `18`):** Cada capítulo conta com sua pasta própria e seu respectivo `documento-base.md`, onde são detalhados a pergunta central, os conceitos formais, os filtros diagnósticos aplicados e a evidência esperada:
+  * `01-execucao-runtime-e-memoria/`
+  * `02-processos-threads-e-io/`
+  * `03-contratos-e-leitura-diagnostica/`
+  * `04-qualidade-metricas-e-profiling/`
+  * `05-problema-requisitos-e-atributos-de-qualidade/`
+  * `06-linguagem-e-fronteiras-de-dominio/`
+  * `07-sdd-e-rastreabilidade-no-desenvolvimento/`
+  * `08-modularidade-e-dependencias/`
+  * `09-escolhas-arquiteturais/`
+  * `10-verificacao-validacao-e-aceitacao/`
+  * `11-propriedades-mutacao-e-eficacia-dos-testes/`
+  * `12-dados-transacoes-e-isolamento/`
+  * `13-distribuicao-e-consistencia/`
+  * `14-mensageria-apis-e-sincronizacao/`
+  * `15-evolucao-e-compatibilidade/`
+  * `16-resiliencia-e-observabilidade/`
+  * `17-seguranca-aplicada-e-julgamento-economico/`
+  * `18-orquestracao-contexto-e-governanca-de-agentes/`
 
-- A [jornada pessoal](<../jornada do heroi/README.md>) fornece contexto e voz para relatos; sua leitura não é pré-requisito dos capítulos.
-- As [ferramentas de estudo](<../ferramentas de estudo/README.md>) oferecem projetos para perguntas e casos: FlutterGuard-AI e SDD-TDDkit/SpecSimpleKit. O mapa também registra a fonte privada VagasAutomatizado e seus limites de consulta. Disponibilidade de um projeto não comprova estudo concluído nem resultado técnico; selecionar e conferir a evidência por unidade.
-- O [mapa de origem](<../jornada do heroi/MAPA_ORIGEM.md>) localiza trechos da conversa nos anexos. O [inventário de referências](<../jornada do heroi/REFERENCIAS.md>) registra menções históricas; a seleção e o uso efetivo das fontes técnicas ficam no estudo correspondente.
-- O [acervo de publicações](<../registro da autoridade/PUBLICACOES.md>) guarda posts e artigos derivados, com vínculos ao capítulo. Publicar um artigo não conclui o estudo nem a revisão do capítulo.
-- O [guia SDD](<../spec editorial/GUIA_DE_OPERACAO.md>) e as skills orientam preparação, redação e revisão. Estes arquivos fornecem conteúdo e contexto do projeto; não precisam ser movidos ou copiados para dentro das skills.
-- O [AGENTS.md](../AGENTS.md#consulta-dos-capítulos-e-estudos) mapeia a consulta por finalidade. As [iniciativas e suas tasks](<../spec editorial/README.md>) determinam o trabalho editorial autorizado; a presença de um mapa não inicia automaticamente estudo ou piloto.
+---
 
-O mapa é uma decomposição documental inicial, não currículo definitivo nem comprovação de estudo. Seleção bibliográfica, profundidade, casos e conteúdo dos capítulos serão desenvolvidos por unidade. As sete partes não fixam sete capítulos, e a ordem de ensino do livro pode diferir da ordem de aprendizagem.
+## 4. Notas sobre Fontes Históricas
 
-A extração e os anexos históricos permanecem como fontes; não representam decisões vigentes por sua mera existência. A iniciativa 04 organizou o mapa sem iniciar o estudo técnico ou o piloto.
+As transcrições literais e os registros de conversas que serviram de subsídio à montagem inicial da grade estão preservados de forma imutável nos anexos da jornada ([`06-texto-anexo.md`](<../jornada do heroi/06-texto-anexo.md>) e [`10-texto-anexo.md`](<../jornada do heroi/10-texto-anexo.md>)). Toda a base conceitual ativa e as diretrizes editoriais estão unificadas neste README e no mapa de estudos.
