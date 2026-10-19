@@ -7,6 +7,9 @@
 # VagasAutomatizado e o nome local; VagasAutomatizada e a variante usada no relato.
 **/VagasAutomatizado/
 
+# Ferramenta com repositorio proprio (consulta local)
+**/SDD-TDDkit/
+
 # Evitar criacao de pastas de snapshot manual de historico no workspace (controle pelo Git)
 **/historico/
 

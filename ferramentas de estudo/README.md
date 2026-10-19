@@ -11,7 +11,7 @@ Esta pasta reúne três projetos com funções distintas na formação e na hist
 | Projeto | Contexto de origem — relato de 16/10/2026 | Como contribui para o conhecimento e a escrita |
 | --- | --- | --- |
 | [FlutterGuard-AI](FlutterGuard-AI/README.md) | Somente uma ideia a desenvolver para estudo. | Contexto da intenção, perguntas a investigar e propostas de arquitetura. Funcionalidades descritas são pretendidas; não apresentar como ferramenta pronta ou caso validado. |
-| [SDD-TDDkit](SDD-TDDkit/README.md) e sua base [SpecSimpleKit](SDD-TDDkit/SpecSimpleKit/README.md) | Em desenvolvimento e uso, evoluindo com a experimentação e personalização em cada projeto. | Contexto de decisões sobre especificação, trabalho com agentes e adaptação de métodos. Conferir separadamente o que está na base, o que foi ajustado no projeto e o que voltou ao kit. |
+| [SDD-TDDkit](https://github.com/Thander21/SDD-TDDkit) e sua base [SpecSimpleKit](https://github.com/Thander21/SpecSimpleKit) | Em desenvolvimento e uso, evoluindo com a experimentação e personalização em cada projeto. | Contexto de decisões sobre especificação, trabalho com agentes e adaptação de métodos. Conferir separadamente o que está na base, o que foi ajustado no projeto e o que voltou ao kit. |
 | VagasAutomatizado — chamado de VagasAutomatizada no pedido | Projeto em uso na busca de vagas e fonte privada com mais informações pessoais/profissionais do autor. | Consulta local dirigida para compreender o contexto do autor. Aqui se documentam apenas existência, finalidade e limites; conteúdo e dados permanecem no ambiente privado. |
 
 O contexto acima preserva o relato autoral datado, sem acompanhar o progresso dos projetos. Ao preparar um texto, consultar a fonte pertinente e conferir as evidências. Não usar descrições promocionais ou instruções de execução como prova de algo realizado.
@@ -26,12 +26,12 @@ Um post pode apresentar a intenção de estudar ou desenvolver a ideia. Uma hist
 
 O autor relata que começa cada projeto com o SpecSimpleKit para experimentar a base. Durante o uso, faz as modificações necessárias ao contexto e, a partir dessas experiências, evolui o SDD-TDDkit. Neste projeto editorial, a base também foi personalizada para apoiar o trabalho de escrita.
 
-Essa relação é um relato de uso e adaptação; não comprova instalação de um motor de software neste repositório nem que toda mudança local já foi incorporada ao kit.
+Essa relação é um relato de uso e adaptação; não comprova instalação de um motor de software neste repositório nem que toda mudança local já foi incorporada ao kit. O projeto possui repositório próprio ([Thander21/SDD-TDDkit](https://github.com/Thander21/SDD-TDDkit)) e fica excluído do controle de versão principal pelo [`.gitignore`](../.gitignore), servindo para consulta de contexto local e remota.
 
 | Consulta | Ponto de entrada | Limite |
 | --- | --- | --- |
-| Compreender a oficina de desenvolvimento | [README do SDD-TDDkit](SDD-TDDkit/README.md) e [instruções locais](SDD-TDDkit/AGENTS.md). | As regras de desenvolvimento pertencem ao kit; não substituem as regras editoriais da raiz. |
-| Compreender a base inicial usada nos projetos | [README do SpecSimpleKit](SDD-TDDkit/SpecSimpleKit/README.md). | Capacidades descritas e versão declarada precisam de conferência antes de afirmar funcionamento. |
+| Compreender a oficina de desenvolvimento | Repositório [SDD-TDDkit no GitHub](https://github.com/Thander21/SDD-TDDkit) (local: [README](SDD-TDDkit/README.md) e [instruções locais](SDD-TDDkit/AGENTS.md)). | As regras de desenvolvimento pertencem ao kit; não substituem as regras editoriais da raiz. |
+| Compreender a base inicial usada nos projetos | Repositório [SpecSimpleKit no GitHub](https://github.com/Thander21/SpecSimpleKit) (local: [README](SDD-TDDkit/SpecSimpleKit/README.md)). | Capacidades descritas e versão declarada precisam de conferência antes de afirmar funcionamento. |
 | Examinar a adaptação à escrita feita aqui | [AGENTS.md](../AGENTS.md), [guia SDD editorial](<../spec editorial/GUIA_DE_OPERACAO.md>) e [iniciativas](<../spec editorial/README.md>). | As decisões e evidências locais não demonstram, por si, adoção em outros projetos. |
 
 Para contar uma mudança concreta, identificar a base usada, a necessidade do projeto, a adaptação feita e a evidência disponível. Não inventar uma cronologia de versões, atribuir ganhos sem comparação ou declarar retorno ao kit sem conferir o registro correspondente.
