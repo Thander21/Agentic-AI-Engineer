@@ -34,7 +34,7 @@ Este inventário reúne as referências já mencionadas na conversa. Não é uma
 
 ## Ferramentas e canais mencionados na conversa histórica
 
-O material também menciona Mermaid, Excalidraw, Testcontainers, Docker, Git, GitHub, GitHub Pages, LinkedIn, Substack, Dev.to, Leanpub, Gumroad e ferramentas de agentes. São opções presentes na conversa; sua menção não define a stack, a rotina de publicação nem a infraestrutura do projeto. As decisões de canais recebidas depois dessa conversa estão na [spec 02](<../../spec editorial/concluida/02-preparacao-editorial/02-resumo-editorial-onde-como-quando.md>) e na [síntese de canais do acervo](<../CANAIS_E_AUTORIDADE.md>). Este inventário preserva a menção histórica; não reabre escolhas já feitas nem demonstra publicação ou implantação.
+O material também menciona Mermaid, Excalidraw, Testcontainers, Docker, Git, GitHub, GitHub Pages, LinkedIn, Substack, Dev.to, Leanpub, Gumroad e ferramentas de agentes. São opções presentes na conversa; sua menção não define a stack, a rotina de publicação nem a infraestrutura do projeto. As decisões de canais recebidas depois dessa conversa estão consolidadas na [síntese de canais do acervo](<../CANAIS_E_AUTORIDADE.md>). Este inventário preserva a menção histórica; não reabre escolhas já feitas nem demonstra publicação ou implantação.
 
 ## Afirmações para examinar antes de incorporar ao método ou ao livro
 

@@ -21,9 +21,9 @@ O projeto reúne cinco componentes:
 - **Capítulos de estudos:** uma rota com objetivos, pré-requisitos, fontes e evidências esperadas. Os próprios capítulos são desenvolvidos, revisados e estruturados com documentos base dedicados para guiar o aprendizado em engenharia agêntica.
 - **Um registro da experiência:** minha história nessa jornada, com perguntas, observações, decisões e casos que preservem o contexto do que foi aprendido.
 - **Um acervo de posts e artigos:** textos derivados dos estudos, da jornada pessoal ou de ambos, ligados às suas fontes e identificados por versão e estado editorial.
-- **Uma metodologia aplicada à escrita:** o SDD (*Spec-Driven Development*, ou desenvolvimento orientado por especificação) adaptado ao trabalho editorial, para definir a intenção, organizar a produção e conferir as entregas.
+- **Orquestração e Engenharia Agêntica com AIOX:** o framework AIOX gerencia tanto as ferramentas e fluxos de engenharia quanto a produção editorial de textos, capítulos e publicações por meio de agentes especializados.
 - **Um acervo organizado para leitura no Obsidian:** notas conectadas e configurações de navegação para facilitar a leitura, a busca por assuntos e a consulta às referências.
-- **Ferramentas de estudo:** aplicações praticas ou frameworks criados para auxiliar o estudo e o entendimento, assim como otimizar o usso de AI no desenvolvimento
+- **Ferramentas de estudo:** aplicações práticas ou frameworks criados para auxiliar o estudo e o entendimento, assim como otimizar o uso de IA no desenvolvimento.
 
 O mapa reúne fundamentos de execução e memória, qualidade de software, requisitos, arquitetura, testes, dados, sistemas distribuídos, evolução e segurança. Contexto, orquestração e avaliação de agentes atravessam o percurso. A seleção de fontes e o aprofundamento são desenvolvidos conforme cada unidade de estudo.
 
@@ -42,6 +42,7 @@ Referências de RPG medieval e *isekai* — histórias de chegada a outro mundo 
 | Conhecer a proposta narrativa e o ponto de partida | [Jornada do herói](<registro da autoridade/Template jornada do heroi/README.md>) |
 | Acompanhar os estudos e os capítulos estruturados | [Mapa de estudos e capítulos](<capitulos estudos/MAPA_DE_ESTUDOS.md>) |
 | Encontrar os posts, artigos e seus estados | [Índice de publicações](<registro da autoridade/PUBLICACOES.md>) |
+| Conhecer as amostras de voz autoral | [Amostras de voz autoral](<registro da autoridade/Template jornada do heroi/AMOSTRAS_DE_VOZ.md>) |
 | Entender como experiências e decisões são registradas | [Registro da autoridade](<registro da autoridade/README.md>) |
 | Consultar as ideias históricas que deram origem à organização | [Origem das ideias](<registro da autoridade/ORIGEM_DAS_IDEIAS.md>) |
 | Conhecer os projetos que fornecem contexto para estudos e relatos | [Ferramentas de estudo e regras de consulta](<ferramentas de estudo/README.md>) |
@@ -50,7 +51,7 @@ Os capítulos de estudos ficam em `capitulos estudos/`: cada unidade possui sua 
 
 As ferramentas de estudo têm três escopos: **FlutterGuard-AI**, uma ideia a desenvolver aplicada no "Meta Global AI Developer Hackathon"; **SDD-TDDkit**, em desenvolvimento e uso a partir do SpecSimpleKit e das adaptações feitas em cada projeto; e **VagasAutomatizado**, fonte privada de contexto pessoal/profissional e projeto de busca de vagas. O último fica fora do Git deste acervo; aqui há apenas o registro de sua existência e finalidade. O mapa orienta consultas para futuros textos, e a ampliação dos vínculos com notas e dados no Obsidian fica para uma etapa posterior.
 
-“Registro da autoridade” é o nome do acervo de experiências e publicações. Essa pasta também guarda `ORIGEM_DAS_IDEIAS.md`, que permite consultar de onde vieram as propostas iniciais. As decisões vigentes ficam nas specs das iniciativas editoriais. O nome identifica o acervo da jornada pessoal e do conhecimento compartilhado; a credibilidade vem de tornar visíveis o raciocínio, as fontes e os limites de cada conclusão.
+“Registro da autoridade” é o nome do acervo de experiências e publicações. Essa pasta também guarda `ORIGEM_DAS_IDEIAS.md` e `AMOSTRAS_DE_VOZ.md`. O nome identifica o acervo da jornada pessoal e do conhecimento compartilhado; a credibilidade vem de tornar visíveis o raciocínio, as fontes e os limites de cada conclusão.
 
 ## Baixar e ler no Obsidian
 
@@ -68,12 +69,11 @@ Para explorar o conteúdo:
 - **Referências de retorno (*backlinks*):** veja quais notas apontam para a página aberta e acompanhe as relações entre fontes, capítulos e textos derivados. Veja como [exibir backlinks](https://obsidian.md/help/plugins/backlinks).
 - **Grafo:** visualize as conexões entre as notas. A configuração local habilita grafo, busca e backlinks; os índices orientam a sequência de leitura.
 
-A busca também encontra versões antigas e transcrições. Confira a origem e o estado de cada documento; para ocultar as cópias históricas editoriais, acrescente `-path:"spec editorial/historico"` à pesquisa. Você também pode ler os arquivos diretamente no repositório ou em outro leitor de Markdown.
-
 ## Como o conteúdo é produzido
 
-A produção segue o **SDD editorial**, uma adaptação do trabalho orientado por especificação à escrita. Primeiro são definidos intenção, público e critérios; depois vêm o planejamento, as tarefas e os textos, com preparação, redação e revisão proporcionais à entrega.
+A produção de conteúdo é orquestrada pelo **AIOX** e executada pelo agente especializado **`editorial` (Scribe)**:
+- **Fluxo enxuto:** O PO (`po`) define a Story com Critérios de Aceite editoriais (ACs); o agente `editorial` realiza o enquadramento (`*brief`), a redação (`*write`), a auto-revisão contra os 4 Pilares de Qualidade (`*review`) e o refinamento (`*refine`).
+- **4 Pilares de Qualidade:** 1) Fatos e Fontes (não-alucinação), 2) Estrutura e Didática, 3) Voz e Fluidez (anti-clichê), 4) Norma e Prova Final.
+- **Soberania autoral:** A IA auxilia na pesquisa, estrutura e refinamento; a validação de tom de voz e aprovação final para publicação são prerrogativas exclusivas do autor humano.
 
-As fontes e versões são preservadas para permitir acompanhar como uma ideia se tornou texto. A IA participa da organização, da escrita e da revisão; as decisões autorais e a confirmação das experiências continuam com o autor. Rascunho, texto revisado e publicação são estados distintos no acervo.
-
-O [guia de operação](<spec editorial/GUIA_DE_OPERACAO.md>) explica o método. O [índice de iniciativas editoriais](<spec editorial/README.md>) reúne o trabalho aguardando seleção, em andamento e encerrado. Para atuar no repositório com uma IA ou IDE, o ponto de entrada é [AGENTS.md](AGENTS.md).
+Para atuar no repositório com agentes de IA, consulte as diretrizes operacionais em [AGENTS.md](AGENTS.md).

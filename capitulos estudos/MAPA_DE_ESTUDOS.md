@@ -2,7 +2,7 @@
 
 **Versão:** 2.0 — 19/10/2026. **Natureza:** Mapa de estudos da formação técnica e índice central dos capítulos de estudos.
 
-[Índice de estudos](README.md) · [Acervo de publicações](<../registro da autoridade/PUBLICACOES.md>) · [Método editorial](<../spec editorial/GUIA_DE_OPERACAO.md>)
+[Índice de estudos](README.md) · [Acervo de publicações](<../registro da autoridade/PUBLICACOES.md>) · [Governança AIOX](<../AGENTS.md>)
 
 ---
 

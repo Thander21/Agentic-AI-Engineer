@@ -49,6 +49,9 @@ A produção textual é centralizada no agente **`editorial`** (`.aiox-core/deve
 | `*proof` | Prova final técnica (gramática, links, markdown, resíduos). |
 
 - **Orquestração AIOX:** O PO (`po`) especifica a Story com Critérios de Aceite (ACs); o agente `editorial` redige e revisa; a aprovação de voz e publicação pertence soberanamente ao autor humano.
+- **Squads Especializados de Apoio (`.aiox-squads/`):**
+  - **Para Autoridade:** `@brand` (April Dunford / Marty Neumeier) para posicionamento e `@curator` (Robert McKee / Matthew Dicks) para mineração de fatos reais.
+  - **Para Estudos:** `@education` (Wiggins / Sweller / Merrill) para didática do livro, `@deep-research` para pesquisas primárias e `@dispatch` para arquitetura agêntica e DAGs.
 - Não crie pareceres burocráticos ou comitês artificiais de IAs. Use o ciclo direto de valor: briefing → redação → revisão dos 4 pilares → refinamento → leitura autoral.
 
 ## 5. Limites antes de agir

@@ -1,6 +1,6 @@
 # {PUB-ID disponível} — {Título para o leitor}
 
-**Modelo v0.4 — 2026-10-17.** Copiar para `publicacoes/`, ajustar links ao destino e substituir campos. Consultar o [índice](../PUBLICACOES.md), a [ficha editorial](<../../spec editorial/modelos/ficha-editorial.md>) e o [guia SDD](<../../spec editorial/GUIA_DE_OPERACAO.md>). O checklist abaixo apoia a conferência; não substitui o percurso selecionado na ficha.
+**Modelo v0.5 — 19/10/2026.** Copiar para `publicacoes/`, ajustar links ao destino e substituir campos. Consultar o [índice](../PUBLICACOES.md) e as diretrizes do agente editorial em [AGENTS.md](<../../AGENTS.md>). O checklist abaixo apoia a conferência.
 
 - ID e revisão do texto: {PUB-ID, r01, data e arquivo}.
 - Origem: {jornada / estudo / ambas; fontes e IDs de capítulo/episódio quando existentes}.

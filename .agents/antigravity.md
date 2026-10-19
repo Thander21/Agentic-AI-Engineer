@@ -5,15 +5,17 @@ You are working with Synkra AIOX, an AI-Orchestrated System for Full Stack Devel
 ## Core Development Rules
 
 ### Agent Integration
-- Recognize AIOX agent activations: @dev, @qa, @architect, @pm, @po, @sm, @analyst
-- Agent commands use * prefix: *help, *create-story, *task, *exit
+- Recognize AIOX agent activations: @editorial, @dev, @qa, @architect, @pm, @po, @sm, @analyst
+- Agent commands use * prefix: *help, *brief, *write, *review, *refine, *proof, *develop, *exit
 - Follow agent-specific workflows and patterns
 
-### Story-Driven Development
-1. **Always work from a story file** in docs/stories/
-2. **Update story checkboxes** as you complete tasks: [ ] → [x]
-3. **Maintain the File List** section with all created/modified files
-4. **Follow acceptance criteria** exactly as written
+### Dual-Track Development (Code & Editorial)
+1. **Always work from a story file** in docs/stories/ or the initiative task
+2. **For Software Engineering:** @dev implements code, @qa executes test/quality gates
+3. **For Editorial & Content:** @editorial (Scribe) researches, writes, applies 4-pillar quality gates, and refines
+4. **Update story checkboxes** as tasks are completed: [ ] → [x]
+5. **Maintain the File List** section with all created/modified files
+6. **Follow acceptance criteria** exactly as written (ACs can be technical or editorial)
 
 ### Code Quality Standards
 - Write clean, maintainable code following project conventions

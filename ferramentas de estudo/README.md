@@ -32,7 +32,7 @@ Essa relação é um relato de uso e adaptação; não comprova instalação de 
 | --- | --- | --- |
 | Compreender a oficina de desenvolvimento | Repositório [SDD-TDDkit no GitHub](https://github.com/Thander21/SDD-TDDkit) (local: [README](SDD-TDDkit/README.md) e [instruções locais](SDD-TDDkit/AGENTS.md)). | As regras de desenvolvimento pertencem ao kit; não substituem as regras editoriais da raiz. |
 | Compreender a base inicial usada nos projetos | Repositório [SpecSimpleKit no GitHub](https://github.com/Thander21/SpecSimpleKit) (local: [README](SDD-TDDkit/SpecSimpleKit/README.md)). | Capacidades descritas e versão declarada precisam de conferência antes de afirmar funcionamento. |
-| Examinar a adaptação à escrita feita aqui | [AGENTS.md](../AGENTS.md), [guia SDD editorial](<../spec editorial/GUIA_DE_OPERACAO.md>) e [iniciativas](<../spec editorial/README.md>). | As decisões e evidências locais não demonstram, por si, adoção em outros projetos. |
+| Examinar o modelo editorial agêntico | Governança em [AGENTS.md](../AGENTS.md) e agente [editorial](../.aiox-core/development/agents/editorial.md). | As decisões e evidências locais não demonstram, por si, adoção em outros projetos. |
 
 Para contar uma mudança concreta, identificar a base usada, a necessidade do projeto, a adaptação feita e a evidência disponível. Não inventar uma cronologia de versões, atribuir ganhos sem comparação ou declarar retorno ao kit sem conferir o registro correspondente.
 
@@ -48,7 +48,7 @@ O versionamento deve permanecer separado e privado. A existência e a visibilida
 
 1. Definir a finalidade do texto e consultar somente o escopo pertinente, além dos relatos e notas já selecionados.
 2. Distinguir relato autoral, proposta, observação e resultado conferido. Para fontes publicáveis, registrar caminho, data/versão, afirmação sustentada e limites. Detalhes de fontes privadas continuam no ambiente privado.
-3. Aplicar a [preparação editorial](<../spec editorial/skills/editorial-preparar/SKILL.md>) e o percurso proporcional do [guia](<../spec editorial/GUIA_DE_OPERACAO.md>), preservando lacunas reais.
+3. Aplicar o agente [editorial](../.aiox-core/development/agents/editorial.md) com seu comando `*brief`, preservando lacunas reais.
 4. Guardar posts e artigos no [acervo de publicações](<../registro da autoridade/PUBLICACOES.md>), com origem `jornada`, `estudo` ou `ambas`. Capítulos e evidências de estudo ficam em [capítulos e estudos](<../capitulos estudos/README.md>); a [jornada](<../registro da autoridade/Template jornada do heroi/README.md>) fornece contexto narrativo.
 
 Os três projetos são fontes possíveis, não uma nova ordem de estudo nem uma fila automática de publicações. A seleção de uma fonte não inicia desenvolvimento, estudo técnico ou piloto.

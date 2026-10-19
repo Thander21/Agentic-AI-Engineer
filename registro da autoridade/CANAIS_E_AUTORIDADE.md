@@ -8,7 +8,7 @@ O canal profissional não define sozinho a voz: textos da jornada preservam prim
 
 ## Decisões vigentes — 2026-10-16
 
-A estratégia recebida em RA02-12 permanece: textos maiores em artigo no LinkedIn com post de chamada; atualizações curtas como post; estudos documentados no Substack com chamada no LinkedIn; GitHub como acervo pretendido, com repositório/visibilidade/sincronização ainda a definir; Pages opcional. Consultar a [síntese vigente da spec 02](<../spec editorial/concluida/02-preparacao-editorial/02-resumo-editorial-onde-como-quando.md>) para primeira publicação, voz e pendências.
+A estratégia recebida em RA02-12 permanece: textos maiores em artigo no LinkedIn com post de chamada; atualizações curtas como post; estudos documentados no Substack com chamada no LinkedIn; GitHub como acervo pretendido, com repositório/visibilidade/sincronização ainda a definir; Pages opcional. Consultar as [Amostras de voz autoral](<Template jornada do heroi/AMOSTRAS_DE_VOZ.md>) e as diretrizes em [AGENTS.md](<../AGENTS.md>) para primeira publicação, voz e governança.
 
 O acervo local é `registro da autoridade/publicacoes/`, com [índice](PUBLICACOES.md), qualquer que seja o canal externo. A origem pode ser capítulo/fontes, jornada ou ambas. Originais e amostras históricas permanecem preservados por referência. Registrar versão e URL apenas quando conhecidas; esta decisão não publica nem configura plataformas.
 

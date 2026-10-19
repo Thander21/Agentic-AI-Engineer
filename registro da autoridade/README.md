@@ -10,7 +10,7 @@
 | História pessoal, perguntas, marcos e acompanhamento das quinze etapas | [Jornada do herói](<Template jornada do heroi/README.md>), na própria página da etapa. |
 | Conhecimento ou experiência que vale preservar | Escrever diretamente no estudo, na jornada ou no mapa da fonte pertinente. |
 | Ordem de estudo e capítulos que formarão o livro | [Mapa de estudos](<../capitulos estudos/MAPA_DE_ESTUDOS.md>). |
-| Próximo trabalho editorial e evidências | [Tasks da iniciativa ativa](<../spec editorial/README.md>). |
+| Próximo trabalho editorial e evidências | [Governança e Agente Editorial](<../AGENTS.md>). |
 
 As antigas fichas de `etapas/` foram integradas às páginas da jornada em 16/10/2026. A camada separada `episodios/` também foi retirada: o único registro, [EP-000](<Template jornada do heroi/01-novo-mundo-bagagem-antiga.md#ep-000>), permanece identificado na etapa 01. O histórico anterior está no Git. Não recriar essas pastas nem exigir um episódio intermediário para produzir um post ou artigo.
 

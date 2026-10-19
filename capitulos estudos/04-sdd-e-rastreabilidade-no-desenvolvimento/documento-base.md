@@ -1,4 +1,4 @@
-﻿# Documento Base — CAP-04: SDD e rastreabilidade no desenvolvimento
+# Documento Base — CAP-04: SDD e rastreabilidade no desenvolvimento
 
 **ID:** CAP-04  
 **Parte:** II — Especificação e Domínio  
@@ -50,7 +50,7 @@
 
 ## 6. Fontes PrimÃ¡rias de ReferÃªncia
 
-1. **Guia de OperaÃ§Ã£o SDD Editorial / SDD de Software** â€” [spec editorial/GUIA_DE_OPERACAO.md](../../spec%20editorial/GUIA_DE_OPERACAO.md).
+1. **Governança AIOX e Rastreabilidade de Histórias** — [AGENTS.md](../../AGENTS.md).
 2. **SWEBOK v3/v4** â€” IEEE Computer Society (tÃ³picos sobre Rastreabilidade de Software e Engenharia de Requisitos).
 3. **Spec-Driven Development Principles** â€” PrÃ¡ticas contemporÃ¢neas de conduÃ§Ã£o de agentes com especificaÃ§Ãµes formais.
 

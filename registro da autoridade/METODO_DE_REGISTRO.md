@@ -1,6 +1,6 @@
 # Registro de conhecimento e fontes
 
-[Acervo](README.md) · [Jornada](<Template jornada do heroi/README.md>) · [Estudos](<../capitulos estudos/README.md>) · [SDD editorial](<../spec editorial/GUIA_DE_OPERACAO.md>)
+[Acervo](README.md) · [Jornada](<Template jornada do heroi/README.md>) · [Estudos](<../capitulos estudos/README.md>) · [Governança AIOX](<../AGENTS.md>)
 
 ## Onde registrar
 
@@ -27,4 +27,4 @@ A história pessoal mantém primeira pessoa, humor e referências confirmadas. N
 
 Distinguir relato do autor, interpretação, hipótese e resultado conferido. Vincular a afirmação à fonte; não copiar conversas inteiras nem dados privados. Retorno de leitor e reconhecimento da voz só são registrados quando recebidos. Mudança relevante de conclusão atualiza o documento responsável e, quando necessário, a tarefa afetada.
 
-Sempre que precisar preservar texto de publicação, jornada ou capítulo de estudo antes de alterar, conferir se a versão está recuperável no Git. Se não estiver, solicitar o commit do autor e aguardar a alteração dependente, continuando partes independentes. Havendo dispensa explícita do autor para aquela versão em andamento, registrar o alcance e continuar sem commit, conforme a seção 6 do [guia de operação](<../spec editorial/GUIA_DE_OPERACAO.md#6-preservação-voz-e-retorno-de-achados>), sem presumir recuperação. A dispensa não se estende automaticamente a outras versões nem à exclusão de fontes. Não executar commit ou envio automaticamente nem fabricar preservação por cópia paralela. Etiqueta de revisão não garante recuperação do texto.
+Sempre que precisar preservar texto de publicação, jornada ou capítulo de estudo antes de alterar, conferir se a versão está recuperável no Git. Se não estiver, solicitar o commit do autor e aguardar a alteração dependente, continuando partes independentes. Havendo dispensa explícita do autor para aquela versão em andamento, registrar o alcance e continuar sem commit, conforme a seção 5 de [AGENTS.md](<../AGENTS.md#5-limites-antes-de-agir>), sem presumir recuperação. A dispensa não se estende automaticamente a outras versões nem à exclusão de fontes. Não executar commit ou envio automaticamente nem fabricar preservação por cópia paralela. Etiqueta de revisão não garante recuperação do texto.

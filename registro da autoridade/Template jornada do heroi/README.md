@@ -26,7 +26,7 @@ Os quinze contextos abaixo são propostas de organização da história, não ep
 
 ## Responsabilidade desta pasta
 
-A jornada orienta como contar o percurso: contexto, universo, voz, metáforas e continuidade. A [ordem de estudo e os capítulos](<../../capitulos estudos/MAPA_DE_ESTUDOS.md>) pertencem a estudos; a [metodologia de produção e revisão](<../../spec editorial/GUIA_DE_OPERACAO.md>) pertence ao SDD editorial. Todos os posts e artigos derivados são guardados no [registro da autoridade](<../PUBLICACOES.md>), com vínculos às origens.
+A jornada orienta como contar o percurso: contexto, universo, voz, metáforas e continuidade. A [ordem de estudo e os capítulos](<../../capitulos estudos/MAPA_DE_ESTUDOS.md>) pertencem a estudos; a [governança de produção e revisão](<../../AGENTS.md>) pertence ao AIOX. Todos os posts e artigos derivados são guardados no [registro da autoridade](<../PUBLICACOES.md>), com vínculos às origens.
 
 Cenas, emoções, preços e conquistas das páginas são possibilidades narrativas. Só entram como vivência quando confirmados pelo autor; uma descoberta tranquila ou uma pergunta aberta basta para sustentar um relato.
 
@@ -127,7 +127,7 @@ O [AGENTS.md](../../AGENTS.md#consulta-da-jornada-do-herói) orienta a consulta 
 
 O mapa de origem localiza os trechos da conversa. Já [ORIGEM_DAS_IDEIAS.md](<../ORIGEM_DAS_IDEIAS.md>) explica como algumas ideias foram aproveitadas na organização do registro: os dois documentos se complementam, sem manter outra versão da conversa.
 
-Para retomar a produção, consulte as [iniciativas editoriais e suas tasks](<../../spec editorial/README.md>). Posts e artigos resultantes ficam no [acervo de publicações](<../PUBLICACOES.md>); os próprios capítulos de estudo formarão o livro.
+Para retomar a produção, consulte a governança em [AGENTS.md](../../AGENTS.md). Posts e artigos resultantes ficam no [acervo de publicações](<../PUBLICACOES.md>); os próprios capítulos de estudo formarão o livro.
 
 ## Capítulos de estudo
 

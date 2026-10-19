@@ -14,11 +14,11 @@ O conhecimento reunido passa pela experiência dos leitores. Uma dúvida revela 
 
 ## Contexto preservado da análise anterior
 
-**Contexto 11 — Metodologia de produção editorial.** Como escrever e revisar o livro: especificações de capítulos, objetivos de aprendizagem, consistência de conceitos, revisão técnica e avaliação por leitores. Este é o contexto histórico da adaptação de SDD à escrita; sua metodologia vigente está em `spec editorial/`, separada do SDD empregado no desenvolvimento de software.
+**Contexto 11 — Metodologia de produção editorial.** Como escrever e revisar o livro: especificações de capítulos, objetivos de aprendizagem, consistência de conceitos, revisão técnica e avaliação por leitores. A metodologia e governança vigentes estão unificadas sob o AIOX em [AGENTS.md](../../AGENTS.md).
 
 ## Uso atual deste contexto
 
-Esta página orienta a narrativa sobre a experiência. O [mapa de estudos](<../../capitulos estudos/MAPA_DE_ESTUDOS.md>) organiza capítulos, sequência e pré-requisitos; o [guia SDD](<../../spec editorial/GUIA_DE_OPERACAO.md>) define produção e revisão; posts e artigos derivados entram no [acervo central](<../PUBLICACOES.md>). As propostas e cenas preservadas não são fatos biográficos nem um segundo plano de execução.
+Esta página orienta a narrativa sobre a experiência. O [mapa de estudos](<../../capitulos estudos/MAPA_DE_ESTUDOS.md>) organiza capítulos, sequência e pré-requisitos; a [governança AIOX](<../../AGENTS.md>) orienta a produção editorial e revisão; posts e artigos derivados entram no [acervo central](<../PUBLICACOES.md>). As propostas e cenas preservadas não são fatos biográficos nem um segundo plano de execução.
 
 ## Temas para contar a experiência
 
@@ -59,7 +59,7 @@ O final combina orgulho pelo que foi construído com humildade diante do que per
 
 ## Observações sobre o material
 
-A produção editorial pode começar com os primeiros casos; esta posição marca sua consolidação. Os modelos e procedimentos SDD já foram construídos em `spec editorial/`; seu uso integrado no piloto permanece por avaliar. Propostas históricas de acesso antecipado não constituem decisão de publicação.
+A produção editorial pode começar com os primeiros casos; esta posição marca sua consolidação. Os modelos e procedimentos foram consolidados no agente editorial do AIOX; propostas históricas de acesso antecipado não constituem decisão de publicação.
 
 <a id="acompanhamento"></a>
 
