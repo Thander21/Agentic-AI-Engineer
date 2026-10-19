@@ -4,20 +4,17 @@ Aplica-se à raiz e às subpastas deste repositório. Leia este arquivo antes de
 
 ## 1. Escopo e autoridade
 
-- Trabalhe em português. Este é um projeto editorial de estudo, relatos, capítulos de estudos e publicações. Não introduza código, aplicação, infraestrutura ou baterias de testes de software para organizar a escrita.
-- O pedido do autor delimita a ação. Analisar não autoriza editar ou produzir as fases seguintes. “Continue” retoma a entrega autorizada até sua conclusão ou dependência real, sem pedir confirmação por arquivo ou tarefa.
-- Use o pedido explícito, respeitando as regras do ambiente; para decisões do projeto, confira a decisão aceita na iniciativa pertinente. Proposta recente, conversa histórica e exemplo não se tornam regras por sua existência.
-- Este arquivo contém regras gerais e roteamento. O [guia de operação](<spec editorial/GUIA_DE_OPERACAO.md>) define o procedimento; os documentos especializados guardam contexto e fontes. Não replique essas funções aqui nem mantenha status do projeto nos READMEs.
+- Trabalhe em português. O ecossistema é orquestrado pelo **AIOX**, gerenciando tanto engenharia quanto a produção editorial de estudos, livros, capítulos e publicações de autoridade.
+- A produção e revisão de conteúdo editorial é executada pelo agente **`editorial` (Scribe)** do AIOX, garantindo profundidade técnica, voz autoral e zero alucinações factuais sem a sobrecarga de burocracias ou pipelines fragmentados.
+- O pedido do autor delimita a ação. Analisar não autoriza editar ou produzir as fases seguintes. “Continue” retoma a entrega autorizada até sua conclusão ou dependência real, sem pedir confirmação a cada parágrafo.
+- Use o pedido explícito e as histórias (stories) gerenciadas pelo AIOX. Não crie especificações ou burocracias paralelas de controle.
 
 ## 2. Entrada e seleção de leitura
 
-1. Identifique a entrega, a ação permitida e os arquivos afetados. Confira o workspace e as instruções locais aplicáveis antes de usar referências de outra sessão ou projeto.
-2. Se o pedido mencionar uma iniciativa, abra seu acompanhamento diretamente. Caso precise localizá-la, use o [índice SDD](<spec editorial/README.md>). Com tasks, leia a tabela atual; sem tasks, leia o parecer e a próxima ação na spec. Registros encerrados não determinam o próximo trabalho.
-3. Leia a spec para intenção, requisitos e decisões que afetem a entrega; consulte o plano para estratégia e dependências. Não releia iniciativas históricas sem uma questão concreta a resolver. Correção pontual sem iniciativa usa o pedido como contrato, sem criar spec/plano/tasks por rotina.
-4. Para trabalho no fluxo SDD ou editorial, consulte as seções pertinentes do guia e leia explicitamente o `SKILL.md` do papel selecionado na seção 4. Leia modelos e referências internas somente quando necessários à saída.
-5. Abra a peça/ficha e as fontes selecionadas. Amplie a leitura pela matriz abaixo apenas quando faltar contexto, evidência ou orientação. Se os caminhos já estiverem identificados e forem suficientes, não percorra os índices novamente.
-
-Antes de executar, tenha: objetivo e limite autorizado, papel/fase, tarefa quando houver, artefato/versão, decisões aplicáveis, fontes necessárias e dependências. Não preencha lacunas essenciais por suposição. Pergunte pelo ponto concreto e continue as partes independentes; não repita decisões já fornecidas.
+1. Identifique a entrega, a ação permitida e os arquivos afetados no acervo (`capitulos estudos/`, `registro da autoridade/` ou `docs/stories/`).
+2. Se a tarefa for editorial, ative o agente `editorial` e utilize seus comandos nativos (`*brief`, `*write`, `*review`, `*refine`, `*proof`).
+3. Consulte somente a peça/capítulo e as fontes selecionadas; não carregue pastas inteiras ou anexos desnecessários.
+4. Antes de redigir ou alterar, garanta ter: objetivo, leitor-alvo, fontes de referência e decisões aplicáveis. Não preencha lacunas essenciais por suposição.
 
 ## 3. Onde ler e quando
 
@@ -31,34 +28,28 @@ Os READMEs das áreas explicam seus documentos de apoio. Use-os para escolher a 
 | Necessidade | Entrada e aprofundamento |
 | --- | --- |
 | Entender a proposta geral do projeto | [README principal](README.md). Dispensável para uma tarefa delimitada cujo contexto já esteja disponível. |
-| Localizar iniciativa ou entender as passagens SDD | [Índice SDD](<spec editorial/README.md>); depois acompanhamento da iniciativa. Para executar ou resolver dúvida de procedimento, [guia](<spec editorial/GUIA_DE_OPERACAO.md>). |
-| Preparar, redigir ou revisar post/artigo | [Índice de publicações](<registro da autoridade/PUBLICACOES.md>) para localizar a peça; depois versão, ficha, acompanhamento e skill da fase. Para outros documentos do acervo, [mapa de uso](<registro da autoridade/README.md#mapa-de-uso-dos-documentos>). |
-| Registrar uma experiência ou conhecimento | [Método de registro](<registro da autoridade/METODO_DE_REGISTRO.md>); selecione o destino e somente o modelo pertinente. Relato na jornada, conhecimento no estudo, post/artigo no acervo. |
-| Trabalhar voz ou história pessoal | [Universo narrativo](<registro da autoridade/Template jornada do heroi/UNIVERSO_NARRATIVO.md>) e relatos pertinentes. O [mapa da jornada](<registro da autoridade/Template jornada do heroi/README.md#mapa-de-uso-dos-documentos-de-apoio>) orienta a consulta aos demais apoios. |
-| Rastrear uma afirmação ou referência histórica | [Mapa de origem](<registro da autoridade/Template jornada do heroi/MAPA_ORIGEM.md>) para localizar o trecho dos anexos; [referências](<registro da autoridade/Template jornada do heroi/REFERENCIAS.md>) para localizar uma menção. Consulte o trecho necessário e confira a fonte antes de apresentar uma afirmação como validada. |
-| Localizar ou acompanhar estudo/capítulo | [README de estudos](<capitulos estudos/README.md>) para visão geral das 7 partes e ciclo editorial; [Mapa de estudos](<capitulos estudos/MAPA_DE_ESTUDOS.md>) para sequência, status e links; pasta da unidade (`capitulos estudos/NN-.../`) para `documento-base.md` e preparação. |
-| Consultar ferramentas como fontes | [Mapa das ferramentas](<ferramentas de estudo/README.md>); depois ponto de entrada e instruções locais apenas do projeto pertinente. A leitura não autoriza desenvolvimento, execução de scripts ou candidaturas. |
-| Examinar canais ou recuperar uma ideia | Pelo [mapa do acervo](<registro da autoridade/README.md#mapa-de-uso-dos-documentos>), selecione canais ou origem das ideias; confronte o histórico com as decisões da iniciativa. |
-| Alterar navegação, propriedades ou comportamento do Obsidian | Consulte somente os arquivos pertinentes de [.obsidian/](.obsidian/). Para conteúdo editorial, use Markdown e acompanhamento SDD; janelas e arquivos recentes não são decisões do projeto. |
+| Orquestração e fluxo de trabalho | AIOX via `aiox-master`, `po` (histórias e critérios de aceite) e `editorial` (execução do texto). |
+| Preparar, redigir ou revisar post/artigo | [Índice de publicações](<registro da autoridade/PUBLICACOES.md>) para localizar a peça; depois acione o agente `editorial`. Para outros documentos do acervo, [mapa de uso](<registro da autoridade/README.md#mapa-de-uso-dos-documentos>). |
+| Registrar uma experiência ou conhecimento | [Método de registro](<registro da autoridade/METODO_DE_REGISTRO.md>); selecione o destino. Relato na jornada, conhecimento no estudo, post/artigo no acervo. |
+| Trabalhar voz ou história pessoal | [Universo narrativo](<registro da autoridade/Template jornada do heroi/UNIVERSO_NARRATIVO.md>), [Amostras de voz](<registro da autoridade/Template jornada do heroi/AMOSTRAS_DE_VOZ.md>) e relatos pertinentes. |
+| Rastrear uma afirmação ou referência histórica | [Mapa de origem](<registro da autoridade/Template jornada do heroi/MAPA_ORIGEM.md>) para localizar o trecho dos anexos; [referências](<registro da autoridade/Template jornada do heroi/REFERENCIAS.md>) para menções. |
+| Localizar ou acompanhar estudo/capítulo | [README de estudos](<capitulos estudos/README.md>) para visão geral das 7 partes; [Mapa de estudos](<capitulos estudos/MAPA_DE_ESTUDOS.md>) para sequência; pasta da unidade (`capitulos estudos/NN-.../`) para `documento-base.md`. |
+| Consultar ferramentas como fontes | [Mapa das ferramentas](<ferramentas de estudo/README.md>); apenas como fonte técnica. A leitura não autoriza desenvolvimento ou candidaturas sem pedido expresso. |
 
-## 4. Skills e coordenação
+## 4. Agente Editorial e Coordenação AIOX
 
-| Ação | Skill a ler |
+A produção textual é centralizada no agente **`editorial`** (`.aiox-core/development/agents/editorial.md` / `.agents/skills/editorial/SKILL.md`):
+
+| Comando Editorial | Função |
 | --- | --- |
-| Analisar, elaborar ou revisar spec | [sdd-editorial-especificar](<spec editorial/skills/sdd-editorial-especificar/SKILL.md>) |
-| Elaborar, ajustar ou conferir plano | [sdd-editorial-planejar](<spec editorial/skills/sdd-editorial-planejar/SKILL.md>) |
-| Decompor, acompanhar ou conferir tasks | [sdd-editorial-tarefas](<spec editorial/skills/sdd-editorial-tarefas/SKILL.md>) |
-| Selecionar fontes e preparar ficha | [editorial-preparar](<spec editorial/skills/editorial-preparar/SKILL.md>) |
-| Esboçar, redigir ou reescrever trecho delimitado | [editorial-redigir](<spec editorial/skills/editorial-redigir/SKILL.md>) |
-| Emitir parecer, reconferir ou fazer prova final | [editorial-revisar](<spec editorial/skills/editorial-revisar/SKILL.md>) |
-| Resolver pareceres ou aplicar ajustes autorizados | [editorial-integrar](<spec editorial/skills/editorial-integrar/SKILL.md>) |
-| Consolidar aprendizados da sessão e propor melhorias ao método | [learn](<spec editorial/skills/learn/SKILL.md>) |
-| Auditar conexões, pontos de falha de contexto e notas órfãs no Obsidian | [obsidian-contexto](<spec editorial/skills/obsidian-contexto/SKILL.md>) |
+| `*brief` | Define enquadramento: leitor, questão central, fontes e delimitação de lacunas. |
+| `*write` | Redige o esboço estruturado ou versão completa, com tom autêntico e didática progressiva. |
+| `*review` | Executa o Quality Gate dos 4 Pilares: 1) Fatos e Fontes, 2) Estrutura e Didática, 3) Voz e Fluidez, 4) Norma e Prova Final. |
+| `*refine` | Aplica correções e integra melhorias preservando o que funciona. |
+| `*proof` | Prova final técnica (gramática, links, markdown, resíduos). |
 
-- Siga a [sequência editorial](<spec editorial/GUIA_DE_OPERACAO.md#4-sequência-editorial-do-texto>) e reaproveite etapas com evidência suficiente. Selecione os perfis de revisão pela questão presente; não imponha os nove a toda peça.
-- Coordene pelo plano e pelas tasks: cada passagem recebe objetivo/limite, versão/ficha quando houver, fontes, achados/lacunas e saída esperada. Revisão emite parecer; integração aplica decisões; apreciação autoral pertence ao autor.
-- A mesma IA pode assumir papéis sequencialmente. Declare acesso ao histórico e aos pareceres; não alegue independência ou comprovação por consenso. Não delegue automaticamente.
-- Mudança de intenção/requisito retorna à spec; estratégia ao plano; execução/evidência às tasks. Lacuna factual retorna à fonte/preparação; vivência ou posicionamento não definido retorna ao autor. Reconfira somente os aspectos afetados.
+- **Orquestração AIOX:** O PO (`po`) especifica a Story com Critérios de Aceite (ACs); o agente `editorial` redige e revisa; a aprovação de voz e publicação pertence soberanamente ao autor humano.
+- Não crie pareceres burocráticos ou comitês artificiais de IAs. Use o ciclo direto de valor: briefing → redação → revisão dos 4 pilares → refinamento → leitura autoral.
 
 ## 5. Limites antes de agir
 
