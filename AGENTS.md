@@ -12,7 +12,7 @@ Aplica-se à raiz e às subpastas deste repositório. Leia este arquivo antes de
 ## 2. Entrada e seleção de leitura
 
 1. Identifique a entrega, a ação permitida e os arquivos afetados no acervo (`capitulos estudos/`, `registro da autoridade/` ou `docs/stories/`).
-2. Se a tarefa for editorial, ative o agente `editorial` e utilize seus comandos nativos (`*brief`, `*write`, `*review`, `*refine`, `*proof`).
+2. Se a tarefa for editorial, ative o agente `editorial` e utilize seus comandos nativos (`*interview`, `*brief`, `*write`, `*review`, `*refine`, `*proof`).
 3. Consulte somente a peça/capítulo e as fontes selecionadas; não carregue pastas inteiras ou anexos desnecessários.
 4. Antes de redigir ou alterar, garanta ter: objetivo, leitor-alvo, fontes de referência e decisões aplicáveis. Não preencha lacunas essenciais por suposição.
 
@@ -42,20 +42,31 @@ A produção textual é centralizada no agente **`editorial`** (`.aiox-core/deve
 
 | Comando Editorial | Função |
 | --- | --- |
-| `*brief` | Define enquadramento: leitor, questão central, fontes e delimitação de lacunas. |
+| `*interview` | Conduz levantamento investigativo com o autor para extrair vivências, tensões, momentos e fatos reais (com apoio do `@curator`). Obrigatório antes da redação da jornada autoral. |
+| `*brief` | Define enquadramento: leitor, questão central, fontes, lacunas e direcionamento instrucional ou narrativo. |
 | `*write` | Redige o esboço estruturado ou versão completa, com tom autêntico e didática progressiva. |
 | `*review` | Executa o Quality Gate dos 4 Pilares: 1) Fatos e Fontes, 2) Estrutura e Didática, 3) Voz e Fluidez, 4) Norma e Prova Final. |
 | `*refine` | Aplica correções e integra melhorias preservando o que funciona. |
 | `*proof` | Prova final técnica (gramática, links, markdown, resíduos). |
 
+### Os Dois Pipelines Operacionais
+
+1. **Pipeline de Autoridade (Jornada do Herói & Publicações Autorais):**
+   - **Origem:** Memória e vivência real do autor (não existe pré-fabricada em arquivos).
+   - **Fluxo:** Elicitação com o autor via `*interview` (lentes do `@curator`: Matthew Dicks e Robert McKee) → Enriquecimento de contexto no template da etapa (`Template jornada do heroi/NN-texto-anexo.md`) → Montagem da jornada como épico narrativo em 1ª pessoa (`*write` no `NN-*.md`) → Derivação das peças públicas (`registro da autoridade/publicacoes/`) → Quality Gate dos 4 Pilares (`*review`, `*refine`, `*proof`).
+2. **Pipeline de Estudos (O Livro Técnico / Grimório):**
+   - **Origem:** Conhecimento científico, modelos mentais da computação e arquiteturas agênticas.
+   - **Fluxo:** Pesquisa de evidências primárias (`@deep-research`) → Design instrucional e controle de carga cognitiva (`@education`: Wiggins e Sweller) → Redação do capítulo técnico puro e autocontido (`*write` em `capitulos estudos/NN-.../documento-base.md`) → Registro de autoestudo (relato de como o autor estudou, aplicou no laboratório real como o PDV D+ e o que aprendeu) → Quality Gate dos 4 Pilares.
+
 - **Orquestração AIOX:** O PO (`po`) especifica a Story com Critérios de Aceite (ACs); o agente `editorial` redige e revisa; a aprovação de voz e publicação pertence soberanamente ao autor humano.
 - **Squads Especializados de Apoio (`.aiox-squads/`):**
   - **Para Autoridade:** `@brand` (April Dunford / Marty Neumeier) para posicionamento e `@curator` (Robert McKee / Matthew Dicks) para mineração de fatos reais.
   - **Para Estudos:** `@education` (Wiggins / Sweller / Merrill) para didática do livro, `@deep-research` para pesquisas primárias e `@dispatch` para arquitetura agêntica e DAGs.
-- Não crie pareceres burocráticos ou comitês artificiais de IAs. Use o ciclo direto de valor: briefing → redação → revisão dos 4 pilares → refinamento → leitura autoral.
+- Não crie pareceres burocráticos ou comitês artificiais de IAs. Use o ciclo direto de valor: elicitação/briefing → enriquecimento do anexo → redação → revisão dos 4 pilares → refinamento → leitura autoral.
 
 ## 5. Limites antes de agir
 
+- **Elicitação obrigatória de vivência:** para qualquer texto da Jornada do Herói ou relatos biográficos, é estritamente proibido redigir (`*write`) ou gerar publicações antes de rodar o levantamento (`*interview`) com o autor e enriquecer o template da etapa (`NN-texto-anexo.md`). A matéria-prima está na vivência do autor. Não preencha lacunas de fatos, sentimentos ou acontecimentos por inferência da IA.
 - **Preservação:** antes de alterar texto de publicação, jornada ou capítulo que precise ser preservado, confira se a versão está recuperável no Git. Se faltar, solicite commit do autor e aguarde a edição dependente, continuando partes independentes. Se o autor dispensar explicitamente a preservação daquela versão em andamento, registre o alcance e prossiga conforme o guia, sem presumir recuperação. Não faça commit/push automático, backups, snapshots ou pastas de histórico para simular versionamento. Não exclua fontes nem reorganize o acervo sem escopo autorizado.
 - **Fatos e voz:** não invente vivências, emoções, falas, aprendizados ou resultados. Diferencie relato, hipótese, metáfora e exemplo fictício. Use decisões e amostras reais; erros de notas rápidas não definem estilo. Preserve fatos, ressalvas e trechos que funcionam; revisão pode recomendar manter o texto. Capítulos devem ensinar independentemente da história pessoal.
 - **Fontes:** transcrição e conversa de IA são registros históricos, não comprovação. Registre fonte publicável, data/versão e limite no acompanhamento pertinente; sinalize o que não foi conferido. Documentação de ferramenta não comprova implementação ou resultado, nem importa suas regras para este editorial.

@@ -12,7 +12,7 @@ description: Ativa o agente editorial (Scribe) do AIOX para pesquisa, estrutura�
 3. Adote a persona conforme definido no agente (Scribe — The Wordsmith)
 4. Execute a saudação conforme `greeting_levels` definido no agente
 5. **MANTENHA esta persona até receber o comando *exit**
-6. Responda aos comandos com prefixo `*` conforme definido no agente (`*brief`, `*write`, `*review`, `*refine`, `*proof`, `*help`)
+6. Responda aos comandos com prefixo `*` conforme definido no agente (`*interview`, `*brief`, `*write`, `*review`, `*refine`, `*proof`, `*help`)
 7. Siga as regras globais do projeto em `AGENTS.md`
 
 **Comandos disponíveis:** Use `*help` para ver todos os comandos do agente.

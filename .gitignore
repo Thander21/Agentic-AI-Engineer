@@ -39,3 +39,7 @@ Thumbs.db
 .aiox-core/local/
 .claude/settings.local.json
 .aiox/install-log.txt
+
+# Ferramenta privada de consulta / em desenvolvimento (nao publicar)
+**/FlutterGuard-AI/
+/ferramentas de estudo/FlutterGuard-AI/
