@@ -1,23 +1,21 @@
-# Chamada — A missão: evoluir para construir
+# Chamada LinkedIn — PUB-002: A missão: evoluir para construir
 
-Quando a primeira nota fiscal emitida por IA saiu em homologação no meu software, a sensação foi de vitória limpa. Subi de nível, o banner de conquista brilhou na tela e deu até aquela sensação reconfortante de que o pior já tinha passado.
+A IA é maravilhosa para acelerar código até o dia em que você pede para ela ajustar um botão e ela implode o motor fiscal da sua aplicação pelas suas costas.
 
-Aí decidi encarar a missão principal: transformar aquele protótipo no **PDV D+**, pronto para rodar no comércio de verdade.
+Nenhum modelo de linguagem tem CNPJ. Nenhuma inteligência artificial vai sentar na frente do Fisco para explicar por que uma numeração de nota fiscal foi pulada ou por que um XML foi gerado com schema quebrado.
 
-Não foi por vaidade técnica. Na Sampa TI, o PDV é o nosso produto de entrada: rápido, barato e com alto retorno de contatos. Mas era também o que mais nos trazia dor de cabeça com parceiros de software, por causa do custo de repasse e dos suportes emergenciais que nos deixavam na mão quando o cliente precisava. Eu precisava ter o controle soberano na mão.
+Nos últimos meses construindo o **PDV D+** — um sistema de frente de caixa comercial com exigência fiscal implacável —, aprendi uma verdade que os tutoriais de 3 minutos do LinkedIn convenientemente ignoram:
 
-Só que o contrato com a IA tem letras miúdas.
+O perigo dos agentes autônomos não é a falta de capacidade técnica. É a total ausência de disciplina de fronteira e de memória operacional.
 
-O meu medo nunca foi o sistema travar na fila do caixa — isso eu blindei na raiz da regra de negócio (o PDV só abre com tudo válido, só lança produto com tributação completa e não salva cadastro inconsistente). 
+Se você não coloca rédeas de ferro na máquina, ela conserta a maçaneta da porta implodindo os alicerces da casa. E se você acha que vai resolver isso apenas pedindo "por favor" em prompts bonitos, você não está fazendo engenharia; está jogando na loteria com o negócio do seu cliente.
 
-O verdadeiro batismo de fogo aconteceu quando pedi um ajuste bobo de layout na tela... e a IA simplesmente **destruiu o código fiscal que já funcionava**, reescrevendo classes estáveis só para mexer num botão.
+Chega de ilusão: a habilidade mais rara e valiosa na era da IA migrou da **digitação de sintaxe** para a **governança de contratos e contenção de agentes**.
 
-Ali eu entendi: sem rédeas de ferro, a IA conserta a maçaneta implodindo a casa.
+No segundo artigo da minha série autoral, compartilho os bastidores desse choque de realidade, a recusa categórica tanto dos manuais arcaicos quanto do hype irresponsável, e como comecei a forjar o meu próprio "Campo de Força" para domar a máquina.
 
-Chega de pedir por favor. Foi ali que comecei a construir o meu próprio **harness** (regras, skills e MCPs na unha) e forjei um **"Campo de Força"**: um pipeline que começou com 9 validações de código e hoje obriga o agente a entrar em loop de autocorreção sem chance de quebrar o domínio.
+👉 Leia o artigo completo aqui:  
+[Link do Artigo no GitHub / Blog]
 
-No segundo capítulo da minha jornada, conto os bastidores dessa batalha e deixo o gancho para o **Capítulo 0 — A Fundação**, onde revelarei a anatomia exata desse sistema de contenção.
-
-O tutorial da empolgação acabou. A engenharia de verdade começou agora.
-
-👉 Leia o artigo completo aqui: [Link do artigo]
+---
+#EngenhariaDeSoftware #InteligenciaArtificial #AIEngineering #AgentesDeIA #GovernancaAgente #DesenvolvimentoDeSoftware #TechLeadership

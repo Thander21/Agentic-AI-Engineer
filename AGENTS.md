@@ -64,6 +64,16 @@ A produção textual é centralizada no agente **`editorial`** (`.aiox-core/deve
   - **Para Estudos:** `@education` (Wiggins / Sweller / Merrill) para didática do livro, `@deep-research` para pesquisas primárias e `@dispatch` para arquitetura agêntica e DAGs.
 - Não crie pareceres burocráticos ou comitês artificiais de IAs. Use o ciclo direto de valor: elicitação/briefing → enriquecimento do anexo → redação → revisão dos 4 pilares → refinamento → leitura autoral.
 
+### 4.1. Regras para Chamadas de Redes Sociais (LinkedIn)
+- **Nunca resumir o artigo:** As chamadas para redes (`chamada-linkedin.md`) NUNCA devem ser resumos, sinopses ou listas tópicas do artigo. Elas devem ser textos novos, magnéticos e provocativos, construindo uma reflexão autoral independente sobre a dor, o paradoxo ou a decisão de engenharia, gerando curiosidade visceral para a leitura do artigo completo.
+
+### 4.2. Regras para Prompts de Imagens e Identidade Visual
+- **Tema Obrigatório — Fantasia Medieval:** O universo narrativo do projeto é estritamente **Fantasia Medieval RPG / Isekai ("Reencarnei no Reino dos Agentes")**. **NUNCA** gerar estética de ficção científica (sci-fi), cyberpunk, neon espacial ou futurismo digital. Todo conceito tecnológico deve ser metaforizado no imaginário medieval épico: masmorras de pedra, forjas ancestrais, tochas rústicas, pergaminhos com selos reais de cera, grimórios de couro e barreiras/campos de força rúnicos.
+- **Consistência Obrigatória do Protagonista:** Sempre manter a descrição detalhada e as características visuais do **mesmo personagem** (o protagonista artesão-mago/engenheiro medieval) utilizado como referência nas imagens anteriores da campanha, assegurando identidade contínua entre as publicações.
+- **Diferenciação Capa vs. Stub (Open Graph):**
+  - **Capa do Artigo (Hero Image - 16:9):** Cena panorâmica imersiva e narrativa, mostrando o protagonista em ação na forja/masmorra.
+  - **Stub Social / Open Graph (LinkedIn Link Preview - 1.91:1 / 1200x630):** Composição centralizada de alto impacto visual e forte contraste para parar o scroll no feed mobile, sem textos pequenos que fiquem ilegíveis, focando no símbolo do domo/escudo de força arcano.
+
 ## 5. Limites antes de agir
 
 - **Elicitação obrigatória de vivência:** para qualquer texto da Jornada do Herói ou relatos biográficos, é estritamente proibido redigir (`*write`) ou gerar publicações antes de rodar o levantamento (`*interview`) com o autor e enriquecer o template da etapa (`NN-texto-anexo.md`). A matéria-prima está na vivência do autor. Não preencha lacunas de fatos, sentimentos ou acontecimentos por inferência da IA.

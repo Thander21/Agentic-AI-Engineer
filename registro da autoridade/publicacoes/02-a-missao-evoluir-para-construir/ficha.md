@@ -2,7 +2,7 @@
 
 **ID da publicação:** PUB-003 (artigo) e PUB-004 (chamada)  
 **Origem:** [Jornada, etapa 02](<../../Template jornada do heroi/02-a-missao-evoluir-para-construir.md>) · [Anexo 02 com levantamento investigativo](<../../Template jornada do heroi/02-texto-anexo.md#levantamento-investigativo>)  
-**Peças entregues:** [artigo.md](artigo.md) (r04 - clímax da quebra de layout, harness e campo de força) · [chamada-linkedin.md](chamada-linkedin.md) (r03)  
+**Peças entregues:** [artigo.md](artigo.md) (r04 - clímax da quebra de layout, harness e campo de força) · [chamada-linkedin.md](chamada-linkedin.md) (r04 - autoral magnética) · [prompts-imagens.md](prompts-imagens.md) (capa 16:9 e stub LinkedIn 1.91:1)  
 **Acompanhamento:** [Índice de Publicações](../../PUBLICACOES.md) · Governança AIOX via [AGENTS.md](../../../AGENTS.md)  
 **Estado:** Artigo e chamada consolidados com o clímax do embate com a IA (quebra de regras fiscais por ajuste de layout), nascimento do harness e das 9 validações ("campo de força"), estabelecendo o gancho definitivo para o Capítulo 0 (A Fundação) e Etapa 03.
 

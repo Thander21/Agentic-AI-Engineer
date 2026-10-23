@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "56679d6f15f67d25",
+        "id": "c0c39678de175544",
         "type": "tabs",
         "children": [
           {
-            "id": "7fdd46cc365240f8",
+            "id": "fe4a5a724063fe8b",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Nova aba"
+              "icon": "lucide-git-fork",
+              "title": "Visualização em gráfico"
             }
           }
         ]
@@ -184,8 +184,9 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "7fdd46cc365240f8",
+  "active": "fe4a5a724063fe8b",
   "lastOpenFiles": [
+    "ferramentas de estudo/SDD-TDDkit/docs/Specs/concluidas/01-instalador-modo-agente/verify.md",
     "ferramentas de estudo/SDD-TDDkit/docs/Specs/changes/08-endurecer-frase-aprovacao/origem/08 - Endurecer frase de aprovacao.md",
     "ferramentas de estudo/SDD-TDDkit/docs/Specs/changes/08-endurecer-frase-aprovacao/origem",
     "ferramentas de estudo/SDD-TDDkit/docs/Specs/changes/08-endurecer-frase-aprovacao",
@@ -220,7 +221,6 @@
     "spec editorial/historico/2026-10-16-antes-dos-escopos-de-ferramentas/AGENTS.md",
     "spec editorial/historico/2026-10-16-antes-do-mapa-de-uso-dos-estudos/PRESERVACAO.md",
     "spec editorial/historico/2026-10-16-antes-do-readme-organizacao-final/PRESERVACAO.md",
-    "spec editorial/historico/2026-10-16-antes-do-mapa-de-uso-do-registro/PRESERVACAO.md",
-    "README.md"
+    "spec editorial/historico/2026-10-16-antes-do-mapa-de-uso-do-registro/PRESERVACAO.md"
   ]
 }
